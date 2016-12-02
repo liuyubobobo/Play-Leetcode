@@ -7,6 +7,7 @@
 #include <vector>
 #include <unordered_map>
 #include <cassert>
+#include <stdexcept>
 
 using namespace std;
 
@@ -59,7 +60,7 @@ public:
             table.insert( pair<int,int>(nums[i], i) );
         }
 
-        throw "the input has no solution";
+        throw invalid_argument("the input has no solution");
     }
 };
 

@@ -6,6 +6,7 @@
 #include <iostream>
 #include <vector>
 #include <cassert>
+#include <stdexcept>
 
 using namespace std;
 
@@ -49,7 +50,7 @@ public:
                     return vector<int>(res, res + sizeof(res)/sizeof(int));
                 }
 
-        throw "the input has no solution";
+        throw invalid_argument("the input has no solution");
     }
 };
 
