@@ -64,7 +64,7 @@ public:
     // Find if there exists any pair of numbers which sum is equal to the value.
     bool find(int value) {
 
-        for( auto iter = numbers.begin() ; iter != numbers.end() ; iter ++ ){
+        for( unordered_map<int,int>::iterator iter = numbers.begin() ; iter != numbers.end() ; iter ++ ){
             int num = iter->first;
             if( numbers.find(value - num)  != numbers.end() ){
                 if( value - num == num && numbers[num] == 1 )
