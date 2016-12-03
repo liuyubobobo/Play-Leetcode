@@ -36,7 +36,7 @@ using namespace std;
  * Using this way, we don't need to see whether the triplet is a repeated one
  *
  * Time Complexity: O(n^2)
- * Space Complexity: O(n)
+ * Space Complexity: O(n^2)
  *
  * It's a classic problem: https://en.wikipedia.org/wiki/3SUM
  ************************************************************************************************/

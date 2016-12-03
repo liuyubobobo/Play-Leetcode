@@ -42,7 +42,7 @@ using namespace std;
  * Pay attention when all the numbers in a triplet are the same
  *
  * Time Complexity: O(n^2)
- * Space Complexity: O(n)
+ * Space Complexity: O(n^2)
  *
  * This method will be TLE!
  ************************************************************************************************/
