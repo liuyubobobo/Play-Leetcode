@@ -33,7 +33,7 @@ using namespace std;
  * Using Two Pointers
  *
  * Time Complexity:  O(s)
- * Space Complexity: O(s)
+ * Space Complexity: O(1)
  ******************************************************************************/
 
 class Solution {
