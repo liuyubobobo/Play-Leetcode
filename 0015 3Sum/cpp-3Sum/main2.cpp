@@ -30,13 +30,14 @@ using namespace std;
 
 /// Solution 2
 /***********************************************************************************************
+ * Using two pointer technique
  * Sort the array first.
  * For every different number a, try to find a pair (b, c), which a + b + c  == 0
  *
  * Using this way, we don't need to see whether the triplet is a repeated one
  *
  * Time Complexity: O(n^2)
- * Space Complexity: O(n^2)
+ * Space Complexity: O(n)
  *
  * It's a classic problem: https://en.wikipedia.org/wiki/3SUM
  ************************************************************************************************/
