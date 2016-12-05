@@ -30,7 +30,7 @@ using namespace std;
 /**************************************************************************************
  * Using hashtable to check every row, column and block.
  *
- * Time Complexity: O(nlogn) + O(n^2)
+ * Time Complexity: O(9*9)
  * Space Complexity: O(1)
  **************************************************************************************/
 
