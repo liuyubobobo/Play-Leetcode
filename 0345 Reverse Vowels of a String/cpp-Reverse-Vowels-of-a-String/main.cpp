@@ -1,10 +1,11 @@
-/// Source : https://leetcode.com/problems/move-zeroes/
+/// Source : https://leetcode.com/problems/reverse-vowels-of-a-string/
 /// Author : liuyubobobo
 /// Time   : 2016-12-06
 
 
 #include <iostream>
 #include <vector>
+#include <string>
 #include <cassert>
 #include <stdexcept>
 
@@ -12,19 +13,19 @@ using namespace std;
 
 
 /// Problem
-/*******************************************************************
+/******************************************************************************************
  *
- * Given an array nums,
- * write a function to move all 0's to the end of it
- * while maintaining the relative order of the non-zero elements.
+ * Write a function that takes a string as input and reverse only the vowels of a string.
  *
- * For example, given nums = [0, 1, 0, 3, 12],
- * after calling your function, nums should be [1, 3, 12, 0, 0].
+ * Example 1:
+ * Given s = "hello", return "holle".
+ *
+ * Example 2:
+ * Given s = "leetcode", return "leotcede".
  *
  * Note:
- * - You must do this in-place without making a copy of the array.
- * - Minimize the total number of operations.
- ********************************************************************/
+ * The vowels does not include the letter "y".
+ *******************************************************************************************/
 
 
 /// Solution
@@ -37,28 +38,47 @@ using namespace std;
 
 class Solution {
 public:
-    void moveZeroes(vector<int>& nums) {
+    string reverseVowels(string s) {
 
-        int j = 0;
-        for( int i = 0 ; i < nums.size() ; i ++ )
-            if( nums[i] ){
-                if( i != j )
-                    swap( nums[j] , nums[i] );
-                j ++;
-            }
+        int i = nextVowelIndex( s , 0 );
+        int j = preVowelIndex( s , s.size() - 1 );
+        while( i < j ){
+            swap( s[i] , s[j] );
+            i = nextVowelIndex( s , i + 1 );
+            j = preVowelIndex( s , j - 1 );
+        }
 
+        return s;
+    }
+
+private:
+    int nextVowelIndex( const string &s , int index ){
+
+        for( int i = index ; i < s.size() ; i ++ )
+            if( isVowel(s[i]) )
+                return i;
+        return s.size();
+    }
+
+    int preVowelIndex( const string &s , int index ){
+
+        for( int i = index ; i >= 0 ; i -- )
+            if( isVowel(s[i]) )
+                return i;
+        return -1;
+    }
+
+    bool isVowel( char c ){
+
+        char lowerc = tolower(c);
+        return lowerc == 'a' || lowerc == 'e' || lowerc == 'i' || lowerc == 'o' || lowerc == 'u';
     }
 };
 
 int main() {
 
-    const int nums[] = {0, 1, 0, 3, 12};
-    vector<int> nums_vec( nums, nums + sizeof(nums)/sizeof(int) );
-
-    Solution().moveZeroes( nums_vec );
-    for( int i = 0 ; i < nums_vec.size() ; i ++ )
-        cout<<nums_vec[i]<<" ";
-    cout<<endl;
+    cout<<Solution().reverseVowels("hello")<<endl;
+    cout<<Solution().reverseVowels("leetcode")<<endl;
 
     return 0;
 }
