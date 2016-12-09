@@ -47,17 +47,17 @@ public:
         assert( nums.size() >= 2 );
 
         unordered_map<int,int> table;
-        table.insert( pair<int,int>(nums[0], 0) );
+        table[nums[0]] = 0;
 
         for( int i = 1 ; i < nums.size() ; i ++ ){
 
             int complement = target - nums[i];
             if( table.find(complement) != table.end() ){
-                const int res[] = {i, table[target-nums[i]]};
-                return vector<int>(res, res + sizeof(res)/sizeof(int));
+                const int res[] = {i, table[complement]};
+                return vector<int>(res, res + 2);
             }
 
-            table.insert( pair<int,int>(nums[i], i) );
+            table[nums[i]] = i;
         }
 
         throw invalid_argument("the input has no solution");

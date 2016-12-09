@@ -47,12 +47,12 @@ public:
 
         unordered_map<int,int> table;
         for( int i = 0 ; i < nums.size() ; i ++ )
-            table.insert( pair<int,int>(nums[i], i ) );
+            table[nums[i]] = i;
 
         for( int i = 0 ; i < nums.size() ; i ++ )
             if( table.find(target-nums[i]) != table.end() && table[target-nums[i]] != i ){
                 const int res[] = {i, table[target-nums[i]]};
-                return vector<int>(res, res + sizeof(res)/sizeof(int));
+                return vector<int>(res, res + 2);
             }
 
         throw invalid_argument("the input has no solution");
