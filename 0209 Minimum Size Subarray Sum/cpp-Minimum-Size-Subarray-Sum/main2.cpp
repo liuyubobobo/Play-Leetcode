@@ -39,7 +39,7 @@ using namespace std;
  * for every i, we need to search sum[l] where l > i,
  * make sum[l] is the smallest one larger than or equal to sums[i] + s
  *
- * Time Complexity: O(n)
+ * Time Complexity: O(nlogn)
  * Space Complexity: O(n)
  ************************************************************************************************/
 
