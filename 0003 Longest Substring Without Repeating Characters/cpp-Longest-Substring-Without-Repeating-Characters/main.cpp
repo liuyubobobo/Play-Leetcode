@@ -5,6 +5,7 @@
 
 #include <iostream>
 #include <vector>
+#include <string>
 #include <cassert>
 #include <stdexcept>
 
@@ -41,39 +42,42 @@ class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
 
-        // assert no other characters except lower case alphabeta
+        if( s.size() == 0 )
+            return 0;
 
-        int hashtable[26] = {0};
+        // The character set include more than just lower case characters
+        int hashtable[256] = {0};
 
-        int l = 0, r;
-        int res = 0;
+        int l = 0, r = 1;
+        hashtable[s[l]] += 1;
+        int res = 1;
         while( l < s.size() ){
 
-            if( l > 0 ){
-                for( ; l)
+            if( r == s.size() || hashtable[s[r]] == 1 ){
+                res = max( res , r-l );
+                while( l < s.size() ){
+                    assert( hashtable[s[l]] == 1 );
+                    hashtable[s[l]] --;
+                    l ++;
+                    if( r < s.size() && s[l-1] == s[r] )
+                        break;
+                }
             }
-
-            for( r = l ; r < s.size() && hashtable[s[r]-'a'] == 0 ; r ++ )
-                hashtable[s[r]-'a'] += 1;
-            //s[l...r) is a substring without repeat characters
-            res = max( res , r-l );
-
-            l ++;
+            else{
+                hashtable[s[r]] ++;
+                r ++;
+            }
         }
+
+        return res;
     }
 };
 
 int main() {
 
-    int nums[] = {-1, 0, 1, 2, -1, -4};
-    vector<int> nums_vec = vector<int>( nums , nums + sizeof(nums)/sizeof(int));
-
-    vector<vector<int>> res = Solution().threeSum( nums_vec );
-    for( int i = 0 ; i < res.size() ; i ++ ){
-        for( int j = 0 ; j < res[i].size() ; j ++ )
-            cout<<res[i][j]<<" ";
-        cout<<endl;
-    }
+    cout<<Solution().lengthOfLongestSubstring("abcabcbb")<<endl;
+    cout<<Solution().lengthOfLongestSubstring("bbbbb")<<endl;
+    cout<<Solution().lengthOfLongestSubstring("pwwkew")<<endl;
 
     return 0;
 }
