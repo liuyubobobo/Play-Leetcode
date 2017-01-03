@@ -32,9 +32,10 @@ using namespace std;
  ********************************************************************************************************/
 
 
-/// Solution 2
+/// Solution 3
 /***********************************************************************************************
- * Using Count Sort
+ * Using 3-way quicksort partition
+ * Only one-pass
  *
  * Time Complexity: O(n)
  * Space Complexity: O(1)
@@ -44,19 +45,22 @@ class Solution {
 public:
     void sortColors(vector<int>& nums) {
 
-        int count[3] = {0, 0, 0};
-        for( int i = 0 ; i < nums.size() ; i ++ ){
-            assert( nums[i] >= 0 && nums[i] <= 2 );
-            count[ nums[i] ] += 1;
+        int i = 0;  // nums[0..<i) == 0
+        int j = 0;  // nums[i..<j) == 1
+        int k = nums.size(); // nums[k..<n) == 2
+
+        while( j < k ){
+
+            if( nums[j] == 1 )
+                j++;
+            else if( nums[j] == 0 )
+                swap( nums[i++] , nums[j++] );
+            else{ // nums[j] == 2
+                //assert( nums[j] == 2 );
+                swap( nums[j] , nums[k-1] );
+                k --;
+            }
         }
-
-        for( int i = 1 ; i < 3 ; i ++ )
-            count[i] += count[i-1];
-
-        int j = 0;
-        for( int i = 0 ; i < 3 ; i ++ )
-            for( ; j < count[i] ; j ++ )
-                nums[j] = i;
 
         return;
     }

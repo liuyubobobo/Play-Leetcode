@@ -34,9 +34,9 @@ using namespace std;
 
 /// Solution 1
 /***********************************************************************************************
- * Using Count Sort
+ * Just sort
  *
- * Time Complexity: O(n)
+ * Time Complexity: O(nlogn)
  * Space Complexity: O(1)
  ************************************************************************************************/
 
@@ -44,19 +44,7 @@ class Solution {
 public:
     void sortColors(vector<int>& nums) {
 
-        int count[3] = {0, 0, 0};
-        for( int i = 0 ; i < nums.size() ; i ++ ){
-            assert( nums[i] >= 0 && nums[i] <= 2 );
-            count[ nums[i] ] += 1;
-        }
-
-        for( int i = 1 ; i < 3 ; i ++ )
-            count[i] += count[i-1];
-
-        int j = 0;
-        for( int i = 0 ; i < 3 ; i ++ )
-            for( ; j < count[i] ; j ++ )
-                nums[j] = i;
+        sort( nums.begin(), nums.end() );
 
         return;
     }
