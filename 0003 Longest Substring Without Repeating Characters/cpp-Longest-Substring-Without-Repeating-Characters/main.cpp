@@ -45,28 +45,19 @@ public:
         if( s.size() == 0 )
             return 0;
 
-        // The character set include more than just lower case characters
-        int hashtable[256] = {0};
+        int freq[256] = {0};
 
-        int l = 0, r = 1;
-        hashtable[s[l]] += 1;
-        int res = 1;
+        int l = 0, r = -1;
+        int res = 0;
+
         while( l < s.size() ){
 
-            if( r == s.size() || hashtable[s[r]] == 1 ){
-                res = max( res , r-l );
-                while( l < s.size() ){
-                    assert( hashtable[s[l]] == 1 );
-                    hashtable[s[l]] --;
-                    l ++;
-                    if( r < s.size() && s[l-1] == s[r] )
-                        break;
-                }
-            }
-            else{
-                hashtable[s[r]] ++;
-                r ++;
-            }
+            if( r + 1 < s.size() && ( r == -1 || freq[s[r+1]] == 0 ) )
+                freq[s[++r]] ++;
+            else    //r已经到头 || freq[s[r+1]] == 1
+                freq[s[l++]] --;
+
+            res = max( res , r-l+1);
         }
 
         return res;
