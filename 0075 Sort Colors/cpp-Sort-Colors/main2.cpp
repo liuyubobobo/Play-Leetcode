@@ -40,6 +40,30 @@ using namespace std;
  * Space Complexity: O(1)
  ************************************************************************************************/
 
+/**
+class Solution {
+public:
+    void sortColors(vector<int>& nums) {
+
+        int count[3] = {0, 0, 0};
+        for( int i = 0 ; i < nums.size() ; i ++ ){
+            assert( nums[i] >= 0 && nums[i] <= 2 );
+            count[ nums[i] ] += 1;
+        }
+
+        int index = 0;
+        for( int i = 0 ; i < count[0] ; i ++ )
+            nums[index++] = 0;
+        for( int i = 0 ; i < count[1] ; i ++ )
+            nums[index++] = 1;
+        for( int i = 0 ; i < count[2] ; i ++ )
+            nums[index++] = 2;
+
+        return;
+    }
+};
+*/
+
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
