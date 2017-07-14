@@ -1,3 +1,4 @@
+######################
 # OS generated files #
 ######################
 .DS_Store
@@ -7,3 +8,21 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+#####################
+# Java Ignore files #
+#####################
+*.class
+
+#####################
+# C++ Ignore files #
+#####################
+*.gch
+*.out
+
+##########################
+# Jetbrains Ignore files #
+##########################
+*.iml
+.idea/
+
