@@ -1,11 +1,10 @@
-/// Created by liuyubobobo on 1/26/17.
+/// Created by liuyubobobo on 7/17/17.
 /// Leetcode 149. Max Points on a Line
 /// https://leetcode.com/problems/max-points-on-a-line/
-/// Last Update: 7/17/2017
 
 #include <iostream>
 #include <vector>
-#include <unordered_map>
+#include <map>
 
 using namespace std;
 
@@ -14,9 +13,8 @@ using namespace std;
  * For each point, iterate all other points
  * Using the hash table(which is unordered_map in this case) to record all the slope
  *
- * Since unordered_map can not use pair as the key natively,
- * we transform every pair into a string as the key value of unordered_map,
- * which maybe quite slow, but can also get Accepted in this problem.
+ * In this code, we use map instead of unordered_map,
+ * which can use pair as key value natively, and make the performance batter.
  *
  * Time Complexity:  O(n^2)
  * Space Complexity: O(n)
@@ -41,18 +39,18 @@ public:
         int res = 1;
         for( int i = 0 ; i < points.size() ; i ++ ){
 
-            unordered_map<string,int> record;
+            map<pair<int,int>,int> record;
             int samePoint = 0;
             for( int j = 0 ; j < points.size() ; j ++ ){
 
                 if( points[i].x == points[j].x && points[i].y == points[j].y )
                     samePoint ++;
                 else
-                    record[getPairStr(slope(points[j], points[i]))]++;
+                    record[slope(points[j], points[i])]++;
             }
 
             res = max(res, samePoint);    // In case the record is empty and all the points are in the same point.
-            for( unordered_map<string,int>::iterator iter = record.begin() ; iter != record.end() ; iter ++ )
+            for( map<pair<int,int>,int>::iterator iter = record.begin() ; iter != record.end() ; iter ++ )
                 res = max( res , iter->second + samePoint );
         }
 
@@ -88,10 +86,6 @@ private:
             return b;
 
         return gcd( b , a%b );
-    }
-
-    string getPairStr( const pair<int,int> p){
-        return to_string(p.first) + "/" + to_string(p.second);
     }
 };
 
