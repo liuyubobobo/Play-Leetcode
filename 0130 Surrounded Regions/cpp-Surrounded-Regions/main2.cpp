@@ -1,6 +1,6 @@
-// Created by liuyubobobo on 7/13/17.
-// Leetcode 130. Surrounded Regions
-// https://leetcode.com/problems/surrounded-regions/#/description
+/// Created by liuyubobobo on 7/13/17.
+/// Leetcode 130. Surrounded Regions
+/// https://leetcode.com/problems/surrounded-regions/#/description
 
 /***
  * This version of code uses BFS instead of DFS to solve the problem.
