@@ -1,19 +1,9 @@
-/// Source : https://leetcode.com/problems/4sum/
-/// Author : liuyubobobo
-/// Time   : 2016-12-06
+//
+// Created by liuyubobobo on 9/27/17.
+//
 
-/***********************************************************************************************
- * Using two pointer technique
- *
- * Sort the array first.
- * For every different number a and b, try to find a pair (c, d), which a + b + c + d == 0
- *
- * Using this way, we don't need to see whether the triplet is a repeated one
- *
- * Time Complexity: O(nlogn) + O(n^3)
- * Space Complexity: O(1)
- ************************************************************************************************/
-
+#ifndef CPP_4SUM_SOLUTION1_H
+#define CPP_4SUM_SOLUTION1_H
 
 #include <iostream>
 #include <vector>
@@ -22,7 +12,7 @@
 
 using namespace std;
 
-class Solution {
+class Solution1 {
 public:
     vector<vector<int>> fourSum(vector<int>& nums, int target) {
 
@@ -90,18 +80,4 @@ private:
     }
 };
 
-int main() {
-
-    int nums[] = {1, 0, -1, 0, -2, 2};
-    vector<int> nums_vec = vector<int>( nums , nums + sizeof(nums)/sizeof(int));
-    int target = 0;
-
-    vector<vector<int>> res = Solution().fourSum( nums_vec , target );
-    for( int i = 0 ; i < res.size() ; i ++ ){
-        for( int j = 0 ; j < res[i].size() ; j ++ )
-            cout<<res[i][j]<<" ";
-        cout<<endl;
-    }
-
-    return 0;
-}
+#endif //CPP_4SUM_SOLUTION1_H

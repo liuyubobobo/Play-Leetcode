@@ -1,17 +1,16 @@
 /// Source : https://leetcode.com/problems/4sum/
 /// Author : liuyubobobo
-/// Time   : 2016-12-06
+/// Time   : 2017-09-27
 
 /***********************************************************************************************
- * Using two pointer technique
+ * Using hash table
  *
  * Sort the array first.
+ * Store every different c + d == t first
  * For every different number a and b, try to find a pair (c, d), which a + b + c + d == 0
  *
- * Using this way, we don't need to see whether the triplet is a repeated one
- *
- * Time Complexity: O(nlogn) + O(n^3)
- * Space Complexity: O(1)
+ * Time Complexity: O(nlogn) + O(n^2) + O(n^2*logn)
+ * Space Complexity: O(n^2)
  ************************************************************************************************/
 
 
@@ -19,6 +18,8 @@
 #include <vector>
 #include <cassert>
 #include <stdexcept>
+#include <unordered_map>
+#include <algorithm>
 
 using namespace std;
 
@@ -34,37 +35,32 @@ public:
 
         sort( nums.begin() , nums.end() );
 
+        unordered_map<int, vector<pair<int, int>>> hashtable;
+        for(int i = 0 ; i < n - 1 ; i = nextNumberIndex(nums, i))
+            for(int j = i + 1 ; j < n ; j = nextNumberIndex(nums, j))
+                hashtable[nums[i]+nums[j]].push_back(make_pair(nums[i], nums[j]));
+
         vector<int> one_res(4, 0);
         for( int i = 0 ; i <= n - 4 ; i = nextNumberIndex(nums, i) ) {
 
             for (int j = i + 1; j <= n - 3; j = nextNumberIndex(nums, j)) {
 
                 int t = target - nums[i] - nums[j];
-
                 if( nums[j+1] + nums[j+2] > t || nums[n-1] + nums[n-2] < t)
                     continue;
 
-                int p1 = j + 1;
-                int p2 = nums.size() - 1;
+                if(hashtable.find(t) == hashtable.end())
+                    continue;
 
-                if (p1 >= p2)
-                    break;
+                one_res[0] = nums[i];
+                one_res[1] = nums[j];
 
-                while (p1 < p2) {
-                    if (nums[p1] + nums[p2] == t) {
-                        one_res[0] = nums[i];
-                        one_res[1] = nums[j];
-                        one_res[2] = nums[p1];
-                        one_res[3] = nums[p2];
-                        res.push_back(one_res);
-
-                        p1 = nextNumberIndex(nums, p1);
-                        p2 = preNumberIndex(nums, p2);
-                    }
-                    else if (nums[p1] + nums[p2] < t)
-                        p1 = nextNumberIndex(nums, p1);
-                    else // nums[p1] + nums[p2] > t
-                        p2 = preNumberIndex(nums, p2);
+                vector<pair<int,int>>::iterator iter =
+                        lower_bound(hashtable[t].begin(), hashtable[t].end(), make_pair(nums[j+1], nums[j+1]));
+                for(; iter != hashtable[t].end() ; iter ++){
+                    one_res[2] = iter->first;
+                    one_res[3] = iter->second;
+                    res.push_back(one_res);
                 }
             }
         }
