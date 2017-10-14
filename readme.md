@@ -30,4 +30,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 
 | ID | Problem | C++ | Java |
 | --- | --- | :---: | :---: |
+| 079 | [Word Search](https://leetcode.com/problems/word-search/description/) | [C++](0079-Word-Search/cpp-0079/) | [Java](0079-Word-Search/java-0079/) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](0283-Move-Zeroes/cpp-0283/) | [Java](0283-Move-Zeroes/java-0283/src/) |
