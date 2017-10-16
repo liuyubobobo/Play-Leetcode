@@ -2,9 +2,9 @@
 /// Author : liuyubobobo
 /// Time   : 2017-10-14
 
-// 回溯法
-// 时间复杂度: O(m*n*m*n)
-// 空间复杂度: O(m*n)
+// Backtrack
+// Time Complexity: O(m*n*m*n)
+// Space Complexity: O(m*n)
 public class Solution {
 
     private int d[][] = {{-1,0},{0,1},{1,0},{0,-1}};
@@ -33,7 +33,7 @@ public class Solution {
         return x >= 0 && x < m && y >= 0 && y < n;
     }
 
-    // 从board[startx][starty]开始, 寻找word[index...word.size())
+    // start from board[startx][starty], find word[index...word.size())
     private boolean searchWord( char[][] board, String word, int index,
                      int startx, int starty ){
 
@@ -43,7 +43,6 @@ public class Solution {
 
         if( board[startx][starty] == word.charAt(index) ){
             visited[startx][starty] = true;
-            // 从startx, starty出发,向四个方向寻
             for( int i = 0 ; i < 4 ; i ++ ){
                 int newx = startx + d[i][0];
                 int newy = starty + d[i][1];

@@ -8,9 +8,9 @@
 
 using namespace std;
 
-// 回溯法
-// 时间复杂度: O(m*n*m*n)
-// 空间复杂度: O(m*n)
+// Backtrack
+// Time Complexity: O(m*n*m*n)
+// Space Complexity: O(m*n)
 class Solution {
 
 private:
@@ -22,7 +22,7 @@ private:
         return x >= 0 && x < m && y >= 0 && y < n;
     }
 
-    // 从board[startx][starty]开始, 寻找word[index...word.size())
+    // start from board[startx][starty], find word[index...word.size())
     bool searchWord( const vector<vector<char>> &board, const string& word, int index,
                     int startx, int starty ){
 
@@ -32,7 +32,6 @@ private:
 
         if( board[startx][starty] == word[index] ){
             visited[startx][starty] = true;
-            // 从startx, starty出发,向四个方向寻
             for( int i = 0 ; i < 4 ; i ++ ){
                 int newx = startx + d[i][0];
                 int newy = starty + d[i][1];
