@@ -32,3 +32,6 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | --- | --- | :---: | :---: |
 | 079 | [Word Search](https://leetcode.com/problems/word-search/description/) | [C++](0079-Word-Search/cpp-0079/) | [Java](0079-Word-Search/java-0079/) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](0283-Move-Zeroes/cpp-0283/) | [Java](0283-Move-Zeroes/java-0283/src/) |
+| 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) | [C++](0696-Count-Binary-Substrings/cpp-0696/) | |
+| 697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/) | [C++](0697-Degree-of-an-Array/cpp-0697/) | |
+| 698 | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/) | [C++](0698-Partition-to-K-Equal-Sum-Subsets/cpp-0698/) | [Java](0698-Partition-to-K-Equal-Sum-Subsets/java-0698/) |
