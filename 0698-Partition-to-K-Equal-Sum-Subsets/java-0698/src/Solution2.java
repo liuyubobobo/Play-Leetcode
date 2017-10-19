@@ -1,18 +1,21 @@
 /// Source : https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/
 /// Author : liuyubobobo
-/// Time   : 2017-10-15
+/// Time   : 2017-10-19
 
 import java.util.*;
 import java.util.stream.IntStream;
 
-// Time Complexity: O((2^len(nums)) * len(nums) * k)
-// Space Complexity: O((2^len(nums)) * k)
-public class Solution {
+/// Memory Search
+/// We don't need to care about how many subset we didn't fill
+///
+/// Time Complexity: O((2^len(nums)) * len(nums))
+/// Space Complexity: O((2^len(nums)))
+public class Solution2 {
 
     private int[] nums;
     private int subsum;
-    private boolean[][] dp;
-    private boolean[][] visited;
+    private boolean[] dp;
+    private boolean[] visited;
 
     public boolean canPartitionKSubsets(int[] nums, int k) {
 
@@ -29,33 +32,33 @@ public class Solution {
 
         int len = 1<<nums.length;
 
-        this.dp = new boolean[len][k+1];
-        this.visited = new boolean[len][k+1];
+        this.dp = new boolean[len];
+        this.visited = new boolean[len];
 
-        return solve(0, k);
+        return solve(0);
     }
 
-    private boolean solve(int state, int left){
+    private boolean solve(int state){
 
-        if(left == 0)
+        if(state == (1<<nums.length) - 1)
             return true;
 
-        if(visited[state][left])
-            return dp[state][left];
+        if(visited[state])
+            return dp[state];
 
-        visited[state][left] = true;
-        return dp[state][left] = findSum(state, 0, subsum, left);
+        visited[state] = true;
+        return dp[state] = findSum(state, 0, subsum);
     }
 
-    private boolean findSum(int state, int startIndex, int todo, int left){
+    private boolean findSum(int state, int startIndex, int todo){
 
         if(todo == 0)
-            return solve(state, left-1);
+            return solve(state);
 
         for(int i = startIndex; i < nums.length ; i ++)
             if(todo >= nums[i] ){
                 if(((state & (1<<i)) == 0) &&
-                        findSum(state|(1<<i), i+1, todo-nums[i], left))
+                        findSum(state|(1<<i), i+1, todo-nums[i]))
                     return true;
             }
             else

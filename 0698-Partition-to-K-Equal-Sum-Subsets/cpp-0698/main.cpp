@@ -70,9 +70,12 @@ private:
             return solve(nums, status, left-1);
 
         for(int i = startIndex; i < nums.size() ; i ++)
-            if(todo >= nums[i] && (status & (1<<i)) == 0)
-                if(findSum(nums, status|(1<<i), i+1, todo-nums[i], left))
+            if(todo >= nums[i]){
+                if((status & (1<<i)) == 0 && findSum(nums, status|(1<<i), i+1, todo-nums[i], left))
                     return true;
+            }
+            else
+                break;
 
         return false;
     }
