@@ -8,6 +8,8 @@
 using namespace std;
 
 /// Memory Search
+/// calculate the max ASCII sum of common sequence
+///
 /// Time Complexity: O(len(s1) * len(s2))
 /// Space Complexity:  O(len(s1) * len(s2))
 class Solution {
