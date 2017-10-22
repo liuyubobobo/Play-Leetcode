@@ -47,3 +47,4 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 698 | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/) | [C++](0698-Partition-to-K-Equal-Sum-Subsets/cpp-0698/) | [Java](0698-Partition-to-K-Equal-Sum-Subsets/java-0698/src/) |
 | | | | |
 | 711 | [Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/description/) | [C++](0711-Number-of-Distinct-Islands-II/cpp-0711/) | |
+| 712 | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/) | [C++](0712-Minimum-ASCII-Delete-Sum-for-Two-Strings/cpp-0712/) | |
