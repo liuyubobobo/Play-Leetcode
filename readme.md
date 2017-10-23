@@ -34,6 +34,9 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | |
 | 079 | [Word Search](https://leetcode.com/problems/word-search/description/) | [C++](0079-Word-Search/cpp-0079/) | [Java](0079-Word-Search/java-0079/src/) |
 | | | | |
+| 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solution/) | [C++](0121-Best-Time-to-Buy-and-Sell-Stock/cpp-0121/) | [Java]() | 
+| 0122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [C++](0122-Best-Time-to-Buy-and-Sell-Stock-II/cpp-0122/) | |
+| | | | |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](0283-Move-Zeroes/cpp-0283/) | [Java](0283-Move-Zeroes/java-0283/src/) |
 | | | | |
 | 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/) | [C++](0386-Lexicographical-Numbers/cpp-0386/) | |
