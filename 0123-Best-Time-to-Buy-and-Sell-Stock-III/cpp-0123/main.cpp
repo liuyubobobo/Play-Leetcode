@@ -7,6 +7,9 @@
 
 using namespace std;
 
+/// Using first and second to trace all the possible transactions
+/// Time Complexity: O(n)
+/// Space Complexity: O(n)
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
@@ -14,6 +17,7 @@ public:
         if(prices.size() == 0)
             return 0;
 
+        // first[i] is the max profit within day[0...i]
         vector<int> first(prices.size(), 0);
         int minPrice = prices[0];
         for(int i = 1 ; i < prices.size() ; i ++){
@@ -25,6 +29,7 @@ public:
 //        for(int i = 0 ; i < first.size() ; i ++)
 //            cout << first[i] << ((i == first.size() - 1) ? "\n" : " ");
 
+        // second[i] is the max profit within day[i...n)
         vector<int> second(prices.size(), 0);
         int maxPrice = prices.back();
         for(int i = prices.size() - 2 ; i >= 0 ; i --){
