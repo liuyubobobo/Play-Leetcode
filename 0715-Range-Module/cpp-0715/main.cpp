@@ -16,7 +16,6 @@ private:
         int left, right;
         bool isTracked;
         bool pure = true;
-//        bool isLazy = false;
         int leftNodeIndex = -1, rightNodeIndex = -1;
 
         Node(int left, int right, bool isTracked){
@@ -69,13 +68,6 @@ private:
                 int rightNodeIndex = tree[treeIndex].rightNodeIndex;
                 setRange(rightNodeIndex, tree[rightNodeIndex].left, tree[rightNodeIndex].right, tracked);
             }
-
-//            if(tree[treeIndex].leftNodeIndex != -1){
-//                assert(tree[treeIndex].rightNodeIndex != -1);
-//                tree[treeIndex].isLazy = true;
-//            }
-//            else
-//                tree[treeIndex].isLazy = false;
 
             return;
         }
@@ -144,15 +136,6 @@ private:
         assert(leftNodeIndex + 1 == rightNodeIndex);
         assert(tree[leftNodeIndex].right == tree[rightNodeIndex].left);
 
-//        if(tree[treeIndex].isLazy){
-//            tree[leftNodeIndex].isTracked = tree[treeIndex].isTracked;
-//            tree[leftNodeIndex].isLazy = true;
-//            tree[rightNodeIndex].isTracked = tree[treeIndex].isTracked;
-//            tree[rightNodeIndex].isLazy = true;
-//
-//            tree[treeIndex].isLazy = false;
-//        }
-
         if(r <= tree[leftNodeIndex].right){
             setRange(leftNodeIndex, l, r, tracked);
         }
@@ -164,8 +147,6 @@ private:
             setRange(rightNodeIndex, tree[rightNodeIndex].left, r, tracked);
         }
 
-        //int leftNodeIndex = tree[treeIndex].leftNodeIndex;
-        //int rightNodeIndex = tree[treeIndex].rightNodeIndex;
         tree[treeIndex].pure = (tree[leftNodeIndex].pure && tree[rightNodeIndex].pure &&
                 tree[leftNodeIndex].isTracked == tree[rightNodeIndex].isTracked);
         if(tree[treeIndex].pure){
