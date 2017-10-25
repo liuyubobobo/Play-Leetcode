@@ -58,3 +58,4 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 712 | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/) | [C++](0712-Minimum-ASCII-Delete-Sum-for-Two-Strings/cpp-0712/) | |
 | 713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/) | [C++](0713-Subarray-Product-Less-Than-K/cpp-0713/) | |
 | 714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) | [C++](0714-Best-Time-to-Buy-and-Sell-Stock-with-Transaction-Fee/cpp-0714/) | |
+| 715 | [Range Module](https://leetcode.com/problems/range-module/description/) | [C++](0715-Range-Module/cpp-0715/) | |
