@@ -42,6 +42,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](0283-Move-Zeroes/cpp-0283/) | [Java](0283-Move-Zeroes/java-0283/src/) |
 | | | | |
+| 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) | [C++](0303/Range-Sum-Query-Immutable/cpp-0303/) | |
+| | | | |
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | [C++](0309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown/cpp-0309/) | |
 | | | | |
 | 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/) | [C++](0386-Lexicographical-Numbers/cpp-0386/) | |
