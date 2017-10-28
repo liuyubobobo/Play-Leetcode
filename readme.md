@@ -44,6 +44,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | |
 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) | [C++](0303/Range-Sum-Query-Immutable/cpp-0303/) | |
 | | | | |
+| 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/description/) | [C++](0307-Range-Sum-Query-Mutable/cpp-0307/) | |
+| | | | |
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | [C++](0309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown/cpp-0309/) | |
 | | | | |
 | 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/) | [C++](0386-Lexicographical-Numbers/cpp-0386/) | |
