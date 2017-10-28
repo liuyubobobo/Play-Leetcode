@@ -47,6 +47,9 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/) | [C++](0386-Lexicographical-Numbers/cpp-0386/) | |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | [C++](0387-First-Unique-Character-in-a-String/cpp-0387/) | |
 | 388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/description/) | [C++](0388-Longest-Absolute-File-Path/cpp-0388/) | |
+| 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | [C++](0389-Find-the-Difference/cpp-0389/) | |
+| 390 | [Elimination Game](https://leetcode.com/problems/elimination-game/description/) | [C++](0390-Elimination-Game/cpp-0390/) | |
+| 391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/description/) | [C++](0391-Perfect-Rectangle/cpp-0391/) | |
 | | | | |
 | 694 | [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/description/) | [C++](0694-Number-of-Distinct-Islands/cpp-0694/) | |
 | 695 | [Max-Area-of-Island](https://leetcode.com/problems/max-area-of-island/description/) | [C++](0695-Max-Area-of-Island/cpp-0695) | |
