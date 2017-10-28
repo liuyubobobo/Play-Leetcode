@@ -56,7 +56,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) | [C++](0696-Count-Binary-Substrings/cpp-0696/) | |
 | 697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/) | [C++](0697-Degree-of-an-Array/cpp-0697/) | |
 | 698 | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/) | [C++](0698-Partition-to-K-Equal-Sum-Subsets/cpp-0698/) | [Java](0698-Partition-to-K-Equal-Sum-Subsets/java-0698/src/) |
-| 699 | [Falling Squares](https://leetcode.com/contest/leetcode-weekly-contest-54/problems/falling-squares/) [缺: 状态压缩模拟, 线段树] | [C++](0699-Falling-Squares/cpp-0699/) | |
+| 699 | [Falling Squares](https://leetcode.com/contest/leetcode-weekly-contest-54/problems/falling-squares/) [缺: 线段树解法] | [C++](0699-Falling-Squares/cpp-0699/) | |
 | | | | |
 | 711 | [Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/description/) | [C++](0711-Number-of-Distinct-Islands-II/cpp-0711/) | |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/) | [C++](0712-Minimum-ASCII-Delete-Sum-for-Two-Strings/cpp-0712/) | |
