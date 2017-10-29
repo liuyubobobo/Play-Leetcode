@@ -9,6 +9,8 @@
 using namespace std;
 
 /// Segment Tree
+/// Time Complexity: O(nlogn)
+/// Space Complexity: O(n)
 class SegmentTree{
 
 private:
