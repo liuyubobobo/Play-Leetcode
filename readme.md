@@ -57,6 +57,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 390 | [Elimination Game](https://leetcode.com/problems/elimination-game/description/) | [C++](0390-Elimination-Game/cpp-0390/) | |
 | 391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/description/)[缺：矩形求交] | [C++](0391-Perfect-Rectangle/cpp-0391/) | |
 | | | | |
+| 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | [C++](0598-Range-Addition-II/cpp-0598/) | |
+| | | | |
 | 694 | [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/description/) | [C++](0694-Number-of-Distinct-Islands/cpp-0694/) | |
 | 695 | [Max-Area-of-Island](https://leetcode.com/problems/max-area-of-island/description/) | [C++](0695-Max-Area-of-Island/cpp-0695) | |
 | 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) | [C++](0696-Count-Binary-Substrings/cpp-0696/) | |
