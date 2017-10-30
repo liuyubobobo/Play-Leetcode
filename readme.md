@@ -47,7 +47,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) | [C++](0303/Range-Sum-Query-Immutable/cpp-0303/) | |
 | | | | |
 | 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/description/)[缺：BIT] | [C++](0307-Range-Sum-Query-Mutable/cpp-0307/) | |
-| | | | |
+| 308 | [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/description/) | [C++](0308-Range-Sum-Query-2D-Mutable/cpp-0308/) | |
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | [C++](0309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown/cpp-0309/) | |
 | | | | |
 | 370 | [Range Addition](https://leetcode.com/problems/range-addition/description/) | [C++](0370-Range-Addition/cpp-0370/) | |
