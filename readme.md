@@ -63,14 +63,14 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | |
 | 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | [C++](0598-Range-Addition-II/cpp-0598/) | |
 | | | | |
-| 694 | [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/description/) | [C++](0694-Number-of-Distinct-Islands/cpp-0694/) | |
+| 694 | [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/description/) [review: hash的方式] | [C++](0694-Number-of-Distinct-Islands/cpp-0694/) | |
 | 695 | [Max-Area-of-Island](https://leetcode.com/problems/max-area-of-island/description/) | [C++](0695-Max-Area-of-Island/cpp-0695) | |
 | 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) | [C++](0696-Count-Binary-Substrings/cpp-0696/) | |
 | 697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/) | [C++](0697-Degree-of-an-Array/cpp-0697/) | |
 | 698 | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/) | [C++](0698-Partition-to-K-Equal-Sum-Subsets/cpp-0698/) | [Java](0698-Partition-to-K-Equal-Sum-Subsets/java-0698/src/) |
 | 699 | [Falling Squares](https://leetcode.com/contest/leetcode-weekly-contest-54/problems/falling-squares/) [缺：线段树；块状链表] | [C++](0699-Falling-Squares/cpp-0699/) | |
 | | | | |
-| 711 | [Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/description/) | [C++](0711-Number-of-Distinct-Islands-II/cpp-0711/) | |
+| 711 | [Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/description/) [review: hash的方式] | [C++](0711-Number-of-Distinct-Islands-II/cpp-0711/) | |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/) | [C++](0712-Minimum-ASCII-Delete-Sum-for-Two-Strings/cpp-0712/) | |
 | 713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/) | [C++](0713-Subarray-Product-Less-Than-K/cpp-0713/) | |
 | 714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) | [C++](0714-Best-Time-to-Buy-and-Sell-Stock-with-Transaction-Fee/cpp-0714/) | |
