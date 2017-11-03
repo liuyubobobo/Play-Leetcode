@@ -70,6 +70,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | |
 | 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | [C++](0598-Range-Addition-II/cpp-0598/) | |
 | | | | |
+| 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | [C++](0674-Longest-Continuous-Increasing-Subsequence/cpp-0674/) | |
+| | | | |
 | 694 | [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/description/) [review: hash的方式] | [C++](0694-Number-of-Distinct-Islands/cpp-0694/) | |
 | 695 | [Max-Area-of-Island](https://leetcode.com/problems/max-area-of-island/description/) | [C++](0695-Max-Area-of-Island/cpp-0695) | |
 | 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) | [C++](0696-Count-Binary-Substrings/cpp-0696/) | |
