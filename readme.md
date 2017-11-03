@@ -38,6 +38,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [C++](0122-Best-Time-to-Buy-and-Sell-Stock-II/cpp-0122/) | |
 | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | [C++](0123-Best-Time-to-Buy-and-Sell-Stock-III/cpp-0123/) | |
 | | | | |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [C++](0141-Linked-List-Cycle/cpp-0141/) | |
+| | | | |
 | 188 | [Best-Time-to-Buy-and-Sell-Stock-IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | [C++](0188-Best-Time-to-Buy-and-Sell-Stock-IV/cpp-0188/) | |
 | | | | |
 | 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/) | [C++](0218-The-Skyline-Problem/cpp-0218/) | |
