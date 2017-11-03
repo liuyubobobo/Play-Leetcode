@@ -39,6 +39,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | [C++](0123-Best-Time-to-Buy-and-Sell-Stock-III/cpp-0123/) | |
 | | | | |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [C++](0141-Linked-List-Cycle/cpp-0141/) | |
+| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [C++](0142-Linked-List-Cycle-II/cpp-0142/) | |
 | | | | |
 | 188 | [Best-Time-to-Buy-and-Sell-Stock-IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | [C++](0188-Best-Time-to-Buy-and-Sell-Stock-IV/cpp-0188/) | |
 | | | | |
