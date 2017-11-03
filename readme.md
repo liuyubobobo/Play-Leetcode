@@ -38,6 +38,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [C++](0122-Best-Time-to-Buy-and-Sell-Stock-II/cpp-0122/) | |
 | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | [C++](0123-Best-Time-to-Buy-and-Sell-Stock-III/cpp-0123/) | |
 | | | | |
+| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-9consecutive-sequence/description/) | [C++](0128-Longest-Consecutive-Sequence/cpp-0128/) | |
+| | | | |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [C++](0141-Linked-List-Cycle/cpp-0141/) | |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [C++](0142-Linked-List-Cycle-II/cpp-0142/) | |
 | | | | |
