@@ -47,6 +47,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](0283-Move-Zeroes/cpp-0283/) | [Java](0283-Move-Zeroes/java-0283/src/) |
 | | | | |
+| 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | [C++](0287-Find-the-Duplicate-Number/cpp-0287/) | |
+| | | | |
 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) | [C++](0303/Range-Sum-Query-Immutable/cpp-0303/) | |
 | | | | |
 | 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/description/) [缺：BIT] | [C++](0307-Range-Sum-Query-Mutable/cpp-0307/) | |
