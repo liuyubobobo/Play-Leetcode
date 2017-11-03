@@ -1,3 +1,7 @@
+/// Source : https://leetcode.com/problems/linked-list-cycle-ii/description/
+/// Author : liuyubobobo
+/// Time   : 2017-11-03
+
 #include <iostream>
 #include <cassert>
 
