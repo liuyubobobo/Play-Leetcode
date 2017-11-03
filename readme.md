@@ -70,6 +70,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | |
 | 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | [C++](0598-Range-Addition-II/cpp-0598/) | |
 | | | | |
+| 673 | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/) [缺：BIT；线段树] | [C++](0673-Number-of-Longest-Increasing-Subsequence/cpp-0673/) | |
 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | [C++](0674-Longest-Continuous-Increasing-Subsequence/cpp-0674/) | |
 | | | | |
 | 694 | [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/description/) [review: hash的方式] | [C++](0694-Number-of-Distinct-Islands/cpp-0694/) | |
