@@ -66,6 +66,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 390 | [Elimination Game](https://leetcode.com/problems/elimination-game/description/) | [C++](0390-Elimination-Game/cpp-0390/) | |
 | 391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/description/) [缺：矩形求交] | [C++](0391-Perfect-Rectangle/cpp-0391/) | |
 | | | | |
+| 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/) | [C++](0434-Number-of-Segments-in-a-String/cpp-0434/) | |
+| | | | |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/description/) | [C++](0443-String-Compression/cpp-0443/) | |
 | | | | |
 | 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | [C++](0598-Range-Addition-II/cpp-0598/) | |
