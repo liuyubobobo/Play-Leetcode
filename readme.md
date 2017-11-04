@@ -72,6 +72,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | |
 | 673 | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/) [缺：BIT；线段树] | [C++](0673-Number-of-Longest-Increasing-Subsequence/cpp-0673/) | |
 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | [C++](0674-Longest-Continuous-Increasing-Subsequence/cpp-0674/) | |
+| 675 | [Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/description/) [缺：A*；Hadlock's Algo] | [C++](0675-Cut-Off-Trees-for-Golf-Event/cpp-0675/) | |
 | | | | |
 | 694 | [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/description/) [review: hash的方式] | [C++](0694-Number-of-Distinct-Islands/cpp-0694/) | |
 | 695 | [Max-Area-of-Island](https://leetcode.com/problems/max-area-of-island/description/) | [C++](0695-Max-Area-of-Island/cpp-0695) | |
