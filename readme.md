@@ -28,7 +28,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 
 ### Problems
 
-| ID | Problem | Official Solution | C++ | Java | Python |
+| ID | Problem | Official<br/>Solution | C++ | Java | Python |
 | --- | --- | :---: | :--- | :--- | :--- |
 | 003 | [Longest-Substring-Without-Repeating-Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [无] | [C++](0003-Longest-Substring-Without-Repeating-Characters/cpp-0003/) | [Java](0003-Longest-Substring-Without-Repeating-Characters/java-0003/src/) | |
 | | | | | | |
@@ -85,7 +85,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 698 | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/) | [无] | [C++](0698-Partition-to-K-Equal-Sum-Subsets/cpp-0698/) | [Java](0698-Partition-to-K-Equal-Sum-Subsets/java-0698/src/) | |
 | 699 | [Falling Squares](https://leetcode.com/contest/leetcode-weekly-contest-54/problems/falling-squares/) | [无]<br/>[缺：线段树；块状链表] | [C++](0699-Falling-Squares/cpp-0699/) | | |
 | | | | | | |
-| 711 | [Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/description/) [review: hash的方式] | [无] | [C++](0711-Number-of-Distinct-Islands-II/cpp-0711/) | | |
+| 711 | [Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/description/) | [无]<br/>[review: hash的方式] | [C++](0711-Number-of-Distinct-Islands-II/cpp-0711/) | | |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/) | [无] | [C++](0712-Minimum-ASCII-Delete-Sum-for-Two-Strings/cpp-0712/) | | |
 | 713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/) | [无] | [C++](0713-Subarray-Product-Less-Than-K/cpp-0713/) | | |
 | 714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) | [无] | [C++](0714-Best-Time-to-Buy-and-Sell-Stock-with-Transaction-Fee/cpp-0714/) | | |
@@ -95,4 +95,4 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 718 | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/) | [无]<br/>[缺：Rolling Hash] | [C++](0718-Maximum-Length-of-Repeated-Subarray/cpp-0718/) | | |
 | 719 | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/) | [无]<br/>[缺：二分搜索] | [C++](0719-Find-K-th-Smallest-Pair-Distance/cpp-0719/) | | |
 | | | | | | |
-| 723 | [Candy Crush](https://leetcode.com/problems/candy-crush/description/) | [Official Solution](https://leetcode.com/problems/candy-crush/solution/) | [Ad-Hoc C++](0723-Candy-Crush/cpp-0723/) | | |
+| 723 | [Candy Crush](https://leetcode.com/problems/candy-crush/description/) | [solution](https://leetcode.com/problems/candy-crush/solution/) | [C++](0723-Candy-Crush/cpp-0723/) | | |
