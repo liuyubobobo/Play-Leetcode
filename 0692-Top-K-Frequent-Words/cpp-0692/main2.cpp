@@ -11,23 +11,19 @@
 
 using namespace std;
 
-/// Set
+/// Sort
 /// Time Complexity: O(nlogn)
 /// Space Complexity: O(n)
-class Compare{
-public:
-    bool operator()(const pair<int, string>& a, const pair<int, string> &b){
-        if(a.first != b.first)
-            return a.first > b.first;
-        return a.second < b.second;
-    }
-};
 
 class Solution {
+
+private:
+    unordered_map<string, int> freq;
+
 public:
     vector<string> topKFrequent(vector<string>& words, int k) {
 
-        unordered_map<string, int> freq;
+        freq.clear();
         for(string word: words)
             if(freq.find(word) != freq.end())
                 freq[word] ++;
@@ -35,18 +31,17 @@ public:
                 freq[word] = 1;
         assert(k <= freq.size());
 
-        set<pair<int, string>, Compare> res;
+        vector<string> res;
         for(pair<string, int> e: freq)
-            res.insert(make_pair(e.second, e.first));
+            res.push_back(e.first);
 
-        vector<string> ret;
-        for(int i = 0 ; i < k ; i ++){
-            set<pair<int, string>>::iterator iter = res.begin();
-            advance(iter, i);
-            ret.push_back(iter->second);
-        }
+        sort(res.begin(), res.end(), [this](const string &a, const string &b){
+            if(this->freq[a] != this->freq[b])
+                return this->freq[a] > this->freq[b];
+            return a < b;
+        });
 
-        return ret;
+        return vector<string>(res.begin(), res.begin() + k);
     }
 };
 

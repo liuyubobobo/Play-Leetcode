@@ -1,19 +1,18 @@
 /// Source : https://leetcode.com/problems/top-k-frequent-words/description/
 /// Author : liuyubobobo
-/// Time   : 2017-11-05
+/// Time   : 2017-11-04
 
 #include <iostream>
 #include <vector>
 #include <string>
 #include <unordered_map>
-#include <set>
-#include <cassert>
+#include <queue>
 
 using namespace std;
 
-/// Set
-/// Time Complexity: O(nlogn)
-/// Space Complexity: O(n)
+/// Using Priority Quee
+/// Time Complexity: O(nlogk)
+/// Space Complexity: O(n + k)
 class Compare{
 public:
     bool operator()(const pair<int, string>& a, const pair<int, string> &b){
@@ -33,20 +32,32 @@ public:
                 freq[word] ++;
             else
                 freq[word] = 1;
-        assert(k <= freq.size());
 
-        set<pair<int, string>, Compare> res;
-        for(pair<string, int> e: freq)
-            res.insert(make_pair(e.second, e.first));
+        priority_queue<pair<int, string>,
+                vector<pair<int, string>>,
+                Compare> pq;
 
-        vector<string> ret;
-        for(int i = 0 ; i < k ; i ++){
-            set<pair<int, string>>::iterator iter = res.begin();
-            advance(iter, i);
-            ret.push_back(iter->second);
+        for(unordered_map<string, int>::iterator iter = freq.begin();
+            iter != freq.end() ; iter ++){
+
+            pair<int, string> p = make_pair(iter->second, iter->first);
+            if(pq.size() < k)
+                pq.push(p);
+            else if(Compare().operator()(p, pq.top())){
+                pq.pop();
+                pq.push(p);
+            }
         }
 
-        return ret;
+        vector<string> res;
+        while(!pq.empty()){
+            res.push_back(pq.top().second);
+            pq.pop();
+        }
+
+        reverse(res.begin(), res.end());
+
+        return res;
     }
 };
 
