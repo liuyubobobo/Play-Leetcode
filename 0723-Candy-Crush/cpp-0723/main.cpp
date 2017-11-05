@@ -7,6 +7,9 @@
 
 using namespace std;
 
+/// Ad-Hoc
+/// Time Complexity: O((r*c)^2) where r is row number, c is column number
+/// Space Complexity: O(1)
 class Solution {
 
 private:
