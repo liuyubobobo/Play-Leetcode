@@ -39,9 +39,9 @@ int main() {
 
     MapSum obj;
     obj.insert("apple", 3);
-    cout << obj.sum("ap") << endl;
+    cout << obj.sum("ap") << endl; // 3
     obj.insert("app", 2);
-    cout << obj.sum("ap") << endl;
+    cout << obj.sum("ap") << endl; // 5
 
     return 0;
 }

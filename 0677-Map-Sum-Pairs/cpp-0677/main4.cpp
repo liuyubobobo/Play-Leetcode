@@ -9,8 +9,9 @@
 using namespace std;
 
 /// Trie
+/// Update key value when key already in the trie
 /// Time Complexity: insert: O(len(prefix))
-///                  sum: O(sum(len(wi)))
+///                  sum: O(len(prefix))
 /// Space Complexity: O(sum(len(wi))) where wi is the length of the ith word.
 
 class Trie{
@@ -19,6 +20,7 @@ private:
     struct Node{
         map<char, int> next;
         int val = 0;
+        bool end = false;
     };
     vector<Node> trie;
 
@@ -30,21 +32,32 @@ public:
 
     void insert(const string& word, int val){
         insert(0, word, 0, val);
+//        cout << "After insert " << word << ", trie is:" << endl;
+//        print();
     }
 
     int sum(const string& prefix){
         int treeID = findTreeID(0, prefix, 0);
         if(treeID == -1)
             return 0;
-        return dfs(treeID);
+        return trie[treeID].val;
     }
 
 private:
-    void insert(int treeID, const string& word, int index, int val){
+    int insert(int treeID, const string& word, int index, int val){
 
         if(index == word.size()) {
-            trie[treeID].val = val;
-            return;
+
+            if(trie[treeID].end){
+                int change = val - trie[treeID].val;
+                trie[treeID].val = val;
+                return change;
+            }
+            else{
+                trie[treeID].end = true;
+                trie[treeID].val += val;
+                return val;
+            }
         }
 
         if(trie[treeID].next.find(word[index]) == trie[treeID].next.end()){
@@ -52,7 +65,10 @@ private:
             trie.push_back(Node());
         }
 
-        insert(trie[treeID].next[word[index]], word, index + 1, val);
+        int change = insert(trie[treeID].next[word[index]], word, index + 1, val);
+        trie[treeID].val += change;
+
+        return change;
     }
 
     int findTreeID(int treeID, const string& word, int index){
@@ -66,12 +82,10 @@ private:
         return findTreeID(trie[treeID].next[word[index]], word, index + 1);
     }
 
-    int dfs(int treeID){
-
-        int res = trie[treeID].val;
-        for(pair<char, int> next: trie[treeID].next)
-            res += dfs(next.second);
-        return res;
+    void print(){
+        for(Node node: trie)
+            cout << node.val << " ";
+        cout << endl;
     }
 };
 
