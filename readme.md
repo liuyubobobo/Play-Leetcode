@@ -76,6 +76,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | | [C++](0674-Longest-Continuous-Increasing-Subsequence/cpp-0674/) | | |
 | 675 | [Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/description/) | [缺：A*；Hadlock's Algo] | [C++](0675-Cut-Off-Trees-for-Golf-Event/cpp-0675/) | | |
 | | | | | | |
+| 677 | [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/description/) | [solution](https://leetcode.com/problems/map-sum-pairs/solution/) | [C++](0677/Map-Sum-Pairs/cpp-0677/) | | |
+| | | | | | |
 | 692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/) | [solution](https://leetcode.com/problems/top-k-frequent-words/solution/) | [C++](0692-Top-K-Frequent-Words/cpp-0692/) | | |
 | | | | | | |
 | 694 | [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/description/) | [review: hash的方式] | [C++](0694-Number-of-Distinct-Islands/cpp-0694/) | | |
