@@ -72,6 +72,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/description/) | | [C++](0443-String-Compression/cpp-0443/) | | |
 | | | | | | |
+| 583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/description/) | [solution](https://leetcode.com/problems/delete-operation-for-two-strings/solution/) | [C++](0583-Delete-Operation-for-Two-Strings/cpp-0583/) | | |
+| | | | | | |
 | 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | | [C++](0598-Range-Addition-II/cpp-0598/) | | |
 | | | | | | |
 | 648 | [Replace Words](https://leetcode.com/problems/replace-words/description/) | [缺：线段树] | [C++](0648-Replace-Words/cpp-0648/) | | |
