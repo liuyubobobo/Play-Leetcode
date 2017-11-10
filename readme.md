@@ -70,6 +70,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/) | | [C++](0434-Number-of-Segments-in-a-String/cpp-0434/) | | |
 | | | | | | |
+| 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) | | [C++](0438-Find-All-Anagrams-in-a-String/cpp-0438/) | | |
+| | | | | | |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/description/) | | [C++](0443-String-Compression/cpp-0443/) | | |
 | | | | | | |
 | 583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/description/) | [solution](https://leetcode.com/problems/delete-operation-for-two-strings/solution/) | [C++](0583-Delete-Operation-for-Two-Strings/cpp-0583/) | | |
