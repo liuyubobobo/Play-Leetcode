@@ -47,6 +47,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | [solution](https://leetcode.com/problems/implement-trie-prefix-tree/solution/) | [C++](0208-Implement-Trie-Prefix-Tree/cpp-0208/) | | |
 | | | | | | |
+| 211 | [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/description/) | [无] | [C++](0211-Add-and-Search-Word-Data-structure-design/cpp-0211/) | | |
+| | | | | | |
 | 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/) | | [C++](0218-The-Skyline-Problem/cpp-0218/) | | |
 | | | | | | |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | | [C++](0283-Move-Zeroes/cpp-0283/) | [Java](0283-Move-Zeroes/java-0283/src/) | |
