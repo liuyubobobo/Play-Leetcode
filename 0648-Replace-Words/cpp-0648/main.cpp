@@ -1,3 +1,7 @@
+/// Source : https://leetcode.com/problems/replace-words/description/
+/// Author : liuyubobobo
+/// Time   : 2017-11-06
+
 #include <iostream>
 #include <string>
 #include <vector>

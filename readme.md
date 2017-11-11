@@ -70,7 +70,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/) | | [C++](0434-Number-of-Segments-in-a-String/cpp-0434/) | | |
 | | | | | | |
-| 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) | | [C++](0438-Find-All-Anagrams-in-a-String/cpp-0438/) | | |
+| 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) | [无] | [C++](0438-Find-All-Anagrams-in-a-String/cpp-0438/) | | |
 | | | | | | |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/description/) | | [C++](0443-String-Compression/cpp-0443/) | | |
 | | | | | | |
@@ -78,7 +78,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | | [C++](0598-Range-Addition-II/cpp-0598/) | | |
 | | | | | | |
-| 648 | [Replace Words](https://leetcode.com/problems/replace-words/description/) | [缺：线段树] | [C++](0648-Replace-Words/cpp-0648/) | | |
+| 648 | [Replace Words](https://leetcode.com/problems/replace-words/description/) | [无] | [C++](0648-Replace-Words/cpp-0648/) | | |
 | | | | | | |
 | 673 | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/) | [缺：BIT；线段树] | [C++](0673-Number-of-Longest-Increasing-Subsequence/cpp-0673/) | | |
 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | | [C++](0674-Longest-Continuous-Increasing-Subsequence/cpp-0674/) | | |
