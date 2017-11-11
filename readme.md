@@ -106,4 +106,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 719 | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/) | [缺：二分搜索] | [C++](0719-Find-K-th-Smallest-Pair-Distance/cpp-0719/) | | |
 | 720 | [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/description/) | [solution](https://leetcode.com/problems/longest-word-in-dictionary/solution/) | [C++](0720-Longest-Word-in-Dictionary/cpp-0720/) | | |
 | | | | | | |
+| 722 | [Remove Comments](https://leetcode.com/problems/remove-comments/description/) | [solution](https://leetcode.com/problems/remove-comments/solution/) | [C++](0722-Remove-Comments/cpp-0722/) | | |
 | 723 | [Candy Crush](https://leetcode.com/problems/candy-crush/description/) | [solution](https://leetcode.com/problems/candy-crush/solution/) | [C++](0723-Candy-Crush/cpp-0723/) | | |
