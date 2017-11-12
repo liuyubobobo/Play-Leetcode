@@ -114,3 +114,4 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 722 | [Remove Comments](https://leetcode.com/problems/remove-comments/description/) | [solution](https://leetcode.com/problems/remove-comments/solution/) | [C++](0722-Remove-Comments/cpp-0722/) | | |
 | 723 | [Candy Crush](https://leetcode.com/problems/candy-crush/description/) | [solution](https://leetcode.com/problems/candy-crush/solution/) | [C++](0723-Candy-Crush/cpp-0723/) | | |
+| 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | [solution](https://leetcode.com/problems/find-pivot-index/solution/) | [C++](0724-Find-Pivot-Index/cpp-0724/) | | |
