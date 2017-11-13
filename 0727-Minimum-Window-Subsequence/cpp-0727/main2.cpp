@@ -10,7 +10,7 @@
 /// Dynamic Programming with Rolling 1-D Array
 /// dp[i][j] - the minimum length W for subsequence in S[i...end) to satify T[j...end)
 /// the result is the minimum value for all dp[i][0] where len(S[i...end)) > len(T)
-/// 
+///
 /// Time Complexity: O(len(S)*len(T))
 /// Space Complexity: O(len(T))
 using namespace std;

@@ -116,3 +116,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 723 | [Candy Crush](https://leetcode.com/problems/candy-crush/description/) | [solution](https://leetcode.com/problems/candy-crush/solution/) | [C++](0723-Candy-Crush/cpp-0723/) | | |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | [solution](https://leetcode.com/problems/find-pivot-index/solution/) | [C++](0724-Find-Pivot-Index/cpp-0724/) | | |
 | 725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/) | [solution](https://leetcode.com/problems/split-linked-list-in-parts/solution/) | [C++](0725-Split-Linked-List-in-Parts/cpp-0725/) | | |
+| | | | | | |
+| 727 | [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/description/) | [solution](https://leetcode.com/problems/minimum-window-subsequence/solution/) | [C++](cpp-Minimum-Window-Subsequence/cpp-0727/) | | |
