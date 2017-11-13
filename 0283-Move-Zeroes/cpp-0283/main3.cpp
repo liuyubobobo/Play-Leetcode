@@ -8,25 +8,15 @@
 using namespace std;
 
 // Time Complexity: O(n)
-// Space Complexity: O(n)
+// Space Complexity: O(1)
 class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
 
-        vector<int> nonZeroElements;
-
-        // put all the non zero elements into a new vector
+        int k = 0; // keep nums[0...k) are all zero elements
         for(int i = 0 ; i < nums.size() ; i ++)
             if(nums[i])
-                nonZeroElements.push_back(nums[i]);
-
-        // make nums[0...nonZeroElements.size()) all non zero elements
-        for(int i = 0 ; i < nonZeroElements.size() ; i ++)
-            nums[i] = nonZeroElements[i];
-
-        // make nums[nonZeroElements.size()...nums.size()) all zero elements
-        for(int i = nonZeroElements.size() ; i < nums.size() ; i ++)
-            nums[i] = 0;
+                swap(nums[k++] , nums[i]);
     }
 };
 
