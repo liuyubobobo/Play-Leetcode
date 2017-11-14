@@ -69,6 +69,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | | [C++](0309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown/cpp-0309/) | | |
 | | | | | | |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [无] | [C++](0349-Intersection-of-Two-Arrays/cpp-0349/) | [Java](0349-Intersection-of-Two-Arrays/java-0349/src/) | |
+| 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [无] | [C++](0350-Intersection-of-Two-Arrays-II/cpp-0350/) | [Java](0350-Intersection-of-Two-Arrays-II/java-0350/src/) | |
 | | | | | | |
 | 370 | [Range Addition](https://leetcode.com/problems/range-addition/description/) | | [C++](0370-Range-Addition/cpp-0370/) | | |
 | | | | | | |
