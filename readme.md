@@ -30,7 +30,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 
 | ID | Problem | Official<br/>Solution | C++ | Java | Python |
 | --- | --- | :---: | :--- | :--- | :--- |
-| 003 | [Longest-Substring-Without-Repeating-Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | | [C++](0003-Longest-Substring-Without-Repeating-Characters/cpp-0003/) | [Java](0003-Longest-Substring-Without-Repeating-Characters/java-0003/src/) | |
+| 003 | [Longest-Substring-Without-Repeating-Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [solution](https://leetcode.com/problems/longest-substring-without-repeating-characters/solution/) | [C++](0003-Longest-Substring-Without-Repeating-Characters/cpp-0003/) | [Java](0003-Longest-Substring-Without-Repeating-Characters/java-0003/src/) | |
 | | | | | | |
 | 075 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [无] | [C++](0075-Sort-Colors/cpp-0075/) | [Java](0075-Sort-Colors/java-0075/src/) | |
 | | | | | | |

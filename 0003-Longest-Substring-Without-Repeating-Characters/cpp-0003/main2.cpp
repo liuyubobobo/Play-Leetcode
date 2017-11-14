@@ -9,6 +9,8 @@
 using namespace std;
 
 // Sliding Window
+// Another Implementation
+//
 // Time Complexity: O(len(s))
 // Space Complexity: O(len(charset))
 class Solution {
@@ -22,12 +24,17 @@ public:
 
         while(r + 1 < s.size()){
 
-            if( freq[s[r + 1]] == 0 )
+            while(r + 1 < s.size() && freq[s[r + 1]] == 0)
                 freq[s[++r]] ++;
-            else    //freq[s[r+1]] == 1
-                freq[s[l++]] --;
 
             res = max(res, r - l + 1);
+
+            if(r + 1 < s.size()){
+                freq[s[++r]] ++;
+                assert(freq[s[r]] == 2);
+                while(l <= r && freq[s[r]] == 2)
+                    freq[s[l++]] --;
+            }
         }
 
         return res;
