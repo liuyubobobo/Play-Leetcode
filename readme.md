@@ -68,6 +68,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 308 | [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/description/) | | [C++](0308-Range-Sum-Query-2D-Mutable/cpp-0308/) | | |
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | | [C++](0309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown/cpp-0309/) | | |
 | | | | | | |
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [无] | [C++](0349-Intersection-of-Two-Arrays/cpp-0349/) | [Java](0349-Intersection-of-Two-Arrays/java-0349/src/) | |
+| | | | | | |
 | 370 | [Range Addition](https://leetcode.com/problems/range-addition/description/) | | [C++](0370-Range-Addition/cpp-0370/) | | |
 | | | | | | |
 | 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/) | [solution](https://leetcode.com/problems/shuffle-an-array/solution/) | [C++](0384-Shuffle-an-Array/cpp-0384/) | | |
