@@ -2,7 +2,7 @@
 /// Author : liuyubobobo
 /// Time   : 2017-07-12
 
-import java.util.TreeSet;
+import java.util.HashSet;
 
 /// Hash Set
 /// Time complexity: O(len(nums1) + len(nums2))
@@ -11,11 +11,11 @@ public class Solution {
 
     public int[] intersection(int[] nums1, int[] nums2) {
 
-        TreeSet<Integer> record = new TreeSet<Integer>();
+        HashSet<Integer> record = new HashSet<Integer>();
         for(int num: nums1)
             record.add(num);
 
-        TreeSet<Integer> resultSet = new TreeSet<Integer>();
+        HashSet<Integer> resultSet = new HashSet<Integer>();
         for(int num: nums2)
             if(record.contains(num))
                 resultSet.add(num);

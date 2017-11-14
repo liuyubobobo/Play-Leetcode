@@ -2,7 +2,7 @@
 /// Author : liuyubobobo
 /// Time   : 2017-11-14
 
-import java.util.TreeMap;
+import java.util.HashMap;
 import java.util.ArrayList;
 
 /// Using Hash Map
@@ -12,7 +12,7 @@ public class Solution {
 
     public int[] intersect(int[] nums1, int[] nums2) {
 
-        TreeMap<Integer, Integer> record = new TreeMap<Integer, Integer>();
+        HashMap<Integer, Integer> record = new HashMap<Integer, Integer>();
         for(int num: nums1)
             if(!record.containsKey(num))
                 record.put(num, 1);
