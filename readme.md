@@ -59,6 +59,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 211 | [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/description/) | [无] | [C++](0211-Add-and-Search-Word-Data-structure-design/cpp-0211/) | | |
 | | | | | | |
 | 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/) | | [C++](0218-The-Skyline-Problem/cpp-0218/) | | |
+| 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | [solution](https://leetcode.com/problems/contains-duplicate-ii/solution/) | [C++](0219-Contains-Duplicate-II/cpp-0219/) | [Java](0219-Contains-Duplicate-II/java-0219/src/) | |
 | | | | | | |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [solution](https://leetcode.com/problems/missing-number/solution/) | [C++](0268-Missing-Number/cpp-0268/) | | |
 | | | | | | |
@@ -91,6 +92,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) | [无] | [C++](0438-Find-All-Anagrams-in-a-String/cpp-0438/) | | |
 | | | | | | |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/description/) | | [C++](0443-String-Compression/cpp-0443/) | | |
+| | | | | | |
+| 447 | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/description/) | [无] | [C++](0447-Number-of-Boomerangs/cpp-0447/) | [Java](0447-Number-of-Boomerangs/java-0447/src/) | |
 | | | | | | |
 | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/description/) | [无] | [C++](0454-4Sum-II/cpp-0454/) | [Java](0454-4Sum-II/java-0454/src/) | |
 | | | | | | |
