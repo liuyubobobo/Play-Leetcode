@@ -20,6 +20,17 @@ public class ListNode {
         }
     }
 
+    ListNode findNode(int x){
+
+        ListNode curNode = this;
+        while(curNode != null){
+            if(curNode.val == x)
+                return curNode;
+            curNode = curNode.next;
+        }
+        return null;
+    }
+
     @Override
     public String toString(){
 
