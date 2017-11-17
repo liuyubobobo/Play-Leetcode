@@ -88,6 +88,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [solution](https://leetcode.com/problems/missing-number/solution/) | [C++](0268-Missing-Number/cpp-0268/) | | |
 | | | | | | |
+| 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) | [无] | [C++](0279-Perfect-Squares/cpp-0279/) | [Java](0279-Perfect-Squares/java-0279/src/) | |
+| | | | | | |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [solution](https://leetcode.com/problems/move-zeroes/solution/) | [C++](0283-Move-Zeroes/cpp-0283/) | [Java](0283-Move-Zeroes/java-0283/src/) | |
 | | | | | | |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | | [C++](0287-Find-the-Duplicate-Number/cpp-0287/) | | |
