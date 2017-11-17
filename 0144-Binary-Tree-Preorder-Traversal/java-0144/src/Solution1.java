@@ -7,7 +7,7 @@ import java.util.List;
 // Recursive
 // Time Complexity: O(n), n is the node number in the tree
 // Space Complexity: O(h), h is the height of the tree
-public class Solution {
+public class Solution1 {
 
     // Definition for a binary tree node.
     public class TreeNode {
