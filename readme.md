@@ -47,6 +47,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 079 | [Word Search](https://leetcode.com/problems/word-search/description/) | | [C++](0079-Word-Search/cpp-0079/) | [Java](0079-Word-Search/java-0079/src/) | |
 | | | | | |
+| 094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [solution](https://leetcode.com/problems/binary-tree-inorder-traversal/solution/)<br/>[缺：非递归算法] | [C++](0094-Binary-Tree-Inorder-Traversal/cpp-0094/) | [Java](0094-Binary-Tree-Inorder-Traversal/java-0094/src/) | |
+| | | | | |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solution/) | | [C++](0121-Best-Time-to-Buy-and-Sell-Stock/cpp-0121/) | | |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | | [C++](0122-Best-Time-to-Buy-and-Sell-Stock-II/cpp-0122/) | | |
 | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | | [C++](0123-Best-Time-to-Buy-and-Sell-Stock-III/cpp-0123/) | | |
@@ -56,7 +58,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | | [C++](0141-Linked-List-Cycle/cpp-0141/) | | |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | | [C++](0142-Linked-List-Cycle-II/cpp-0142/) | | |
 | | | | | | |
-| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [缺：非递归算法] | [C++](0144-Binary-Tree-Preorder-Traversal/cpp-0144/) | | |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [缺：非递归算法] | [C++](0144-Binary-Tree-Preorder-Traversal/cpp-0144/) | [Java](0144-Binary-Tree-Preorder-Traversal/java-0144/src/) | |
 | | | | | | |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | [无] | [C++](0155-Min-Stack/cpp-0155/) | | |
 | | | | | | |
