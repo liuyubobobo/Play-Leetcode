@@ -1,4 +1,4 @@
-/// Source : https://leetcode.com/problems/binary-tree-inorder-traversal/solution/
+/// Source : https://leetcode.com/problems/binary-tree-postorder-traversal/description/
 /// Author : liuyubobobo
 /// Time   : 2017-11-17
 
@@ -8,7 +8,7 @@ import java.util.List;
 // Recursive
 // Time Complexity: O(n), n is the node number in the tree
 // Space Complexity: O(h), h is the height of the tree
-public class Solution {
+public class Solution1 {
 
     // Definition for a binary tree node.
     public class TreeNode {
@@ -18,18 +18,18 @@ public class Solution {
         TreeNode(int x) { val = x; }
     }
 
-    public List<Integer> inorderTraversal(TreeNode root) {
+    public List<Integer> postorderTraversal(TreeNode root) {
 
         ArrayList<Integer> res = new ArrayList<Integer>();
-        inorderTraversal(root, res);
+        postorderTraversal(root, res);
         return res;
     }
 
-    private void inorderTraversal(TreeNode node, List<Integer> list){
+    private void postorderTraversal(TreeNode node, List<Integer> list){
         if(node != null){
-            inorderTraversal(node.left, list);
+            postorderTraversal(node.left, list);
+            postorderTraversal(node.right, list);
             list.add(node.val);
-            inorderTraversal(node.right, list);
         }
     }
 }
