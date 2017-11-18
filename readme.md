@@ -53,6 +53,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [无] | [C++](0104-Maximum-Depth-of-Binary-Tree/cpp-0104/) | [Java](0104-Maximum-Depth-of-Binary-Tree/java-0104/src/) | |
 | | | | | | |
+| 112 | [Path Sum](https://leetcode.com/problems/path-sum/description/) | [无] | [C++](0112-Path-Sum/cpp-0112/) | [Java](0112-Path-Sum/cpp-0112/src/) | |
+| | | | | | |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solution/) | | [C++](0121-Best-Time-to-Buy-and-Sell-Stock/cpp-0121/) | | |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | | [C++](0122-Best-Time-to-Buy-and-Sell-Stock-II/cpp-0122/) | | |
 | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | | [C++](0123-Best-Time-to-Buy-and-Sell-Stock-III/cpp-0123/) | | |
