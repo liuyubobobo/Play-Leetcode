@@ -92,6 +92,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [solution](https://leetcode.com/problems/delete-node-in-a-linked-list/solution/) | [C++](0237-Delete-Node-in-a-Linked-List/cpp-0237/) | [Java](0237-Delete-Node-in-a-Linked-List/java-0237/src/) | |
 | | | | | | |
+| 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | [缺：非递归算法] | [C++](0257-Binary-Tree-Paths/cpp-0257/) | [Java](0257-Binary-Tree-Paths/java-0257/src/) | |
+| | | | | | |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [solution](https://leetcode.com/problems/missing-number/solution/) | [C++](0268-Missing-Number/cpp-0268/) | | |
 | | | | | | |
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) | [无] | [C++](0279-Perfect-Squares/cpp-0279/) | [Java](0279-Perfect-Squares/java-0279/src/) | |
