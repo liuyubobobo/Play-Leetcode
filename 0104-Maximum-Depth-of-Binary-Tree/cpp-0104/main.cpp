@@ -15,8 +15,9 @@ struct TreeNode {
     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
 };
 
-// Time Complexity: O(n), where n is the nodes' number in the tree
-// Space Complexity: O(h), where h is the height of the tree
+/// Recursive
+/// Time Complexity: O(n), where n is the nodes' number in the tree
+/// Space Complexity: O(h), where h is the height of the tree
 class Solution {
 public:
     int maxDepth(TreeNode* root) {

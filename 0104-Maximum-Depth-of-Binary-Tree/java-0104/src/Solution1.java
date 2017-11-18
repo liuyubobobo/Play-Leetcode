@@ -2,9 +2,10 @@
 /// Author : liuyubobobo
 /// Time   : 2017-11-17
 ///
+/// Recursive
 /// Time Complexity: O(n), where n is the nodes' number in the tree
 /// Space Complexity: O(h), where h is the height of the tree
-class Solution {
+class Solution1 {
 
     // Definition for a binary tree node.
     public class TreeNode {
