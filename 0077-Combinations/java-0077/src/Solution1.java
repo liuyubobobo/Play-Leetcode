@@ -9,7 +9,7 @@ import java.util.LinkedList;
 /// Naive Recursive
 /// Time Complexity: O(n^k)
 /// Space Complexity: O(k)
-public class Solution {
+public class Solution1 {
 
     private ArrayList<List<Integer>> res;
 
@@ -49,7 +49,7 @@ public class Solution {
 
     public static void main(String[] args) {
 
-        List<List<Integer>> res = (new Solution()).combine(4, 2);
+        List<List<Integer>> res = (new Solution1()).combine(4, 2);
         for(List<Integer> list: res)
             printList(list);
     }
