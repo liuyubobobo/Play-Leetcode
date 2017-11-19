@@ -45,6 +45,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 046 | [Permutations](https://leetcode.com/problems/permutations/description/) | [缺：排列算法整理] | [C++](0046-Permutations/cpp-0046/) | [Java](0046-Permutations/java-0046/src/) | |
 | | | | | | |
+| 051 | [N-Queens](https://leetcode.com/problems/n-queens/description/) | [缺：N皇后问题整理] | [C++](0051-N-Queens/cpp-0051/) | [Java](0051-N-Queens/java-0051/src/) | |
+| | | | | | |
 | 056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [solution](https://leetcode.com/problems/merge-intervals/solution/) | [C++](0056-Merge-Intervals/cpp-0056/) | | |
 | | | | | | |
 | 075 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [无] | [C++](0075-Sort-Colors/cpp-0075/) | [Java](0075-Sort-Colors/java-0075/src/) | |
