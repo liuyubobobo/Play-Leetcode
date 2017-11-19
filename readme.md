@@ -51,7 +51,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 077 | [Combinations](https://leetcode.com/problems/combinations/description/) | [缺：组合算法整理] | [C++](0077-Combinations/cpp-0077/) | [Java](0077-Combinations/java-0077/src/) | |
 | | | | | | |
-| 079 | [Word Search](https://leetcode.com/problems/word-search/description/) | | [C++](0079-Word-Search/cpp-0079/) | [Java](0079-Word-Search/java-0079/src/) | |
+| 079 | [Word Search](https://leetcode.com/problems/word-search/description/) | [无] | [C++](0079-Word-Search/cpp-0079/) | [Java](0079-Word-Search/java-0079/src/) | |
 | | | | | | |
 | 094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [solution](https://leetcode.com/problems/binary-tree-inorder-traversal/solution/)<br/>[缺：经典非递归算法] | [C++](0094-Binary-Tree-Inorder-Traversal/cpp-0094/) | [Java](0094-Binary-Tree-Inorder-Traversal/java-0094/src/) | |
 | | | | | | |
