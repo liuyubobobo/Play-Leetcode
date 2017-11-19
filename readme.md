@@ -122,6 +122,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 308 | [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/description/) | | [C++](0308-Range-Sum-Query-2D-Mutable/cpp-0308/) | | |
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | | [C++](0309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown/cpp-0309/) | | |
 | | | | | | |
+| 343 | [Integer Break](https://leetcode.com/problems/integer-break/description/) | [无] | [C++](0343-Integer-Break/cpp-0343/) | [Java](0343-Integer-Break/java-0343/src/) | |
+| | | | | | |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | [无] | [C++](0347-Top-K-Frequent-Elements/cpp-0347/) | [Java](0347-Top-K-Frequent-Elements/java-0347/src/) | |
 | | | | | | |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [无] | [C++](0349-Intersection-of-Two-Arrays/cpp-0349/) | [Java](0349-Intersection-of-Two-Arrays/java-0349/src/) | |
