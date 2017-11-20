@@ -198,4 +198,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 727 | [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/description/) | [solution](https://leetcode.com/problems/minimum-window-subsequence/solution/) | [C++](cpp-Minimum-Window-Subsequence/cpp-0727/) | | |
 | 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) | [solution](https://leetcode.com/problems/self-dividing-numbers/solution/) | [C++](0728-Self-Dividing-Numbers/cpp-0728/) | | |
+| 729 | [My Calendar I](https://leetcode.com/problems/my-calendar-i/description/) | [solution](https://leetcode.com/problems/my-calendar-i/solution/) | [C++](0729-My-Calendar-I/cpp-0729/) | | |
 | | | | | | |
