@@ -118,7 +118,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | | [C++](0287-Find-the-Duplicate-Number/cpp-0287/) | | |
 | | | | | | |
-| 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [solution](https://leetcode.com/problems/longest-increasing-subsequence/solution/)<br/>[缺：nlogn解法] | [C++](0300-Longest-Increasing-Subsequence/cpp-0300/) | [Java](0300-Longest-Increasing-Subsequence/java-0300/src/) | |
+| 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [solution](https://leetcode.com/problems/longest-increasing-subsequence/solution/) | [C++](0300-Longest-Increasing-Subsequence/cpp-0300/) | [Java](0300-Longest-Increasing-Subsequence/java-0300/src/) | |
 | | | | | | |
 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) | | [C++](0303/Range-Sum-Query-Immutable/cpp-0303/) | | |
 | | | | | | |
@@ -197,3 +197,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/) | [solution](https://leetcode.com/problems/split-linked-list-in-parts/solution/) | [C++](0725-Split-Linked-List-in-Parts/cpp-0725/) | | |
 | | | | | | |
 | 727 | [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/description/) | [solution](https://leetcode.com/problems/minimum-window-subsequence/solution/) | [C++](cpp-Minimum-Window-Subsequence/cpp-0727/) | | |
+| 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) | [solution](https://leetcode.com/problems/self-dividing-numbers/solution/) | [C++](0728-Self-Dividing-Numbers/cpp-0728/) | | |
+| | | | | | |
