@@ -147,6 +147,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [无] | [C++](0416-Partition-Equal-Subset-Sum/cpp-0416/) | [Java](0416-Partition-Equal-Subset-Sum/java-0416/src/) | |
 | | | | | | |
 | 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/) | | [C++](0434-Number-of-Segments-in-a-String/cpp-0434/) | | |
+| 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) | [solution](https://leetcode.com/problems/non-overlapping-intervals/solution/) | [C++](0435-Non-overlapping-Intervals/cpp-0435/) | [Java](0435-Non-overlapping-Intervals/java-0435/src/) | |
 | | | | | | |
 | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) | [无] | [C++](0437-Path-Sum-III/cpp-0437/) | [Java](0437-Path-Sum-III/java-0437/src/) | |
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) | [无] | [C++](0438-Find-All-Anagrams-in-a-String/cpp-0438/) | | |
