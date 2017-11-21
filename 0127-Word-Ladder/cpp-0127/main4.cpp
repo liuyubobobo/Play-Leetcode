@@ -46,14 +46,16 @@ public:
 
             for(string word: wordList)
                 if(step_s.find(word) == step_s.end() && similar(word, sWord)){
-                    step_s[word] = step_s[sWord] + 1;
-                    queue_s.push(make_pair(word, step_s[word]));
+                    int newStep = step_s[sWord] + 1;
+                    step_s[word] = newStep;
+                    queue_s.push(make_pair(word, newStep));
                 }
 
             for(string word: wordList)
                 if(step_t.find(word) == step_t.end() && similar(word, tWord)){
-                    step_t[word] = step_t[tWord] + 1;
-                    queue_t.push(make_pair(word, step_t[word]));
+                    int newStep = step_t[tWord] + 1;
+                    step_t[word] = newStep;
+                    queue_t.push(make_pair(word, newStep));
                 }
 
             // check intersection
