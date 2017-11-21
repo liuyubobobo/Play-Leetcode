@@ -4,6 +4,7 @@
 
 #include <iostream>
 #include <vector>
+#include <cassert>
 
 using namespace std;
 
@@ -28,7 +29,7 @@ private:
 
 public:
     int climbStairs(int n) {
-
+        assert(n > 0);
         memo = vector<int>(n + 1, -1);
         return calcWays(n);
     }

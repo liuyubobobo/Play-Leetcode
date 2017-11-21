@@ -12,6 +12,10 @@ public class Solution1 {
     private int[] memo;
 
     public int climbStairs(int n) {
+
+        if(n <= 0)
+            throw new IllegalArgumentException("n must be greater than zero");
+
         memo = new int[n+1];
         Arrays.fill(memo, -1);
         return calcWays(n);

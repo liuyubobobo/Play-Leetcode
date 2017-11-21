@@ -9,6 +9,9 @@ public class Solution2 {
 
     public int climbStairs(int n) {
 
+        if(n <= 0)
+            throw new IllegalArgumentException("n must be greater than zero");
+
         int[] memo = new int[n + 1];
         memo[0] = 1;
         memo[1] = 1;

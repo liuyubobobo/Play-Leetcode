@@ -4,6 +4,7 @@
 
 #include <iostream>
 #include <vector>
+#include <cassert>
 
 using namespace std;
 
@@ -14,6 +15,8 @@ class Solution {
 
 public:
     int climbStairs(int n) {
+
+        assert(n > 0);
 
         vector<int> memo(n + 1, -1);
         memo[0] = 1;
