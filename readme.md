@@ -195,7 +195,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 718 | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/) | [缺：Rolling Hash] | [C++](0718-Maximum-Length-of-Repeated-Subarray/cpp-0718/) | | |
 | 719 | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/) | [缺：二分搜索] | [C++](0719-Find-K-th-Smallest-Pair-Distance/cpp-0719/) | | |
 | 720 | [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/description/) | [solution](https://leetcode.com/problems/longest-word-in-dictionary/solution/) | [C++](0720-Longest-Word-in-Dictionary/cpp-0720/) | | |
-| | | | | | |
+| 721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/description/) | [solution](https://leetcode.com/problems/accounts-merge/solution/) | [C++](0721-Accounts-Merge/cpp-0721/) | | |
 | 722 | [Remove Comments](https://leetcode.com/problems/remove-comments/description/) | [solution](https://leetcode.com/problems/remove-comments/solution/) | [C++](0722-Remove-Comments/cpp-0722/) | | |
 | 723 | [Candy Crush](https://leetcode.com/problems/candy-crush/description/) | [solution](https://leetcode.com/problems/candy-crush/solution/) | [C++](0723-Candy-Crush/cpp-0723/) | | |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | [solution](https://leetcode.com/problems/find-pivot-index/solution/) | [C++](0724-Find-Pivot-Index/cpp-0724/) | | |
