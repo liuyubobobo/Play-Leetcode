@@ -9,11 +9,11 @@
 using namespace std;
 
 /// Using two sets
-/// Time Complexity: push: O(nlogn)
-///                  pop:  O(nlogn)
-///                  top:  O(nlogn)
-///                  peekMax: O(nlogn)
-///                  popMax:  O(nlogn)
+/// Time Complexity: push: O(logn)
+///                  pop:  O(logn)
+///                  top:  O(logn)
+///                  peekMax: O(logn)
+///                  popMax:  O(logn)
 /// Space Complexity: O(n)
 class MaxStack {
 
@@ -72,6 +72,7 @@ public:
         return e_vi.first;
     }
 };
+
 
 int main() {
 
