@@ -176,6 +176,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 676 | [Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/description/) | [solution](https://leetcode.com/problems/implement-magic-dictionary/solution/) | [C++](0676-Implement-Magic-Dictionary/cpp-0676/) | | |
 | 677 | [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/description/) | [solution](https://leetcode.com/problems/map-sum-pairs/solution/) | [C++](0677/Map-Sum-Pairs/cpp-0677/) | | |
 | | | | | | |
+| 690 | [Employee Importance](https://leetcode.com/problems/employee-importance/description/) | [solution](https://leetcode.com/problems/employee-importance/solution/) | [C++](0690-Employee-Importance/cpp-0690/) | | |
+| | | | | | |
 | 692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/) | [solution](https://leetcode.com/problems/top-k-frequent-words/solution/) | [C++](0692-Top-K-Frequent-Words/cpp-0692/) | | |
 | | | | | | |
 | 694 | [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/description/) | [review: hash的方式] | [C++](0694-Number-of-Distinct-Islands/cpp-0694/) | | |
