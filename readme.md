@@ -192,7 +192,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/) | | [C++](0713-Subarray-Product-Less-Than-K/cpp-0713/) | | |
 | 714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) | | [C++](0714-Best-Time-to-Buy-and-Sell-Stock-with-Transaction-Fee/cpp-0714/) | | |
 | 715 | [Range Module](https://leetcode.com/problems/range-module/description/) | [缺：set查找] | [C++](0715-Range-Module/cpp-0715/) | | |
-| 716 | [Max Stack](https://leetcode.com/problems/max-stack/description/) | [无] | [C++](0716-Max-Stack/cpp-0716/) | | |
+| 716 | [Max Stack](https://leetcode.com/problems/max-stack/description/) | [solution](https://leetcode.com/problems/max-stack/solution/) | [C++](0716-Max-Stack/cpp-0716/) | | |
 | 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | | [C++](0717-1-bit-and-2-bit-Characters/cpp-0717/) | | |
 | 718 | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/) | [缺：Rolling Hash] | [C++](0718-Maximum-Length-of-Repeated-Subarray/cpp-0718/) | | |
 | 719 | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/) | [缺：二分搜索] | [C++](0719-Find-K-th-Smallest-Pair-Distance/cpp-0719/) | | |
