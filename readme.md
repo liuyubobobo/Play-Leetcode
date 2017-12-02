@@ -134,6 +134,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 308 | [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/description/) | | [C++](0308-Range-Sum-Query-2D-Mutable/cpp-0308/) | | |
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | | [C++](0309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown/cpp-0309/) | | |
 | | | | | | |
+| 319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/) | [无] | [C++](0319-Bulb-Switcher/cpp-0319/) | | |
+| | | | | | |
 | 343 | [Integer Break](https://leetcode.com/problems/integer-break/description/) | [无] | [C++](0343-Integer-Break/cpp-0343/) | [Java](0343-Integer-Break/java-0343/src/) | |
 | | | | | | |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | [无] | [C++](0347-Top-K-Frequent-Elements/cpp-0347/) | [Java](0347-Top-K-Frequent-Elements/java-0347/src/) | |
