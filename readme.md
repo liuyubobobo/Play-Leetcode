@@ -178,6 +178,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 677 | [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/description/) | [solution](https://leetcode.com/problems/map-sum-pairs/solution/) | [C++](0677/Map-Sum-Pairs/cpp-0677/) | | |
 | | | | | | |
 | 684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/description/) | [solution](https://leetcode.com/problems/redundant-connection/solution/) | [C++](0684-Redundant-Connection/cpp-0684/) | | |
+| 685 | [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/description/) | [solution](https://leetcode.com/problems/redundant-connection-ii/solution/) | [C++](0685-Redundant-Connection-II/cpp-0685/) | | |
 | | | | | | |
 | 690 | [Employee Importance](https://leetcode.com/problems/employee-importance/description/) | [solution](https://leetcode.com/problems/employee-importance/solution/) | [C++](0690-Employee-Importance/cpp-0690/) | | |
 | | | | | | |
