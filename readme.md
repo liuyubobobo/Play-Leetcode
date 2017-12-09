@@ -77,8 +77,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/description/) | [无] | [C++](0127-Word-Ladder/cpp-0127/) | | |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-9consecutive-sequence/description/) | | [C++](0128-Longest-Consecutive-Sequence/cpp-0128/) | | |
 | | | | | | |
-| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | | [C++](0141-Linked-List-Cycle/cpp-0141/) | | |
-| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | | [C++](0142-Linked-List-Cycle-II/cpp-0142/) | | |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [solution](https://leetcode.com/problems/linked-list-cycle/solution/) | [C++](0141-Linked-List-Cycle/cpp-0141/) | | |
+| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [solution](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [C++](0142-Linked-List-Cycle-II/cpp-0142/) | | |
 | | | | | | |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [无] | [C++](0144-Binary-Tree-Preorder-Traversal/cpp-0144/) | [Java](0144-Binary-Tree-Preorder-Traversal/java-0144/src/) | |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [缺：经典非递归算法] | [C++](0145-Binary-Tree-Postorder-Traversal/cpp-0145/) | [Java](0145-Binary-Tree-Postorder-Traversal/java-0145/src/) | |

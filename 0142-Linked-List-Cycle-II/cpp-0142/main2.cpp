@@ -1,10 +1,9 @@
 /// Source : https://leetcode.com/problems/linked-list-cycle-ii/description/
 /// Author : liuyubobobo
-/// Time   : 2017-12-09
+/// Time   : 2017-11-03
 
 #include <iostream>
 #include <cassert>
-#include <set>
 
 using namespace std;
 
@@ -16,10 +15,17 @@ struct ListNode {
     ListNode(int x) : val(x), next(NULL) {}
 };
 
-/// Using Hash
+/// Two Pointers - Floyd's Tortoise and Hare
+///
+/// A great overview for the algorithm is here:
+/// -- https://stackoverflow.com/questions/3952805/proof-of-detecting-the-start-of-cycle-in-linked-list
+///
+/// UPDATE: 09 Dec 2017
+/// The official solution in leetcode is extremely great for this problem:
+/// https://leetcode.com/problems/linked-list-cycle-ii/solution/#approach-2-floyds-tortoise-and-hare-accepted
 ///
 /// Time Complexity: O(N)
-/// Space Complexity: O(N)
+/// Space Complexity: O(1)
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
@@ -27,17 +33,34 @@ public:
         if(head == NULL || head->next == NULL)
             return NULL;
 
-        set<ListNode*> records;
-        ListNode* curNode = head;
-        while(curNode != NULL){
-            if(records.find(curNode) != records.end())
-                return curNode;
+        ListNode* dummyHead = new ListNode(-1);
+        dummyHead->next = head;
 
-            records.insert(curNode);
-            curNode = curNode->next;
+        ListNode* slow = dummyHead;
+        ListNode* fast = dummyHead;
+        do{
+
+            if(fast->next == NULL || fast->next->next == NULL)
+                return NULL;
+
+            fast = fast->next->next;
+            slow = slow->next;
+        }while(slow != fast);
+
+        // cout << "Meet Point: " << slow->val << endl;
+
+        ListNode* entrance = slow;
+        assert(entrance == fast);
+
+        ListNode* p = dummyHead;
+        while(p != entrance){
+            p = p->next;
+            entrance = entrance->next;
         }
 
-        return NULL;
+        delete dummyHead;
+
+        return entrance;
     }
 };
 
