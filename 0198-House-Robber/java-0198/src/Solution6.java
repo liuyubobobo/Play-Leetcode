@@ -5,7 +5,7 @@
 /// Dynamic Programming with O(1) space
 /// Another way to define the states
 /// Time Complexity: O(n)
-/// Space Complexity: O(n)
+/// Space Complexity: O(1)
 public class Solution6 {
 
     public int rob(int[] nums) {
