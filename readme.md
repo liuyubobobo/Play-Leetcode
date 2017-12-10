@@ -230,3 +230,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 740 | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/) | [solution](https://leetcode.com/problems/delete-and-earn/solution/) | [C++](0740-Delete-and-Earn/cpp-0740/) | | |
 | 741 | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/description/) | [solution](https://leetcode.com/problems/cherry-pickup/solution/)<br/>[缺：自底向上的动态规划] | [C++](0741-Cherry-Pickup/cpp-0741/) | | |
+
+---
+
+短期计划：contest 62; 738, 739, 730, 726, contest 56, ...
