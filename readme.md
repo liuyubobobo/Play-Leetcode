@@ -233,4 +233,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 
 ---
 
-短期计划：contest 62; 738, 739, 730, 726, contest 56, ...
+短期计划：<br/>
+543, 646, 651, 647, 650, 541, 660, 659, 648, 663, 652, 661, 666, 664, 662, 657, 544, 649; <br/>
+contest 62: 743, 744; <br/>
+contest 61: 738, 739; <br/>
+contest 59: 730; <br/> 
+contest 58: 726; <br/> 
+contest 56, ...
