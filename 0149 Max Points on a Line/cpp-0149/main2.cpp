@@ -1,24 +1,12 @@
-/// Created by liuyubobobo on 7/17/17.
-/// Leetcode 149. Max Points on a Line
-/// https://leetcode.com/problems/max-points-on-a-line/
+/// Source : https://leetcode.com/problems/max-points-on-a-line/
+/// Author : liuyubobobo
+/// Time   : 2017-07-17
 
 #include <iostream>
 #include <vector>
 #include <map>
 
 using namespace std;
-
-
-/***
- * For each point, iterate all other points
- * Using the hash table(which is unordered_map in this case) to record all the slope
- *
- * In this code, we use map instead of unordered_map,
- * which can use pair as key value natively, and make the performance batter.
- *
- * Time Complexity:  O(n^2)
- * Space Complexity: O(n)
- */
 
 
 /// Definition for a point.
@@ -29,6 +17,10 @@ struct Point {
     Point(int a, int b) : x(a), y(b) {}
 };
 
+/// Using Hash Map
+/// Using pair directly to record the slopes
+/// Time Complexity: O(n^2)
+/// Space Complexity: O(n)
 class Solution {
 public:
     int maxPoints(vector<Point>& points) {
@@ -39,7 +31,7 @@ public:
         int res = 1;
         for( int i = 0 ; i < points.size() ; i ++ ){
 
-            map<pair<int,int>,int> record;
+            map<pair<int,int>, int> record;
             int samePoint = 0;
             for( int j = 0 ; j < points.size() ; j ++ ){
 
