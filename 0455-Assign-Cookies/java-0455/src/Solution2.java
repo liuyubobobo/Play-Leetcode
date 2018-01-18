@@ -1,28 +1,27 @@
 /// Source : https://leetcode.com/problems/assign-cookies/description/
 /// Author : liuyubobobo
-/// Time   : 2017-11-19
-
+/// Time   : 2018-01-17
 import java.util.Arrays;
 
 /// Greedy Algorithm
-/// Serve most greedy children first
+/// Serve least greedy children first
 /// Time Complexity: O(nlogn)
 /// Space Complexity: O(1)
-public class Solution {
+public class Solution2 {
 
     public int findContentChildren(int[] g, int[] s) {
 
         Arrays.sort(g);
         Arrays.sort(s);
 
-        int gi = g.length - 1, si = s.length - 1;
+        int gi = 0, si = 0;
         int res = 0;
-        while(gi >= 0 && si >= 0){
+        while(gi < g.length && si < s.length){
             if(s[si] >= g[gi]){
                 res ++;
-                si --;
+                gi ++;
             }
-            gi --;
+            si ++;
         }
 
         return res;
@@ -32,10 +31,10 @@ public class Solution {
 
         int g1[] = {1, 2, 3};
         int s1[] = {1, 1};
-        System.out.println((new Solution()).findContentChildren(g1, s1));
+        System.out.println((new Solution2()).findContentChildren(g1, s1));
 
         int g2[] = {1, 2};
         int s2[] = {1, 2, 3};
-        System.out.println((new Solution()).findContentChildren(g2, s2));
+        System.out.println((new Solution2()).findContentChildren(g2, s2));
     }
 }

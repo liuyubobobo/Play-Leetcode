@@ -1,6 +1,6 @@
 /// Source : https://leetcode.com/problems/assign-cookies/description/
 /// Author : liuyubobobo
-/// Time   : 2017-11-19
+/// Time   : 2018-01-17
 
 #include <iostream>
 #include <vector>
@@ -9,15 +9,15 @@
 using namespace std;
 
 /// Greedy Algorithm
-/// Serve most greedy children first
+/// Serve least greedy children first
 /// Time Complexity: O(nlogn)
 /// Space Complexity: O(1)
 class Solution {
 public:
     int findContentChildren(vector<int>& g, vector<int>& s) {
 
-        sort(g.begin(), g.end(), greater<int>());
-        sort(s.begin(), s.end(), greater<int>());
+        sort(g.begin(), g.end());
+        sort(s.begin(), s.end());
 
         int gi = 0, si = 0;
         int res = 0;
@@ -28,7 +28,7 @@ public:
                 gi ++;
             }
             else
-                gi ++;
+                si ++;
         }
 
         return res;
