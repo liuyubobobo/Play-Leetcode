@@ -237,6 +237,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 ---
 
 短期计划：<br/>
+contest 65: 754, 755, 756, 757; <br/>
+409; 50; 305; <br/>
 contest 64: 747, 751, 752, 753; <br/>
 22, 527; <br/>
 contest 63: 746, 748, 749, 750; <br/>
