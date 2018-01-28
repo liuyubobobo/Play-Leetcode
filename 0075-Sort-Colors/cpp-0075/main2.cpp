@@ -39,10 +39,13 @@ void printArr(const vector<int>& vec){
 
 int main() {
 
-    int nums[] = {2, 2, 2, 1, 1, 0};
-    vector<int> vec = vector<int>(nums, nums + sizeof(nums)/sizeof(int));
-    Solution().sortColors(vec);
-    printArr(vec);
+    vector<int> vec1 = {2, 2, 2, 1, 1, 0};
+    Solution().sortColors(vec1);
+    printArr(vec1);
+
+    vector<int> vec2 = {2};
+    Solution().sortColors(vec2);
+    printArr(vec2);
 
     return 0;
 }
