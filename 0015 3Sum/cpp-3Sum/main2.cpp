@@ -33,8 +33,7 @@ public:
             while( bindex < cindex) {
 
                 if (nums[bindex] + nums[cindex] == -nums[index]) {
-                    int triplet[] = {nums[index], nums[bindex], nums[cindex]};
-                    res.push_back(vector<int>(triplet, triplet + 3));
+                    res.push_back({nums[index], nums[bindex], nums[cindex]});
 
                     // continue to look for other pairs
                     bindex = next_num_index( nums, bindex );

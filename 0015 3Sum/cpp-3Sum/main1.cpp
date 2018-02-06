@@ -26,7 +26,7 @@ public:
 
         vector<vector<int>> res;
 
-        if(counter.find(0) != counter.end() && counter.find(0)->second >= 3)
+        if(counter[0] >= 3)
             res.push_back({0, 0, 0});
 
         // Remove duplication
