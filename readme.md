@@ -239,12 +239,15 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 741 | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/description/) | [solution](https://leetcode.com/problems/cherry-pickup/solution/)<br/>[缺：自底向上的动态规划] | [C++](0741-Cherry-Pickup/cpp-0741/) | | |
 | | | | | | |
 | 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) | [solution](https://leetcode.com/problems/toeplitz-matrix/solution/) | [C++](0766-Toeplitz-Matrix/cpp-0766/) | | |
+| | | | | | |
+| 781 | [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/description/) | [solution](https://leetcode.com/problems/rabbits-in-forest/solution/) | [C++](0781-Rabbits-in-Forest/cpp-0781/) | | |
+| | | | | | |
 | 783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) | [solution](https://leetcode.com/problems/minimum-distance-between-bst-nodes/solution/) | [C++](0783-Minimum-Distance-Between-BST-Nodes/cpp-0783/) | | |
 
 ---
 
 短期计划：<br/>
-contest 71: 781, 780, 782; <br/>
+contest 71: 780, 782; <br/>
 contest 70: 779, 776, 777, 778; <br/>
 contest 69: 771, 775, 773, 774; <br/>
 772; <br/>
