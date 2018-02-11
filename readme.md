@@ -34,6 +34,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 003 | [Longest-Substring-Without-Repeating-Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [solution](https://leetcode.com/problems/longest-substring-without-repeating-characters/solution/) | [C++](0003-Longest-Substring-Without-Repeating-Characters/cpp-0003/) | [Java](0003-Longest-Substring-Without-Repeating-Characters/java-0003/src/) | |
 | | | | | | |
+| 015 | [3Sum](https://leetcode.com/problems/3sum/description/) | [无] | [C++](0015-3Sum/cpp-0015/) | | |
+| | | | | | |
 | 017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [无] | [C++](0017-Letter-Combinations-of-a-Phone-Number/cpp-0017/) | [Java](0017-Letter-Combinations-of-a-Phone-Number/java-0017/src/) | |
 | | | | | | |
 | 019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [solution](https://leetcode.com/problems/remove-nth-node-from-end-of-list/solution/) | [C++](0019-Remove-Nth-Node-From-End-of-List/cpp-0019/) | [Java](0019-Remove-Nth-Node-From-End-of-List/java-0019/src/) | |
@@ -235,10 +237,18 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 740 | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/) | [solution](https://leetcode.com/problems/delete-and-earn/solution/) | [C++](0740-Delete-and-Earn/cpp-0740/) | | |
 | 741 | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/description/) | [solution](https://leetcode.com/problems/cherry-pickup/solution/)<br/>[缺：自底向上的动态规划] | [C++](0741-Cherry-Pickup/cpp-0741/) | | |
+| | | | | | |
+| 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) | [solution](https://leetcode.com/problems/toeplitz-matrix/solution/) | [C++](0766-Toeplitz-Matrix/cpp-0766/) | | |
+| 783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) | [solution](https://leetcode.com/problems/minimum-distance-between-bst-nodes/solution/) | [C++](0783-Minimum-Distance-Between-BST-Nodes/cpp-0783/) | | |
 
 ---
 
 短期计划：<br/>
+contest 71: 781, 780, 782; <br/>
+contest 70: 779, 776, 777, 778; <br/>
+contest 69: 771, 775, 773, 774; <br/>
+772; <br/>
+contest 68: 767, 768, 769, 770; <br/>
 contest 67: 762, 763, 764, 765; <br/>
 contest 66: 758, 759, 760, 761; <br/>
 446; <br/>
