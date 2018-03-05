@@ -252,6 +252,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 781 | [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/description/) | [solution](https://leetcode.com/problems/rabbits-in-forest/solution/) | [C++](0781-Rabbits-in-Forest/cpp-0781/) | | |
 | | | | | | |
 | 783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) | [solution](https://leetcode.com/problems/minimum-distance-between-bst-nodes/solution/) | [C++](0783-Minimum-Distance-Between-BST-Nodes/cpp-0783/) | | |
+| 794 | [Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/description/) | [solution](https://leetcode.com/problems/valid-tic-tac-toe-state/solution/) | [C++](0794-Valid-Tic-Tac-Toe-State/cpp-0794/) | | |
 
 ---
 
