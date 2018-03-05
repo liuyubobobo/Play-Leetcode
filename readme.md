@@ -253,6 +253,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) | [solution](https://leetcode.com/problems/minimum-distance-between-bst-nodes/solution/) | [C++](0783-Minimum-Distance-Between-BST-Nodes/cpp-0783/) | | |
 | | | | | | |
+| 788 | [Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) | [solution](https://leetcode.com/problems/rotated-digits/solution/) | [C++](0788-Rotated-Digits/cpp-0788/) | | |
+| | | | | | |
 | 792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/) | [solution](https://leetcode.com/problems/number-of-matching-subsequences/solution/) | [C++](0792-Number-of-Matching-Subsequences/cpp-0792/) | | |
 | 793 | [Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/description/) | [solution](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/solution/) | [C++](0793-Preimage-Size-of-Factorial-Zeroes-Function/cpp-0793/) | | |
 | 794 | [Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/description/) | [solution](https://leetcode.com/problems/valid-tic-tac-toe-state/solution/) | [C++](0794-Valid-Tic-Tac-Toe-State/cpp-0794/) | | |
@@ -261,8 +263,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 ---
 
 短期计划：<br/>
-contest 74: 792, 795; <br/>
-contest 73: 788, 789, 790, 791; <br/> 
+contest 73: 789, 790, 791; <br/> 
 contest 72: 784, 785, 786, 787; <br/> 
 contest 71: 782; <br/>
 contest 70: 779, 776, 777, 778; <br/>
