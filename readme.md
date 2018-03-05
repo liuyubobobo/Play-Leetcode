@@ -130,6 +130,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) | [无] | [C++](0239-Sliding-Window-Maximum/cpp-0239/) | | |
 | | | | | | |
+| 254 | [Factor Combinations](https://leetcode.com/problems/factor-combinations/description/) | [无] | [C++](0254-Factor-Combinations/cpp-0254/) | | |
+| | | | | | |
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | [缺：非递归算法] | [C++](0257-Binary-Tree-Paths/cpp-0257/) | [Java](0257-Binary-Tree-Paths/java-0257/src/) | |
 | | | | | | |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [solution](https://leetcode.com/problems/missing-number/solution/) | [C++](0268-Missing-Number/cpp-0268/) | | |
