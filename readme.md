@@ -193,6 +193,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | | [C++](0598-Range-Addition-II/cpp-0598/) | | |
 | | | | | | |
+| 600 | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/description/) | [solution](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/solution/)<br/>[缺：Bit Manipulation]| [C++](0600-Non-negative-Integers-without-Consecutive-Ones/cpp-0600/) | | |
+| | | | | | |
 | 648 | [Replace Words](https://leetcode.com/problems/replace-words/description/) | [无] | [C++](0648-Replace-Words/cpp-0648/) | | |
 | | | | | | |
 | 672 | [Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/description/) | [solution](https://leetcode.com/problems/bulb-switcher-ii/solution/) | [C++](0672-Bulb-Switcher-II/cpp-0672/) | | |
