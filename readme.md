@@ -256,6 +256,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/) | [solution](https://leetcode.com/problems/number-of-matching-subsequences/solution/) | [C++](0792-Number-of-Matching-Subsequences/cpp-0792/) | | |
 | 793 | [Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/description/) | [solution](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/solution/) | [C++](0793-Preimage-Size-of-Factorial-Zeroes-Function/cpp-0793/) | | |
 | 794 | [Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/description/) | [solution](https://leetcode.com/problems/valid-tic-tac-toe-state/solution/) | [C++](0794-Valid-Tic-Tac-Toe-State/cpp-0794/) | | |
+| 795 | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/) | [solution](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/solution/)| [C++](0795-Number-of-Subarrays-with-Bounded-Maximum/cpp-0795/) | | |
 
 ---
 
