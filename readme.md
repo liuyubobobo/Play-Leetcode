@@ -252,11 +252,16 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 781 | [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/description/) | [solution](https://leetcode.com/problems/rabbits-in-forest/solution/) | [C++](0781-Rabbits-in-Forest/cpp-0781/) | | |
 | | | | | | |
 | 783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) | [solution](https://leetcode.com/problems/minimum-distance-between-bst-nodes/solution/) | [C++](0783-Minimum-Distance-Between-BST-Nodes/cpp-0783/) | | |
+| | | | | | |
+| 793 | [Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/description/) | [solution](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/solution/) | [C++](0793-Preimage-Size-of-Factorial-Zeroes-Function/cpp-0793/) | | |
 | 794 | [Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/description/) | [solution](https://leetcode.com/problems/valid-tic-tac-toe-state/solution/) | [C++](0794-Valid-Tic-Tac-Toe-State/cpp-0794/) | | |
 
 ---
 
 短期计划：<br/>
+contest 74: 792, 795; <br/>
+contest 73: 788, 789, 790, 791; <br/> 
+contest 72: 784, 785, 786, 787; <br/> 
 contest 71: 782; <br/>
 contest 70: 779, 776, 777, 778; <br/>
 contest 69: 771, 775, 773, 774; <br/>
