@@ -258,6 +258,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 788 | [Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) | [solution](https://leetcode.com/problems/rotated-digits/solution/) | [C++](0788-Rotated-Digits/cpp-0788/) | | |
 | 789 | [Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/description/) | [solution](https://leetcode.com/problems/escape-the-ghosts/solution/) | [C++](0789-Escape-The-Ghosts/cpp-0789/) | | |
 | | | | | | |
+| 791 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [solution](https://leetcode.com/problems/custom-sort-string/solution/) | [C++](0791-Custom-Sort-String/cpp-0791/) | | |
 | 792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/) | [solution](https://leetcode.com/problems/number-of-matching-subsequences/solution/) | [C++](0792-Number-of-Matching-Subsequences/cpp-0792/) | | |
 | 793 | [Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/description/) | [solution](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/solution/) | [C++](0793-Preimage-Size-of-Factorial-Zeroes-Function/cpp-0793/) | | |
 | 794 | [Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/description/) | [solution](https://leetcode.com/problems/valid-tic-tac-toe-state/solution/) | [C++](0794-Valid-Tic-Tac-Toe-State/cpp-0794/) | | |
