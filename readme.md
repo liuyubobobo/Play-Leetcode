@@ -47,6 +47,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 034 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [solution](https://leetcode.com/problems/search-for-a-range/solution/) | [C++](0034-Search-for-a-Range/cpp-0034/) | | |
 | | | | | | |
 | 039 | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [无] | [C++](0039-Combination-Sum/cpp-0039/) | | |
+| 040 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [无] | [C++](0040-Combination-Sum-II/cpp-0040/) | | |
 | | | | | | |
 | 046 | [Permutations](https://leetcode.com/problems/permutations/description/) | [缺：排列算法整理] | [C++](0046-Permutations/cpp-0046/) | [Java](0046-Permutations/java-0046/src/) | |
 | 047 | [Permutations II](https://leetcode.com/problems/permutations-ii/description/) | [无] | [C++](0047-Permutations-II/cpp-0047/) | | |
