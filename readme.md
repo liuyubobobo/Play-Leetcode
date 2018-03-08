@@ -257,7 +257,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 788 | [Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) | [solution](https://leetcode.com/problems/rotated-digits/solution/) | [C++](0788-Rotated-Digits/cpp-0788/) | | |
 | 789 | [Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/description/) | [solution](https://leetcode.com/problems/escape-the-ghosts/solution/) | [C++](0789-Escape-The-Ghosts/cpp-0789/) | | |
-| | | | | | |
+| 790 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/) | [solution](https://leetcode.com/problems/domino-and-tromino-tiling/solution/)<br/>[缺：转移矩阵求幂解法] | [C++](0790-Domino-and-Tromino-Tiling/cpp-0790/) | | |
 | 791 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [solution](https://leetcode.com/problems/custom-sort-string/solution/) | [C++](0791-Custom-Sort-String/cpp-0791/) | | |
 | 792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/) | [solution](https://leetcode.com/problems/number-of-matching-subsequences/solution/) | [C++](0792-Number-of-Matching-Subsequences/cpp-0792/) | | |
 | 793 | [Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/description/) | [solution](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/solution/) | [C++](0793-Preimage-Size-of-Factorial-Zeroes-Function/cpp-0793/) | | |
@@ -267,7 +267,6 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 ---
 
 短期计划：<br/>
-contest 73: 789, 790, 791; <br/> 
 contest 72: 784, 785, 786, 787; <br/> 
 contest 71: 782; <br/>
 contest 70: 779, 776, 777, 778; <br/>
