@@ -261,6 +261,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | [solution](https://leetcode.com/problems/letter-case-permutation/solution/) | [C++](0784-Letter-Case-Permutation/cpp-0784/) | | |
 | 785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) | [solution](https://leetcode.com/problems/is-graph-bipartite/description/) | [C++](0785-Is-Graph-Bipartite/cpp-0785/) | | |
 | | | | | | |
+| 787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) | [solution](https://leetcode.com/problems/cheapest-flights-within-k-stops/solution/) | [C++](0787-Cheapest-Flights-Within-K-Stops/cpp-0787/) | | |
 | 788 | [Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) | [solution](https://leetcode.com/problems/rotated-digits/solution/) | [C++](0788-Rotated-Digits/cpp-0788/) | | |
 | 789 | [Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/description/) | [solution](https://leetcode.com/problems/escape-the-ghosts/solution/) | [C++](0789-Escape-The-Ghosts/cpp-0789/) | | |
 | 790 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/) | [solution](https://leetcode.com/problems/domino-and-tromino-tiling/solution/)<br/>[缺：转移矩阵求幂解法] | [C++](0790-Domino-and-Tromino-Tiling/cpp-0790/) | | |
