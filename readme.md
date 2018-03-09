@@ -259,6 +259,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) | [solution](https://leetcode.com/problems/minimum-distance-between-bst-nodes/solution/) | [C++](0783-Minimum-Distance-Between-BST-Nodes/cpp-0783/) | | |
 | 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | [solution](https://leetcode.com/problems/letter-case-permutation/solution/) | [C++](0784-Letter-Case-Permutation/cpp-0784/) | | |
+| 785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) | [solution](https://leetcode.com/problems/is-graph-bipartite/description/) | [C++](0785-Is-Graph-Bipartite/cpp-0785/) | | |
 | | | | | | |
 | 788 | [Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) | [solution](https://leetcode.com/problems/rotated-digits/solution/) | [C++](0788-Rotated-Digits/cpp-0788/) | | |
 | 789 | [Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/description/) | [solution](https://leetcode.com/problems/escape-the-ghosts/solution/) | [C++](0789-Escape-The-Ghosts/cpp-0789/) | | |
@@ -272,7 +273,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 ---
 
 短期计划：<br/>
-contest 72: 784, 785, 786, 787; <br/> 
+contest 72: 786, 787; <br/> 
 contest 71: 782; <br/>
 contest 70: 779, 776, 777, 778; <br/>
 contest 69: 771, 775, 773, 774; <br/>
