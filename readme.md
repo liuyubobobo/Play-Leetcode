@@ -258,6 +258,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 781 | [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/description/) | [solution](https://leetcode.com/problems/rabbits-in-forest/solution/) | [C++](0781-Rabbits-in-Forest/cpp-0781/) | | |
 | | | | | | |
 | 783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) | [solution](https://leetcode.com/problems/minimum-distance-between-bst-nodes/solution/) | [C++](0783-Minimum-Distance-Between-BST-Nodes/cpp-0783/) | | |
+| 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | [solution](https://leetcode.com/problems/letter-case-permutation/solution/) | [C++](0784-Letter-Case-Permutation/cpp-0784/) | | |
 | | | | | | |
 | 788 | [Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) | [solution](https://leetcode.com/problems/rotated-digits/solution/) | [C++](0788-Rotated-Digits/cpp-0788/) | | |
 | 789 | [Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/description/) | [solution](https://leetcode.com/problems/escape-the-ghosts/solution/) | [C++](0789-Escape-The-Ghosts/cpp-0789/) | | |
