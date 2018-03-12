@@ -269,11 +269,14 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/) | [solution](https://leetcode.com/problems/number-of-matching-subsequences/solution/) | [C++](0792-Number-of-Matching-Subsequences/cpp-0792/) | | |
 | 793 | [Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/description/) | [solution](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/solution/) | [C++](0793-Preimage-Size-of-Factorial-Zeroes-Function/cpp-0793/) | | |
 | 794 | [Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/description/) | [solution](https://leetcode.com/problems/valid-tic-tac-toe-state/solution/) | [C++](0794-Valid-Tic-Tac-Toe-State/cpp-0794/) | | |
-| 795 | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/) | [solution](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/solution/)| [C++](0795-Number-of-Subarrays-with-Bounded-Maximum/cpp-0795/) | | |
+| 795 | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/) | [solution](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/solution/) | [C++](0795-Number-of-Subarrays-with-Bounded-Maximum/cpp-0795/) | | |
+| 796 | [Rotate String](https://leetcode.com/problems/rotate-string/description/) | [solution](https://leetcode.com/problems/rotate-string/solution/)<br/>[缺：Rolling Hash, KMP] | [C++](0796-Rotate-String/cpp-0796/) | | |
+| 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/) | [solution](https://leetcode.com/problems/all-paths-from-source-to-target/solution/) | [C++](0797-All-Paths-From-Source-to-Target/cpp-0797/) | | |
 
 ---
 
 计划：<br/>
+contest 75: 798, 799; <br/>
 contest 71: 782; <br/>
 contest 70: 779, 776, 777, 778; <br/>
 contest 69: 771, 775, 773, 774; <br/>
