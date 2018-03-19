@@ -56,6 +56,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [solution](https://leetcode.com/problems/merge-intervals/solution/) | [C++](0056-Merge-Intervals/cpp-0056/) | | |
 | | | | | | |
+| 061 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [无] | [C++](0061-Rotate-List/cpp-0061/) | | |
+| | | | | | |
 | 064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [solution](https://leetcode.com/problems/minimum-path-sum/solution/) | [C++](0064-Minimum-Path-Sum/cpp-0064/) | [Java](0064-Minimum-Path-Sum/java-0064/src/) | |
 | | | | | | |
 | 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [solution](https://leetcode.com/problems/climbing-stairs/solution/) | [C++](0070-Climbing-Stairs/cpp-0070/) | [Java](0070-Climbing-Stairs/java-0070/src/) | |
@@ -272,11 +274,15 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 795 | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/) | [solution](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/solution/) | [C++](0795-Number-of-Subarrays-with-Bounded-Maximum/cpp-0795/) | | |
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string/description/) | [solution](https://leetcode.com/problems/rotate-string/solution/)<br/>[缺：Rolling Hash, KMP] | [C++](0796-Rotate-String/cpp-0796/) | | |
 | 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/) | [solution](https://leetcode.com/problems/all-paths-from-source-to-target/solution/) | [C++](0797-All-Paths-From-Source-to-Target/cpp-0797/) | | |
+| | | | | | |
+| 799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/description/) | [solution](https://leetcode.com/problems/champagne-tower/solution/) | [C++](0799-Champagne-Tower/cpp-0799/) | | |
+| | | | | | |
 
 ---
 
 计划：<br/>
-contest 75: 798, 799; <br/>
+contest 76: 800, 801, 802, 803; <br/>
+contest 75: 798; <br/>
 contest 71: 782; <br/>
 contest 70: 779, 776, 777, 778; <br/>
 contest 69: 771, 775, 773, 774; <br/>
