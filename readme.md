@@ -276,12 +276,13 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/) | [solution](https://leetcode.com/problems/all-paths-from-source-to-target/solution/) | [C++](0797-All-Paths-From-Source-to-Target/cpp-0797/) | | |
 | | | | | | |
 | 799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/description/) | [solution](https://leetcode.com/problems/champagne-tower/solution/) | [C++](0799-Champagne-Tower/cpp-0799/) | | |
+| 800 | [Similar RGB Color](https://leetcode.com/problems/similar-rgb-color/description/) | [solution](https://leetcode.com/problems/similar-rgb-color/solution/) | [C++](0800-Similar-RGB-Color/cpp-0800/) | | |
 | | | | | | |
 
 ---
 
 计划：<br/>
-contest 76: 800, 801, 802, 803; <br/>
+contest 76: 801, 802, 803; <br/>
 contest 75: 798; <br/>
 contest 71: 782; <br/>
 contest 70: 779, 776, 777, 778; <br/>
