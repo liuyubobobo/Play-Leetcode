@@ -278,6 +278,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/description/) | [solution](https://leetcode.com/problems/champagne-tower/solution/) | [C++](0799-Champagne-Tower/cpp-0799/) | | |
 | 800 | [Similar RGB Color](https://leetcode.com/problems/similar-rgb-color/description/) | [solution](https://leetcode.com/problems/similar-rgb-color/solution/) | [C++](0800-Similar-RGB-Color/cpp-0800/) | | |
 | | | | | | |
+| 806 | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/) | [solution](https://leetcode.com/problems/number-of-lines-to-write-string/solution/) | [C++](0806-Number-of-Lines-To-Write-String/cpp-0806/) | | |
+| | | | | | |
 
 ---
 
