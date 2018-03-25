@@ -279,9 +279,9 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 800 | [Similar RGB Color](https://leetcode.com/problems/similar-rgb-color/description/) | [solution](https://leetcode.com/problems/similar-rgb-color/solution/) | [C++](0800-Similar-RGB-Color/cpp-0800/) | | |
 | | | | | | |
 | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [solution](https://leetcode.com/problems/unique-morse-code-words/solution/) | [C++](0804-Unique-Morse-Code-Words/cpp-0804/) | | |
-| | | | | | |
+| 805 | [Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/description/) | [solution](https://leetcode.com/problems/split-array-with-same-average/solution/) | [C++](0805-Split-Array-With-Same-Average/cpp-0805/) | | |
 | 806 | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/) | [solution](https://leetcode.com/problems/number-of-lines-to-write-string/solution/) | [C++](0806-Number-of-Lines-To-Write-String/cpp-0806/) | | |
-| | | | | | |
+| 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/) | [solution](https://leetcode.com/problems/max-increase-to-keep-city-skyline/solution/) | [C++](0807-Max-Increase-to-Keep-City-Skyline/cpp-0807/) | | |
 
 ---
 
