@@ -272,7 +272,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 793 | [Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/description/) | [solution](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/solution/) | [C++](0793-Preimage-Size-of-Factorial-Zeroes-Function/cpp-0793/) | | |
 | 794 | [Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/description/) | [solution](https://leetcode.com/problems/valid-tic-tac-toe-state/solution/) | [C++](0794-Valid-Tic-Tac-Toe-State/cpp-0794/) | | |
 | 795 | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/) | [solution](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/solution/) | [C++](0795-Number-of-Subarrays-with-Bounded-Maximum/cpp-0795/) | | |
-| 796 | [Rotate String](https://leetcode.com/problems/rotate-string/description/) | [solution](https://leetcode.com/problems/rotate-string/solution/)<br/>[缺：Rolling Hash, KMP] | [C++](0796-Rotate-String/cpp-0796/) | | |
+| 796 | [Rotate String](https://leetcode.com/problems/rotate-string/description/) | [solution](https://leetcode.com/problems/rotate-string/solution/)<br/>[缺：Rolling Hash] | [C++](0796-Rotate-String/cpp-0796/) | | |
 | 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/) | [solution](https://leetcode.com/problems/all-paths-from-source-to-target/solution/) | [C++](0797-All-Paths-From-Source-to-Target/cpp-0797/) | | |
 | | | | | | |
 | 799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/description/) | [solution](https://leetcode.com/problems/champagne-tower/solution/) | [C++](0799-Champagne-Tower/cpp-0799/) | | |
@@ -282,28 +282,3 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 805 | [Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/description/) | [solution](https://leetcode.com/problems/split-array-with-same-average/solution/) | [C++](0805-Split-Array-With-Same-Average/cpp-0805/) | | |
 | 806 | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/) | [solution](https://leetcode.com/problems/number-of-lines-to-write-string/solution/) | [C++](0806-Number-of-Lines-To-Write-String/cpp-0806/) | | |
 | 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/) | [solution](https://leetcode.com/problems/max-increase-to-keep-city-skyline/solution/) | [C++](0807-Max-Increase-to-Keep-City-Skyline/cpp-0807/) | | |
-
----
-
-计划：<br/>
-contest 76: 801, 802, 803; <br/>
-contest 75: 798; <br/>
-contest 71: 782; <br/>
-contest 70: 779, 776, 777, 778; <br/>
-contest 69: 771, 775, 773, 774; <br/>
-772; <br/>
-contest 68: 767, 768, 769, 770; <br/>
-contest 67: 762, 763, 764, 765; <br/>
-contest 66: 758, 759, 760, 761; <br/>
-446; <br/>
-contest 65: 754, 755, 756, 757; <br/>
-409; 50; 305; <br/>
-contest 64: 747, 751, 752, 753; <br/>
-22, 527; <br/>
-contest 63: 746, 748, 749, 750; <br/>
-240, 200, 410, 118, 179, 287, 543, 646, 651, 647, 650, 541, 660, 659, 648, 663, 652, 661, 666, 664, 662, 657, 544, 649; <br/>
-contest 62: 743, 744; <br/>
-contest 61: 738, 739; <br/>
-contest 59: 730; <br/> 
-contest 58: 726; <br/> 
-contest 56, ...
