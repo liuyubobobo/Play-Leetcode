@@ -30,7 +30,7 @@ public:
             vector<double>::iterator iter =
                     lower_bound(logsums.begin() + i, logsums.end(),
                                 logsums[i-1] + logk);
-            res += ((iter - 1) - (logsums.begin() + i) + 1);
+            res += (iter - logsums.begin()) - i;
         }
 
         return res;
