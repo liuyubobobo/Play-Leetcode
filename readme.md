@@ -83,7 +83,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | | [C++](0122-Best-Time-to-Buy-and-Sell-Stock-II/cpp-0122/) | | |
 | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | | [C++](0123-Best-Time-to-Buy-and-Sell-Stock-III/cpp-0123/) | | |
 | | | | | | |
-| 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/description/) | [无] | [C++](0127-Word-Ladder/cpp-0127/) | | |
+| 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/description/) | [无] | [C++](0127-Word-Ladder/cpp-0127/) | [Java](0127-Word-Ladder/java-0127/) | |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-9consecutive-sequence/description/) | | [C++](0128-Longest-Consecutive-Sequence/cpp-0128/) | | |
 | | | | | | |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [solution](https://leetcode.com/problems/linked-list-cycle/solution/) | [C++](0141-Linked-List-Cycle/cpp-0141/) | | |

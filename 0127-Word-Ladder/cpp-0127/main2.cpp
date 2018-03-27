@@ -19,9 +19,7 @@ class Solution {
 public:
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
 
-        unordered_set<string> wordSet;
-        for(string word: wordList)
-            wordSet.insert(word);
+        unordered_set<string> wordSet(wordList.begin(), wordList.end());
 
         // bfs
         queue<pair<string, int>> q;

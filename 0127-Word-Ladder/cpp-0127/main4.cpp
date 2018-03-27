@@ -1,6 +1,7 @@
 /// Source : https://leetcode.com/problems/word-ladder/description/
 /// Author : liuyubobobo
 /// Time   : 2017-11-21
+/// Updated: 2018-03-27
 
 #include <iostream>
 #include <vector>
@@ -26,37 +27,33 @@ public:
         unordered_map<string, int> step_s;
         unordered_map<string, int> step_t;
 
-        queue<pair<string, int>> queue_s;
-        queue<pair<string, int>> queue_t;
+        queue<string> queue_s;
+        queue<string> queue_t;
 
-        queue_s.push(make_pair(beginWord, 1));
+        queue_s.push(beginWord);
         step_s[beginWord] = 1;
 
-        queue_t.push(make_pair(endWord, 1));
+        queue_t.push(endWord);
         step_t[endWord] = 1;
         while(!queue_s.empty() && !queue_t.empty()){
 
-            string sWord = queue_s.front().first;
-            int sStep = queue_s.front().second;
+            string sWord = queue_s.front();
             queue_s.pop();
 
-            string tWord = queue_t.front().first;
-            int tStep = queue_t.front().second;
+            string tWord = queue_t.front();
             queue_t.pop();
 
-            for(string word: wordList)
+            for(string word: wordList){
                 if(step_s.find(word) == step_s.end() && similar(word, sWord)){
-                    int newStep = step_s[sWord] + 1;
-                    step_s[word] = newStep;
-                    queue_s.push(make_pair(word, newStep));
+                    step_s[word] = step_s[sWord] + 1;
+                    queue_s.push(word);
                 }
 
-            for(string word: wordList)
                 if(step_t.find(word) == step_t.end() && similar(word, tWord)){
-                    int newStep = step_t[tWord] + 1;
-                    step_t[word] = newStep;
-                    queue_t.push(make_pair(word, newStep));
+                    step_t[word] = step_t[tWord] + 1;
+                    queue_t.push(word);
                 }
+            }
 
             // check intersection
             int res = INT_MAX;
