@@ -287,3 +287,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 809 | [Expressive Words](https://leetcode.com/problems/expressive-words/description/) | [solution](https://leetcode.com/problems/expressive-words/solution/) | [C++](0809-Expressive-Words/cpp-0809/) | | |
 | | | | | | |
 | 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) | [solution](https://leetcode.com/problems/subdomain-visit-count/solution/) | [C++](0811-Subdomain-Visit-Count/cpp-0811/) | | |
+| | | | | | |
+| 817 | [Linked List Components](https://leetcode.com/problems/linked-list-components/description/) | [solution](https://leetcode.com/problems/linked-list-components/solution/) | [C++](0817-Linked-List-Components/cpp-0817/) | | |
+| | | | | | |
+| 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/description/) | [solution](https://leetcode.com/problems/most-common-word/solution/) | [C++](0819-Most-Common-Word/cpp-0819/) | | |
