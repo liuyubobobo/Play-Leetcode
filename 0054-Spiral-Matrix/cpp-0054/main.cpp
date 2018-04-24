@@ -1,8 +1,16 @@
+/// Source : https://leetcode.com/problems/spiral-matrix/description/
+/// Author : liuyubobobo
+/// Time   : 2018-04-24
+
 #include <iostream>
 #include <vector>
 
 using namespace std;
 
+
+/// Simulation
+/// Time Complexity: O(n^2)
+/// Space Complexity: O(n^2)
 class Solution {
 
 private:
