@@ -178,6 +178,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 370 | [Range Addition](https://leetcode.com/problems/range-addition/description/) | | [C++](0370-Range-Addition/cpp-0370/) | | |
 | | | | | | |
+| 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [solution](https://leetcode.com/problems/guess-number-higher-or-lower/solution/) | [C++](0374-Guess-Number-Higher-or-Lower/cpp-0374/) | | |
+| | | | | | |
 | 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/) | [无] | [C++](0377-Combination-Sum-IV/cpp-0377/) | | |
 | | | | | | |
 | 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/) | [solution](https://leetcode.com/problems/shuffle-an-array/solution/) | [C++](0384-Shuffle-an-Array/cpp-0384/) | | |
