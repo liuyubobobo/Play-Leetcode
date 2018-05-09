@@ -77,6 +77,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [solution](https://leetcode.com/problems/binary-tree-inorder-traversal/solution/)<br/>[缺：经典非递归算法] | [C++](0094-Binary-Tree-Inorder-Traversal/cpp-0094/) | [Java](0094-Binary-Tree-Inorder-Traversal/java-0094/src/) | |
 | | | | | | |
+| 098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [无] | [C++](0098-Validate-Binary-Search-Tree/cpp-0098/) | | |
+| | | | | | |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [无] | [C++](0102-Binary-Tree-Level-Order-Traversal/cpp-0102/) | [Java](0102-Binary-Tree-Level-Order-Traversal/java-0102/src/) | |
 | | | | | | |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [无] | [C++](0104-Maximum-Depth-of-Binary-Tree/cpp-0104/) | [Java](0104-Maximum-Depth-of-Binary-Tree/java-0104/src/) | |
