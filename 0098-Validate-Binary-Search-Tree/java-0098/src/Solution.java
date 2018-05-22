@@ -5,9 +5,12 @@
 import java.util.ArrayList;
 
 /// Using inOrder traverse
+/// Store all elements in an ArrayList
+///
 /// Time Complexity: O(n)
 /// Space Complexity: O(n)
 class Solution {
+
     public boolean isValidBST(TreeNode root) {
 
         ArrayList<Integer> list = new ArrayList<>();

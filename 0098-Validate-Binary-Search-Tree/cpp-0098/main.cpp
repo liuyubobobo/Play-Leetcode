@@ -16,6 +16,8 @@ struct TreeNode {
 };
 
 /// Using inOrder traverse
+/// Store all elements in an vector
+///
 /// Time Complexity: O(n)
 /// Space Complexity: O(n)
 class Solution {

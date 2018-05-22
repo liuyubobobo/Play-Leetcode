@@ -6,6 +6,7 @@
 /// Time Complexity: O(n)
 /// Space Complexity: O(h)
 class Solution2 {
+
     public boolean isValidBST(TreeNode root) {
 
         return isValidBST(root, Integer.MIN_VALUE, Integer.MAX_VALUE);
