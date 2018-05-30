@@ -11,14 +11,6 @@ import java.util.Stack;
 // Space Complexity: O(h), h is the height of the tree
 public class Solution2 {
 
-    // Definition for a binary tree node.
-    public class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-        TreeNode(int x) { val = x; }
-    }
-
     private class Command{
         String s;   // go, print
         TreeNode node;
