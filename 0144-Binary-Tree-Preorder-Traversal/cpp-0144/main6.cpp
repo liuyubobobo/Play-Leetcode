@@ -1,6 +1,6 @@
 /// Source : https://leetcode.com/problems/binary-tree-preorder-traversal/description/
 /// Author : liuyubobobo
-/// Time   : 2018-05-30
+/// Time   : 2018-05-29
 
 #include <iostream>
 #include <vector>
@@ -17,9 +17,9 @@ struct TreeNode {
     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
 };
 
-// Another Classic Non-Recursive algorithm for preorder traversal
+// PreOrder Morris Traversal
 // Time Complexity: O(n), n is the node number in the tree
-// Space Complexity: O(h), h is the height of the tree
+// Space Complexity: O(1)
 class Solution {
 
 public:
@@ -29,37 +29,34 @@ public:
         if(root == NULL)
             return res;
 
-        stack<TreeNode*> stack;
         TreeNode* cur = root;
-        while(cur != NULL || !stack.empty()){
-            while(cur != NULL){
+        while(cur != NULL){
+            if(cur->left == NULL){
                 res.push_back(cur->val);
-                stack.push(cur);
-                cur = cur->left;
+                cur = cur->right;
             }
+            else{
+                TreeNode* prev = cur->left;
+                while(prev->right != NULL && prev->right != cur)
+                    prev = prev->right;
 
-            cur = stack.top();
-            stack.pop();
-            cur = cur->right;
+                if(prev->right == NULL){
+                    res.push_back(cur->val);
+                    prev->right = cur;
+                    cur = cur->left;
+                }
+                else{
+                    prev->right = NULL;
+                    cur = cur->right;
+                }
+            }
         }
+
         return res;
     }
 };
 
-
-void print_vec(const vector<int>& vec){
-    for(int e: vec)
-        cout << e << " ";
-    cout << endl;
-}
-
 int main() {
-
-    TreeNode* root = new TreeNode(1);
-    root->right = new TreeNode(2);
-    root->right->left = new TreeNode(3);
-    vector<int> res = Solution().preorderTraversal(root);
-    print_vec(res);
 
     return 0;
 }

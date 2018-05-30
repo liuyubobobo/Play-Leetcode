@@ -32,15 +32,16 @@ public:
         stack<TreeNode*> stack;
         TreeNode* cur = root;
         while(cur != NULL || !stack.empty()){
-            while(cur != NULL){
+            if(cur != NULL){
                 res.push_back(cur->val);
                 stack.push(cur);
                 cur = cur->left;
             }
-
-            cur = stack.top();
-            stack.pop();
-            cur = cur->right;
+            else{
+                cur = stack.top();
+                stack.pop();
+                cur = cur->right;
+            }
         }
         return res;
     }
