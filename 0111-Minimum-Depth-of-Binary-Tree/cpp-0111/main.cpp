@@ -1,3 +1,7 @@
+/// Source : https://leetcode.com/problems/minimum-depth-of-binary-tree/
+/// Author : liuyubobobo
+/// Time   : 2018-06-02
+
 #include <iostream>
 
 using namespace std;
@@ -11,6 +15,9 @@ struct TreeNode {
     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
 };
 
+/// Recursive
+/// Time Complexity: O(n)
+/// Space Complexity: O(h)
 class Solution {
 public:
     int minDepth(TreeNode* root) {
