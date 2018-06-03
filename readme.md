@@ -287,6 +287,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 740 | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/) | [solution](https://leetcode.com/problems/delete-and-earn/solution/) | [C++](0740-Delete-and-Earn/cpp-0740/) | | |
 | 741 | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/description/) | [solution](https://leetcode.com/problems/cherry-pickup/solution/)<br/>[缺：自底向上的动态规划] | [C++](0741-Cherry-Pickup/cpp-0741/) | | |
 | | | | | | |
+| 747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | [solution](https://leetcode.com/problems/largest-number-at-least-twice-of-others/solution/) | [C++](0747-Largest-Number-At-Least-Twice-of-Others/cpp-0747/) | | |
+| | | | | | |
 | 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) | [solution](https://leetcode.com/problems/toeplitz-matrix/solution/) | [C++](0766-Toeplitz-Matrix/cpp-0766/) | | |
 | 780 | [Reaching Points](https://leetcode.com/problems/reaching-points/description/) | [solution](https://leetcode.com/problems/reaching-points/solution/) | [C++](0780-Reaching-Points/cpp-0780/) | | |
 | 781 | [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/description/) | [solution](https://leetcode.com/problems/rabbits-in-forest/solution/) | [C++](0781-Rabbits-in-Forest/cpp-0781/) | | |
