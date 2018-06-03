@@ -64,6 +64,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [solution](https://leetcode.com/problems/minimum-path-sum/solution/) | [C++](0064-Minimum-Path-Sum/cpp-0064/) | [Java](0064-Minimum-Path-Sum/java-0064/src/) | |
 | | | | | | |
+| 066 | [Plus One](https://leetcode.com/problems/plus-one/description/) | [无] | [C++](0066-Plus-One/cpp-0066/) | | |
+| | | | | | |
 | 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [solution](https://leetcode.com/problems/climbing-stairs/solution/) | [C++](0070-Climbing-Stairs/cpp-0070/) | [Java](0070-Climbing-Stairs/java-0070/src/) | |
 | | | | | | |
 | 075 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [无] | [C++](0075-Sort-Colors/cpp-0075/) | [Java](0075-Sort-Colors/java-0075/src/) | |
