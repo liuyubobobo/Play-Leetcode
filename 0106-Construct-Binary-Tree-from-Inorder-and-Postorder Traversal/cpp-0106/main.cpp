@@ -1,3 +1,7 @@
+/// Source : https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/
+/// Author : liuyubobobo
+/// Time   : 2018-06-03
+
 #include <iostream>
 #include <vector>
 #include <cassert>
@@ -12,6 +16,11 @@ struct TreeNode {
     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
 };
 
+
+/// Recursive
+/// Time Complexity: O(n*h) where n is the num of node in th tree
+///                         and h is the height of the tree
+/// Space Complexity: O(h)
 class Solution {
 public:
     TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
