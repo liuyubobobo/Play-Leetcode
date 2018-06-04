@@ -44,6 +44,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [无] | [C++](0024-Swap-Nodes-in-Pairs/cpp-0024/) | [Java](0024-Swap-Nodes-in-Pairs/java-0024/src/) | |
 | | | | | | |
+| 028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [无]<br/>[缺：KMP等高级字符串匹配算法] | [C++](0028-Implement-strStr/cpp-0028/) | | |
+| | | | | | |
 | 034 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [solution](https://leetcode.com/problems/search-for-a-range/solution/) | [C++](0034-Search-for-a-Range/cpp-0034/) | | |
 | | | | | | |
 | 039 | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [无] | [C++](0039-Combination-Sum/cpp-0039/) | | |
