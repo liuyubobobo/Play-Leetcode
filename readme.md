@@ -113,6 +113,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/description/) | [无] | [C++](0127-Word-Ladder/cpp-0127/) | [Java](0127-Word-Ladder/java-0127/) | |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-9consecutive-sequence/description/) | | [C++](0128-Longest-Consecutive-Sequence/cpp-0128/) | | |
 | | | | | | |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | [solution](https://leetcode.com/problems/single-number/solution/) | [C++](0136-Single-Number/cpp-0136/) | | |
+| | | | | | |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [solution](https://leetcode.com/problems/linked-list-cycle/solution/) | [C++](0141-Linked-List-Cycle/cpp-0141/) | | |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [solution](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [C++](0142-Linked-List-Cycle-II/cpp-0142/) | | |
 | | | | | | |
