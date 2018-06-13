@@ -214,7 +214,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/) | [solution](https://leetcode.com/problems/shuffle-an-array/solution/) | [C++](0384-Shuffle-an-Array/cpp-0384/) | | |
 | | | | | | |
 | 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/) | | [C++](0386-Lexicographical-Numbers/cpp-0386/) | | |
-| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | | [C++](0387-First-Unique-Character-in-a-String/cpp-0387/) | | |
+| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | | [C++](0387-First-Unique-Character-in-a-String/cpp-0387/) | [Java](0387-First-Unique-Character-in-a-String/java-0387/src/) | |
 | 388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/description/) | | [C++](0388-Longest-Absolute-File-Path/cpp-0388/) | | |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | | [C++](0389-Find-the-Difference/cpp-0389/) | | |
 | 390 | [Elimination Game](https://leetcode.com/problems/elimination-game/description/) | | [C++](0390-Elimination-Game/cpp-0390/) | | |
