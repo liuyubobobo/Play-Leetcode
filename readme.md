@@ -348,3 +348,6 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 817 | [Linked List Components](https://leetcode.com/problems/linked-list-components/description/) | [solution](https://leetcode.com/problems/linked-list-components/solution/) | [C++](0817-Linked-List-Components/cpp-0817/) | | |
 | | | | | | |
 | 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/description/) | [solution](https://leetcode.com/problems/most-common-word/solution/) | [C++](0819-Most-Common-Word/cpp-0819/) | | |
+| | | | | | |
+| 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [solution](https://leetcode.com/problems/peak-index-in-a-mountain-array/solution/) | [C++](0852-Peak-Index-in-a-Mountain-Array/cpp-0852/) | | |
+| | | | | | |
