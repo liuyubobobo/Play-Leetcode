@@ -48,6 +48,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 027 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [solution](https://leetcode.com/problems/remove-element/solution/) | [C++](0027-Remove-Element/cpp-0027/) | | |
 | 028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [无]<br/>[缺：KMP等高级字符串匹配算法] | [C++](0028-Implement-strStr/cpp-0028/) | | |
 | | | | | | |
+| 033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [无] | [C++](0033-Search-in-Rotated-Sorted-Array/cpp-0033/) | | |
 | 034 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [solution](https://leetcode.com/problems/search-for-a-range/solution/) | [C++](0034-Search-for-a-Range/cpp-0034/) | | |
 | | | | | | |
 | 039 | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [无] | [C++](0039-Combination-Sum/cpp-0039/) | | |
@@ -353,5 +354,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [solution](https://leetcode.com/problems/peak-index-in-a-mountain-array/solution/) | [C++](0852-Peak-Index-in-a-Mountain-Array/cpp-0852/) | | |
 | 853 | [Car Fleet](https://leetcode.com/problems/car-fleet/description/) | [solution](https://leetcode.com/problems/car-fleet/solution/) | [C++](0853-Car-Fleet/cpp-0853/) | | |
-| 854 | [K-Similar Strings](https://leetcode.com/problems/k-similar-strings/description/) | [solution](https://leetcode.com/problems/k-similar-strings/solution/) | [C++](0854-K-Similar Strings/cpp-0854/) | | |
+| 854 | [K-Similar Strings](https://leetcode.com/problems/k-similar-strings/description/) | [solution](https://leetcode.com/problems/k-similar-strings/solution/) | [C++](0854-K-Similar-Strings/cpp-0854/) | | |
 | 855 | [Exam Room](https://leetcode.com/problems/exam-room/description/) | [solution](https://leetcode.com/problems/exam-room/solution/) | [C++](0855-Exam-Room/cpp-0855/) | | |
