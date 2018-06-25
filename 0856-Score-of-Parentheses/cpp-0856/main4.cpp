@@ -1,6 +1,6 @@
 /// Source : https://leetcode.com/problems/score-of-parentheses/description/
 /// Author : liuyubobobo
-/// Time   : 2018-06-23
+/// Time   : 2018-06-25
 
 #include <iostream>
 #include <stack>
