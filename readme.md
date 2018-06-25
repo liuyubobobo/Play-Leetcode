@@ -356,3 +356,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 853 | [Car Fleet](https://leetcode.com/problems/car-fleet/description/) | [solution](https://leetcode.com/problems/car-fleet/solution/) | [C++](0853-Car-Fleet/cpp-0853/) | | |
 | 854 | [K-Similar Strings](https://leetcode.com/problems/k-similar-strings/description/) | [solution](https://leetcode.com/problems/k-similar-strings/solution/) | [C++](0854-K-Similar-Strings/cpp-0854/) | | |
 | 855 | [Exam Room](https://leetcode.com/problems/exam-room/description/) | [solution](https://leetcode.com/problems/exam-room/solution/) | [C++](0855-Exam-Room/cpp-0855/) | | |
+| | | | | | |
+| 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/description/) | [solution](https://leetcode.com/problems/buddy-strings/solution/) | [C++](0859-Buddy-Strings/cpp-0859/) | | |
