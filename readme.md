@@ -361,3 +361,4 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 858 | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/) | [solution](https://leetcode.com/problems/mirror-reflection/solution/) | [C++](0858-Mirror-Reflection/cpp-0858/) | | |
 | 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/description/) | [solution](https://leetcode.com/problems/buddy-strings/solution/) | [C++](0859-Buddy-Strings/cpp-0859/) | | |
 | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/description/) | [solution](https://leetcode.com/problems/lemonade-change/solution/) | [C++](0860-Lemonade-Change/cpp-0860/) | | |
+| 861 | [Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/description/) | [solution](https://leetcode.com/problems/score-after-flipping-matrix/solution/) | [C++](0861-Score-After-Flipping-Matrix/cpp-0861/) | | |
