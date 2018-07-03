@@ -43,6 +43,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [无] | [C++](0020-Valid-Parentheses/cpp-0020/) | [Java](0020-Valid-Parentheses/java-0020/src/) | |
 | 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [solution](https://leetcode.com/problems/merge-two-sorted-lists/solution/) | [C++](0021-Merge-Two-Sorted-Lists/cpp-0021/) | | |
 | | | | | | |
+| 023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [solution](https://leetcode.com/problems/merge-k-sorted-lists/solution/) | [C++](0023-Merge-k-Sorted-Lists/cpp-0023/) | | |
 | 024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [无] | [C++](0024-Swap-Nodes-in-Pairs/cpp-0024/) | [Java](0024-Swap-Nodes-in-Pairs/java-0024/src/) | |
 | | | | | | |
 | 027 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [solution](https://leetcode.com/problems/remove-element/solution/) | [C++](0027-Remove-Element/cpp-0027/) | | |
