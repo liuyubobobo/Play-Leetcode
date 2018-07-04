@@ -187,6 +187,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | | [C++](0287-Find-the-Duplicate-Number/cpp-0287/) | | |
 | | | | | | |
+| 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/description/) | [无] | [C++](0290-Word-Pattern/cpp-0290/) | | |
+| | | | | | |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [solution](https://leetcode.com/problems/longest-increasing-subsequence/solution/) | [C++](0300-Longest-Increasing-Subsequence/cpp-0300/) | [Java](0300-Longest-Increasing-Subsequence/java-0300/src/) | |
 | | | | | | |
 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) | | [C++](0303/Range-Sum-Query-Immutable/cpp-0303/) | | |
