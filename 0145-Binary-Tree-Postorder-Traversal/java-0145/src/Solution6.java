@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
-// Classic Non-Recursive
+// Non-Recursive
 // Using a pre pointer to record the last visted node
 //
 // Time Complexity: O(n)
@@ -21,24 +21,23 @@ public class Solution6 {
 
         Stack<TreeNode> stack = new Stack<>();
         TreeNode pre = null;
-        TreeNode cur = root;
 
-        while(cur != null || !stack.empty()){
+        stack.push(root);
+        while(!stack.empty()){
 
-            while(cur != null){
-                stack.push(cur);
-                cur = cur.left;
-            }
-
-            cur = stack.pop();
-            if(cur.right == null || pre == cur.right){
+            TreeNode cur = stack.pop();
+            if((cur.left == null && cur.right == null) ||
+                    (pre != null && pre == cur.left && cur.right == null) ||
+                    (pre != null && pre == cur.right)){
                 res.add(cur.val);
                 pre = cur;
-                cur = null;
             }
             else{
                 stack.push(cur);
-                cur = cur.right;
+                if(cur.right != null)
+                    stack.push(cur.right);
+                if(cur.left != null)
+                    stack.push(cur.left);
             }
         }
         return res;

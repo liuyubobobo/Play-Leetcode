@@ -17,11 +17,10 @@ struct TreeNode {
 };
 
 
-// Classic Non-Recursive
-// Using a pre pointer to record the last visted node
+// Morris PostOrder Traversal
 //
 // Time Complexity: O(n)
-// Space Complexity: O(h)
+// Space Complexity: O(1)
 class Solution {
 
 public:
@@ -31,32 +30,43 @@ public:
         if(root == NULL)
             return res;
 
-        stack<TreeNode*> stack;
-        TreeNode* pre = NULL;
-        TreeNode* cur = root;
+        TreeNode* dummyRoot = new TreeNode(-1);
+        dummyRoot->left = root;
 
-        while(cur != NULL || !stack.empty()){
-            if(cur != NULL){
-                stack.push(cur);
-                cur = cur->left;
-            }
+        TreeNode* cur = dummyRoot;
+        while(cur != NULL){
+            if(cur->left == NULL)
+                cur = cur->right;
             else{
-                cur = stack.top();
-                stack.pop();
+                TreeNode* prev = cur->left;
+                while(prev->right != NULL && prev->right != cur)
+                    prev = prev->right;
 
-                if(cur->right == NULL || pre == cur->right){
-                    res.push_back(cur->val);
-                    pre = cur;
-                    cur = NULL;
+                if(prev->right == NULL){
+                    prev->right = cur;
+                    cur = cur->left;
                 }
                 else{
-                    stack.push(cur);
+                    prev->right = NULL;
+                    reverseTraversal(cur->left, res);
                     cur = cur->right;
                 }
             }
         }
+        delete dummyRoot;
 
         return res;
+    }
+
+private:
+    void reverseTraversal(TreeNode* node, vector<int>& res){
+
+        int start = res.size();
+        while(node != NULL){
+            res.push_back(node->val);
+            node = node->right;
+        }
+        reverse(res.begin() + start, res.end());
     }
 };
 

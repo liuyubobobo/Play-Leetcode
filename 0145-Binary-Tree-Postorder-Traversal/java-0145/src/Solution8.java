@@ -3,14 +3,14 @@
 /// Time   : 2018-05-31
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 import java.util.Stack;
 
-// Morris PostOrder Traversal
+// Classic Non-Recursive
+// Using a pre pointer to record the last visted node
 //
 // Time Complexity: O(n)
-// Space Complexity: O(1)
+// Space Complexity: O(h)
 public class Solution8 {
 
     public List<Integer> postorderTraversal(TreeNode root) {
@@ -19,47 +19,29 @@ public class Solution8 {
         if(root == null)
             return res;
 
-        TreeNode dummyRoot = new TreeNode(-1);
-        dummyRoot.left = root;
+        Stack<TreeNode> stack = new Stack<>();
+        TreeNode pre = null;
+        TreeNode cur = root;
 
-        TreeNode cur = dummyRoot;
-        while(cur != null){
-            if(cur.left == null)
-                cur = cur.right;
+        while(cur != null || !stack.empty()){
+
+            if(cur != null){
+                stack.push(cur);
+                cur = cur.left;
+            }
             else{
-                TreeNode pre = cur.left;
-                while(pre.right != null && pre.right != cur)
-                    pre = pre.right;
-
-                if(pre.right == null){
-                    pre.right = cur;
-                    cur = cur.left;
+                cur = stack.pop();
+                if(cur.right == null || pre == cur.right){
+                    res.add(cur.val);
+                    pre = cur;
+                    cur = null;
                 }
                 else{
-                    pre.right = null;
-                    reverseTraversal(cur.left, res);
+                    stack.push(cur);
                     cur = cur.right;
                 }
             }
         }
         return res;
-    }
-
-    private void reverseTraversal(TreeNode node, ArrayList<Integer> res){
-        int start = res.size();
-        while(node != null){
-            res.add(node.val);
-            node = node.right;
-        }
-
-        int i = start, j = res.size() - 1;
-        while(i < j){
-            Integer t = res.get(i);
-            res.set(i, res.get(j));
-            res.set(j, t);
-
-            i ++;
-            j --;
-        }
     }
 }
