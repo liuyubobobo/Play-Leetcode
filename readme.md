@@ -370,6 +370,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 861 | [Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/description/) | [solution](https://leetcode.com/problems/score-after-flipping-matrix/solution/) | [C++](0861-Score-After-Flipping-Matrix/cpp-0861/) | | |
 | | | | | | |
 | 863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/) | [solution](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/solution/) | [C++](0863-All-Nodes-Distance-K-in-Binary-Tree/cpp-0863/) | | |
+| 864 | [Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/description/) | [solution](https://leetcode.com/problems/random-pick-with-blacklist/solution/) | [C++](0864-Random-Pick-with-Blacklist/cpp-0864/) | | |
 | | | | | | |
 | 866 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/) | [solution](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/solution/) | [C++](0866-Smallest-Subtree-with-all-the-Deepest-Nodes/cpp-0866/) | | |
 | 867 | [Prime Palindrome](https://leetcode.com/problems/prime-palindrome/description/) | [solution](https://leetcode.com/problems/prime-palindrome/solution/) | [C++](0867-Prime-Palindrome/cpp-0867/) | | |
