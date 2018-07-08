@@ -231,6 +231,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 390 | [Elimination Game](https://leetcode.com/problems/elimination-game/description/) | | [C++](0390-Elimination-Game/cpp-0390/) | | |
 | 391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/description/) | [缺：矩形求交] | [C++](0391-Perfect-Rectangle/cpp-0391/) | | |
 | | | | | | |
+| 398 | [Random Pick Index](https://leetcode.com/problems/random-pick-index/description/) | [无] | [C++](0398-Random-Pick-Index/cpp-0398/) | | |
+| | | | | | |
 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [无] | [C++](0416-Partition-Equal-Subset-Sum/cpp-0416/) | [Java](0416-Partition-Equal-Subset-Sum/java-0416/src/) | |
 | 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/) | [无] | | [Java](0417-Pacific-Atlantic-Water-Flow/java-0417/src/) | |
 | | | | | | |
