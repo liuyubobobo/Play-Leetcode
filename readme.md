@@ -368,3 +368,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 861 | [Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/description/) | [solution](https://leetcode.com/problems/score-after-flipping-matrix/solution/) | [C++](0861-Score-After-Flipping-Matrix/cpp-0861/) | | |
 | | | | | | |
 | 863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/) | [solution](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/solution/) | [C++](0863-All-Nodes-Distance-K-in-Binary-Tree/cpp-0863/) | | |
+| | | | | | |
+| 868 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) | [solution](https://leetcode.com/problems/transpose-matrix/solution/) | [C++](0868-Transpose-Matrix/cpp-0868/) | | |
