@@ -34,6 +34,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 003 | [Longest-Substring-Without-Repeating-Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [solution](https://leetcode.com/problems/longest-substring-without-repeating-characters/solution/) | [C++](0003-Longest-Substring-Without-Repeating-Characters/cpp-0003/) | [Java](0003-Longest-Substring-Without-Repeating-Characters/java-0003/src/) | |
 | | | | | | |
+| 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [solution](https://leetcode.com/problems/reverse-integer/solution/) | [C++](0007-Reverse-Integer/cpp-0007/) | | |
+| | | | | | |
 | 014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [无] | [C++](0014-Longest-Common-Prefix/cpp-0014/) | | |
 | 015 | [3Sum](https://leetcode.com/problems/3sum/description/) | [无] | [C++](0015-3Sum/cpp-0015/) | | |
 | | | | | | |
