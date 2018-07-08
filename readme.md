@@ -82,6 +82,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 079 | [Word Search](https://leetcode.com/problems/word-search/description/) | [无] | [C++](0079-Word-Search/cpp-0079/) | [Java](0079-Word-Search/java-0079/src/) | |
 | | | | | | |
+| 086 | [Partition List](https://leetcode.com/problems/partition-list/description/) | [无] | [C++](0086-Partition-List/cpp-0086/) | | |
 | 087 | [Scramble String](https://leetcode.com/problems/scramble-string/description/) | [无] | [C++](0087-Scramble-String/cpp-0087/) | | |
 | 088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [无] | [C++](0088-Merge-Sorted-Array/cpp-0088/) | | |
 | | | | | | |
