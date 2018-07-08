@@ -369,4 +369,6 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/) | [solution](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/solution/) | [C++](0863-All-Nodes-Distance-K-in-Binary-Tree/cpp-0863/) | | |
 | | | | | | |
+| 866 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/) | [solution](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/solution/) | [C++](0866-Smallest-Subtree-with-all-the-Deepest-Nodes/cpp-0866/) | | |
+| | | | | | |
 | 868 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) | [solution](https://leetcode.com/problems/transpose-matrix/solution/) | [C++](0868-Transpose-Matrix/cpp-0868/) | | |
