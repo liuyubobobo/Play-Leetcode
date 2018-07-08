@@ -220,6 +220,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/) | [无] | [C++](0377-Combination-Sum-IV/cpp-0377/) | | |
 | | | | | | |
+| 382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/description/) | [无] | [C++](0382-Linked-List-Random-Node/cpp-0382/) | | |
+| | | | | | |
 | 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/) | [solution](https://leetcode.com/problems/shuffle-an-array/solution/) | [C++](0384-Shuffle-an-Array/cpp-0384/) | | |
 | | | | | | |
 | 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/) | | [C++](0386-Lexicographical-Numbers/cpp-0386/) | | |
