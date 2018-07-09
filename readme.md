@@ -221,7 +221,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/) | [无] | [C++](0377-Combination-Sum-IV/cpp-0377/) | | |
 | | | | | | |
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/) | [无] | [C++](0380-Insert-Delete-GetRandom-O(1)/cpp-0380/) | | |
-| | | | | | |
+| 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description/) | [无] | [C++](0381-Insert-Delete-GetRandom-O(1)-Duplicates-allowed/cpp-0381/) | | |
 | 382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/description/) | [无] | [C++](0382-Linked-List-Random-Node/cpp-0382/) | | |
 | | | | | | |
 | 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/) | [solution](https://leetcode.com/problems/shuffle-an-array/solution/) | [C++](0384-Shuffle-an-Array/cpp-0384/) | | |
