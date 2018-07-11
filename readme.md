@@ -253,6 +253,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [无] | [C++](0485-Max-Consecutive-Ones/cpp-0485/) | | |
 | | | | | | |
+| 490 | [The Maze](https://leetcode.com/problems/the-maze/description/) | [solution](https://leetcode.com/problems/the-maze/solution/) | [C++](0490-The-Maze/cpp-0490/) | | |
+| | | | | | |
 | 498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/) | [无] | [C++](0498-Diagonal-Traverse/cpp-0498/) | | |
 | | | | | | |
 | 518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/description/) | [无] | [C++](0518-Coin-Change-2/cpp-0518/) | | |
@@ -369,7 +371,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 854 | [K-Similar Strings](https://leetcode.com/problems/k-similar-strings/description/) | [solution](https://leetcode.com/problems/k-similar-strings/solution/) | [C++](0854-K-Similar-Strings/cpp-0854/) | | |
 | 855 | [Exam Room](https://leetcode.com/problems/exam-room/description/) | [solution](https://leetcode.com/problems/exam-room/solution/) | [C++](0855-Exam-Room/cpp-0855/) | | |
 | 856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/description/) | [solution](https://leetcode.com/problems/score-of-parentheses/solution/) | [C++](0856-Score-of-Parentheses/cpp-0856/) | | |
-| 857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/) | [solution](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/solution/) | [C++](0857-Minimum-Cost-to-Hire-K-Workers/cpp-0857/) | | |
+| 857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/) | [solution](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/solution/)<br/>[缺：二分搜索] | [C++](0857-Minimum-Cost-to-Hire-K-Workers/cpp-0857/) | | |
 | 858 | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/) | [solution](https://leetcode.com/problems/mirror-reflection/solution/) | [C++](0858-Mirror-Reflection/cpp-0858/) | | |
 | 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/description/) | [solution](https://leetcode.com/problems/buddy-strings/solution/) | [C++](0859-Buddy-Strings/cpp-0859/) | | |
 | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/description/) | [solution](https://leetcode.com/problems/lemonade-change/solution/) | [C++](0860-Lemonade-Change/cpp-0860/) | | |
