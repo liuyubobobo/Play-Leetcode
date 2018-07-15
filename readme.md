@@ -383,4 +383,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/) | [solution](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/solution/) | [C++](0865-Smallest-Subtree-with-all-the-Deepest-Nodes/cpp-0865/) | | |
 | 866 | [Prime Palindrome](https://leetcode.com/problems/prime-palindrome/description/) | [solution](https://leetcode.com/problems/prime-palindrome/solution/) | [C++](0866-Prime-Palindrome/cpp-0866/) | | |
 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) | [solution](https://leetcode.com/problems/transpose-matrix/solution/) | [C++](0867-Transpose-Matrix/cpp-0867/) | | |
+| 868 | [Binary Gap](https://leetcode.com/problems/binary-gap/description/) | [solution](https://leetcode.com/problems/binary-gap/solution/) | [C++](0868-Binary-Gap/cpp-0868/) | | |
 | | | | | | |
