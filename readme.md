@@ -296,6 +296,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 698 | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/) | | [C++](0698-Partition-to-K-Equal-Sum-Subsets/cpp-0698/) | [Java](0698-Partition-to-K-Equal-Sum-Subsets/java-0698/src/) | |
 | 699 | [Falling Squares](https://leetcode.com/contest/leetcode-weekly-contest-54/problems/falling-squares/) | [缺：线段树；块状链表] | [C++](0699-Falling-Squares/cpp-0699/) | | |
 | | | | | | |
+| 710 | [Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/description/) | [solution](https://leetcode.com/problems/random-pick-with-blacklist/solution/) | [C++](0710-Random-Pick-with-Blacklist/cpp-0710/) | | |
 | 711 | [Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/description/) | [review: hash的方式] | [C++](0711-Number-of-Distinct-Islands-II/cpp-0711/) | | |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/) | | [C++](0712-Minimum-ASCII-Delete-Sum-for-Two-Strings/cpp-0712/) | | |
 | 713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/) | | [C++](0713-Subarray-Product-Less-Than-K/cpp-0713/) | | |
@@ -378,8 +379,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 861 | [Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/description/) | [solution](https://leetcode.com/problems/score-after-flipping-matrix/solution/) | [C++](0861-Score-After-Flipping-Matrix/cpp-0861/) | | |
 | | | | | | |
 | 863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/) | [solution](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/solution/) | [C++](0863-All-Nodes-Distance-K-in-Binary-Tree/cpp-0863/) | | |
-| 864 | [Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/description/) | [solution](https://leetcode.com/problems/random-pick-with-blacklist/solution/) | [C++](0864-Random-Pick-with-Blacklist/cpp-0864/) | | |
-| 865 | [Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/description/) | [solution](https://leetcode.com/problems/shortest-path-to-get-all-keys/solution/)<br/>[缺：Dijkstra] | [C++](0865-Shortest-Path-to-Get-All-Keys/cpp-0865/) | | |
-| 866 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/) | [solution](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/solution/) | [C++](0866-Smallest-Subtree-with-all-the-Deepest-Nodes/cpp-0866/) | | |
-| 867 | [Prime Palindrome](https://leetcode.com/problems/prime-palindrome/description/) | [solution](https://leetcode.com/problems/prime-palindrome/solution/) | [C++](0867-Prime-Palindrome/cpp-0867/) | | |
-| 868 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) | [solution](https://leetcode.com/problems/transpose-matrix/solution/) | [C++](0868-Transpose-Matrix/cpp-0868/) | | |
+| 864 | [Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/description/) | [solution](https://leetcode.com/problems/shortest-path-to-get-all-keys/solution/)<br/>[缺：Dijkstra] | [C++](0864-Shortest-Path-to-Get-All-Keys/cpp-0864/) | | |
+| 865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/) | [solution](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/solution/) | [C++](0865-Smallest-Subtree-with-all-the-Deepest-Nodes/cpp-0865/) | | |
+| 866 | [Prime Palindrome](https://leetcode.com/problems/prime-palindrome/description/) | [solution](https://leetcode.com/problems/prime-palindrome/solution/) | [C++](0866-Prime-Palindrome/cpp-0866/) | | |
+| 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) | [solution](https://leetcode.com/problems/transpose-matrix/solution/) | [C++](0867-Transpose-Matrix/cpp-0867/) | | |
+| | | | | | |
