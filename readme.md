@@ -387,3 +387,4 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 869 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/description/) | [solution](https://leetcode.com/problems/reordered-power-of-2/solution/) | [C++](0869-Reordered-Power-of-2/cpp-0869/) | | |
 | 870 | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/description/) | [solution](https://leetcode.com/problems/advantage-shuffle/solution/) | [C++](0870-Advantage-Shuffle/cpp-0870/) | | |
 | | | | | | |
+| 872 | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/description/) | [无] | [C++](0872-Implement-Rand10-Using-Rand7/cpp-0872/) | | |
