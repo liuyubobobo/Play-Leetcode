@@ -390,3 +390,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 870 | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/description/) | [solution](https://leetcode.com/problems/advantage-shuffle/solution/) | [C++](0870-Advantage-Shuffle/cpp-0870/) | | |
 | | | | | | |
 | 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/) | [solution](https://leetcode.com/problems/leaf-similar-trees/solution/) | [C++](0872-Leaf-Similar-Trees/cpp-0872/) | | |
+| 874 | [Walking-Robot-Simulation](https://leetcode.com/problems/walking-robot-simulation/description/) | [solution](https://leetcode.com/problems/walking-robot-simulation/solution/) | [C++](0874-Walking-Robot-Simulation/cpp-0874/) | | |
+| | | | | | |
