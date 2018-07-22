@@ -389,4 +389,4 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 869 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/description/) | [solution](https://leetcode.com/problems/reordered-power-of-2/solution/) | [C++](0869-Reordered-Power-of-2/cpp-0869/) | | |
 | 870 | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/description/) | [solution](https://leetcode.com/problems/advantage-shuffle/solution/) | [C++](0870-Advantage-Shuffle/cpp-0870/) | | |
 | | | | | | |
-
+| 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/) | [solution](https://leetcode.com/problems/leaf-similar-trees/solution/) | [C++](0872-Leaf-Similar-Trees/cpp-0872/) | | |
