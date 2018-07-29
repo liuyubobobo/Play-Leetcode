@@ -167,6 +167,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [solution](https://leetcode.com/problems/invert-binary-tree/solution/) | [C++](0226-Invert-Binary-Tree/cpp-0226/) | [Java](0226-Invert-Binary-Tree/java-0226/src/) | |
 | | | | | | |
+| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | [无] | [C++](0230-Kth-Smallest-Element-in-a-BST/cpp-0230/) | | |
+| | | | | | |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | [solution](https://leetcode.com/problems/implement-queue-using-stacks/solution/) | [C++](0232-Implement-Queue-using-Stacks/cpp-0232/) | | |
 | | | | | | |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [无] | [C++](0234-Palindrome-Linked-List/cpp-0234/) | | |
