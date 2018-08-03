@@ -302,6 +302,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 698 | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/) | | [C++](0698-Partition-to-K-Equal-Sum-Subsets/cpp-0698/) | [Java](0698-Partition-to-K-Equal-Sum-Subsets/java-0698/src/) | |
 | 699 | [Falling Squares](https://leetcode.com/contest/leetcode-weekly-contest-54/problems/falling-squares/) | [缺：线段树；块状链表] | [C++](0699-Falling-Squares/cpp-0699/) | | |
 | | | | | | |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/description/) | [无] | [C++](0704-Binary-Search/cpp-0704/) | | |
+| | | | | | |
 | 710 | [Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/description/) | [solution](https://leetcode.com/problems/random-pick-with-blacklist/solution/) | [C++](0710-Random-Pick-with-Blacklist/cpp-0710/) | | |
 | 711 | [Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/description/) | [review: hash的方式] | [C++](0711-Number-of-Distinct-Islands-II/cpp-0711/) | | |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/) | | [C++](0712-Minimum-ASCII-Delete-Sum-for-Two-Strings/cpp-0712/) | | |
