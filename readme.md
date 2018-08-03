@@ -303,6 +303,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 699 | [Falling Squares](https://leetcode.com/contest/leetcode-weekly-contest-54/problems/falling-squares/) | [缺：线段树；块状链表] | [C++](0699-Falling-Squares/cpp-0699/) | | |
 | | | | | | |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/description/) | [无] | [C++](0704-Binary-Search/cpp-0704/) | | |
+| 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/description/) | [无] | [C++](0705-Design-HashSet/cpp-0705/) | | |
 | | | | | | |
 | 710 | [Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/description/) | [solution](https://leetcode.com/problems/random-pick-with-blacklist/solution/) | [C++](0710-Random-Pick-with-Blacklist/cpp-0710/) | | |
 | 711 | [Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/description/) | [review: hash的方式] | [C++](0711-Number-of-Distinct-Islands-II/cpp-0711/) | | |
