@@ -402,4 +402,4 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 874 | [Walking-Robot-Simulation](https://leetcode.com/problems/walking-robot-simulation/description/) | [solution](https://leetcode.com/problems/walking-robot-simulation/solution/) | [C++](0874-Walking-Robot-Simulation/cpp-0874/) | | |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) | [solution](https://leetcode.com/problems/koko-eating-bananas/solution/) | [C++](0875-Koko-Eating-Bananas/cpp-0875/) | | |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [solution](https://leetcode.com/problems/middle-of-the-linked-list/solution/) | [C++](0876-Middle-of-the-Linked-List/cpp-0876/) | | |
-| | | | | | |
+| 877 | [Stone Game](https://leetcode.com/problems/stone-game/description/) | [solution](https://leetcode.com/problems/stone-game/solution/) | [C++](0877-Stone-Game/cpp-0877/) | | |
