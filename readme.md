@@ -406,3 +406,4 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 878 | [Nth Magical Number](https://leetcode.com/problems/nth-magical-number/description/) | [solution](https://leetcode.com/problems/nth-magical-number/solution/) | [C++](0878-Nth-Magical-Number/cpp-0878/) | | |
 | 879 | [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/description/) | [solution](https://leetcode.com/problems/profitable-schemes/solution/) | [C++](0879-Profitable-Schemes/cpp-0879/) | | |
 | | | | | | |
+| 887 | [Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/description/) | [solution](https://leetcode.com/problems/projection-area-of-3d-shapes/solution/) | [C++](0887-Projection-Area-of-3D-Shapes/cpp-0887/) | | |
