@@ -404,4 +404,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [solution](https://leetcode.com/problems/middle-of-the-linked-list/solution/) | [C++](0876-Middle-of-the-Linked-List/cpp-0876/) | | |
 | 877 | [Stone Game](https://leetcode.com/problems/stone-game/description/) | [solution](https://leetcode.com/problems/stone-game/solution/) | [C++](0877-Stone-Game/cpp-0877/) | | |
 | 878 | [Nth Magical Number](https://leetcode.com/problems/nth-magical-number/description/) | [solution](https://leetcode.com/problems/nth-magical-number/solution/) | [C++](0878-Nth-Magical-Number/cpp-0878/) | | |
+| 879 | [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/description/) | [solution](https://leetcode.com/problems/profitable-schemes/solution/) | [C++](0879-Profitable-Schemes/cpp-0879/) | | |
 | | | | | | |
