@@ -408,5 +408,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 884 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/description/) | [solution](https://leetcode.com/problems/decoded-string-at-index/solution/) | [C++](0884-Decoded-String-at-Index/cpp-0884/) | | |
 | 885 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/) | [solution](https://leetcode.com/problems/boats-to-save-people/solution/) | [C++](0885-Boats-to-Save-People/cpp-0885/) | | |
-| | | | | | |
+| 886 | [Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/description/) | [solution](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/solution/) | [C++](0886-Reachable-Nodes-In-Subdivided-Graph/cpp-0886/) | | |
 | 887 | [Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/description/) | [solution](https://leetcode.com/problems/projection-area-of-3d-shapes/solution/) | [C++](0887-Projection-Area-of-3D-Shapes/cpp-0887/) | | |
