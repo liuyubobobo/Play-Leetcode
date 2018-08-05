@@ -255,7 +255,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/description/) | [无] | [C++](0454-4Sum-II/cpp-0454/) | [Java](0454-4Sum-II/java-0454/src/) | |
 | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) | [无] | [C++](0455-Assign-Cookies/cpp-0455/) | [Java](0455-Assign-Cookies/java-0455/src/) | |
 | | | | | | |
-| 470 | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/description/) | [solution](https://leetcode.com/problems/implement-rand10-using-rand7/solution/)<br/>[缺：Rejection Sampling] | [C++](0470-Implement-Rand10-Using-Rand7/cpp-0470/) | | |
+| 470 | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/description/) | [solution](https://leetcode.com/problems/implement-rand10-using-rand7/solution/) | [C++](0470-Implement-Rand10-Using-Rand7/cpp-0470/) | | |
 | | | | | | |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [无] | [C++](0485-Max-Consecutive-Ones/cpp-0485/) | | |
 | | | | | | |
