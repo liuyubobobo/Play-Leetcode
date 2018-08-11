@@ -108,7 +108,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/) | [无] | [C++](0115/Distinct-Subsequences/cpp-0115/) | [Java](0115/Distinct-Subsequences/java-0115/) | |
 | | | | | | |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | [solution](https://leetcode.com/problems/pascals-triangle/solution/) | [C++](0118-Pascals-Triangle/cpp-0118/) | | |
-| | | | | | |
+| 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | [无] | [C++](0119-Pascals-Triangle-II/cpp-0119/) | | |
 | 120 | [Triangle](https://leetcode.com/problems/triangle/description/) | [无] | [C++](0120-Triangle/cpp-0120/) | | |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solution/) | | [C++](0121-Best-Time-to-Buy-and-Sell-Stock/cpp-0121/) | | |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | | [C++](0122-Best-Time-to-Buy-and-Sell-Stock-II/cpp-0122/) | | |
