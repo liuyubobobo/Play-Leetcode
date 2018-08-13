@@ -190,6 +190,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) | [无] | [C++](0239-Sliding-Window-Maximum/cpp-0239/) | | |
 | | | | | | |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [solution](https://leetcode.com/problems/valid-anagram/solution/) | [C++](0242-Valid-Anagram/cpp-0242/) | | |
+| | | | | | |
 | 250 | [Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/description/) | [无] | [C++](0250-Count-Univalue-Subtrees/cpp-0250/) | | |
 | | | | | | |
 | 254 | [Factor Combinations](https://leetcode.com/problems/factor-combinations/description/) | [无] | [C++](0254-Factor-Combinations/cpp-0254/) | | |
