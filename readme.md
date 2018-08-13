@@ -207,6 +207,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [solution](https://leetcode.com/problems/move-zeroes/solution/) | [C++](0283-Move-Zeroes/cpp-0283/) | [Java](0283-Move-Zeroes/java-0283/src/) | |
 | | | | | | |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | | [C++](0287-Find-the-Duplicate-Number/cpp-0287/) | | |
+| 288 | [Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/description/) | [solution](https://leetcode.com/problems/unique-word-abbreviation/solution/) | [C++](0288-Unique-Word-Abbreviation/cpp-0288/) | | |
 | | | | | | |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/description/) | [无] | [C++](0290-Word-Pattern/cpp-0290/) | | |
 | | | | | | |
