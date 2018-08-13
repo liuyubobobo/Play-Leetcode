@@ -234,6 +234,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [无] | [C++](0349-Intersection-of-Two-Arrays/cpp-0349/) | [Java](0349-Intersection-of-Two-Arrays/java-0349/src/) | |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [无] | [C++](0350-Intersection-of-Two-Arrays-II/cpp-0350/) | [Java](0350-Intersection-of-Two-Arrays-II/java-0350/src/) | |
 | | | | | | |
+| 360 | [Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/description/) | [无] | [C++](0360-Sort-Transformed-Array/cpp-0360/) | | |
+| | | | | | |
 | 370 | [Range Addition](https://leetcode.com/problems/range-addition/description/) | | [C++](0370-Range-Addition/cpp-0370/) | | |
 | | | | | | |
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [solution](https://leetcode.com/problems/guess-number-higher-or-lower/solution/) | [C++](0374-Guess-Number-Higher-or-Lower/cpp-0374/) | | |
