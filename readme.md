@@ -441,3 +441,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 885 | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/description/) | [solution](https://leetcode.com/problems/spiral-matrix-iii/solution/) | [C++](0885-Spiral-Matrix-III/cpp-0885/) | | |
 | 886 | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/description/) | [solution](https://leetcode.com/problems/possible-bipartition/solution/) | [C++](0886-Possible-Bipartition/cpp-0886/) | | |
 | | | | | | |
+| 888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/description/) | [solution](https://leetcode.com/problems/fair-candy-swap/solution/) | [C++](0888-Fair-Candy-Swap/cpp-0888/) | | |
+| | | | | | |
