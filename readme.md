@@ -442,6 +442,6 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 886 | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/description/) | [solution](https://leetcode.com/problems/possible-bipartition/solution/) | [C++](0886-Possible-Bipartition/cpp-0886/) | | |
 | | | | | | |
 | 888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/description/) | [solution](https://leetcode.com/problems/fair-candy-swap/solution/) | [C++](0888-Fair-Candy-Swap/cpp-0888/) | | |
-| | | | | | |
+| 889 | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/) | [solution](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/solution/) | [C++](0889-Construct-Binary-Tree-from-Preorder-and-Postorder-Traversal/cpp-0889/) | | |
 | 890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/description/) | [solution](https://leetcode.com/problems/find-and-replace-pattern/solution/) | [C++](0890-Find-and-Replace-Pattern/cpp-0890/) | | |
 | | | | | | |
