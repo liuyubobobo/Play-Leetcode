@@ -1,14 +1,19 @@
-## This is my solutions for Leetcode
+## My solutions to Leetcode
 
-I will put my solutions of [Leetcode Problems](https://leetcode.com/problemset/all/) in this repo. Every problem will be solved in C++; part of the problems will be solved in Java also. I will try my best to support more language in the future :)
+I will put my solutions to [Leetcode Problems](https://leetcode.com/problemset/all/) in this repo. Every problem will be solved in C++; part of the problems will be solved in Java also. I will try my best to support more language in the future :)
 
-Please feel free to contact me if you have any problems with this repo:)
+Please feel free to contact me if you have any questions with this repo:)
 
 email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 
 ---
 
-如果有任何问题，欢迎联系我：）
+大家好，欢迎大家来到我的 **Leetcode** 题解代码仓。在这个代码仓中，近乎每一个问题都会使用多种方式进行解决，同时标注了简明的算法思想，时间复杂度和空间复杂度。所有问题都会使用C++进行解决，各别问题支持Java语言和Python语言。
+
+由于 Leetcode 如今已经问题量巨大，所以很多同学可能会刷起来毫无头绪。推荐大家可以使用 Leetcode 在2017年底推出的 [**Leetcode Explore**](https://leetcode.com/explore/)，这个模块分门别类地整理了Leetcode上的问题，是一个很好的刷 Leetcode 的指引。Leetcode Explore模块上的题解，可以参考我的代码仓：[**Play Leetcode Explore**](https://github.com/liuyubobobo/Play-Leetcode-Explore)
+
+
+如果对代码仓有任何问题，欢迎联系我：）
 
 **个人网站**：[liuyubobobo.com](http://liuyubobobo.com)
 
@@ -24,9 +29,22 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 
 ![QRCode](qrcode.jpg)
 
----
 
-### Problems
+## 其他相关代码仓
+
+* [**《算法与数据结构》课程**](https://coding.imooc.com/class/71.html), 代码仓: [Play-with-Algorithms](https://github.com/liuyubobobo/Play-with-Algorithms)
+ 
+* [**《玩转算法面试》课程**](https://coding.imooc.com/class/82.html), 代码仓: [Play-with-Algorithm-Interview](https://github.com/liuyubobobo/Play-with-Algorithm-Interview)
+
+* [**《看得见的算法》课程**](https://coding.imooc.com/class/138.html), 代码仓: [Play-with-Algorithm-Visualization](https://github.com/liuyubobobo/Play-with-Algorithm-Visualization)
+
+* [**《玩转数据结构》课程**](https://coding.imooc.com/class/207.html), 代码仓: [Play-with-Data-Structures](https://github.com/liuyubobobo/Play-with-Data-Structures)
+
+* **LeetCode Explore题解代码仓**：[Play Leetcode Explore](https://github.com/liuyubobobo/Play-Leetcode-Explore) （注：以C++实现为主）
+    * [Leetcode Explore](https://leetcode.com/explore/) 是 Leetcode 在2017年底上线的新模块，分门别类地整理了Leetcode上的问题。如果刷Leetcode一时不知从哪里下手，可以从Leetcode Explore为指引开始：）
+
+
+## Problems
 
 | ID | Problem | Official<br/>Solution | C++ | Java | Python |
 | --- | --- | :---: | :--- | :--- | :--- |
