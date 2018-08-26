@@ -449,3 +449,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/description/) | [solution](https://leetcode.com/problems/find-and-replace-pattern/solution/) | [C++](0890-Find-and-Replace-Pattern/cpp-0890/) | | |
 | 891 | [Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths/description/) | [solution](https://leetcode.com/problems/sum-of-subsequence-widths/solution/) | [C++](0891-Sum-of-Subsequence-Widths/cpp-0891/) | | |
 | 892 | [Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/description/) | [solution](https://leetcode.com/problems/surface-area-of-3d-shapes/solution/) | [C++](0892-Surface-Area-of-3D-Shapes/cpp-0892/) | | |
+| 893 | [Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/description/) | [solution](https://leetcode.com/problems/groups-of-special-equivalent-strings/solution/) | [C++](0893-Groups-of-Special-Equivalent-Strings/cpp-0893/) | | |
+| | | | | | |
