@@ -314,6 +314,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/) | [无] | [C++](0498-Diagonal-Traverse/cpp-0498/) | | |
 | | | | | | |
 | 518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/description/) | [无] | [C++](0518-Coin-Change-2/cpp-0518/) | | |
+| 519 | [Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix/description/) | [solution](https://leetcode.com/problems/random-flip-matrix/solution/) | [C++](0519-Random-Flip-Matrix/cpp-0519/) | | |
 | | | | | | |
 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) | [无] | | [Java](0530-Minimum-Absolute-Difference-in-BST/java-0530/src/) | |
 | | | | | | |
