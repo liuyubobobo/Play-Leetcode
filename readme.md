@@ -304,6 +304,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 473 | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/description/) | [solution](https://leetcode.com/problems/matchsticks-to-square/solution/) | [C++](0473-Matchsticks-to-Square/cpp-0473/) | | |
 | 474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/) | [solution](https://leetcode.com/problems/ones-and-zeroes/solution/) | [C++](0474-Ones-and-Zeroes/cpp-0474/) | | |
 | | | | | | |
+| 478 | [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/description/) | [solution](https://leetcode.com/problems/generate-random-point-in-a-circle/solution/) | [C++](0478-Generate-Random-Point-in-a-Circle/cpp-0478/) | | |
+| | | | | | |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [无] | [C++](0485-Max-Consecutive-Ones/cpp-0485/) | | |
 | | | | | | |
 | 490 | [The Maze](https://leetcode.com/problems/the-maze/description/) | [solution](https://leetcode.com/problems/the-maze/solution/) | [C++](0490-The-Maze/cpp-0490/) | | |
