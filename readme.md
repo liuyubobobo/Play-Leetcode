@@ -392,6 +392,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 736 | [Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression/description/) | [solution](https://leetcode.com/problems/parse-lisp-expression/solution/) | [C++](0736-Parse-Lisp-Expression/cpp-0736/) | | |
 | 737 | [Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii/description/) | [solution](https://leetcode.com/problems/sentence-similarity-ii/solution/) | [C++](0737-Sentence-Similarity-II/cpp-0737/) | | |
 | | | | | | |
+| 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | [solution](https://leetcode.com/problems/daily-temperatures/solution/) | [C++](0739-Daily-Temperatures/cpp-0739/) | | |
 | 740 | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/) | [solution](https://leetcode.com/problems/delete-and-earn/solution/) | [C++](0740-Delete-and-Earn/cpp-0740/) | | |
 | 741 | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/description/) | [solution](https://leetcode.com/problems/cherry-pickup/solution/)<br/>[缺：自底向上的动态规划] | [C++](0741-Cherry-Pickup/cpp-0741/) | | |
 | | | | | | |
