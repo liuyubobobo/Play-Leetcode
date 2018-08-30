@@ -1,11 +1,13 @@
 /// Source : https://leetcode.com/problems/number-of-islands/description/
 /// Author : liuyubobobo
-/// Time   : 2018-08-26
-import java.util.Queue;
-import java.util.LinkedList;
+/// Time   : 2018-08-29
+
+import java.util.Stack;
 import javafx.util.Pair;
 
-/// Floodfill - BFS
+/// Floodfill - DFS
+/// Non-recursion implementation
+///
 /// Time Complexity: O(n*m)
 /// Space Complexity: O(n*m)
 class Solution2 {
@@ -28,20 +30,20 @@ class Solution2 {
         for(int i = 0 ; i < m ; i ++)
             for(int j = 0 ; j < n ; j ++)
                 if(grid[i][j] == '1' && !visited[i][j]){
-                    bfs(grid, i, j);
+                    dfs(grid, i, j);
                     res ++;
                 }
 
         return res;
     }
 
-    private void bfs(char[][] grid, int x, int y){
+    private void dfs(char[][] grid, int x, int y){
 
-        Queue<Pair<Integer, Integer>> q = new LinkedList<>();
-        q.add(new Pair(x, y));
+        Stack<Pair<Integer, Integer>> q = new Stack<>();
+        q.push(new Pair(x, y));
         visited[x][y] = true;
         while(!q.isEmpty()){
-            Pair<Integer, Integer> cur = q.remove();
+            Pair<Integer, Integer> cur = q.pop();
             int curx = cur.getKey();
             int cury = cur.getValue();
 
@@ -49,7 +51,7 @@ class Solution2 {
                 int newX = curx + d[i][0];
                 int newY = cury + d[i][1];
                 if(inArea(newX, newY) && !visited[newX][newY] && grid[newX][newY] == '1'){
-                    q.add(new Pair(newX, newY));
+                    q.push(new Pair(newX, newY));
                     visited[newX][newY] = true;
                 }
             }
