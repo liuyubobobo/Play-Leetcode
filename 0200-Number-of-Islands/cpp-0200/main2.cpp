@@ -1,15 +1,17 @@
 /// Source : https://leetcode.com/problems/number-of-islands/description/
 /// Author : liuyubobobo
-/// Time   : 2018-08-25
+/// Time   : 2018-08-29
 
 #include <iostream>
 #include <vector>
 #include <cassert>
-#include <queue>
+#include <stack>
 
 using namespace std;
 
-/// Floodfill - BFS
+/// Floodfill - DFS
+/// Non-recursion implementation
+///
 /// Time Complexity: O(n*m)
 /// Space Complexity: O(n*m)
 class Solution {
@@ -34,21 +36,21 @@ public:
         for(int i = 0 ; i < m ; i ++)
             for(int j = 0 ; j < n ; j ++)
                 if(grid[i][j] == '1' && !visited[i][j]){
-                    bfs(grid, i, j, visited);
+                    dfs(grid, i, j, visited);
                     res ++;
                 }
         return res;
     }
 
 private:
-    void bfs(vector<vector<char>>& grid, int x, int y, vector<vector<bool>>& visited){
+    void dfs(vector<vector<char>>& grid, int x, int y, vector<vector<bool>>& visited){
 
-        queue<pair<int, int>> q;
+        stack<pair<int, int>> q;
         q.push(make_pair(x, y));
         visited[x][y] = true;
         while(!q.empty()){
-            int curx = q.front().first;
-            int cury = q.front().second;
+            int curx = q.top().first;
+            int cury = q.top().second;
             q.pop();
 
             for(int i = 0; i < 4; i ++){
