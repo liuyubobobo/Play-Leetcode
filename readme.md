@@ -155,7 +155,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 148 | [Sort List](https://leetcode.com/problems/sort-list/description/) | [无] | [C++](0148-Sort-List/cpp-0148/) | | |
 | 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) | [无] | [C++](0149-Max-Points-on-a-Line/cpp-0149/) | | |
-| | | | | | |
+| 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | [无] | [C++](0150-Evaluate-Reverse-Polish-Notation/cpp-0150/) | | |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [无] | [C++](151-Reverse-Words-in-a-String/cpp-0151/) | | |
 | | | | | | |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | [无] | [C++](0155-Min-Stack/cpp-0155/) | | |
