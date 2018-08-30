@@ -174,6 +174,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 188 | [Best-Time-to-Buy-and-Sell-Stock-IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | | [C++](0188-Best-Time-to-Buy-and-Sell-Stock-IV/cpp-0188/) | | |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [solution](https://leetcode.com/problems/rotate-array/solution/) | [C++](0189-Rotate-Array/cpp-0189/) | | |
 | | | | | | |
+| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [solution](https://leetcode.com/problems/number-of-1-bits/solution/) | [C++](0191-Number-of-1-Bits/cpp-0191/) | | |
+| | | | | | |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | [solution](https://leetcode.com/problems/house-robber/solution/) | [C++](0198-House-Robber/cpp-0198/) | [Java](0198-House-Robber/java-0198/src/) | |
 | | | | | | |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [solution](https://leetcode.com/problems/number-of-islands/solution/) | [C++](0200-Number-of-Islands/cpp-0200/) | [Java](0200-Number-of-Islands/java-0200/src/) | |
