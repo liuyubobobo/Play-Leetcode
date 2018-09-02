@@ -488,4 +488,6 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 895 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/description/) | [solution](https://leetcode.com/problems/maximum-frequency-stack/solution/) | [C++](0895-Maximum-Frequency-Stack/cpp-0895/) | | |
 | 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/description/) | [solution](https://leetcode.com/problems/monotonic-array/solution/) | [C++](0896-Monotonic-Array/cpp-0896/) | | |
 | 897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/description/) | [solution](https://leetcode.com/problems/increasing-order-search-tree/solution/) | [C++](0897-Increasing-Order-Search-Tree/cpp-0897/) | | |
+| 898 | [Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/) | [solution](https://leetcode.com/problems/bitwise-ors-of-subarrays/solution/) | [C++](0898-Bitwise-ORs-of-Subarrays/cpp-0898/) | | |
+| | | | | | |
 | | | | | | |
