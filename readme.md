@@ -486,4 +486,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 893 | [Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/description/) | [solution](https://leetcode.com/problems/groups-of-special-equivalent-strings/solution/) | [C++](0893-Groups-of-Special-Equivalent-Strings/cpp-0893/) | | |
 | 894 | [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/description/) | [solution](https://leetcode.com/problems/all-possible-full-binary-trees/solution/) | [C++](0894-All-Possible-Full-Binary-Trees/cpp-0894/) | | |
 | 895 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/description/) | [solution](https://leetcode.com/problems/maximum-frequency-stack/solution/) | [C++](0895-Maximum-Frequency-Stack/cpp-0895/) | | |
+| 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/description/) | [solution](https://leetcode.com/problems/monotonic-array/solution/) | [C++](0896-Monotonic-Array/cpp-0896/) | | |
 | | | | | | |
