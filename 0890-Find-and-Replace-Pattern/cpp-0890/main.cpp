@@ -1,4 +1,4 @@
-/// Source : https://leetcode.com/problems/find-and-replace-pattern/solution/
+/// Source : https://leetcode.com/problems/find-and-replace-pattern/
 /// Author : liuyubobobo
 /// Time   : 2018-08-18
 
