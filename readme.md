@@ -235,6 +235,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) | [无] | [C++](0279-Perfect-Squares/cpp-0279/) | [Java](0279-Perfect-Squares/java-0279/src/) | |
 | | | | | | |
+| 282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/description/) | [solution](https://leetcode.com/problems/expression-add-operators/solution/) | [C++](0282-Expression-Add-Operators/cpp-0282/) | | |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [solution](https://leetcode.com/problems/move-zeroes/solution/) | [C++](0283-Move-Zeroes/cpp-0283/) | [Java](0283-Move-Zeroes/java-0283/src/) | |
 | | | | | | |
 | 286 | [Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/) | [solution](https://leetcode.com/problems/walls-and-gates/solution/) | [C++](0286-Walls-and-Gates/cpp-0286/) | | |
