@@ -160,6 +160,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | [无] | [C++](0150-Evaluate-Reverse-Polish-Notation/cpp-0150/) | | |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [无] | [C++](151-Reverse-Words-in-a-String/cpp-0151/) | | |
 | | | | | | |
+| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [solution](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/solution/) | [C++](0153-Find-Minimum-in-Rotated-Sorted-Array/cpp-0153/) | | |
+| | | | | | |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | [无] | [C++](0155-Min-Stack/cpp-0155/) | | |
 | | | | | | |
 | 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/) | [无] | [C++](0159-Longest-Substring-with-At-Most-Two-Distinct-Characters/cpp-0159/) | | |
