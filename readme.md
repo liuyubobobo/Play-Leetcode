@@ -229,6 +229,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 250 | [Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/description/) | [无] | [C++](0250-Count-Univalue-Subtrees/cpp-0250/) | | |
 | | | | | | |
+| 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/) | [solution](https://leetcode.com/problems/meeting-rooms/solution/) | [C++](0252-Meeting-Rooms/cpp-0252/) | | |
+| | | | | | |
 | 254 | [Factor Combinations](https://leetcode.com/problems/factor-combinations/description/) | [无] | [C++](0254-Factor-Combinations/cpp-0254/) | | |
 | | | | | | |
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | [缺：非递归算法] | [C++](0257-Binary-Tree-Paths/cpp-0257/) | [Java](0257-Binary-Tree-Paths/java-0257/src/) | |
