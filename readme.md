@@ -113,8 +113,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [无] | [C++](0088-Merge-Sorted-Array/cpp-0088/) | | |
 | | | | | | |
 | 094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [solution](https://leetcode.com/problems/binary-tree-inorder-traversal/solution/) | [C++](0094-Binary-Tree-Inorder-Traversal/cpp-0094/) | [Java](0094-Binary-Tree-Inorder-Traversal/java-0094/src/) | |
-| | | | | | |
-| 096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [无] | [C++](0096-Unique-Binary-Search-Trees/cpp-0096/) | | |
+| 095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) | [无] | [C++](0095-Unique-Binary-Search-Trees-II/cpp-0095/) | | |
+| 096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [solution](https://leetcode.com/problems/unique-binary-search-trees/solution/) | [C++](0096-Unique-Binary-Search-Trees/cpp-0096/) | | |
 | | | | | | |
 | 098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [无] | [C++](0098-Validate-Binary-Search-Tree/cpp-0098/) | [Java](0098-Validate-Binary-Search-Tree/java-0098/src/) | |
 | 099 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/description/) | [无] | | [Java](0099-Recover-Binary-Search-Tree/java-0099/src/) | |
