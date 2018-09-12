@@ -2,19 +2,6 @@
 /// Author : liuyubobobo
 /// Time   : 2016-12-06
 
-/***********************************************************************************************
- * Using two pointer technique
- *
- * Sort the array first.
- * For every different number a and b, try to find a pair (c, d), which a + b + c + d == 0
- *
- * Using this way, we don't need to see whether the triplet is a repeated one
- *
- * Time Complexity: O(nlogn) + O(n^3)
- * Space Complexity: O(1)
- ************************************************************************************************/
-
-
 #include <iostream>
 #include <vector>
 #include <cassert>

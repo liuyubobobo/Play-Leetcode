@@ -16,7 +16,7 @@ using namespace std;
 /// Store every different c + d == t first
 /// For every different number a and b, try to find a pair (c, d), which a + b + c + d == 0
 ///
-/// Time Complexity: O(nlogn) + O(n^2) + O(n^2*logn)
+/// Time Complexity: O(nlogn) + O(n^2) + O(n^3)
 /// Space Complexity: O(n^2)
 class Solution {
 public:
