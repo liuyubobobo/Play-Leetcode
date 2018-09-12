@@ -83,6 +83,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 046 | [Permutations](https://leetcode.com/problems/permutations/description/) | [缺：排列算法整理] | [C++](0046-Permutations/cpp-0046/) | [Java](0046-Permutations/java-0046/src/) | |
 | 047 | [Permutations II](https://leetcode.com/problems/permutations-ii/description/) | [无] | [C++](0047-Permutations-II/cpp-0047/) | | |
 | | | | | | |
+| 049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [solution](https://leetcode.com/problems/group-anagrams/solution/) | [C++](0049-Group-Anagrams/cpp-0049/) | | |
+| | | | | | |
 | 051 | [N-Queens](https://leetcode.com/problems/n-queens/description/) | [缺：N皇后问题整理] | [C++](0051-N-Queens/cpp-0051/) | [Java](0051-N-Queens/java-0051/src/) | |
 | | | | | | |
 | 054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [solution](https://leetcode.com/problems/spiral-matrix/solution/) | [C++](0054-Spiral-Matrix/cpp-0054/) | | |
