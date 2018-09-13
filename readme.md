@@ -508,4 +508,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 900 | [RLE Iterator](https://leetcode.com/problems/rle-iterator/description/) | [solution](https://leetcode.com/problems/rle-iterator/solution/) | [C++](0900-RLE-Iterator/cpp-0900/) | | |
 | 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/description/) | [solution](https://leetcode.com/problems/online-stock-span/solution/) | [C++](0901-Online-Stock-Span/cpp-0901/) | | |
 | 902 | [Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/description/) | [solution](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/solution/) | [C++](0902-Numbers-At-Most-N-Given-Digit-Set/cpp-0902/) | | |
+| 903 | [Valid Permutations for DI Sequence](https://leetcode.com/problems/valid-permutations-for-di-sequence/description/) | [solution](https://leetcode.com/problems/valid-permutations-for-di-sequence/solution/)<br/>[缺：O(n^2) DP] | [C++](0903-Valid-Permutations-for-DI-Sequence/cpp-0903/) | | |
 | | | | | | |
