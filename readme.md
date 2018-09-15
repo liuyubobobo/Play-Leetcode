@@ -329,6 +329,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 490 | [The Maze](https://leetcode.com/problems/the-maze/description/) | [solution](https://leetcode.com/problems/the-maze/solution/) | [C++](0490-The-Maze/cpp-0490/) | | |
 | | | | | | |
+| 494 | [Target Sum](https://leetcode.com/problems/target-sum/description/) | [solution](https://leetcode.com/problems/target-sum/solution/) | [C++](0494-Target-Sum/cpp-0494/) | | |
+| | | | | | |
 | 497 | [Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/solution/) | [solution](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/solution/) | [C++](0497-Random-Point-in-Non-overlapping-Rectangles/cpp-0497/) | | |
 | 498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/) | [无] | [C++](0498-Diagonal-Traverse/cpp-0498/) | | |
 | | | | | | |
