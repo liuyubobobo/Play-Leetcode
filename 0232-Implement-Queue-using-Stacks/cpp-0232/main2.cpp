@@ -1,6 +1,6 @@
 /// Source : https://leetcode.com/problems/implement-queue-using-stacks/description/
 /// Author : liuyubobobo
-/// Time   : 2018-09-14
+/// Time   : 2018-05-14
 
 #include <iostream>
 #include <stack>
@@ -8,11 +8,11 @@
 using namespace std;
 
 /// Two Stacks
-/// The Queue front is the top of Stack
+/// The Queue tail is the top of Stack
 ///
-/// Time Complexity: push: O(n)
-///                  pop:  O(1)
-///                  peek: O(1)
+/// Time Complexity: push: O(1)
+///                  pop:  O(n)
+///                  peek: O(n)
 ///                  empty: O(1)
 ///
 /// Space Complexity: O(n)
@@ -27,30 +27,45 @@ public:
 
     /** Push element x to the back of queue. */
     void push(int x) {
-        stack<int> s2;
-        while(!s.empty()){
-            s2.push(s.top());
-            s.pop();
-        }
         s.push(x);
-        while(!s2.empty()){
-            s.push(s2.top());
-            s2.pop();
-        }
     }
 
     /** Removes the element from in front of queue and returns that element. */
     int pop() {
 
-        int ret = s.top();
-        s.pop();
+        stack<int> s2;
+        while(!s.empty()){
+            s2.push(s.top());
+            s.pop();
+        }
+
+        int ret = s2.top();
+        s2.pop();
+
+        while(!s2.empty()){
+            s.push(s2.top());
+            s2.pop();
+        }
 
         return ret;
     }
 
     /** Get the front element. */
     int peek() {
-        return s.top();
+        stack<int> s2;
+        while(!s.empty()){
+            s2.push(s.top());
+            s.pop();
+        }
+
+        int ret = s2.top();
+
+        while(!s2.empty()){
+            s.push(s2.top());
+            s2.pop();
+        }
+
+        return ret;
     }
 
     /** Returns whether the queue is empty. */

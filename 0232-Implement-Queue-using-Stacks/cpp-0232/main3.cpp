@@ -8,10 +8,10 @@
 using namespace std;
 
 /// Two Stacks
-/// The Queue front is the top of Stack
+/// All the elements store in the two stacks all together
 ///
-/// Time Complexity: push: O(n)
-///                  pop:  O(1)
+/// Time Complexity: push: O(1)
+///                  pop:  O(1) in average
 ///                  peek: O(1)
 ///                  empty: O(1)
 ///
@@ -19,7 +19,8 @@ using namespace std;
 class MyQueue {
 
 private:
-    stack<int> s;
+    stack<int> s1, s2;
+    int front;
 
 public:
     /** Initialize your data structure here. */
@@ -27,35 +28,35 @@ public:
 
     /** Push element x to the back of queue. */
     void push(int x) {
-        stack<int> s2;
-        while(!s.empty()){
-            s2.push(s.top());
-            s.pop();
-        }
-        s.push(x);
-        while(!s2.empty()){
-            s.push(s2.top());
-            s2.pop();
-        }
+        if(s1.empty())
+            front = x;
+        s1.push(x);
     }
 
     /** Removes the element from in front of queue and returns that element. */
     int pop() {
 
-        int ret = s.top();
-        s.pop();
-
+        if(s2.empty()){
+            while(!s1.empty()){
+                s2.push(s1.top());
+                s1.pop();
+            }
+        }
+        int ret = s2.top();
+        s2.pop();
         return ret;
     }
 
     /** Get the front element. */
     int peek() {
-        return s.top();
+        if(!s2.empty())
+            return s2.top();
+        return front;
     }
 
     /** Returns whether the queue is empty. */
     bool empty() {
-        return s.empty();
+        return s1.empty() && s2.empty();
     }
 };
 
