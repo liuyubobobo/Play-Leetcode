@@ -16,7 +16,7 @@ struct UndirectedGraphNode {
     UndirectedGraphNode(int x) : label(x) {};
 };
 
-/// Using Stacks
+/// Using Two Stacks and HashMap from label to Node
 /// Time Complexity: O(V+E)
 /// Space Complexity: O(V)
 class Solution {
