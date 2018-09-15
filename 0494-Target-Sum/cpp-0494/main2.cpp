@@ -4,39 +4,40 @@
 
 #include <iostream>
 #include <vector>
-#include <map>
+#include <stack>
 
 using namespace std;
 
 
-/// Memory Search
-/// Using TreeSet
+/// Backtracking
+/// Using Stack - Non-recursion solution
 ///
-/// Time Complexity: O(n * maxNum * log(n * maxNum))
-/// Space Complexity: O(n * maxNum)
+/// Time Complexity: O(2^n)
+/// Space Complexity: O(2^n)
 class Solution {
 public:
     int findTargetSumWays(vector<int>& nums, int S) {
 
-        map<pair<int, int>, int> dp;
-        return dfs(nums, 0, S, dp);
-    }
+        stack<int> indexStack, sumStack;
+        indexStack.push(0);
+        sumStack.push(0);
+        int res = 0, index, sum;
+        while(!indexStack.empty()){
+            index = indexStack.top();
+            sum = sumStack.top();
+            indexStack.pop();
+            sumStack.pop();
 
-private:
-    int dfs(const vector<int>& nums, int index, int S,
-            map<pair<int, int>, int>& dp){
-
-        if(index == nums.size())
-            return S == 0;
-
-        pair<int, int> p = make_pair(index, S);
-        if(dp.count(p))
-            return dp[p];
-
-        int ret = 0;
-        ret += dfs(nums, index + 1, S - nums[index], dp);
-        ret += dfs(nums, index + 1, S + nums[index], dp);
-        return dp[p] = ret;
+            if(index + 1 == nums.size())
+                res += (sum + nums[index] == S) + (sum - nums[index] == S);
+            else{
+                indexStack.push(index + 1);
+                sumStack.push(sum + nums[index]);
+                indexStack.push(index + 1);
+                sumStack.push(sum - nums[index]);
+            }
+        }
+        return res;
     }
 };
 
