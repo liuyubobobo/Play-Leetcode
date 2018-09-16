@@ -513,6 +513,6 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/description/) | [solution](https://leetcode.com/problems/online-stock-span/solution/) | [C++](0901-Online-Stock-Span/cpp-0901/) | | |
 | 902 | [Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/description/) | [solution](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/solution/) | [C++](0902-Numbers-At-Most-N-Given-Digit-Set/cpp-0902/) | | |
 | 903 | [Valid Permutations for DI Sequence](https://leetcode.com/problems/valid-permutations-for-di-sequence/description/) | [solution](https://leetcode.com/problems/valid-permutations-for-di-sequence/solution/)<br/>[缺：O(n^2) DP] | [C++](0903-Valid-Permutations-for-DI-Sequence/cpp-0903/) | | |
-| | | | | | |
+| 904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/) | [solution](https://leetcode.com/problems/fruit-into-baskets/solution/) | [C++](0904-Fruit-Into-Baskets/cpp-0904/) | | |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/) | [solution](https://leetcode.com/problems/sort-array-by-parity/solution/) | [C++](0905-Sort-Array-By-Parity/cpp-0905/) | | |
 | | | | | | |
