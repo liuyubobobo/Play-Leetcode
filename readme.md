@@ -516,3 +516,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/) | [solution](https://leetcode.com/problems/fruit-into-baskets/solution/) | [C++](0904-Fruit-Into-Baskets/cpp-0904/) | | |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/) | [solution](https://leetcode.com/problems/sort-array-by-parity/solution/) | [C++](0905-Sort-Array-By-Parity/cpp-0905/) | | |
 | | | | | | |
+| 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/description/) | [solution](https://leetcode.com/problems/sum-of-subarray-minimums/solution/) | [C++](0907-Sum-of-Subarray-Minimums/cpp-0907/) | | |
+| | | | | | |
