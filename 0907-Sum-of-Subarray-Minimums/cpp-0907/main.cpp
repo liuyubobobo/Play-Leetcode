@@ -22,35 +22,25 @@ public:
         int n = A.size();
 
         vector<int> s;
-        long long repeat = 0;
 
         vector<int> rSmaller(n, n);
         for(int i = 0; i < n ; i ++){
-            if(s.empty() || A[i] > A[s.back()])
-                s.push_back(i);
-            else{
-                while(!s.empty() && A[s.back()] >= A[i]){
-                    rSmaller[s.back()] = i;
-                    s.pop_back();
-                }
-                s.push_back(i);
+            while(!s.empty() && A[s.back()] >= A[i]){
+                rSmaller[s.back()] = i;
+                s.pop_back();
             }
+            s.push_back(i);
         }
 //        Solution::print_vec(rSmaller);
 
         s.clear();
         vector<int> lSmaller(n, -1);
-        int r = n - 1;
         for(int i = n - 1; i >= 0; i --){
-            if(s.empty() || A[i] > A[s.back()])
-                s.push_back(i);
-            else{
-                while(!s.empty() && A[s.back()] > A[i]){
-                    lSmaller[s.back()] = i;
-                    s.pop_back();
-                }
-                s.push_back(i);
+            while(!s.empty() && A[s.back()] > A[i]){
+                lSmaller[s.back()] = i;
+                s.pop_back();
             }
+            s.push_back(i);
         }
 //        Solution::print_vec(lSmaller);
 
