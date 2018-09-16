@@ -21,36 +21,36 @@ public:
 
         int n = A.size();
 
-        vector<int> s;
+        vector<int> stack;
 
         vector<int> rSmaller(n, n);
         for(int i = 0; i < n ; i ++){
-            while(!s.empty() && A[s.back()] >= A[i]){
-                rSmaller[s.back()] = i;
-                s.pop_back();
+            while(!stack.empty() && A[stack.back()] >= A[i]){
+                rSmaller[stack.back()] = i;
+                stack.pop_back();
             }
-            s.push_back(i);
+            stack.push_back(i);
         }
 //        Solution::print_vec(rSmaller);
 
-        s.clear();
+        stack.clear();
         vector<int> lSmaller(n, -1);
         for(int i = n - 1; i >= 0; i --){
-            while(!s.empty() && A[s.back()] > A[i]){
-                lSmaller[s.back()] = i;
-                s.pop_back();
+            while(!stack.empty() && A[stack.back()] > A[i]){
+                lSmaller[stack.back()] = i;
+                stack.pop_back();
             }
-            s.push_back(i);
+            stack.push_back(i);
         }
 //        Solution::print_vec(lSmaller);
 
         long long res = 0;
         for(int i = 0; i < n; i ++){
-            res = res + (long long)(rSmaller[i] - i) * (long long)(i - lSmaller[i]) % mod * (long long)A[i] % mod;
+            res += (long long)(rSmaller[i] - i) * (long long)(i - lSmaller[i]) % mod * (long long)A[i] % mod;
             res %= mod;
         }
 
-        return res % mod;
+        return res;
     }
 
     static void print_vec(const vector<int>& vec){
