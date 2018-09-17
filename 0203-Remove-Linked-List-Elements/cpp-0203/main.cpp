@@ -61,8 +61,10 @@ void deleteLinkedList(ListNode* head){
     return;
 }
 
-// Time Complexity: O(n)
-// Space Complexity: O(1)
+
+/// Linear Scan with dummy head
+/// Time Complexity: O(n)
+/// Space Complexity: O(1)
 class Solution {
 public:
     ListNode* removeElements(ListNode* head, int val) {
@@ -87,6 +89,7 @@ public:
         return retNode;
     }
 };
+
 
 int main() {
 
