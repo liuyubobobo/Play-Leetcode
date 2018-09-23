@@ -524,4 +524,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/description/) | [solution](https://leetcode.com/problems/sum-of-subarray-minimums/solution/) | [C++](0907-Sum-of-Subarray-Minimums/cpp-0907/) | | |
 | 908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i/description/) | [solution](https://leetcode.com/problems/smallest-range-i/solution/) | [C++](0908-Smallest-Range-I/cpp-0908/) | | |
 | 909 | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/description/) | [solution](https://leetcode.com/problems/snakes-and-ladders/solution/) | [C++](0909-Snakes-and-Ladders/cpp-0909/) | | |
+| 910 | [Smallest Range II](https://leetcode.com/problems/smallest-range-ii/description/) | [solution](https://leetcode.com/problems/smallest-range-ii/solution/) | [C++](0910-Smallest-Range-II/cpp-0910/) | | |
 | | | | | | |
