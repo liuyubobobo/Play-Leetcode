@@ -522,4 +522,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/) | [solution](https://leetcode.com/problems/sort-array-by-parity/solution/) | [C++](0905-Sort-Array-By-Parity/cpp-0905/) | | |
 | 906 | [Super Palindromes](https://leetcode.com/problems/super-palindromes/description/) | [solution](https://leetcode.com/problems/super-palindromes/solution/) | [C++](0906-Super-Palindromes/cpp-0906/) | | |
 | 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/description/) | [solution](https://leetcode.com/problems/sum-of-subarray-minimums/solution/) | [C++](0907-Sum-of-Subarray-Minimums/cpp-0907/) | | |
+| 908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i/description/) | [solution](https://leetcode.com/problems/smallest-range-i/solution/) | [C++](0908-Smallest-Range-I/cpp-0908/) | | |
 | | | | | | |
