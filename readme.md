@@ -63,7 +63,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [无] | [C++](0017-Letter-Combinations-of-a-Phone-Number/cpp-0017/) | [Java](0017-Letter-Combinations-of-a-Phone-Number/java-0017/src/) | |
 | 018 | [4Sum](https://leetcode.com/problems/4sum/description/) | [无] | [C++](0018-4Sum/cpp-0018/) | | |
 | 019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [solution](https://leetcode.com/problems/remove-nth-node-from-end-of-list/solution/) | [C++](0019-Remove-Nth-Node-From-End-of-List/cpp-0019/) | [Java](0019-Remove-Nth-Node-From-End-of-List/java-0019/src/) | |
-| 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [无] | [C++](0020-Valid-Parentheses/cpp-0020/) | [Java](0020-Valid-Parentheses/java-0020/src/) | |
+| 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [solution](https://leetcode.com/problems/valid-parentheses/solution/) | [C++](0020-Valid-Parentheses/cpp-0020/) | [Java](0020-Valid-Parentheses/java-0020/src/) | |
 | 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [solution](https://leetcode.com/problems/merge-two-sorted-lists/solution/) | [C++](0021-Merge-Two-Sorted-Lists/cpp-0021/) | | |
 | 022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [solution](https://leetcode.com/problems/generate-parentheses/solution/) | [C++](0022-Generate-Parentheses/cpp-0022/) | | |
 | 023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [solution](https://leetcode.com/problems/merge-k-sorted-lists/solution/) | [C++](0023-Merge-k-Sorted-Lists/cpp-0023/) | | |
@@ -304,6 +304,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/description/) | [缺：矩形求交] | [C++](0391-Perfect-Rectangle/cpp-0391/) | | |
 | | | | | | |
 | 398 | [Random Pick Index](https://leetcode.com/problems/random-pick-index/description/) | [无] | [C++](0398-Random-Pick-Index/cpp-0398/) | | |
+| | | | | | |
+| 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [solution](https://leetcode.com/problems/fizz-buzz/solution/) | [C++](0412-Fizz-Buzz/cpp-0412/) | | |
 | | | | | | |
 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [无] | [C++](0416-Partition-Equal-Subset-Sum/cpp-0416/) | [Java](0416-Partition-Equal-Subset-Sum/java-0416/src/) | |
 | 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/) | [无] | | [Java](0417-Pacific-Atlantic-Water-Flow/java-0417/src/) | |
