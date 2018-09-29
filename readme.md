@@ -217,7 +217,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/) | [无] | [C++](0222-Count-Complete-Tree-Nodes/cpp-0222/) | | |
 | | | | | | |
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/description/) | [无] | [C++](0224-Basic-Calculator/cpp-0224/) | | |
-| | | | | | |
+| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) | [solution](https://leetcode.com/problems/implement-stack-using-queues/solution/) | [C++](0225-Implement-Stack-using-Queues/cpp-0225/) | | |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [solution](https://leetcode.com/problems/invert-binary-tree/solution/) | [C++](0226-Invert-Binary-Tree/cpp-0226/) | [Java](0226-Invert-Binary-Tree/java-0226/src/) | |
 | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/) | [无] | [C++](0227-Basic-Calculator-II/cpp-0227/) | | |
 | | | | | | |
