@@ -534,4 +534,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 914 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/description/) | [solution](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/solution/) | [C++](0914-X-of-a-Kind-in-a-Deck-of-Cards/cpp-0914/) | | |
 | 915 | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/description/) | [solution](https://leetcode.com/problems/partition-array-into-disjoint-intervals/solution/) | [C++](0915-Partition-Array-into-Disjoint-Intervals/cpp-0915/) | | |
+| 916 | [Word Subsets](https://leetcode.com/problems/word-subsets/description/) | [solution](https://leetcode.com/problems/word-subsets/solution/) | [C++](0916-Word-Subsets/cpp-0916/) | | |
 | | | | | | |
