@@ -174,6 +174,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | [无] | [C++](0155-Min-Stack/cpp-0155/) | | |
 | | | | | | |
 | 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/) | [无] | [C++](0159-Longest-Substring-with-At-Most-Two-Distinct-Characters/cpp-0159/) | | |
+| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [solution](https://leetcode.com/problems/intersection-of-two-linked-lists/solution/) | [C++](0160-Intersection-of-Two-Linked-Lists/cpp-0160/) | | |
 | | | | | | |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [solution](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/solution/) | [C++](0167-Two-Sum-II-Input-array-is-sorted/cpp-0167/) | [Java](0167-Two-Sum-II-Input-array-is-sorted/java-0167/src/) | |
 | | | | | | |
