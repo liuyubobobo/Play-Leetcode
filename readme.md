@@ -533,4 +533,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 911 | [Online Election](https://leetcode.com/problems/online-election/description/) | [solution](https://leetcode.com/problems/online-election/solution/) | [C++](0911-Online-Election/cpp-0911/) | | |
 | | | | | | |
 | 914 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/description/) | [solution](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/solution/) | [C++](0914-X-of-a-Kind-in-a-Deck-of-Cards/cpp-0914/) | | |
+| 915 | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/description/) | [solution](https://leetcode.com/problems/partition-array-into-disjoint-intervals/solution/) | [C++](0915-Partition-Array-into-Disjoint-Intervals/cpp-0915/) | | |
 | | | | | | |
