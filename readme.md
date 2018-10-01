@@ -272,6 +272,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/description/) | [solution](https://leetcode.com/problems/coin-change/solution/) | [C++](0322-Coin-Change/cpp-0322/) | | |
 | | | | | | |
+| 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | [solution](https://leetcode.com/problems/odd-even-linked-list/solution/) | [C++](0328-Odd-Even-Linked-List/cpp-0328/) | | |
+| | | | | | |
 | 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/description/) | [无] | [C++](0337-House-Robber-III/cpp-0337/) | | |
 | | | | | | |
 | 343 | [Integer Break](https://leetcode.com/problems/integer-break/description/) | [无] | [C++](0343-Integer-Break/cpp-0343/) | [Java](0343-Integer-Break/java-0343/src/) | |
