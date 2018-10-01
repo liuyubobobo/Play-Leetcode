@@ -62,9 +62,9 @@ void deleteLinkedList(ListNode* head){
     return;
 }
 
-// Two Pointers - One Pass Algorithm
-// Time Complexity: O(n)
-// Space Complexity: O(1)
+/// Two Pointers - One Pass Algorithm
+/// Time Complexity: O(n)
+/// Space Complexity: O(1)
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
@@ -74,7 +74,7 @@ public:
 
         ListNode* p = dummyHead;
         ListNode* q = dummyHead;
-        for( int i = 0 ; i < n + 1 ; i ++ ){
+        for(int i = 0 ; i < n + 1 ; i ++){
             assert(q);
             q = q->next;
         }

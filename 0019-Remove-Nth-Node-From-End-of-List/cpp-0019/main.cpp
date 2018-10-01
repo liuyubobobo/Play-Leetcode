@@ -62,8 +62,11 @@ void deleteLinkedList(ListNode* head){
     return;
 }
 
-// Time Complexity: O(n)
-// Space Complexity: O(1)
+/// Get the total length and remove the nth node
+/// Two Pass Algorithm
+///
+/// Time Complexity: O(n)
+/// Space Complexity: O(1)
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
