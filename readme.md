@@ -78,6 +78,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [无] | [C++](0036-Valid-Sudoku/cpp-0036/) | | |
 | | | | | | |
+| 038 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | [无] | [C++](0038-Count-and-Say/cpp-0038/) | | |
 | 039 | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [无] | [C++](0039-Combination-Sum/cpp-0039/) | | |
 | 040 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [无] | [C++](0040-Combination-Sum-II/cpp-0040/) | | |
 | | | | | | |
