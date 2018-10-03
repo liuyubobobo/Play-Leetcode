@@ -237,6 +237,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [solution](https://leetcode.com/problems/valid-anagram/solution/) | [C++](0242-Valid-Anagram/cpp-0242/) | | |
 | | | | | | |
+| 249 | [Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/description/) | [无] | [C++](0249-Group-Shifted-Strings/cpp-0249/) | | |
 | 250 | [Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/description/) | [无] | [C++](0250-Count-Univalue-Subtrees/cpp-0250/) | | |
 | | | | | | |
 | 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/) | [solution](https://leetcode.com/problems/meeting-rooms/solution/) | [C++](0252-Meeting-Rooms/cpp-0252/) | | |
