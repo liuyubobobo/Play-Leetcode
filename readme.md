@@ -107,6 +107,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)| [无] | [C++](0069-Sqrt-x/cpp-0069/) | | |
 | 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [solution](https://leetcode.com/problems/climbing-stairs/solution/) | [C++](0070-Climbing-Stairs/cpp-0070/) | [Java](0070-Climbing-Stairs/java-0070/src/) | |
 | | | | | | |
+| 073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [solution](https://leetcode.com/problems/set-matrix-zeroes/solution/) | [C++](0073-Set-Matrix-Zeroes/cpp-0073/) | | |
+| | | | | | |
 | 075 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [无] | [C++](0075-Sort-Colors/cpp-0075/) | [Java](0075-Sort-Colors/java-0075/src/) | |
 | 076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | [solution](https://leetcode.com/problems/minimum-window-substring/solution/) | [C++](0076-Minimum-Window-Substring/cpp-0076/) | | |
 | 077 | [Combinations](https://leetcode.com/problems/combinations/description/) | [缺：组合算法整理] | [C++](0077-Combinations/cpp-0077/) | [Java](0077-Combinations/java-0077/src/) | |
