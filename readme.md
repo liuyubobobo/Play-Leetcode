@@ -452,6 +452,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 765 | [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/description/) | [solution](https://leetcode.com/problems/couples-holding-hands/solution/) | [C++](0765-Couples-Holding-Hands/cpp-0765/) | | |
 | 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) | [solution](https://leetcode.com/problems/toeplitz-matrix/solution/) | [C++](0766-Toeplitz-Matrix/cpp-0766/) | | |
 | | | | | | |
+| 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [solution](https://leetcode.com/problems/jewels-and-stones/solution/) | [C++](0771-Jewels-and-Stones/cpp-0771/) | | |
 | 772 | [Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/description/) | [无] | [C++](0772-Basic-Calculator-III/cpp-0772/) | | |
 | | | | | | |
 | 780 | [Reaching Points](https://leetcode.com/problems/reaching-points/description/) | [solution](https://leetcode.com/problems/reaching-points/solution/) | [C++](0780-Reaching-Points/cpp-0780/) | | |
