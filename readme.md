@@ -558,3 +558,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 916 | [Word Subsets](https://leetcode.com/problems/word-subsets/description/) | [solution](https://leetcode.com/problems/word-subsets/solution/) | [C++](0916-Word-Subsets/cpp-0916/) | | |
 | 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/) | [solution](https://leetcode.com/problems/reverse-only-letters/solution/) | [C++](0917-Reverse-Only-Letters/cpp-0917/) | | |
 | | | | | | |
+| 919 | [Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/description/) | [solution](https://leetcode.com/problems/complete-binary-tree-inserter/solution/) | [C++](0919-Complete-Binary-Tree-Inserter/cpp-0919/) | | |
+| | | | | | |
