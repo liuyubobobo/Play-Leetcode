@@ -559,4 +559,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/) | [solution](https://leetcode.com/problems/reverse-only-letters/solution/) | [C++](0917-Reverse-Only-Letters/cpp-0917/) | | |
 | | | | | | |
 | 919 | [Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/description/) | [solution](https://leetcode.com/problems/complete-binary-tree-inserter/solution/) | [C++](0919-Complete-Binary-Tree-Inserter/cpp-0919/) | | |
+| 920 | [Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/description/) | [solution](https://leetcode.com/problems/number-of-music-playlists/solution/)<br/>[缺：生成函数] | [C++](0920-Number-of-Music-Playlists/cpp-0920/) | | |
 | | | | | | |
