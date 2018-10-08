@@ -557,7 +557,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 915 | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/description/) | [solution](https://leetcode.com/problems/partition-array-into-disjoint-intervals/solution/) | [C++](0915-Partition-Array-into-Disjoint-Intervals/cpp-0915/) | | |
 | 916 | [Word Subsets](https://leetcode.com/problems/word-subsets/description/) | [solution](https://leetcode.com/problems/word-subsets/solution/) | [C++](0916-Word-Subsets/cpp-0916/) | | |
 | 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/) | [solution](https://leetcode.com/problems/reverse-only-letters/solution/) | [C++](0917-Reverse-Only-Letters/cpp-0917/) | | |
-| | | | | | |
+| 918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/description/) | [solution](https://leetcode.com/problems/maximum-sum-circular-subarray/solution/) | [C++](0918-Maximum-Sum-Circular-Subarray/cpp-0918/) | | |
 | 919 | [Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/description/) | [solution](https://leetcode.com/problems/complete-binary-tree-inserter/solution/) | [C++](0919-Complete-Binary-Tree-Inserter/cpp-0919/) | | |
 | 920 | [Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/description/) | [solution](https://leetcode.com/problems/number-of-music-playlists/solution/)<br/>[缺：生成函数] | [C++](0920-Number-of-Music-Playlists/cpp-0920/) | | |
 | | | | | | |
