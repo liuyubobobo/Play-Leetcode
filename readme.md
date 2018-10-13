@@ -168,7 +168,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [solution](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [C++](0142-Linked-List-Cycle-II/cpp-0142/) | | |
 | | | | | | |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [无] | [C++](0144-Binary-Tree-Preorder-Traversal/cpp-0144/) | [Java](0144-Binary-Tree-Preorder-Traversal/java-0144/src/) | |
-| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [无] | [C++](0145-Binary-Tree-Postorder-Traversal/cpp-0145/) | [Java](0145-Binary-Tree-Postorder-Traversal/java-0145/src/) | |
+| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [solution](https://leetcode.com/problems/binary-tree-postorder-traversal/solution/) | [C++](0145-Binary-Tree-Postorder-Traversal/cpp-0145/) | [Java](0145-Binary-Tree-Postorder-Traversal/java-0145/src/) | |
 | | | | | | |
 | 148 | [Sort List](https://leetcode.com/problems/sort-list/description/) | [无] | [C++](0148-Sort-List/cpp-0148/) | | |
 | 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) | [无] | [C++](0149-Max-Points-on-a-Line/cpp-0149/) | | |
