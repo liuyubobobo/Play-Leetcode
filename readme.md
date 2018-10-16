@@ -157,7 +157,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 126 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/) | [无]<br/>[缺：双端搜索] | [C++](0126-Word-Ladder-II/cpp-0126/) | | |
 | 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/description/) | [无] | [C++](0127-Word-Ladder/cpp-0127/) | [Java](0127-Word-Ladder/java-0127/) | |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-9consecutive-sequence/description/) | | [C++](0128-Longest-Consecutive-Sequence/cpp-0128/) | | |
-| | | | | | |
+| 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) | [无] | [C++](0129-Sum-Root-to-Leaf-Numbers/cpp-0129/) | | |
 | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/) | [无] | [C++](0130-Surrounded-Regions/cpp-0130/) | | |
 | | | | | | |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/description/) | [无] | [C++](0133-Clone-Graph/cpp-0133/) | | |
