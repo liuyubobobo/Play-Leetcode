@@ -1,6 +1,6 @@
 /// Source : https://leetcode.com/problems/binary-tree-level-order-traversal/description/
 /// Author : liuyubobobo
-/// Time   : 2017-11-17
+/// Time   : 2018-10-16
 
 #include <iostream>
 #include <vector>
@@ -18,6 +18,8 @@ struct TreeNode {
 };
 
 /// BFS
+/// No need to store level information in the queue :-)
+///
 /// Time Complexity: O(n), where n is the number of nodes in the tree
 /// Space Complexity: O(n)
 class Solution {
@@ -28,24 +30,31 @@ public:
         if(root == NULL)
             return res;
 
-        queue<pair<TreeNode*,int>> q;
-        q.push(make_pair(root, 0));
+        queue<TreeNode*> q;
+        q.push(root);
+        int level_num = 1;
 
         while(!q.empty()){
 
-            TreeNode* node = q.front().first;
-            int level = q.front().second;
-            q.pop();
+            int new_level_num = 0;
+            vector<int> level;
+            for(int i = 0; i < level_num; i ++){
+                TreeNode* node = q.front();
+                q.pop();
+                level.push_back(node->val);
 
-            if(level == res.size())
-                res.push_back(vector<int>());
-            assert( level < res.size() );
+                if(node->left){
+                    q.push(node->left);
+                    new_level_num ++;
+                }
+                if(node->right){
+                    q.push(node->right);
+                    new_level_num ++;
+                }
+            }
 
-            res[level].push_back(node->val);
-            if(node->left)
-                q.push(make_pair(node->left, level + 1 ));
-            if(node->right)
-                q.push(make_pair(node->right, level + 1 ));
+            res.push_back(level);
+            level_num = new_level_num;
         }
 
         return res;

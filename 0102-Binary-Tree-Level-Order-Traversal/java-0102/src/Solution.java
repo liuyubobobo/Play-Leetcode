@@ -12,22 +12,14 @@ import javafx.util.Pair;
 /// Space Complexity: O(n)
 class Solution {
 
-    // Definition for a binary tree node.
-    public class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-        TreeNode(int x) { val = x; }
-    }
-
     public List<List<Integer>> levelOrder(TreeNode root) {
 
-        ArrayList<List<Integer>> res = new ArrayList<List<Integer>>();
+        ArrayList<List<Integer>> res = new ArrayList<>();
         if(root == null)
             return res;
 
-        LinkedList<Pair<TreeNode, Integer>> queue = new LinkedList<Pair<TreeNode, Integer>>();
-        queue.addLast(new Pair<TreeNode, Integer>(root, 0));
+        LinkedList<Pair<TreeNode, Integer>> queue = new LinkedList<>();
+        queue.addLast(new Pair<>(root, 0));
 
         while(!queue.isEmpty()){
 
@@ -36,14 +28,14 @@ class Solution {
             int level = front.getValue();
 
             if(level == res.size())
-                res.add(new ArrayList<Integer>());
+                res.add(new ArrayList<>());
             assert level < res.size();
 
             res.get(level).add(node.val);
             if(node.left != null)
-                queue.addLast(new Pair<TreeNode, Integer>(node.left, level + 1));
+                queue.addLast(new Pair<>(node.left, level + 1));
             if(node.right != null)
-                queue.addLast(new Pair<TreeNode, Integer>(node.right, level + 1));
+                queue.addLast(new Pair<>(node.right, level + 1));
         }
 
         return res;
