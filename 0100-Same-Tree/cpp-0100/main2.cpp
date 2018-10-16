@@ -7,7 +7,7 @@
 using namespace std;
 
 
-/// Using a string to represent a Binary Tree in preorder
+/// Recursion
 /// Time Complexity: O(n)
 /// Space Complexity: O(h)
 
@@ -23,26 +23,10 @@ class Solution {
 public:
     bool isSameTree(TreeNode* p, TreeNode* q) {
 
-        string ps = "#";
-        getTreeString(p, ps);
-
-        string qs = "#";
-        getTreeString(q, qs);
-
-        return ps == qs;
-    }
-
-private:
-    void getTreeString(TreeNode* node, string& s){
-
-        if(!node){
-            s += "NULL#";
-            return;
-        }
-
-        s += to_string(node->val) + "#";
-        getTreeString(node->left, s);
-        getTreeString(node->right, s);
+        if(!p && !q) return true;
+        if(!p || !q) return false;
+        if(p->val != q->val) return false;
+        return isSameTree(p->left, q->left) && isSameTree(p->right, q->right);
     }
 };
 
