@@ -568,4 +568,4 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/) | [solution](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/solution/) | [C++](0921-Minimum-Add-to-Make-Parentheses-Valid/cpp-0921/) | | |
 | 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/description/) | [solution](https://leetcode.com/problems/sort-array-by-parity-ii/solution/) | [C++](0922-Sort-Array-By-Parity-II/cpp-0922/) | | |
 | 923 | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/description/) | [solution](https://leetcode.com/problems/3sum-with-multiplicity/solution/) | [C++](0923-3Sum-With-Multiplicity/cpp-0923/) | | |
-| | | | | | |
+| 924 | [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/description/) | [solution](https://leetcode.com/problems/minimize-malware-spread/solution/) | [C++](0924-Minimize-Malware-Spread/cpp-0924/) | | |
