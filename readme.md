@@ -236,7 +236,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [无] | [C++](0234-Palindrome-Linked-List/cpp-0234/) | | |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | [无] | [C++](0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree/cpp-0235/) | [Java](0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree/java-0235/src/) | |
-| 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [无] | [C++](0236-Lowest-Common-Ancestor-of-a-Binary-Tree/cpp-0236/) | | |
+| 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [无]<br/>[缺：LCA问题总结] | [C++](0236-Lowest-Common-Ancestor-of-a-Binary-Tree/cpp-0236/) | | |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [solution](https://leetcode.com/problems/delete-node-in-a-linked-list/solution/) | [C++](0237-Delete-Node-in-a-Linked-List/cpp-0237/) | [Java](0237-Delete-Node-in-a-Linked-List/java-0237/src/) | |
 | | | | | | |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) | [无] | [C++](0239-Sliding-Window-Maximum/cpp-0239/) | | |
@@ -569,3 +569,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/description/) | [solution](https://leetcode.com/problems/sort-array-by-parity-ii/solution/) | [C++](0922-Sort-Array-By-Parity-II/cpp-0922/) | | |
 | 923 | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/description/) | [solution](https://leetcode.com/problems/3sum-with-multiplicity/solution/) | [C++](0923-3Sum-With-Multiplicity/cpp-0923/) | | |
 | 924 | [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/description/) | [solution](https://leetcode.com/problems/minimize-malware-spread/solution/) | [C++](0924-Minimize-Malware-Spread/cpp-0924/) | | |
+| 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/submissions/) | [solution](https://leetcode.com/problems/long-pressed-name/solution/) | [C++](0925-Long-Pressed-Name/cpp-0925/) | | |
+| | | | | | |
