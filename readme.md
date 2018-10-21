@@ -571,4 +571,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 924 | [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/description/) | [solution](https://leetcode.com/problems/minimize-malware-spread/solution/) | [C++](0924-Minimize-Malware-Spread/cpp-0924/) | | |
 | 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/submissions/) | [solution](https://leetcode.com/problems/long-pressed-name/solution/) | [C++](0925-Long-Pressed-Name/cpp-0925/) | | |
 | 926 | [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) | [solution](https://leetcode.com/problems/flip-string-to-monotone-increasing/solution/) | [C++](0926-Flip-String-to-Monotone-Increasing/cpp-0926/) | | |
+| 927 | [Three Equal Parts](https://leetcode.com/problems/three-equal-parts/) | [solution](https://leetcode.com/problems/three-equal-parts/solution/) | [C++](0927-Three-Equal-Parts/cpp-0927/) | | |
 | | | | | | |
