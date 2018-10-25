@@ -99,6 +99,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 061 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [无] | [C++](0061-Rotate-List/cpp-0061/) | | |
 | | | | | | |
+| 063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [solution](https://leetcode.com/problems/unique-paths-ii/solution/) | [C++](0063-Unique-Paths-II/cpp-0063/) | | |
 | 064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [solution](https://leetcode.com/problems/minimum-path-sum/solution/) | [C++](0064-Minimum-Path-Sum/cpp-0064/) | [Java](0064-Minimum-Path-Sum/java-0064/src/) | |
 | | | | | | |
 | 066 | [Plus One](https://leetcode.com/problems/plus-one/description/) | [无] | [C++](0066-Plus-One/cpp-0066/) | | |
