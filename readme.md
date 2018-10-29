@@ -451,6 +451,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 740 | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/) | [solution](https://leetcode.com/problems/delete-and-earn/solution/) | [C++](0740-Delete-and-Earn/cpp-0740/) | | |
 | 741 | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/description/) | [solution](https://leetcode.com/problems/cherry-pickup/solution/)<br/>[缺：自底向上的动态规划] | [C++](0741-Cherry-Pickup/cpp-0741/) | | |
 | | | | | | |
+| 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [solution](https://leetcode.com/problems/min-cost-climbing-stairs/) | [C++](0746-Min-Cost-Climbing-Stairs/cpp-0746/) | | |
 | 747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | [solution](https://leetcode.com/problems/largest-number-at-least-twice-of-others/solution/) | [C++](0747-Largest-Number-At-Least-Twice-of-Others/cpp-0747/) | | |
 | | | | | | |
 | 752 | [Open the Lock](https://leetcode.com/problems/open-the-lock/description/) | [solution](https://leetcode.com/problems/open-the-lock/solution/) | [C++](0752-Open-the-Lock/cpp-0752/) | | |
