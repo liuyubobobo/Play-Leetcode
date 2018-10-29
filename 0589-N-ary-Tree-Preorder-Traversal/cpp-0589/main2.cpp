@@ -36,17 +36,16 @@ public:
         if(!root)
             return res;
 
-        stack<pair<Node*, int>> stack;
-        stack.push(make_pair(root, 1));
+        stack<Node*> stack;
+        stack.push(root);
         while(!stack.empty()){
-            Node* cur = stack.top().first;
-            int step = stack.top().second;
+            Node* cur = stack.top();
             stack.pop();
 
             res.push_back(cur->val);
             for(vector<Node*>::reverse_iterator iter = cur->children.rbegin();
                     iter != cur->children.rend(); iter ++)
-                stack.push(make_pair(*iter, step + 1));
+                stack.push(*iter);
         }
         return res;
     }
