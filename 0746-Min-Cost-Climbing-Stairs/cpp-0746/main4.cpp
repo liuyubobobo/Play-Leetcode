@@ -9,7 +9,7 @@ using namespace std;
 
 
 /// Dynamic Programming
-/// Reverse order to dp :-)
+/// Little optimizing without changing cost array :-)
 ///
 /// Time Complexity: O(n)
 /// Space Complexity: O(1)
@@ -17,8 +17,9 @@ class Solution {
 public:
     int minCostClimbingStairs(vector<int>& cost) {
 
-        int a = 0, b = 0;
-        for(int i = cost.size() - 1 ; i >= 0 ; i --){
+        int a = cost[0];
+        int b = cost[1];
+        for(int i = 2 ; i < cost.size() ; i ++){
             int c = min(a, b) + cost[i];
             a = b;
             b = c;

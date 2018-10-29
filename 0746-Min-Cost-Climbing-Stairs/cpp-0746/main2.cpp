@@ -1,6 +1,6 @@
 /// Source : https://leetcode.com/problems/min-cost-climbing-stairs/
 /// Author : liuyubobobo
-/// Time   : 2018-10-29
+/// Time   : 2017-12-16
 
 #include <iostream>
 #include <vector>
@@ -9,23 +9,19 @@ using namespace std;
 
 
 /// Dynamic Programming
-/// Space Complexity Optimized
-///
 /// Time Complexity: O(n)
-/// Space Complexity: O(1)
+/// Space Complexity: O(n)
 class Solution {
 public:
     int minCostClimbingStairs(vector<int>& cost) {
 
         cost.push_back(0);
-        int a = cost[0];
-        int b = cost[1];
-        for(int i = 2 ; i < cost.size() ; i ++){
-            int c = min(a, b) + cost[i];
-            a = b;
-            b = c;
-        }
-        return b;
+        vector<int> dp(cost.size(), 0);
+        dp[0] = cost[0];
+        dp[1] = cost[1];
+        for(int i = 2 ; i < cost.size() ; i ++)
+            dp[i] = min(dp[i-1], dp[i-2]) + cost[i];
+        return dp.back();
     }
 };
 
