@@ -575,4 +575,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 927 | [Three Equal Parts](https://leetcode.com/problems/three-equal-parts/) | [solution](https://leetcode.com/problems/three-equal-parts/solution/) | [C++](0927-Three-Equal-Parts/cpp-0927/) | | |
 | 928 | [Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/description/) | [solution](https://leetcode.com/problems/minimize-malware-spread-ii/solution/) | [C++](0928-Minimize-Malware-Spread-II/cpp-0928/) | | |
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [solution](https://leetcode.com/problems/unique-email-addresses/) | [C++](0929-Unique-Email-Addresses/cpp-0929/) | | |
+| 930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | [solution](https://leetcode.com/problems/binary-subarrays-with-sum/) | [C++](0930-Binary-Subarrays-With-Sum/cpp-0930/) | | |
 | | | | | | |
