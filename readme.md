@@ -140,7 +140,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/) | [无] | [C++](0109-Convert-Sorted-List-to-Binary-Search-Tree/cpp-0109/) | | |
 | | | | | | |
-| 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [无] | [C++](0111-Minimum-Depth-of-Binary-Tree/cpp-0111/) | | |
+| 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [solution](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [C++](0111-Minimum-Depth-of-Binary-Tree/cpp-0111/) | | |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/description/) | [无] | [C++](0112-Path-Sum/cpp-0112/) | [Java](0112-Path-Sum/cpp-0112/src/) | |
 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) | [无] | [C++](0113-Path-Sum-II/cpp-0113/) | | |
 | | | | | | |
