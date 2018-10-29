@@ -379,6 +379,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/description/) | [solution](https://leetcode.com/problems/delete-operation-for-two-strings/solution/) | [C++](0583-Delete-Operation-for-Two-Strings/cpp-0583/) | | |
 | | | | | | |
+| 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [solution](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [C++](0589-N-ary-Tree-Preorder-Traversal/cpp-0589/) | | |
+| | | | | | |
 | 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | | [C++](0598-Range-Addition-II/cpp-0598/) | | |
 | 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/explore/learn/card/hash-table/184/comparison-with-other-data-structures/1177/) | [solution](https://leetcode.com/problems/minimum-index-sum-of-two-lists/solution/) | [C++](0599-Minimum-Index-Sum-of-Two-Lists/cpp-0599/) | | |
 | 600 | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/description/) | [solution](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/solution/)<br/>[缺：Bit Manipulation]| [C++](0600-Non-negative-Integers-without-Consecutive-Ones/cpp-0600/) | | |
