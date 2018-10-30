@@ -140,7 +140,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/) | [无] | [C++](0109-Convert-Sorted-List-to-Binary-Search-Tree/cpp-0109/) | | |
 | | | | | | |
-| 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [solution](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [C++](0111-Minimum-Depth-of-Binary-Tree/cpp-0111/) | | |
+| 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [solution](https://leetcode.com/problems/minimum-depth-of-binary-tree/solution/) | [C++](0111-Minimum-Depth-of-Binary-Tree/cpp-0111/) | | |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/description/) | [无] | [C++](0112-Path-Sum/cpp-0112/) | [Java](0112-Path-Sum/cpp-0112/src/) | |
 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) | [无] | [C++](0113-Path-Sum-II/cpp-0113/) | | |
 | | | | | | |
@@ -379,8 +379,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/description/) | [solution](https://leetcode.com/problems/delete-operation-for-two-strings/solution/) | [C++](0583-Delete-Operation-for-Two-Strings/cpp-0583/) | | |
 | | | | | | |
-| 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [solution](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [C++](0589-N-ary-Tree-Preorder-Traversal/cpp-0589/) | | |
-| 590 | [N-ary Tree Postorder Transversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [solution](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [C++](0590-N-ary-Tree-Postorder-Transversal/cpp-0590/) | | |
+| 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [solution](https://leetcode.com/problems/n-ary-tree-preorder-traversal/solution/) | [C++](0589-N-ary-Tree-Preorder-Traversal/cpp-0589/) | | |
+| 590 | [N-ary Tree Postorder Transversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [solution](https://leetcode.com/problems/n-ary-tree-postorder-traversal/solution/) | [C++](0590-N-ary-Tree-Postorder-Transversal/cpp-0590/) | | |
 | | | | | | |
 | 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | | [C++](0598-Range-Addition-II/cpp-0598/) | | |
 | 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/explore/learn/card/hash-table/184/comparison-with-other-data-structures/1177/) | [solution](https://leetcode.com/problems/minimum-index-sum-of-two-lists/solution/) | [C++](0599-Minimum-Index-Sum-of-Two-Lists/cpp-0599/) | | |
@@ -454,7 +454,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 740 | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/) | [solution](https://leetcode.com/problems/delete-and-earn/solution/) | [C++](0740-Delete-and-Earn/cpp-0740/) | | |
 | 741 | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/description/) | [solution](https://leetcode.com/problems/cherry-pickup/solution/)<br/>[缺：自底向上的动态规划] | [C++](0741-Cherry-Pickup/cpp-0741/) | | |
 | | | | | | |
-| 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [solution](https://leetcode.com/problems/min-cost-climbing-stairs/) | [C++](0746-Min-Cost-Climbing-Stairs/cpp-0746/) | | |
+| 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [solution](https://leetcode.com/problems/min-cost-climbing-stairs/solution/) | [C++](0746-Min-Cost-Climbing-Stairs/cpp-0746/) | | |
 | 747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | [solution](https://leetcode.com/problems/largest-number-at-least-twice-of-others/solution/) | [C++](0747-Largest-Number-At-Least-Twice-of-Others/cpp-0747/) | | |
 | | | | | | |
 | 752 | [Open the Lock](https://leetcode.com/problems/open-the-lock/description/) | [solution](https://leetcode.com/problems/open-the-lock/solution/) | [C++](0752-Open-the-Lock/cpp-0752/) | | |
@@ -578,7 +578,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 926 | [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) | [solution](https://leetcode.com/problems/flip-string-to-monotone-increasing/solution/) | [C++](0926-Flip-String-to-Monotone-Increasing/cpp-0926/) | | |
 | 927 | [Three Equal Parts](https://leetcode.com/problems/three-equal-parts/) | [solution](https://leetcode.com/problems/three-equal-parts/solution/) | [C++](0927-Three-Equal-Parts/cpp-0927/) | | |
 | 928 | [Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/description/) | [solution](https://leetcode.com/problems/minimize-malware-spread-ii/solution/) | [C++](0928-Minimize-Malware-Spread-II/cpp-0928/) | | |
-| 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [solution](https://leetcode.com/problems/unique-email-addresses/) | [C++](0929-Unique-Email-Addresses/cpp-0929/) | | |
-| 930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | [solution](https://leetcode.com/problems/binary-subarrays-with-sum/) | [C++](0930-Binary-Subarrays-With-Sum/cpp-0930/) | | |
-| 931 | [Minimum Path Falling Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [solution](https://leetcode.com/problems/minimum-falling-path-sum/) | [C++](0931-Minimum-Path-Falling-Sum/cpp-0931/) | | |
+| 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/solution/) | [solution](https://leetcode.com/problems/unique-email-addresses/) | [C++](0929-Unique-Email-Addresses/cpp-0929/) | | |
+| 930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | [solution](https://leetcode.com/problems/binary-subarrays-with-sum/solution/) | [C++](0930-Binary-Subarrays-With-Sum/cpp-0930/) | | |
+| 931 | [Minimum Path Falling Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [solution](https://leetcode.com/problems/minimum-falling-path-sum/solution/) | [C++](0931-Minimum-Path-Falling-Sum/cpp-0931/) | | |
+| 932 | [Beautiful Array](https://leetcode.com/problems/beautiful-array/description/) | [solution](https://leetcode.com/problems/beautiful-array/solution/) | [C++](0932-Beautiful-Array/cpp-0932/) | | |
 | | | | | | |
