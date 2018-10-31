@@ -326,6 +326,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [无] | [C++](0416-Partition-Equal-Subset-Sum/cpp-0416/) | [Java](0416-Partition-Equal-Subset-Sum/java-0416/src/) | |
 | 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/) | [无] | | [Java](0417-Pacific-Atlantic-Water-Flow/java-0417/src/) | |
 | | | | | | |
+| 429 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [无] | [C++](0429-N-ary-Tree-Level-Order-Traversal/cpp-0429/) | | |
 | 430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/description/) | [无] | [solution](0430-Flatten-a-Multilevel-Doubly-Linked-List/cpp-0430/) | | |
 | | | | | | |
 | 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/) | | [C++](0434-Number-of-Segments-in-a-String/cpp-0434/) | | |
