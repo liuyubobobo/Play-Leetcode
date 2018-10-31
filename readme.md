@@ -317,6 +317,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 390 | [Elimination Game](https://leetcode.com/problems/elimination-game/description/) | | [C++](0390-Elimination-Game/cpp-0390/) | | |
 | 391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/description/) | [缺：矩形求交] | [C++](0391-Perfect-Rectangle/cpp-0391/) | | |
 | | | | | | |
+| 393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | [solution](https://leetcode.com/problems/utf-8-validation/solution/) | [C++](0393-UTF-8-Validation/cpp-0393/) | | |
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/description/) | [无] | [C++](0394-Decode-String/cpp-0394/) | | |
 | | | | | | |
 | 398 | [Random Pick Index](https://leetcode.com/problems/random-pick-index/description/) | [无] | [C++](0398-Random-Pick-Index/cpp-0398/) | | |
