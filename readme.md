@@ -124,7 +124,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) | [无] | [C++](0092-Reverse-Linked-List-II/cpp-0092/) | | |
 | | | | | | |
 | 094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [solution](https://leetcode.com/problems/binary-tree-inorder-traversal/solution/) | [C++](0094-Binary-Tree-Inorder-Traversal/cpp-0094/) | [Java](0094-Binary-Tree-Inorder-Traversal/java-0094/src/) | |
-| 095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) | [无] | [C++](0095-Unique-Binary-Search-Trees-II/cpp-0095/) | | |
+| 095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) | [solution](https://leetcode.com/problems/unique-binary-search-trees-ii/solution/) | [C++](0095-Unique-Binary-Search-Trees-II/cpp-0095/) | | |
 | 096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [solution](https://leetcode.com/problems/unique-binary-search-trees/solution/) | [C++](0096-Unique-Binary-Search-Trees/cpp-0096/) | | |
 | | | | | | |
 | 098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [无] | [C++](0098-Validate-Binary-Search-Tree/cpp-0098/) | [Java](0098-Validate-Binary-Search-Tree/java-0098/src/) | |
