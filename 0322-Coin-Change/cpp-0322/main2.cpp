@@ -20,13 +20,13 @@ public:
         dp[0] = 0;
 
         for(int coin: coins)
-            for( int j = coin ; j <= amount ; j ++ )
-                if( dp[j - coin] != -1 )
-                    dp[j] = min( dp[j], dp[j-coin] + 1);
+            for(int j = coin ; j <= amount ; j ++)
+                dp[j] = min(dp[j], dp[j-coin] + 1);
 
         return dp[amount] == amount + 1 ? -1 : dp[amount];
     }
 };
+
 
 int main() {
 
