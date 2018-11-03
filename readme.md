@@ -271,6 +271,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) | [solution](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/solution/) | [C++](0297-Serialize-and-Deserialize-Binary-Tree/cpp-0297/) | | |
 | | | | | | |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [solution](https://leetcode.com/problems/longest-increasing-subsequence/solution/) | [C++](0300-Longest-Increasing-Subsequence/cpp-0300/) | [Java](0300-Longest-Increasing-Subsequence/java-0300/src/) | |
+| 301 | [0301-Remove-Invalid-Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [solution](https://leetcode.com/problems/remove-invalid-parentheses/solution/)<br/>[缺：DP+构建] | [C++](0301-Remove-Invalid-Parentheses/cpp-0301/) | | |
 | | | | | | |
 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) | | [C++](0303/Range-Sum-Query-Immutable/cpp-0303/) | | |
 | | | | | | |
