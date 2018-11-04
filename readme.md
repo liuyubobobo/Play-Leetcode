@@ -587,3 +587,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 932 | [Beautiful Array](https://leetcode.com/problems/beautiful-array/description/) | [solution](https://leetcode.com/problems/beautiful-array/solution/) | [C++](0932-Beautiful-Array/cpp-0932/) | | |
 | 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [solution](https://leetcode.com/problems/number-of-recent-calls/solution/) | [C++](0933-Number-of-Recent-Calls/cpp-0933/) | | |
 | | | | | | |
+| 935 | [Knight Dialer](https://leetcode.com/problems/knight-dialer/) | [solution](https://leetcode.com/problems/knight-dialer/solution/) | [C++](0935-Knight-Dialer/cpp-0935/) | | |
+| | | | | | |
