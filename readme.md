@@ -585,4 +585,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | [solution](https://leetcode.com/problems/binary-subarrays-with-sum/solution/) | [C++](0930-Binary-Subarrays-With-Sum/cpp-0930/) | | |
 | 931 | [Minimum Path Falling Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [solution](https://leetcode.com/problems/minimum-falling-path-sum/solution/) | [C++](0931-Minimum-Path-Falling-Sum/cpp-0931/) | | |
 | 932 | [Beautiful Array](https://leetcode.com/problems/beautiful-array/description/) | [solution](https://leetcode.com/problems/beautiful-array/solution/) | [C++](0932-Beautiful-Array/cpp-0932/) | | |
+| 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [solution](https://leetcode.com/problems/number-of-recent-calls/solution/) | [C++](0933-Number-of-Recent-Calls/cpp-0933/) | | |
 | | | | | | |
