@@ -586,6 +586,6 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 931 | [Minimum Path Falling Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [solution](https://leetcode.com/problems/minimum-falling-path-sum/solution/) | [C++](0931-Minimum-Path-Falling-Sum/cpp-0931/) | | |
 | 932 | [Beautiful Array](https://leetcode.com/problems/beautiful-array/description/) | [solution](https://leetcode.com/problems/beautiful-array/solution/) | [C++](0932-Beautiful-Array/cpp-0932/) | | |
 | 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [solution](https://leetcode.com/problems/number-of-recent-calls/solution/) | [C++](0933-Number-of-Recent-Calls/cpp-0933/) | | |
-| | | | | | |
+| 934 | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) | [solution](https://leetcode.com/problems/shortest-bridge/solution/) | [C++](0934-Shortest-Bridge/cpp-0934/) | | |
 | 935 | [Knight Dialer](https://leetcode.com/problems/knight-dialer/) | [solution](https://leetcode.com/problems/knight-dialer/solution/) | [C++](0935-Knight-Dialer/cpp-0935/) | | |
 | | | | | | |
