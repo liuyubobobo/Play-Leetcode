@@ -566,6 +566,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 910 | [Smallest Range II](https://leetcode.com/problems/smallest-range-ii/description/) | [solution](https://leetcode.com/problems/smallest-range-ii/solution/) | [C++](0910-Smallest-Range-II/cpp-0910/) | | |
 | 911 | [Online Election](https://leetcode.com/problems/online-election/description/) | [solution](https://leetcode.com/problems/online-election/solution/) | [C++](0911-Online-Election/cpp-0911/) | | |
 | | | | | | |
+| 913 | [Cat and Mouse Game](https://leetcode.com/problems/cat-and-mouse/) | [solution](https://leetcode.com/problems/cat-and-mouse/solution/) | [C++](0913-Cat-and-Mouse-Game/cpp-0913/) | | |
 | 914 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/description/) | [solution](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/solution/) | [C++](0914-X-of-a-Kind-in-a-Deck-of-Cards/cpp-0914/) | | |
 | 915 | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/description/) | [solution](https://leetcode.com/problems/partition-array-into-disjoint-intervals/solution/) | [C++](0915-Partition-Array-into-Disjoint-Intervals/cpp-0915/) | | |
 | 916 | [Word Subsets](https://leetcode.com/problems/word-subsets/description/) | [solution](https://leetcode.com/problems/word-subsets/solution/) | [C++](0916-Word-Subsets/cpp-0916/) | | |
