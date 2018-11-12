@@ -592,4 +592,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 935 | [Knight Dialer](https://leetcode.com/problems/knight-dialer/) | [solution](https://leetcode.com/problems/knight-dialer/solution/) | [C++](0935-Knight-Dialer/cpp-0935/) | | |
 | 936 | [Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/) | [solution](https://leetcode.com/problems/stamping-the-sequence/solution/) | [C++](0936-Stamping-The-Sequence/cpp-0936/) | | |
 | 937 | [Reorder Log Files](https://leetcode.com/problems/reorder-log-files/) | [solution](https://leetcode.com/problems/reorder-log-files/solution/) | [C++](0937-Reorder-Log-Files/cpp-0937/) | | |
+| 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [solution](https://leetcode.com/problems/range-sum-of-bst/solution/) | [C++](0938-Range-Sum-of-BST/cpp-0938/) | | |
 | | | | | | |
