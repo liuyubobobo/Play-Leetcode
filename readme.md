@@ -591,4 +591,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 934 | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) | [solution](https://leetcode.com/problems/shortest-bridge/solution/) | [C++](0934-Shortest-Bridge/cpp-0934/) | | |
 | 935 | [Knight Dialer](https://leetcode.com/problems/knight-dialer/) | [solution](https://leetcode.com/problems/knight-dialer/solution/) | [C++](0935-Knight-Dialer/cpp-0935/) | | |
 | 936 | [Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/) | [solution](https://leetcode.com/problems/stamping-the-sequence/solution/) | [C++](0936-Stamping-The-Sequence/cpp-0936/) | | |
+| 937 | [Reorder Log Files](https://leetcode.com/problems/reorder-log-files/) | [solution](https://leetcode.com/problems/reorder-log-files/solution/) | [C++](0937-Reorder-Log-Files/cpp-0937/) | | |
 | | | | | | |
