@@ -594,4 +594,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 937 | [Reorder Log Files](https://leetcode.com/problems/reorder-log-files/) | [solution](https://leetcode.com/problems/reorder-log-files/solution/) | [C++](0937-Reorder-Log-Files/cpp-0937/) | | |
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [solution](https://leetcode.com/problems/range-sum-of-bst/solution/) | [C++](0938-Range-Sum-of-BST/cpp-0938/) | | |
 | 939 | [Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/) | [solution](https://leetcode.com/problems/minimum-area-rectangle/solution/) | [C++](0939-Minimum-Area-Rectangle/cpp-0939/) | | |
+| 940 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | [solution](https://leetcode.com/problems/distinct-subsequences-ii/solution/) | [C++](0940-Distinct-Subsequences-II/cpp-0940/) | | |
 | | | | | | |
