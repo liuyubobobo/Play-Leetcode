@@ -1,6 +1,7 @@
 /// Source : https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/
 /// Author : liuyubobobo
 /// Time   : 2017-01-30
+
 #include <iostream>
 #include <cassert>
 
@@ -8,7 +9,7 @@ using namespace std;
 
 /// Recursion implementation
 /// Time Complexity: O(n)
-/// Space Complexity: O(1)
+/// Space Complexity: O(n)
 
 ///Definition for a binary tree node.
 struct TreeNode {

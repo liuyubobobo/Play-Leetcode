@@ -237,7 +237,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [无] | [C++](0234-Palindrome-Linked-List/cpp-0234/) | | |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | [无] | [C++](0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree/cpp-0235/) | [Java](0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree/java-0235/src/) | |
-| 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [无]<br/>[缺：LCA问题总结] | [C++](0236-Lowest-Common-Ancestor-of-a-Binary-Tree/cpp-0236/) | | |
+| 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [solution](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/solution/)<br/>[缺：非递归解法；LCA问题总结] | [C++](0236-Lowest-Common-Ancestor-of-a-Binary-Tree/cpp-0236/) | | |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [solution](https://leetcode.com/problems/delete-node-in-a-linked-list/solution/) | [C++](0237-Delete-Node-in-a-Linked-List/cpp-0237/) | [Java](0237-Delete-Node-in-a-Linked-List/java-0237/src/) | |
 | | | | | | |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) | [无] | [C++](0239-Sliding-Window-Maximum/cpp-0239/) | | |
@@ -305,6 +305,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [solution](https://leetcode.com/problems/guess-number-higher-or-lower/solution/) | [C++](0374-Guess-Number-Higher-or-Lower/cpp-0374/) | | |
 | | | | | | |
 | 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/) | [无] | [C++](0377-Combination-Sum-IV/cpp-0377/) | | |
+| 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [无] | [C++](0378-Kth-Smallest-Element-in-a-Sorted-Matrix/cpp-0378/) | | |
 | | | | | | |
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/) | [无] | [C++](0380-Insert-Delete-GetRandom-O(1)/cpp-0380/) | | |
 | 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description/) | [无] | [C++](0381-Insert-Delete-GetRandom-O(1)-Duplicates-allowed/cpp-0381/) | | |
