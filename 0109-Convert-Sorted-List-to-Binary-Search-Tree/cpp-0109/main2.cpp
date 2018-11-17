@@ -1,6 +1,6 @@
 /// Source : https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/
 /// Author : liuyubobobo
-/// Time   : 2018-04-22
+/// Time   : 2018-11-17
 
 #include <iostream>
 
@@ -23,10 +23,13 @@ struct TreeNode {
 };
 
 
-/// Recursive
-/// Time Complexity: O(nlogn)
+/// Recursive and do the inorder simulation
+/// Time Complexity: O(n)
 /// Space Complexity: O(logn)
 class Solution {
+
+private:
+    ListNode* cur;
 
 public:
     TreeNode* sortedListToBST(ListNode* head) {
@@ -35,29 +38,26 @@ public:
             return NULL;
 
         int len = getLen(head);
-        return buildBST(head, 0, len - 1);
+        cur = head;
+        return buildBST(0, len - 1);
     }
 
 private:
-    TreeNode* buildBST(ListNode* head, int l, int r){
+    TreeNode* buildBST(int l, int r){
 
         if(l > r)
             return NULL;
 
-        if(l == r)
-            return new TreeNode(head->val);
-
         int mid = l + (r - l + 1) / 2;
-        ListNode* cur = head;
-        for(int i = l ; i < mid - 1 ; i ++)
-            cur = cur->next;
+        TreeNode* left = buildBST(l, mid - 1);
 
-        ListNode* node = cur->next;
-        cur->next = NULL;
+        TreeNode* root = new TreeNode(cur->val);
+        cur = cur->next;
 
-        TreeNode* root = new TreeNode(node->val);
-        root->left = buildBST(head, l, mid - 1);
-        root->right = buildBST(node->next, mid + 1, r);
+        TreeNode* right = buildBST(mid + 1, r);
+
+        root->left = left;
+        root->right = right;
         return root;
     }
 
