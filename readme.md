@@ -599,3 +599,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [solution](https://leetcode.com/problems/valid-mountain-array/solution/) | [C++](0941-Valid-Mountain-Array/cpp-0941/) | | |
 | 942 | [DI String Match](https://leetcode.com/problems/di-string-match/) | [solution](https://leetcode.com/problems/di-string-match/solution/) | [C++](0942-DI-String-Match/cpp-0942/) | | |
 | | | | | | |
+| 944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [solution](https://leetcode.com/problems/delete-columns-to-make-sorted/solution/) | [C++](0944-Delete-Columns-to-Make-Sorted/cpp-0944/) | | |
+| | | | | | |
