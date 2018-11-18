@@ -10,14 +10,6 @@ import java.util.ArrayList;
 /// Space Complexity: O(h), where h is the height of the tree
 public class Solution1 {
 
-    // Definition for a binary tree node.
-    public class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-        TreeNode(int x) { val = x; }
-    }
-
     public List<String> binaryTreePaths(TreeNode root) {
 
         ArrayList<String> res = new ArrayList<String>();
