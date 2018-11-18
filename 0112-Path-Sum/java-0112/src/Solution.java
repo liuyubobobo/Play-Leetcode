@@ -7,14 +7,6 @@
 /// Space Complexity: O(h), where h is the height of the tree
 class Solution {
 
-    // Definition for a binary tree node.
-    public class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-        TreeNode(int x) { val = x; }
-    }
-
     public boolean hasPathSum(TreeNode root, int sum) {
 
         if(root == null)
