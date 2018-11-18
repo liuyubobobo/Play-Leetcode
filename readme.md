@@ -597,4 +597,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 939 | [Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/) | [solution](https://leetcode.com/problems/minimum-area-rectangle/solution/) | [C++](0939-Minimum-Area-Rectangle/cpp-0939/) | | |
 | 940 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | [solution](https://leetcode.com/problems/distinct-subsequences-ii/solution/) | [C++](0940-Distinct-Subsequences-II/cpp-0940/) | | |
 | 941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [solution](https://leetcode.com/problems/valid-mountain-array/solution/) | [C++](0941-Valid-Mountain-Array/cpp-0941/) | | |
+| 942 | [DI String Match](https://leetcode.com/problems/di-string-match/) | [solution](https://leetcode.com/problems/di-string-match/solution/) | [C++](0942-DI-String-Match/cpp-0942/) | | |
 | | | | | | |
