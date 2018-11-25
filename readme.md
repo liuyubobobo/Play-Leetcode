@@ -603,4 +603,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [solution](https://leetcode.com/problems/delete-columns-to-make-sorted/solution/) | [C++](0944-Delete-Columns-to-Make-Sorted/cpp-0944/) | | |
 | 945 | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | [solution](https://leetcode.com/problems/minimum-increment-to-make-array-unique/solution/) | [C++](0945-Minimum-Increment-to-Make-Array-Unique/cpp-0945/) | | |
 | 946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [solution](https://leetcode.com/problems/validate-stack-sequences/solution/) | [C++](0946-Validate-Stack-Sequences/cpp-0946/) | | |
+| 947 | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | [solution](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/solution/) | [C++](0947-Most-Stones-Removed-with-Same-Row-or-Column/cpp-0947/) | | |
 | | | | | | |
