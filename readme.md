@@ -292,7 +292,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [无] | [C++](0344-Reverse-String/cpp-0344/) | | |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [无] | [C++](0345-Reverse-Vowels-of-a-String/cpp-0345/) | | |
 | 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/solution/) | [无] | [C++](0346-Moving-Average-from-Data-Stream/cpp-0346/) | | |
-| 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | [无] | [C++](0347-Top-K-Frequent-Elements/cpp-0347/) | [Java](0347-Top-K-Frequent-Elements/java-0347/src/) | |
+| 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | [solution](https://leetcode.com/problems/top-k-frequent-elements/solution/) | [C++](0347-Top-K-Frequent-Elements/cpp-0347/) | [Java](0347-Top-K-Frequent-Elements/java-0347/src/) | |
 | | | | | | |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [无] | [C++](0349-Intersection-of-Two-Arrays/cpp-0349/) | [Java](0349-Intersection-of-Two-Arrays/java-0349/src/) | |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [无] | [C++](0350-Intersection-of-Two-Arrays-II/cpp-0350/) | [Java](0350-Intersection-of-Two-Arrays-II/java-0350/src/) | |
