@@ -607,4 +607,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 948 | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | [solution](https://leetcode.com/problems/bag-of-tokens/solution/) | [C++](0948-Bag-of-Tokens/cpp-0948/) | | |
 | 949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [solution](https://leetcode.com/problems/largest-time-for-given-digits/solution/) | [C++](0949-Largest-Time-for-Given-Digits/cpp-0949/) | | |
 | 950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [solution](https://leetcode.com/problems/reveal-cards-in-increasing-order/solution/) | [C++](0950-Reveal-Cards-In-Increasing-Order/cpp-0950/) | | |
+| 951 | [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/) | [solution](https://leetcode.com/problems/flip-equivalent-binary-trees/solution/) | [C++](0951-Flip-Equivalent-Binary-Trees/cpp-0951/) | | |
 | | | | | | |
