@@ -608,4 +608,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [solution](https://leetcode.com/problems/largest-time-for-given-digits/solution/) | [C++](0949-Largest-Time-for-Given-Digits/cpp-0949/) | | |
 | 950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [solution](https://leetcode.com/problems/reveal-cards-in-increasing-order/solution/) | [C++](0950-Reveal-Cards-In-Increasing-Order/cpp-0950/) | | |
 | 951 | [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/) | [solution](https://leetcode.com/problems/flip-equivalent-binary-trees/solution/) | [C++](0951-Flip-Equivalent-Binary-Trees/cpp-0951/) | | |
+| 952 | [Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/) | [solution](https://leetcode.com/problems/largest-component-size-by-common-factor/solution/) | [C++](0952-Largest-Component-Size-by-Common-Factor/cpp-0952/) | | |
 | | | | | | |
