@@ -164,6 +164,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/description/) | [无] | [C++](0133-Clone-Graph/cpp-0133/) | | |
 | | | | | | |
+| 135 | [Candy](https://leetcode.com/problems/candy/) | [solution](https://leetcode.com/problems/candy/solution/)<br/>[缺：O(1)空间算法] | [C++](0135-Candy/cpp-0135/) | | |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | [solution](https://leetcode.com/problems/single-number/solution/) | [C++](0136-Single-Number/cpp-0136/) | | |
 | | | | | | |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | [solution](https://leetcode.com/problems/copy-list-with-random-pointer/solution/) | [C++](0138-Copy-List-with-Random-Pointer/cpp-0138/) | | |
