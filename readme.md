@@ -613,6 +613,6 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 951 | [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/) | [solution](https://leetcode.com/problems/flip-equivalent-binary-trees/solution/) | [C++](0951-Flip-Equivalent-Binary-Trees/cpp-0951/) | | |
 | 952 | [Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/) | [solution](https://leetcode.com/problems/largest-component-size-by-common-factor/solution/) | [C++](0952-Largest-Component-Size-by-Common-Factor/cpp-0952/) | | |
 | 953 | [isAlienSorted](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [solution](https://leetcode.com/problems/verifying-an-alien-dictionary/solution/) | [C++](0953-isAlienSorted/cpp-0953/) | | |
-| | | | | | |
+| 954 | [Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) | [solution](https://leetcode.com/problems/array-of-doubled-pairs/solution/) | [C++](0954-Array-of-Doubled-Pairs/cpp-0954/) | | |
 | | | | | | |
 | | | | | | |
