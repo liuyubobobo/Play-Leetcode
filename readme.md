@@ -615,4 +615,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 953 | [isAlienSorted](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [solution](https://leetcode.com/problems/verifying-an-alien-dictionary/solution/) | [C++](0953-isAlienSorted/cpp-0953/) | | |
 | 954 | [Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) | [solution](https://leetcode.com/problems/array-of-doubled-pairs/solution/) | [C++](0954-Array-of-Doubled-Pairs/cpp-0954/) | | |
 | | | | | | |
+| 958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [solution](https://leetcode.com/problems/check-completeness-of-a-binary-tree/solution/) | [C++](0958-Check-Completeness-of-a-Binary-Tree/cpp-0958/) | | |
 | | | | | | |
