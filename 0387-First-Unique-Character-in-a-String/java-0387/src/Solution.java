@@ -1,3 +1,10 @@
+/// Source : https://leetcode.com/problems/first-unique-character-in-a-string/description/
+/// Author : liuyubobobo
+/// Time   : 2017-10-16
+
+/// Using Hash Map
+/// Time Complexity: O(len(s))
+/// Space Complexity: O(26)
 class Solution {
     public int firstUniqChar(String s) {
 
