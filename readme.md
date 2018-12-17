@@ -614,6 +614,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 952 | [Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/) | [solution](https://leetcode.com/problems/largest-component-size-by-common-factor/solution/) | [C++](0952-Largest-Component-Size-by-Common-Factor/cpp-0952/) | | |
 | 953 | [isAlienSorted](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [solution](https://leetcode.com/problems/verifying-an-alien-dictionary/solution/) | [C++](0953-isAlienSorted/cpp-0953/) | | |
 | 954 | [Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) | [solution](https://leetcode.com/problems/array-of-doubled-pairs/solution/) | [C++](0954-Array-of-Doubled-Pairs/cpp-0954/) | | |
+| 955 | [Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) | [solution](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/solution/) | [C++](0955-Delete-Columns-to-Make-Sorted-II/cpp-0955/) | | |
 | | | | | | |
 | 957 | [Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) | [solution](https://leetcode.com/problems/prison-cells-after-n-days/solution/) | [C++](0957-Prison-Cells-After-N-Days/cpp-0957/) | | |
 | 958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [solution](https://leetcode.com/problems/check-completeness-of-a-binary-tree/solution/) | [C++](0958-Check-Completeness-of-a-Binary-Tree/cpp-0958/) | | |
