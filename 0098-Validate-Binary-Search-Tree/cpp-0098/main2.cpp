@@ -7,6 +7,7 @@
 
 using namespace std;
 
+
 /// Definition for a binary tree node.
 struct TreeNode {
     int val;
@@ -43,6 +44,7 @@ private:
         return isValidBST(node->left, min, node->val - 1) && isValidBST(node->right, node->val + 1, max);
     }
 };
+
 
 int main() {
 

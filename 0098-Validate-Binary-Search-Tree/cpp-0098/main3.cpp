@@ -1,10 +1,12 @@
 /// Source : https://leetcode.com/problems/validate-binary-search-tree/description/
 /// Author : liuyubobobo
-/// Time   : 2018-05-22
+/// Time   : 2018-12-16
 
 #include <iostream>
+#include <stack>
 
 using namespace std;
+
 
 /// Definition for a binary tree node.
 struct TreeNode {
@@ -14,45 +16,54 @@ struct TreeNode {
     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
 };
 
-/// InOrder traverse
-/// validate during the traversing
-///
+
+/// Non-Recursion Solution for Recursion thinking
 /// Time Complexity: O(n)
 /// Space Complexity: O(h)
 class Solution {
 
-private:
-    int pre = -1;
-    bool isPre = false;
-
 public:
     bool isValidBST(TreeNode* root) {
 
-        isPre = false;
-        pre = -1;
-        return inOrder(root);
-    }
+        if(!root) return true;
 
-private:
-    bool inOrder(TreeNode* node){
+        stack<TreeNode*> st;
+        stack<int> upper, lower;
 
-        if(node == NULL)
-            return true;
+        st.push(root);
+        upper.push(INT_MAX);
+        lower.push(INT_MIN);
+        while(!st.empty()){
+            TreeNode* cur = st.top();
+            st.pop();
 
-        if(!inOrder(node->left))
-            return false;
+            int left = lower.top();
+            lower.pop();
 
-        if(isPre && pre >= node->val)
-            return false;
-        isPre = true;
-        pre = node->val;
+            int right = upper.top();
+            upper.pop();
 
-        if(!inOrder(node->right))
-            return false;
+            if(cur->val > right || cur->val < left)
+                return false;
 
+            if(cur->right){
+                if(cur->right->val <= cur->val) return false;
+                st.push(cur->right);
+                lower.push(cur->val + 1);
+                upper.push(right);
+            }
+
+            if(cur->left){
+                if(cur->left->val >= cur->val) return false;
+                st.push(cur->left);
+                lower.push(left);
+                upper.push(cur->val - 1);
+            }
+        }
         return true;
     }
 };
+
 
 int main() {
 

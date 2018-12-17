@@ -7,6 +7,7 @@
 
 using namespace std;
 
+
 /// Definition for a binary tree node.
 struct TreeNode {
     int val;
@@ -14,6 +15,7 @@ struct TreeNode {
     TreeNode *right;
     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
 };
+
 
 /// Using inOrder traverse
 /// Store all elements in an vector
@@ -43,6 +45,7 @@ private:
         inOrder(node->right, vec);
     }
 };
+
 
 int main() {
 

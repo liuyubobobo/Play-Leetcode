@@ -128,7 +128,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) | [solution](https://leetcode.com/problems/unique-binary-search-trees-ii/solution/) | [C++](0095-Unique-Binary-Search-Trees-II/cpp-0095/) | | |
 | 096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [solution](https://leetcode.com/problems/unique-binary-search-trees/solution/) | [C++](0096-Unique-Binary-Search-Trees/cpp-0096/) | | |
 | | | | | | |
-| 098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [无] | [C++](0098-Validate-Binary-Search-Tree/cpp-0098/) | [Java](0098-Validate-Binary-Search-Tree/java-0098/src/) | |
+| 098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [solution](https://leetcode.com/problems/validate-binary-search-tree/solution/) | [C++](0098-Validate-Binary-Search-Tree/cpp-0098/) | [Java](0098-Validate-Binary-Search-Tree/java-0098/src/) | |
 | 099 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/description/) | [无] | | [Java](0099-Recover-Binary-Search-Tree/java-0099/src/) | |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/description/) | [无] | [C++](0100-Same-Tree/cpp-0100/) | | |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [solution](https://leetcode.com/problems/symmetric-tree/solution/) | [C++](0101-Symmetric-Tree/cpp-0101/) | | |

@@ -1,10 +1,11 @@
 /// Source : https://leetcode.com/problems/validate-binary-search-tree/description/
 /// Author : liuyubobobo
-/// Time   : 2018-05-28
+/// Time   : 2018-05-22
 
 #include <iostream>
 
 using namespace std;
+
 
 /// Definition for a binary tree node.
 struct TreeNode {
@@ -14,76 +15,49 @@ struct TreeNode {
     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
 };
 
-/// Morris InOrder traversal
+
+/// InOrder traverse
+/// validate during the traversing
 ///
 /// Time Complexity: O(n)
-/// Space Complexity: O(1)
+/// Space Complexity: O(h)
 class Solution {
 
 private:
-    bool flag;
-    int pre;
+    int pre = -1;
+    bool isPre = false;
 
 public:
     bool isValidBST(TreeNode* root) {
 
-        flag = false;
+        isPre = false;
         pre = -1;
-        TreeNode* cur = root;
-
-        bool res = true;
-        while(cur != NULL){
-            if(cur->left == NULL){
-                if(!process(cur))
-                    res = false;
-                cur = cur->right;
-            }
-            else{
-                TreeNode* prev = cur->left;
-                while(prev->right != NULL && prev->right != cur)
-                    prev = prev->right;
-
-                if(prev->right == NULL){
-                    prev->right = cur;
-                    cur = cur->left;
-                }
-                else{
-                    prev->right = NULL;
-                    if(!process(cur))
-                        res = false;
-                    cur = cur->right;
-                }
-            }
-        }
-
-        return res;
+        return inOrder(root);
     }
 
 private:
-    bool process(TreeNode* node){
+    bool inOrder(TreeNode* node){
 
-        if(flag && pre >= node->val)
+        if(node == NULL)
+            return true;
+
+        if(!inOrder(node->left))
             return false;
-        flag = true;
+
+        if(isPre && pre >= node->val)
+            return false;
+        isPre = true;
         pre = node->val;
+
+        if(!inOrder(node->right))
+            return false;
+
         return true;
     }
 };
 
 
-void print_bool(bool res){
-    cout << (res ? "True" : "False") << endl;
-}
-
 int main() {
-
-    TreeNode* root = new TreeNode(5);
-    root->left = new TreeNode(1);
-    root->right = new TreeNode(4);
-    root->right->left = new TreeNode(3);
-    root->right->right = new TreeNode(6);
-
-    print_bool(Solution().isValidBST(root));
 
     return 0;
 }
