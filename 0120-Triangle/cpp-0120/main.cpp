@@ -27,6 +27,7 @@ public:
     }
 };
 
+
 int main() {
 
     vector<vector<int>> triangle = { {2},
@@ -34,6 +35,7 @@ int main() {
                                      {6,5,7},
                                      {4,1,8,3}};
     cout << Solution().minimumTotal(triangle) << endl;
+    // 11
 
     return 0;
 }
