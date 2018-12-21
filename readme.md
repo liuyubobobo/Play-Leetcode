@@ -88,7 +88,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 047 | [Permutations II](https://leetcode.com/problems/permutations-ii/description/) | [无] | [C++](0047-Permutations-II/cpp-0047/) | | |
 | 048 | [Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [solution](https://leetcode.com/problems/rotate-image/) | [C++](0048-Rotate-Image/cpp-0048/) | | |
 | 049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [solution](https://leetcode.com/problems/group-anagrams/solution/) | [C++](0049-Group-Anagrams/cpp-0049/) | | |
-| | | | | | |
+| 050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [无] | [C++](0050-Pow-x-n/cpp-0050/) | | |
 | 051 | [N-Queens](https://leetcode.com/problems/n-queens/description/) | [缺：N皇后问题整理] | [C++](0051-N-Queens/cpp-0051/) | [Java](0051-N-Queens/java-0051/src/) | |
 | | | | | | |
 | 054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [solution](https://leetcode.com/problems/spiral-matrix/solution/) | [C++](0054-Spiral-Matrix/cpp-0054/) | | |
