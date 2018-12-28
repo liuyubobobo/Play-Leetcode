@@ -1,6 +1,7 @@
 /// Source : https://leetcode.com/problems/two-sum/description/
 /// Author : liuyubobobo
 /// Time   : 2017-11-15
+/// Updated: 2018-12-28
 
 import java.util.HashMap;
 
@@ -22,8 +23,6 @@ public class Solution2 {
                 int[] res = {i, index};
                 return res;
             }
-
-            record.put(nums[i], i);
         }
 
         throw new IllegalStateException("the input has no solution");
