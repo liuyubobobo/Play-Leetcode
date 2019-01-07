@@ -621,3 +621,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 959 | [Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/) | [solution](https://leetcode.com/problems/regions-cut-by-slashes/solution/) | [C++](0959-Regions-Cut-By-Slashes/cpp-0959/) | | |
 | 960 | [Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/) | [solution](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/solution/) | [C++](0960-Delete-Columns-to-Make-Sorted-III/cpp-0960/) | | |
 | | | | | | |
+| 970 | [Powerful Integers](https://leetcode.com/problems/powerful-integers/) | [solution](https://leetcode.com/problems/powerful-integers/solution/) | [C++](0970-Powerful-Integers/cpp-0970/) | | |
+| | | | | | |
