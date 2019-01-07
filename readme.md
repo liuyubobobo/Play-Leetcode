@@ -624,4 +624,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 969 | [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) | [solution](https://leetcode.com/problems/pancake-sorting/solution/) | [C++](0969-Pancake-Sorting/cpp-0969/) | | |
 | 970 | [Powerful Integers](https://leetcode.com/problems/powerful-integers/) | [solution](https://leetcode.com/problems/powerful-integers/solution/) | [C++](0970-Powerful-Integers/cpp-0970/) | | |
 | 971 | [Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/) | [solution](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/solution/) | [C++](0971-Flip-Binary-Tree-To-Match-Preorder-Traversal/cpp-0971/) | | |
+| 972 | [Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/) | [solution](https://leetcode.com/problems/equal-rational-numbers/solution/) | [C++](0972-Equal-Rational-Numbers/cpp-0972/) | | |
 | | | | | | |
