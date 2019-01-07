@@ -219,7 +219,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/description/) | [无] | [C++](0213/House-Robber-II/cpp-0213/) | | |
 | | | | | | |
-| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [无] | [C++](0215-Kth-Largest-Element-in-an-Array/cpp-0215/) | | |
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [solution](https://leetcode.com/problems/kth-largest-element-in-an-array/solution/) | [C++](0215-Kth-Largest-Element-in-an-Array/cpp-0215/) | | |
 | 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) | [无] | [C++](0216/Combination-Sum-III/cpp-0216/) | | |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [无] | [C++](0217/Contains-Duplicate/cpp-0217/) | | |
 | 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/) | | [C++](0218-The-Skyline-Problem/cpp-0218/) | | |

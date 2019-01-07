@@ -7,19 +7,28 @@
 #include <cassert>
 #include <stdexcept>
 #include <ctime>
+#include <queue>
 
 using namespace std;
 
 
-/// Sorting
-/// Time Complexity:  O(nlogn)
-/// Space Complexity: O(1)
+/// Using Min Heap to store the k largest elements
+/// Time Complexity:  O(nlogk)
+/// Space Complexity: O(k)
 class Solution {
 public:
     int findKthLargest(vector<int>& nums, int k) {
 
-        sort(nums.begin(), nums.end(), [](int a, int b){return a > b;});
-        return nums[k - 1];
+        priority_queue<int, vector<int>, greater<int>> pq;
+        for(int e: nums)
+            if(pq.size() != k)
+                pq.push(e);
+            else if(e > pq.top()){
+                pq.pop();
+                pq.push(e);
+            }
+
+        return pq.top();
     }
 };
 
