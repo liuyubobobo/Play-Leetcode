@@ -123,7 +123,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 087 | [Scramble String](https://leetcode.com/problems/scramble-string/description/) | [无] | [C++](0087-Scramble-String/cpp-0087/) | | |
 | 088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [无] | [C++](0088-Merge-Sorted-Array/cpp-0088/) | | |
 | | | | | | |
-| 092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) | [无] | [C++](0092-Reverse-Linked-List-II/cpp-0092/) | | |
+| 092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) | [solution](https://leetcode.com/problems/reverse-linked-list-ii/solution/) | [C++](0092-Reverse-Linked-List-II/cpp-0092/) | | |
 | | | | | | |
 | 094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [solution](https://leetcode.com/problems/binary-tree-inorder-traversal/solution/) | [C++](0094-Binary-Tree-Inorder-Traversal/cpp-0094/) | [Java](0094-Binary-Tree-Inorder-Traversal/java-0094/src/) | |
 | 095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) | [solution](https://leetcode.com/problems/unique-binary-search-trees-ii/solution/) | [C++](0095-Unique-Binary-Search-Trees-II/cpp-0095/) | | |
