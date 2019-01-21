@@ -632,4 +632,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [solution](https://leetcode.com/problems/squares-of-a-sorted-array/solution/) | [C++](0977-Squares-of-a-Sorted-Array/cpp-0977/) | | |
 | 978 | [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | [solution](https://leetcode.com/problems/longest-turbulent-subarray/solution/) | [C++](0978-Longest-Turbulent-Subarray/cpp-0978/) | | |
 | 979 | [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | [solution](https://leetcode.com/problems/distribute-coins-in-binary-tree/solution/) | [C++](0979-Distribute-Coins-in-Binary-Tree/cpp-0979/) | | |
+| 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [solution](https://leetcode.com/problems/unique-paths-iii/solution/) | [C++](0980-Unique-Paths-III/cpp-0980/) | | |
 | | | | | | |
