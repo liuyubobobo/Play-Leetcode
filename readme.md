@@ -629,3 +629,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 971 | [Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/) | [solution](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/solution/) | [C++](0971-Flip-Binary-Tree-To-Match-Preorder-Traversal/cpp-0971/) | | |
 | 972 | [Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/) | [solution](https://leetcode.com/problems/equal-rational-numbers/solution/) | [C++](0972-Equal-Rational-Numbers/cpp-0972/) | | |
 | | | | | | |
+| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [solution](https://leetcode.com/problems/squares-of-a-sorted-array/solution/) | [C++](0977-Squares-of-a-Sorted-Array/cpp-0977/) | | |
+| | | | | | |
