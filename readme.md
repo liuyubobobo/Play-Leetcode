@@ -630,4 +630,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 972 | [Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/) | [solution](https://leetcode.com/problems/equal-rational-numbers/solution/) | [C++](0972-Equal-Rational-Numbers/cpp-0972/) | | |
 | | | | | | |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [solution](https://leetcode.com/problems/squares-of-a-sorted-array/solution/) | [C++](0977-Squares-of-a-Sorted-Array/cpp-0977/) | | |
+| 978 | [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | [solution](https://leetcode.com/problems/longest-turbulent-subarray/solution/) | [C++](0978-Longest-Turbulent-Subarray/cpp-0978/) | | |
 | | | | | | |
