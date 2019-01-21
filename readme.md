@@ -84,7 +84,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [solution](https://leetcode.com/problems/trapping-rain-water/solution/) | [C++](0042-Trapping-Rain-Water/cpp-0042/) | | |
 | | | | | | |
-| 046 | [Permutations](https://leetcode.com/problems/permutations/description/) | [缺：排列算法整理] | [C++](0046-Permutations/cpp-0046/) | [Java](0046-Permutations/java-0046/src/) | |
+| 046 | [Permutations](https://leetcode.com/problems/permutations/description/) | [solution](https://leetcode.com/problems/permutations/solution/)<br/>[缺：排列算法整理] | [C++](0046-Permutations/cpp-0046/) | [Java](0046-Permutations/java-0046/src/) | |
 | 047 | [Permutations II](https://leetcode.com/problems/permutations-ii/description/) | [无] | [C++](0047-Permutations-II/cpp-0047/) | | |
 | 048 | [Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [solution](https://leetcode.com/problems/rotate-image/) | [C++](0048-Rotate-Image/cpp-0048/) | | |
 | 049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [solution](https://leetcode.com/problems/group-anagrams/solution/) | [C++](0049-Group-Anagrams/cpp-0049/) | | |
