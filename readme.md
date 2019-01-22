@@ -630,6 +630,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 972 | [Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/) | [solution](https://leetcode.com/problems/equal-rational-numbers/solution/) | [C++](0972-Equal-Rational-Numbers/cpp-0972/) | | |
 | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [solution](https://leetcode.com/problems/k-closest-points-to-origin/solution/) | [C++](0973-K-Closest-Points-to-Origin/cpp-0973/) | | |
 | | | | | | |
+| 976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | [solution](https://leetcode.com/problems/largest-perimeter-triangle/solution/) | [C++](0976-Largest-Perimeter-Triangle/cpp-0976/) | | |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [solution](https://leetcode.com/problems/squares-of-a-sorted-array/solution/) | [C++](0977-Squares-of-a-Sorted-Array/cpp-0977/) | | |
 | 978 | [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | [solution](https://leetcode.com/problems/longest-turbulent-subarray/solution/) | [C++](0978-Longest-Turbulent-Subarray/cpp-0978/) | | |
 | 979 | [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | [solution](https://leetcode.com/problems/distribute-coins-in-binary-tree/solution/) | [C++](0979-Distribute-Coins-in-Binary-Tree/cpp-0979/) | | |
