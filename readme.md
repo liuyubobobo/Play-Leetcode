@@ -60,7 +60,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [无] | [C++](0014-Longest-Common-Prefix/cpp-0014/) | | |
 | 015 | [3Sum](https://leetcode.com/problems/3sum/description/) | [无] | [C++](0015-3Sum/cpp-0015/) | | |
 | 016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) | [无] | [C++](0016-3Sum-Closest/cpp-0016/) | | |
-| 017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [无] | [C++](0017-Letter-Combinations-of-a-Phone-Number/cpp-0017/) | [Java](0017-Letter-Combinations-of-a-Phone-Number/java-0017/src/) | |
+| 017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [solution](https://leetcode.com/problems/letter-combinations-of-a-phone-number/solution/) | [C++](0017-Letter-Combinations-of-a-Phone-Number/cpp-0017/) | [Java](0017-Letter-Combinations-of-a-Phone-Number/java-0017/src/) | |
 | 018 | [4Sum](https://leetcode.com/problems/4sum/description/) | [无] | [C++](0018-4Sum/cpp-0018/) | | |
 | 019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [solution](https://leetcode.com/problems/remove-nth-node-from-end-of-list/solution/) | [C++](0019-Remove-Nth-Node-From-End-of-List/cpp-0019/) | [Java](0019-Remove-Nth-Node-From-End-of-List/java-0019/src/) | |
 | 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [solution](https://leetcode.com/problems/valid-parentheses/solution/) | [C++](0020-Valid-Parentheses/cpp-0020/) | [Java](0020-Valid-Parentheses/java-0020/src/) | |
@@ -177,7 +177,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [solution](https://leetcode.com/problems/binary-tree-postorder-traversal/solution/) | [C++](0145-Binary-Tree-Postorder-Traversal/cpp-0145/) | [Java](0145-Binary-Tree-Postorder-Traversal/java-0145/src/) | |
 | | | | | | |
 | 148 | [Sort List](https://leetcode.com/problems/sort-list/description/) | [无] | [C++](0148-Sort-List/cpp-0148/) | | |
-| 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) | [无] | [C++](0149-Max-Points-on-a-Line/cpp-0149/) | | |
+| 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) | [solution](https://leetcode.com/problems/max-points-on-a-line/solution/) | [C++](0149-Max-Points-on-a-Line/cpp-0149/) | | |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | [无] | [C++](0150-Evaluate-Reverse-Polish-Notation/cpp-0150/) | | |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [无] | [C++](151-Reverse-Words-in-a-String/cpp-0151/) | | |
 | | | | | | |
