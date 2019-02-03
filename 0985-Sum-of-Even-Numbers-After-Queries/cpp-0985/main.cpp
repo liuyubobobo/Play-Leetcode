@@ -1,53 +1,51 @@
+/// Source : https://leetcode.com/problems/sum-of-even-numbers-after-queries/
+/// Author : liuyubobobo
+/// Time   : 2019-02-02
+
 #include <iostream>
 #include <vector>
-#include <map>
 
 using namespace std;
 
 
-/// Definition for a binary tree node.
-struct TreeNode {
-    int val;
-    TreeNode *left;
-    TreeNode *right;
-    TreeNode(int x) : val(x), left(NULL), right(NULL) {}
-};
-
+/// Maintain sum
+/// Time Complexity: O(n + q)
+/// Space Complexity: O(1)
 class Solution {
 public:
-    vector<vector<int>> verticalTraversal(TreeNode* root) {
+    vector<int> sumEvenAfterQueries(vector<int>& A, vector<vector<int>>& queries) {
 
-        map<int, vector<pair<int, int>>> pos;
-        dfs(root, 0, 0, pos);
+        int sum = 0;
+        for(int a: A)
+            if(abs(a) % 2 == 0)
+                sum += a;
 
-        vector<vector<int>> res;
-        for(pair<int, vector<pair<int, int>>> p: pos){
-            sort(p.second.begin(), p.second.end());
-            vector<int> r;
-            for(const pair<int, int>& e: p.second)
-                r.push_back(e.second);
-            res.push_back(r);
+        vector<int> res;
+        for(const vector<int>& q: queries){
+
+            int x = A[q[1]];
+            if(abs(x) % 2 == 0) sum -= x;
+            A[q[1]] += q[0];
+            if(abs(A[q[1]]) % 2 == 0)
+                sum += A[q[1]];
+            res.push_back(sum);
         }
         return res;
     }
-
-private:
-    void dfs(TreeNode* node, int x, int y, map<int, vector<pair<int, int>>>& pos){
-
-        if(!node)
-            return;
-
-        pos[x].push_back(make_pair(y, node->val));
-        dfs(node->left, x - 1, y + 1, pos);
-        dfs(node->right, x + 1, y + 1, pos);
-    }
 };
 
 
+void print_res(const vector<int>& vec){
+    for(int e: vec)
+        cout << e << " ";
+    cout << endl;
+}
+
 int main() {
 
-    // [0,5,1,9,null,2,null,null,null,null,3,4,8,6,null,null,null,7]
-    // [[9,7],[5,6],[0,2,4],[1,3],[8]]
+    vector<int> A = {1,2,3,4};
+    vector<vector<int>> queries = {{1,0},{-3,1},{-4,0},{2,3}};
+    print_res(Solution().sumEvenAfterQueries(A, queries));
 
     return 0;
 }
