@@ -642,3 +642,6 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 984 | [String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/) | [solution](https://leetcode.com/problems/string-without-aaa-or-bbb/solution/) | [C++](0984-String-Without-AAA-or-BBB/cpp-0984/) | | |
 | 985 | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [solution](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [C++](0985-Sum-of-Even-Numbers-After-Queries/cpp-0985/) | | |
 | | | | | | |
+| 987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [solution](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/solution/) | [C++](0987-Vertical-Order-Traversal-of-a-Binary-Tree/cpp-0987/) | | |
+| 988 | [Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/) | [solution](https://leetcode.com/problems/smallest-string-starting-from-leaf/solution/) | [C++](0988-Smallest-String-Starting-From-Leaf/cpp-0988/) | | |
+| | | | | | |
