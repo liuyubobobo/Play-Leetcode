@@ -640,4 +640,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 982 | [Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/) | [无] | [C++](0982-Triples-with-Bitwise-AND-Equal-To-Zero/cpp-0982/) | | |
 | 983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [solution](https://leetcode.com/problems/minimum-cost-for-tickets/solution/) | [C++](0983-Minimum-Cost-For-Tickets/cpp-0983/) | | |
 | 984 | [String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/) | [solution](https://leetcode.com/problems/string-without-aaa-or-bbb/solution/) | [C++](0984-String-Without-AAA-or-BBB/cpp-0984/) | | |
+| 985 | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [solution](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [C++](0985-Sum-of-Even-Numbers-After-Queries/cpp-0985/) | | |
 | | | | | | |
