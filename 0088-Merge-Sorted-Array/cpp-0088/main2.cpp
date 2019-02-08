@@ -1,6 +1,6 @@
 /// Source : https://leetcode.com/problems/merge-sorted-array/
 /// Author : liuyubobobo
-/// Time   : 2019-02-07
+/// Time   : 2016-12-06
 
 #include <iostream>
 #include <vector>
@@ -9,8 +9,8 @@
 using namespace std;
 
 
-/// Sorting
-/// Time Complexity: O(nlogn)
+/// Standard merge process in merge sort
+/// Time Complexity: O(n)
 /// Space Complexity: O(1)
 class Solution {
 public:
@@ -18,10 +18,22 @@ public:
 
         assert(nums1.size() == m + n && nums2.size() == n);
 
-        for(int i = 0; i < n ; i ++ )
-            nums1[m + i] = nums2[i];
+        for(int i = n + m - 1 ; i >= n ; i -- )
+            nums1[i] = nums1[i - n];
 
-        sort(nums1.begin(), nums1.end());
+        int i = n;  // pointer for nums1 [n, n+m)
+        int j = 0;  // pointer for nums2 [0, n)
+        int k = 0;  // pointer merged nums1 [0, n+m)
+        while( k < n + m ){
+            if( i >= n+m )
+                nums1[k++] = nums2[j++];
+            else if( j >= n )
+                nums1[k++] = nums1[i++];
+            else if( nums1[i] < nums2[j] )
+                nums1[k++] = nums1[i++];
+            else
+                nums1[k++] = nums2[j++];
+        }
     }
 };
 

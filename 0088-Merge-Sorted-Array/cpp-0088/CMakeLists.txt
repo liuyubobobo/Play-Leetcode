@@ -1,7 +1,6 @@
-cmake_minimum_required(VERSION 3.5)
-project(cpp_Merge_Sorted_Array)
+cmake_minimum_required(VERSION 3.13)
+project(cpp_0088)
 
-set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
+set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES main.cpp)
-add_executable(cpp_Merge_Sorted_Array ${SOURCE_FILES})
+add_executable(cpp_0088 main2.cpp)
