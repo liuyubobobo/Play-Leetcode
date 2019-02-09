@@ -217,7 +217,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) | [solution](https://leetcode.com/problems/minimum-size-subarray-sum/solution/) | [C++](0209-Minimum-Size-Subarray-Sum/cpp-0209/) | [Java](0209-Minimum-Size-Subarray-Sum/java-0209/src/) | |
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [solution](https://leetcode.com/problems/course-schedule-ii/solution/) | [C++](0210-Course-Schedule-II/cpp-0210/) | | |
 | 211 | [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/description/) | [无] | [C++](0211-Add-and-Search-Word-Data-structure-design/cpp-0211/) | | |
-| | | | | | |
+| 212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [无] | [C++](0212-Word-Search-II/cpp-0212/) | | |
 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/description/) | [无] | [C++](0213/House-Robber-II/cpp-0213/) | | |
 | | | | | | |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [solution](https://leetcode.com/problems/kth-largest-element-in-an-array/solution/) | [C++](0215-Kth-Largest-Element-in-an-Array/cpp-0215/) | | |
