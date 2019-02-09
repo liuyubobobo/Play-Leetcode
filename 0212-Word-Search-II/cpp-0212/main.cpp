@@ -109,9 +109,8 @@ private:
     void searchWord(const vector<vector<char>> &board, Trie& trie,  int x, int y, string s,
                     vector<vector<bool>>& visited, unordered_set<string>& res){
 
-        if(s.size() > maxlen) return;
-
         s += board[x][y];
+        if(s.size() > maxlen) return;
         if(!trie.startsWith(s)) return;
         if(trie.search(s)) res.insert(s);
 
