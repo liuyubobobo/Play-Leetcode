@@ -251,6 +251,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [solution](https://leetcode.com/problems/valid-anagram/solution/) | [C++](0242-Valid-Anagram/cpp-0242/) | | |
 | 243 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) | [solution](https://leetcode.com/problems/shortest-word-distance/solution/) | [C++](0243-Shortest-Word-Distance/cpp-0243/) | | |
 | 244 | [Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/) | [solution](https://leetcode.com/problems/shortest-word-distance-ii/solution/) | [C++](0244-Shortest-Word-Distance-II/cpp-0244/) | | |
+| 245 | [Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/) | [无] | [C++](0245-Shortest-Word-Distance-III/cpp-0245/) | | |
 | | | | | | |
 | 249 | [Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/description/) | [无] | [C++](0249-Group-Shifted-Strings/cpp-0249/) | | |
 | 250 | [Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/description/) | [无] | [C++](0250-Count-Univalue-Subtrees/cpp-0250/) | | |
