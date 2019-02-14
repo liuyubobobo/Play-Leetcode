@@ -1,56 +1,35 @@
+/// Source : https://leetcode.com/problems/broken-calculator/
+/// Author : liuyubobobo
+/// Time   : 2019-02-09
+
 #include <iostream>
-#include <queue>
-#include <unordered_map>
 #include <cassert>
 
 using namespace std;
 
 
+/// Greedy
+/// Time Complexity: O(logY)
+/// Space Complexity: O(1)
 class Solution {
-
-private:
-    const int LIMIT = 1000;
-
 public:
     int brokenCalc(int X, int Y) {
 
-        if(X >= Y)
-            return X - Y;
+        if(X >= Y) return X - Y;
 
-        unordered_map<int, int> visited;
-        queue<int> q;
+        int res = 0;
+        while(X != Y){
+            if(Y % 2) res ++, Y ++;
+            else res ++, Y /= 2;
 
-        visited[X] = 0;
-        q.push(X);
-        int res = INT_MAX;
-        while(!q.empty()){
-
-            int cur = q.front();
-            int step = visited[cur];
-//            cout << cur << " " << step << endl;
-            q.pop();
-
-            if(step > LIMIT)
-                continue;
-
-            if(cur == Y) return step;
-
-            int next = 2 * cur;
-            if(next > Y)
-                res = min(res, step + 1 + (next - Y));
-            else if(!visited.count(next))
-                visited[next] = step + 1, q.push(next);
-
-            if(cur && cur >= Y / 2){
-                int next = cur - 1;
-                if(next > 0 && !visited.count(next))
-                    visited[next] = step + 1, q.push(next);
-            }
+            if(X > Y)
+                return res + X - Y;
         }
 
         return res;
     }
 };
+
 
 int main() {
 
@@ -67,7 +46,7 @@ int main() {
     // 1023
 
     cout << Solution().brokenCalc(1, 1000000000) << endl;
-    // ?
+    // 39
 
     return 0;
 }
