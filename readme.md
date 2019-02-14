@@ -649,4 +649,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 988 | [Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/) | [solution](https://leetcode.com/problems/smallest-string-starting-from-leaf/solution/) | [C++](0988-Smallest-String-Starting-From-Leaf/cpp-0988/) | | |
 | 989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [solution](https://leetcode.com/problems/add-to-array-form-of-integer/solution/) | [C++](0989-Add-to-Array-Form-of-Integer/cpp-0989/) | | |
 | 990 | [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | [solution](https://leetcode.com/problems/satisfiability-of-equality-equations/solution/) | [C++](0990-Satisfiability-of-Equality-Equations/cpp-0990/) | | |
+| 991 | [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [solution](https://leetcode.com/problems/broken-calculator/solution/) | [C++](0991-Broken-Calculator/cpp-0991/) | | |
 | | | | | | |
