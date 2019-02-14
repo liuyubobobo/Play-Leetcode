@@ -647,4 +647,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 986 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [solution](https://leetcode.com/problems/interval-list-intersections/solution/) | [C++](0986-Interval-List-Intersections/cpp-0986/) | | |
 | 987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [solution](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/solution/) | [C++](0987-Vertical-Order-Traversal-of-a-Binary-Tree/cpp-0987/) | | |
 | 988 | [Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/) | [solution](https://leetcode.com/problems/smallest-string-starting-from-leaf/solution/) | [C++](0988-Smallest-String-Starting-From-Leaf/cpp-0988/) | | |
+| 989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [solution](https://leetcode.com/problems/add-to-array-form-of-integer/solution/) | [C++](0989-Add-to-Array-Form-of-Integer/cpp-0989/) | | |
 | | | | | | |
