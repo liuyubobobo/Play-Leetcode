@@ -188,7 +188,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | [无] | [C++](0155-Min-Stack/cpp-0155/) | | |
 | | | | | | |
-| 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/) | [无] | [C++](0159-Longest-Substring-with-At-Most-Two-Distinct-Characters/cpp-0159/) | | |
+| 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/) | [solution](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/solution/) | [C++](0159-Longest-Substring-with-At-Most-Two-Distinct-Characters/cpp-0159/) | | |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [solution](https://leetcode.com/problems/intersection-of-two-linked-lists/solution/) | [C++](0160-Intersection-of-Two-Linked-Lists/cpp-0160/) | | |
 | 161 | [One Edit Distance](https://leetcode.com/problems/one-edit-distance/) | [solution](https://leetcode.com/problems/one-edit-distance/solution/) | [C++](0161-One-Edit-Distance/cpp-0161/) | | |
 | | | | | | |
