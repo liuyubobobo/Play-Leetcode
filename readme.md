@@ -657,4 +657,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 990 | [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | [solution](https://leetcode.com/problems/satisfiability-of-equality-equations/solution/) | [C++](0990-Satisfiability-of-Equality-Equations/cpp-0990/) | | |
 | 991 | [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [solution](https://leetcode.com/problems/broken-calculator/solution/) | [C++](0991-Broken-Calculator/cpp-0991/) | | |
 | 992 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [solution](https://leetcode.com/problems/subarrays-with-k-different-integers/solution/) | [C++](0992-Subarrays-with-K-Different-Integers/cpp-0992/) | | |
+| 993 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [solution](https://leetcode.com/problems/cousins-in-binary-tree/solution/) | [C++](0993-Cousins-in-Binary-Tree/cpp-0993/) | | |
 | | | | | | |
