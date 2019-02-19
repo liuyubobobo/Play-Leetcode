@@ -659,4 +659,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 992 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [solution](https://leetcode.com/problems/subarrays-with-k-different-integers/solution/) | [C++](0992-Subarrays-with-K-Different-Integers/cpp-0992/) | | |
 | 993 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [solution](https://leetcode.com/problems/cousins-in-binary-tree/solution/) | [C++](0993-Cousins-in-Binary-Tree/cpp-0993/) | | |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [solution](https://leetcode.com/problems/rotting-oranges/solution/) | [C++](0994-Rotting-Oranges/cpp-0994/) | | |
+| 995 | [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | [solution](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/solution/) | [C++](0995-Minimum-Number-of-K-Consecutive-Bit-Flips/cpp-0995/) | | |
 | | | | | | |
