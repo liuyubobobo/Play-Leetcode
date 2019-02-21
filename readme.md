@@ -98,7 +98,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) | [无] | [C++](0059-Spiral-Matrix-II/cpp-0059/) | | |
 | | | | | | |
-| 061 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [无] | [C++](0061-Rotate-List/cpp-0061/) | | |
+| 061 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [solution](https://leetcode.com/problems/rotate-list/solution/) | [C++](0061-Rotate-List/cpp-0061/) | | |
 | | | | | | |
 | 063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [solution](https://leetcode.com/problems/unique-paths-ii/solution/) | [C++](0063-Unique-Paths-II/cpp-0063/) | | |
 | 064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [solution](https://leetcode.com/problems/minimum-path-sum/solution/) | [C++](0064-Minimum-Path-Sum/cpp-0064/) | [Java](0064-Minimum-Path-Sum/java-0064/src/) | |
