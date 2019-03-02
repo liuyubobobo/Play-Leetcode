@@ -177,8 +177,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [solution](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [C++](0144-Binary-Tree-Preorder-Traversal/cpp-0144/) | [Java](0144-Binary-Tree-Preorder-Traversal/java-0144/src/) | |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [solution](https://leetcode.com/problems/binary-tree-postorder-traversal/solution/) | [C++](0145-Binary-Tree-Postorder-Traversal/cpp-0145/) | [Java](0145-Binary-Tree-Postorder-Traversal/java-0145/src/) | |
-| | | | | | |
-| 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [C++](0147-Insertion-Sort-List/cpp-0147/) | | | |
+| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [solution](https://leetcode.com/problems/lru-cache/solution/)<br/>[缺：封装一个Double Linked List] | [C++](0146-LRU-Cache/cpp-0146/) | | |
+| 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [无] | [C++](0147-Insertion-Sort-List/cpp-0147/) | | |
 | 148 | [Sort List](https://leetcode.com/problems/sort-list/description/) | [无] | [C++](0148-Sort-List/cpp-0148/) | | |
 | 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) | [solution](https://leetcode.com/problems/max-points-on-a-line/solution/) | [C++](0149-Max-Points-on-a-Line/cpp-0149/) | | |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | [无] | [C++](0150-Evaluate-Reverse-Polish-Notation/cpp-0150/) | | |
