@@ -23,10 +23,7 @@ public class Solution1 {
                 if(sums[r+1] - sums[l] >= s)
                     res = Math.min(res, r - l + 1);
 
-        if(res == nums.length + 1)
-            return 0;
-
-        return res;
+        return res == nums.length + 1 ? 0 : res;
     }
 
     public static void main(String[] args) {

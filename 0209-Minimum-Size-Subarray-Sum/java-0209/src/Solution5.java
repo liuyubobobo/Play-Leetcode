@@ -3,9 +3,10 @@
 /// Time   : 2017-11-13
 
 // Sliding Window
+// Another Implementation
 // Time Complexity: O(n)
 // Space Complexity: O(1)
-public class Solution4 {
+public class Solution5 {
 
     public int minSubArrayLen(int s, int[] nums) {
 
@@ -16,15 +17,19 @@ public class Solution4 {
         int sum = 0;
         int res = nums.length + 1;
 
-        while(l < nums.length){
+        while(r + 1 < nums.length){
 
-            if(r + 1 < nums.length && sum < s)
+            while(r + 1 < nums.length && sum < s)
                 sum += nums[++r];
-            else
-                sum -= nums[l++];
 
             if(sum >= s)
                 res = Math.min(res, r - l + 1);
+
+            while(l < nums.length && sum >= s){
+                sum -= nums[l++];
+                if(sum >= s)
+                    res = Math.min(res, r - l + 1);
+            }
         }
 
         return res == nums.length + 1 ? 0 : res;
@@ -34,6 +39,6 @@ public class Solution4 {
 
         int[] nums = {2, 3, 1, 2, 4, 3};
         int s = 7;
-        System.out.println((new Solution4()).minSubArrayLen(s, nums));
+        System.out.println((new Solution5()).minSubArrayLen(s, nums));
     }
 }

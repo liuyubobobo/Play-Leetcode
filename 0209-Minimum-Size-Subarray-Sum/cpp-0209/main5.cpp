@@ -10,6 +10,7 @@ using namespace std;
 
 
 // Sliding Window
+// Another Implementation
 // Time Complexity: O(n)
 // Space Complexity: O(1)
 class Solution {
@@ -22,15 +23,19 @@ public:
         int sum = 0;
         int res = nums.size() + 1;
 
-        while(l < nums.size()){
+        while(r + 1 < nums.size()){
 
-            if(r + 1 < nums.size() && sum < s)
+            while(r + 1 < nums.size() && sum < s)
                 sum += nums[++r];
-            else
-                sum -= nums[l++];
 
             if(sum >= s)
                 res = min(res, r - l + 1);
+
+            while(l < nums.size() && sum >= s){
+                sum -= nums[l++];
+                if(sum >= s)
+                    res = min(res, r - l + 1);
+            }
         }
 
         return res == nums.size() + 1 ? 0 : res;

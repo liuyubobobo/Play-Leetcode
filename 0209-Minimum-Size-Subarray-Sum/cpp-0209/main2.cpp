@@ -1,56 +1,45 @@
 /// https://leetcode.com/problems/minimum-size-subarray-sum/description/
 /// Author : liuyubobobo
-/// Time   : 2017-11-13
+/// Time   : 2019-03-03
 
 #include <iostream>
 #include <cassert>
 #include <vector>
-#include <algorithm>
 
 using namespace std;
 
-// Sum Prefix + Binary Search
-// Time Complexity: O(nlogn)
-// Space Complexity: O(n)
+
+// Brute Force + Greedy
+// Time Complexity: O(n^2)
+// Space Complexity: O(1)
 class Solution {
 public:
     int minSubArrayLen(int s, vector<int>& nums) {
 
         assert(s > 0);
 
-        vector<int> sums(nums.size() + 1, 0);
-        for(int i = 1 ; i <= nums.size() ; i ++)
-            sums[i] = sums[i-1] + nums[i-1];
-
         int res = nums.size() + 1;
-        for(int l = 0 ; l < (int)nums.size() - 1 ; l ++){
-            auto r_bound = lower_bound(sums.begin(), sums.end(), sums[l] + s);
-            if(r_bound != sums.end()){
-                int r = r_bound - sums.begin();
-                res = min(res, r - l);
+        for(int l = 0 ; l < nums.size() ; l ++) {
+            int sum = 0;
+            for (int r = l; r < nums.size(); r++){
+                sum += nums[r];
+                if(sum >= s){
+                    res = min(res, r - l + 1);
+                    break;
+                }
             }
         }
 
-        if(res == nums.size() + 1)
-            return 0;
-
-        return res;
+        return res == nums.size() + 1 ? 0 : res;
     }
 };
 
+
 int main() {
 
-    int nums1[] = {2, 3, 1, 2, 4, 3};
-    vector<int> vec1(nums1, nums1 + sizeof(nums1)/sizeof(int) );
+    vector<int> nums1 = {2, 3, 1, 2, 4, 3};
     int s1 = 7;
     cout << Solution().minSubArrayLen(s1, vec1) << endl;
-    // 2
-
-    // ---
-
-    vector<int> vec2;
-    int s2 = 100;
-    cout << Solution().minSubArrayLen(s2, vec2) << endl;
 
     return 0;
 }

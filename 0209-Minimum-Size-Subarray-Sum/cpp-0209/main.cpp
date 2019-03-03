@@ -8,6 +8,7 @@
 
 using namespace std;
 
+
 // Sum Prefix
 // Time Complexity: O(n^2)
 // Space Complexity: O(n)
@@ -27,20 +28,16 @@ public:
                 if(sums[r+1] - sums[l] >= s)
                     res = min(res, r - l + 1);
 
-        if(res == nums.size() + 1)
-            return 0;
-
-        return res;
+        return res == nums.size() + 1 ? 0 : res;
     }
 };
 
+
 int main() {
 
-    int nums[] = {2, 3, 1, 2, 4, 3};
-    vector<int> vec(nums, nums + sizeof(nums)/sizeof(int) );
-    int s = 7;
-
-    cout << Solution().minSubArrayLen(s, vec) << endl;
+    vector<int> nums1 = {2, 3, 1, 2, 4, 3};
+    int s1 = 7;
+    cout << Solution().minSubArrayLen(s1, vec1) << endl;
 
     return 0;
 }

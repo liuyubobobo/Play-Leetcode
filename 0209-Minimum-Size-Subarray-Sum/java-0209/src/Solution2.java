@@ -1,10 +1,10 @@
 /// https://leetcode.com/problems/minimum-size-subarray-sum/description/
 /// Author : liuyubobobo
-/// Time   : 2017-11-13
+/// Time   : 2019-03-03
 
-// Sum Prefix + Binary Search
-// Time Complexity: O(nlogn)
-// Space Complexity: O(n)
+// Brute Force + Greedy
+// Time Complexity: O(n^2)
+// Space Complexity: O(1)
 public class Solution2 {
 
     public int minSubArrayLen(int s, int[] nums) {
@@ -12,51 +12,19 @@ public class Solution2 {
         if(s <= 0 || nums == null)
             throw new IllegalArgumentException("Illigal Arguments");
 
-        int[] sums = new int[nums.length + 1];
-        sums[0] = 0;
-        for(int i = 1 ; i <= nums.length ; i ++)
-            sums[i] = sums[i-1] + nums[i-1];
-
         int res = nums.length + 1;
-        for(int l = 0 ; l < nums.length - 1 ; l ++){
-            // Unfortunately, there's no lowerBound method in Java，
-            // We need to implement our own lowerBound :(
-            int r = lowerBound(sums, sums[l] + s);
-            if(r != sums.length)
-                res = Math.min(res, r - l);
+        for(int l = 0 ; l < nums.length ; l ++) {
+            int sum = 0;
+            for (int r = l; r < nums.length; r++){
+                sum += nums[r];
+                if(sum >= s){
+                    res = Math.min(res, r - l + 1);
+                    break;
+                }
+            }
         }
 
-        if(res == nums.length + 1)
-            return 0;
-        return res;
-    }
-
-    // Find the smallest number index which is larger or equal to target
-    // in a sorted array nums
-    // If there's no such a number, in which all number in nums are smaller than target
-    // return nums.length
-    private int lowerBound(int[] nums, int target){
-
-        if(nums == null /*|| !isSorted(nums)*/)
-            throw new IllegalArgumentException("Illegal argument nums in lowerBound.");
-
-        int l = 0, r = nums.length;
-        while(l != r){
-            int mid = l + (r - l) / 2;
-            if(nums[mid] >= target)
-                r = mid;
-            else
-                l = mid + 1;
-        }
-
-        return l;
-    }
-
-    private boolean isSorted(int[] nums){
-        for(int i = 1 ; i < nums.length ; i ++)
-            if(nums[i] < nums[i-1])
-                return false;
-        return true;
+        return res == nums.length + 1 ? 0 : res;
     }
 
     public static void main(String[] args) {
