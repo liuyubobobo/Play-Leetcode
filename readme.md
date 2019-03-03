@@ -255,7 +255,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 245 | [Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/) | [无] | [C++](0245-Shortest-Word-Distance-III/cpp-0245/) | | |
 | | | | | | |
 | 249 | [Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/description/) | [无] | [C++](0249-Group-Shifted-Strings/cpp-0249/) | | |
-| 250 | [Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/description/) | [无] | [C++](0250-Count-Univalue-Subtrees/cpp-0250/) | | |
+| 250 | [Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/description/) | [solution](https://leetcode.com/problems/count-univalue-subtrees/solution/) | [C++](0250-Count-Univalue-Subtrees/cpp-0250/) | | |
 | | | | | | |
 | 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/) | [solution](https://leetcode.com/problems/meeting-rooms/solution/) | [C++](0252-Meeting-Rooms/cpp-0252/) | | |
 | 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/) | [solution](https://leetcode.com/problems/meeting-rooms-ii/solution/) | [C++](0253-Meeting-Rooms-II/cpp-0253/) | | |
