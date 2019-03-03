@@ -307,7 +307,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/solution/) | [无] | [C++](0346-Moving-Average-from-Data-Stream/cpp-0346/) | | |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | [solution](https://leetcode.com/problems/top-k-frequent-elements/solution/) | [C++](0347-Top-K-Frequent-Elements/cpp-0347/) | [Java](0347-Top-K-Frequent-Elements/java-0347/src/) | |
 | | | | | | |
-| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [无] | [C++](0349-Intersection-of-Two-Arrays/cpp-0349/) | [Java](0349-Intersection-of-Two-Arrays/java-0349/src/) | |
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [solution](https://leetcode.com/problems/intersection-of-two-arrays/solution/) | [C++](0349-Intersection-of-Two-Arrays/cpp-0349/) | [Java](0349-Intersection-of-Two-Arrays/java-0349/src/) | |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [无] | [C++](0350-Intersection-of-Two-Arrays-II/cpp-0350/) | [Java](0350-Intersection-of-Two-Arrays-II/java-0350/src/) | |
 | | | | | | |
 | 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/description/) | [无] | [C++](0359-Logger-Rate-Limiter/cpp-0359/) | | |
@@ -665,4 +665,6 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [solution](https://leetcode.com/problems/rotting-oranges/solution/) | [C++](0994-Rotting-Oranges/cpp-0994/) | | |
 | 995 | [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | [solution](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/solution/) | [C++](0995-Minimum-Number-of-K-Consecutive-Bit-Flips/cpp-0995/) | | |
 | 996 | [Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/) | [solution](https://leetcode.com/problems/number-of-squareful-arrays/solution/) | [C++](0996-Number-of-Squareful-Arrays/cpp-0996/) | | |
+| | | | | | |
+| 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [无] | [C++](1002-Find-Common-Characters/cpp-1002/) | | |
 | | | | | | |
