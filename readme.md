@@ -667,4 +667,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 996 | [Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/) | [solution](https://leetcode.com/problems/number-of-squareful-arrays/solution/) | [C++](0996-Number-of-Squareful-Arrays/cpp-0996/) | | |
 | | | | | | |
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [无] | [C++](1002-Find-Common-Characters/cpp-1002/) | | |
+| 1003 | [Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/) | [无] | [C++](1003-Check-If-Word-Is-Valid-After-Substitutions/cpp-1003/) | | |
 | | | | | | |
