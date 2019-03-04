@@ -666,6 +666,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 995 | [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | [solution](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/solution/) | [C++](0995-Minimum-Number-of-K-Consecutive-Bit-Flips/cpp-0995/) | | |
 | 996 | [Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/) | [solution](https://leetcode.com/problems/number-of-squareful-arrays/solution/) | [C++](0996-Number-of-Squareful-Arrays/cpp-0996/) | | |
 | | | | | | |
+| 1000 | [Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/) | [无] | [C++](1000-Minimum-Cost-to-Merge-Stones/cpp-1000/) | | |
+| | | | | | |
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [无] | [C++](1002-Find-Common-Characters/cpp-1002/) | | |
 | 1003 | [Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/) | [无] | [C++](1003-Check-If-Word-Is-Valid-After-Substitutions/cpp-1003/) | | |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [无] | [C++](1004-Max-Consecutive-Ones-III/cpp-1004/) | | |
