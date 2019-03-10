@@ -671,4 +671,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [无] | [C++](1002-Find-Common-Characters/cpp-1002/) | | |
 | 1003 | [Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/) | [无] | [C++](1003-Check-If-Word-Is-Valid-After-Substitutions/cpp-1003/) | | |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [无] | [C++](1004-Max-Consecutive-Ones-III/cpp-1004/) | | |
+| 1005 | [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | [无] | [C++](1005-Maximize-Sum-Of-Array-After-K-Negations/cpp-1005/) | | |
 | | | | | | |
