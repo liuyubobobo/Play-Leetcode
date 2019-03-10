@@ -673,4 +673,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [无] | [C++](1004-Max-Consecutive-Ones-III/cpp-1004/) | | |
 | 1005 | [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | [无] | [C++](1005-Maximize-Sum-Of-Array-After-K-Negations/cpp-1005/) | | |
 | 1006 | [Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/) | [无] | [C++](1006-Clumsy-Factorial/cpp-1006/) | | |
+| 1007 | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | [无] | [C++](1007-Minimum-Domino-Rotations-For-Equal-Row/cpp-1007/) | | |
 | | | | | | |
