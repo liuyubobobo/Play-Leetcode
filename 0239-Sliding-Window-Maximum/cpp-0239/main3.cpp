@@ -1,42 +1,48 @@
 /// Source : https://leetcode.com/problems/sliding-window-maximum/description/
 /// Author : liuyubobobo
-/// Time   : 2017-11-22
+/// Time   : 2019-03-09
 
 #include <iostream>
 #include <vector>
-#include <deque>
 #include <cassert>
 
 using namespace std;
 
 
-/// Using Deque as a Decreasing Queue
+/// Dynamic Programming
 /// Time Complexity: O(n)
 /// Space Complexity: O(n)
 class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
 
-        if(k == 0 || nums.size() == 0)
+        int n = nums.size();
+
+        if(k == 0 || n == 0)
             return vector<int>();
 
         if(k == 1)
             return nums;
 
-        deque<int> q;
-        vector<int> res;
-        for(int i = 0 ; i < nums.size() ; i ++){
-
-            while(!q.empty() && q.back() < nums[i])
-                q.pop_back();
-            q.push_back(nums[i]);
-
-            if(i >= k - 1){
-                res.push_back(q.front());
-                if(q.front() == nums[i - (k - 1)])
-                    q.pop_front();
-            }
+        vector<int> right(n);
+        int cur = nums[0];
+        for(int i = 0; i < n; i ++){
+            if(i % k == 0) cur = nums[i];
+            else cur = max(cur, nums[i]);
+            right[i] = cur;
         }
+
+        vector<int> left(n);
+        cur = nums[n - 1];
+        for(int i = n - 1; i >= 0; i --){
+            if(i % k == k - 1) cur = nums[i];
+            else cur = max(cur, nums[i]);
+            left[i] = cur;
+        }
+
+        vector<int> res(n - k + 1);
+        for(int i = 0; i <= n - k; i ++)
+            res[i] = max(left[i], right[min(i + k - 1, n - 1)]);
 
         return res;
     }
