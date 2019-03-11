@@ -667,7 +667,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 996 | [Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/) | [solution](https://leetcode.com/problems/number-of-squareful-arrays/solution/) | [C++](0996-Number-of-Squareful-Arrays/cpp-0996/) | | |
 | 997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [无] | [C++](0997-Find-the-Town-Judge/cpp-0997/) | | |
 | 998 | [Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/) | [无] | [C++](0998-Maximum-Binary-Tree-II/cpp-0998/) | | |
-| | | | | | |
+| 999 | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/) | [无] | [C++](0999-Available-Captures-for-Rook/cpp-0999/) | | |
 | 1000 | [Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/) | [无] | [C++](1000-Minimum-Cost-to-Merge-Stones/cpp-1000/) | | |
 | | | | | | |
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [无] | [C++](1002-Find-Common-Characters/cpp-1002/) | | |
