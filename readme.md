@@ -666,6 +666,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 995 | [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | [solution](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/solution/) | [C++](0995-Minimum-Number-of-K-Consecutive-Bit-Flips/cpp-0995/) | | |
 | 996 | [Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/) | [solution](https://leetcode.com/problems/number-of-squareful-arrays/solution/) | [C++](0996-Number-of-Squareful-Arrays/cpp-0996/) | | |
 | 997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [无] | [C++](0997-Find-the-Town-Judge/cpp-0997/) | | |
+| 998 | [Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/) | [无] | [C++](0998-Maximum-Binary-Tree-II/cpp-0998/) | | |
 | | | | | | |
 | 1000 | [Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/) | [无] | [C++](1000-Minimum-Cost-to-Merge-Stones/cpp-1000/) | | |
 | | | | | | |
