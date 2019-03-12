@@ -47,16 +47,13 @@ private:
         int i = 1;
         while(i < m)
             if(pattern[i] == pattern[len])
-                len ++, lps[i] = len, i ++;
-            else{
-                // trick part
-                // a great explanation:
-                // https://leetcode.com/problems/implement-strstr/discuss/13160/detailed-explanation-on-building-up-lps-for-kmp-algorithm
-                if(len) len = lps[len - 1];
-                else
-                    lps[i] = 0,
-                            i ++;
-            }
+                lps[i ++] = ++ len;
+
+            // trick part
+            // a great explanation:
+            // https://leetcode.com/problems/implement-strstr/discuss/13160/detailed-explanation-on-building-up-lps-for-kmp-algorithm
+            else if(len) len = lps[len - 1]; // len --
+            else i ++;
         return lps;
     }
 };
