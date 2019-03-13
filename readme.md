@@ -71,7 +71,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 025 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [无] | [C++](0025-Reverse-Nodes-in-k-Group/cpp-0025/) | | |
 | 026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [solution](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solution/) | [C++](0026-Remove-Duplicates-from-Sorted-Array/cpp-0026/) | | |
 | 027 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [solution](https://leetcode.com/problems/remove-element/solution/) | [C++](0027-Remove-Element/cpp-0027/) | | |
-| 028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [无]<br/>[缺：KMP等高级字符串匹配算法] | [C++](0028-Implement-strStr/cpp-0028/) | | |
+| 028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [无]<br/>[缺：完整BM算法, 其他模式匹配算法] | [C++](0028-Implement-strStr/cpp-0028/) | | |
 | | | | | | |
 | 033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [solution](https://leetcode.com/problems/search-in-rotated-sorted-array/solution/) | [C++](0033-Search-in-Rotated-Sorted-Array/cpp-0033/) | | |
 | 034 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [solution](https://leetcode.com/problems/search-for-a-range/solution/) | [C++](0034-Search-for-a-Range/cpp-0034/) | | |
