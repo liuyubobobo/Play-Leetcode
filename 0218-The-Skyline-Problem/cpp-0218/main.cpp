@@ -1,6 +1,7 @@
 /// Source : https://leetcode.com/problems/the-skyline-problem/description/
 /// Author : liuyubobobo
 /// Time   : 2017-10-28
+/// updated: 2019-03-14
 
 #include <iostream>
 #include <vector>
@@ -10,24 +11,18 @@
 
 using namespace std;
 
+
+/// Using Segment Tree
+/// Time Complexity: O(nlogn)
+/// Space Complexity: O(n)
 class SegmentTree{
 
 private:
     int n;
-    vector<int> tree;
-    vector<int> lazy;
+    vector<int> tree, lazy;
 
 public:
-    SegmentTree(int n){
-
-        this->n = n;
-
-        int size = 4*n;
-        for(int i = 0 ; i < size ; i ++){
-            tree.push_back(0);
-            lazy.push_back(0);
-        }
-    }
+    SegmentTree(int n): n(n), tree(4 * n, 0), lazy(4 * n, 0){}
 
     void add(int l, int r, int h){
         update(0, 0, n-1, l, r, h);
@@ -41,19 +36,19 @@ private:
     void update(int treeID, int treeL, int treeR, int l, int r, int h){
 
         if(lazy[treeID] != 0){
-            tree[treeID] = max(tree[treeID], lazy[treeID]);
+            tree[treeID] = max(tree[treeID], lazy[treeID]); // max
             if(treeL != treeR){
-                lazy[2 * treeID + 1] = max(lazy[treeID], lazy[2 * treeID + 1]);
-                lazy[2 * treeID + 2] = max(lazy[treeID], lazy[2 * treeID + 2]);
+                lazy[2 * treeID + 1] = max(lazy[treeID], lazy[2 * treeID + 1]); // max
+                lazy[2 * treeID + 2] = max(lazy[treeID], lazy[2 * treeID + 2]); // max
             }
             lazy[treeID] = 0;
         }
 
         if(treeL == l && treeR == r){
-            tree[treeID] = max(tree[treeID], h);
+            tree[treeID] = max(tree[treeID], h); // max
             if(treeL != treeR){
-                lazy[2 * treeID + 1] = max(h, lazy[2 * treeID + 1]);
-                lazy[2 * treeID + 2] = max(h, lazy[2 * treeID + 2]);
+                lazy[2 * treeID + 1] = max(h, lazy[2 * treeID + 1]); // max
+                lazy[2 * treeID + 2] = max(h, lazy[2 * treeID + 2]); // max
             }
             return;
         }
@@ -75,10 +70,10 @@ private:
     int query(int treeID, int treeL, int treeR, int index){
 
         if(lazy[treeID] != 0){
-            tree[treeID] = max(tree[treeID], lazy[treeID]);
+            tree[treeID] = max(tree[treeID], lazy[treeID]); // max
             if(treeL != treeR){
-                lazy[2 * treeID + 1] = max(lazy[treeID], lazy[2 * treeID + 1]);
-                lazy[2 * treeID + 2] = max(lazy[treeID], lazy[2 * treeID + 2]);
+                lazy[2 * treeID + 1] = max(lazy[treeID], lazy[2 * treeID + 1]); // max
+                lazy[2 * treeID + 2] = max(lazy[treeID], lazy[2 * treeID + 2]); // max
             }
             lazy[treeID] = 0;
         }
@@ -97,13 +92,14 @@ private:
     }
 };
 
+
 class Solution {
 public:
     vector<pair<int, int>> getSkyline(vector<vector<int>>& buildings) {
 
         // Coordinate compression
         set<int> unique_points;
-        for(vector<int> info: buildings){
+        for(const vector<int>& info: buildings){
             unique_points.insert(info[0]);
             unique_points.insert(info[1]-1);
             unique_points.insert(info[1]);
@@ -118,13 +114,13 @@ public:
 
         // segment tree
         SegmentTree stree(pos.size());
-        for(vector<int> info: buildings)
+        for(const vector<int>& info: buildings)
             stree.add(indexes[info[0]], indexes[info[1]-1], info[2]);
 
         // get results
         vector<pair<int, int>> res;
         unique_points.clear();
-        for(vector<int> info: buildings){
+        for(const vector<int>& info: buildings){
             unique_points.insert(info[0]);
             unique_points.insert(info[1]);
         }
@@ -140,6 +136,7 @@ public:
         return res;
     }
 };
+
 
 int main() {
 
