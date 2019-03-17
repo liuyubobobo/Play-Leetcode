@@ -166,7 +166,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/) | [无] | [C++](0130-Surrounded-Regions/cpp-0130/) | | |
 | | | | | | |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/description/) | [无] | [C++](0133-Clone-Graph/cpp-0133/) | | |
-| | | | | | |
+| 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [solution](https://leetcode.com/problems/gas-station/solution/) | [C++](0134-Gas-Station/cpp-0134/) | | |
 | 135 | [Candy](https://leetcode.com/problems/candy/) | [solution](https://leetcode.com/problems/candy/solution/)<br/>[缺：O(1)空间算法] | [C++](0135-Candy/cpp-0135/) | | |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | [solution](https://leetcode.com/problems/single-number/solution/) | [C++](0136-Single-Number/cpp-0136/) | | |
 | | | | | | |
