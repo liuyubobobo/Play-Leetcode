@@ -682,4 +682,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1012 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [无] | [C++](1012-Complement-of-Base-10-Integer/cpp-1012/) | | |
 | 1013 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [无] | [C++](1013-Pairs-of-Songs-With-Total-Durations-Divisible-by-60/cpp-1013/) | | |
 | 1014 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [无] | [C++](1014-Capacity-To-Ship-Packages-Within-D-Days/cpp-1014/) | | |
+| 1015 | [Numbers With 1 Repeated Digit](https://leetcode.com/problems/numbers-with-1-repeated-digit/) | [无] | [C++](1015-Numbers-With-1-Repeated-Digit/cpp-1015/) | | |
 | | | | | | |
