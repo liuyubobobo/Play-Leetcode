@@ -679,3 +679,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [无] | [C
 ++](1008-Construct-Binary-Search-Tree-from-Preorder-Traversal/cpp-1008/) | | |
 | | | | | | |
+| 1012 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [无] | [C++](1012-Complement-of-Base-10-Integer/cpp-1012/) | | |
+| | | | | | |
