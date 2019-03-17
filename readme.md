@@ -637,6 +637,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 959 | [Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/) | [solution](https://leetcode.com/problems/regions-cut-by-slashes/solution/) | [C++](0959-Regions-Cut-By-Slashes/cpp-0959/) | | |
 | 960 | [Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/) | [solution](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/solution/) | [C++](0960-Delete-Columns-to-Make-Sorted-III/cpp-0960/) | | |
 | | | | | | |
+| 965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | [solution](https://leetcode.com/problems/univalued-binary-tree/solution/) | [C++](0965-Univalued-Binary-Tree/cpp-0965/) | | |
+| | | | | | |
 | 969 | [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) | [solution](https://leetcode.com/problems/pancake-sorting/solution/) | [C++](0969-Pancake-Sorting/cpp-0969/) | | |
 | 970 | [Powerful Integers](https://leetcode.com/problems/powerful-integers/) | [solution](https://leetcode.com/problems/powerful-integers/solution/) | [C++](0970-Powerful-Integers/cpp-0970/) | | |
 | 971 | [Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/) | [solution](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/solution/) | [C++](0971-Flip-Binary-Tree-To-Match-Preorder-Traversal/cpp-0971/) | | |
