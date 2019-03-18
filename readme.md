@@ -638,7 +638,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 960 | [Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/) | [solution](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/solution/) | [C++](0960-Delete-Columns-to-Make-Sorted-III/cpp-0960/) | | |
 | | | | | | |
 | 965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | [solution](https://leetcode.com/problems/univalued-binary-tree/solution/) | [C++](0965-Univalued-Binary-Tree/cpp-0965/) | | |
-| | | | | | |
+| 966 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | [solution](https://leetcode.com/problems/vowel-spellchecker/solution/) | [C++](0966-Vowel-Spellchecker/cpp-0966/) | | |
 | 967 | [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | [solution](https://leetcode.com/problems/numbers-with-same-consecutive-differences/solution/) | [C++](0967-Numbers-With-Same-Consecutive-Differences/cpp-0967/) | | |
 | | | | | | |
 | 969 | [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) | [solution](https://leetcode.com/problems/pancake-sorting/solution/) | [C++](0969-Pancake-Sorting/cpp-0969/) | | |
