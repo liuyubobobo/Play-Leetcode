@@ -640,7 +640,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | [solution](https://leetcode.com/problems/univalued-binary-tree/solution/) | [C++](0965-Univalued-Binary-Tree/cpp-0965/) | | |
 | 966 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | [solution](https://leetcode.com/problems/vowel-spellchecker/solution/) | [C++](0966-Vowel-Spellchecker/cpp-0966/) | | |
 | 967 | [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | [solution](https://leetcode.com/problems/numbers-with-same-consecutive-differences/solution/) | [C++](0967-Numbers-With-Same-Consecutive-Differences/cpp-0967/) | | |
-| | | | | | |
+| 968 | [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/) | [solution](https://leetcode.com/problems/binary-tree-cameras/solution/) | [C++](0968-Binary-Tree-Cameras/cpp-0968/) | | |
 | 969 | [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) | [solution](https://leetcode.com/problems/pancake-sorting/solution/) | [C++](0969-Pancake-Sorting/cpp-0969/) | | |
 | 970 | [Powerful Integers](https://leetcode.com/problems/powerful-integers/) | [solution](https://leetcode.com/problems/powerful-integers/solution/) | [C++](0970-Powerful-Integers/cpp-0970/) | | |
 | 971 | [Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/) | [solution](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/solution/) | [C++](0971-Flip-Binary-Tree-To-Match-Preorder-Traversal/cpp-0971/) | | |
