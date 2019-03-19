@@ -3,5 +3,5 @@ project(cpp_0028)
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
 
-set(SOURCE_FILES main8.cpp)
+set(SOURCE_FILES main4.cpp)
 add_executable(cpp_0028 ${SOURCE_FILES})

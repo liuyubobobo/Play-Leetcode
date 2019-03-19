@@ -9,12 +9,9 @@ using namespace std;
 
 
 /// KMP based on DFA
-/// Naive DFA construction
 ///
-/// Time Complexity: O(m^3 * all_characters + n)
+/// Time Complexity: O(m * all_characters + n)
 /// Sapce Complexity: O(m * all_characters)
-///
-/// TLE in Leetcode 28
 class Solution {
 public:
     int strStr(string haystack, string needle) {
@@ -27,36 +24,23 @@ public:
 
         // dfa construction
         dfa[needle[0]][0] = 1;
+        int lps = 0;
         for(int state = 1; state < m; state ++){
-            dfa[needle[state]][state] = state + 1;
             for(int c = 0; c < 256; c ++)
-                if(c != needle[state])
-                    dfa[c][state] = get_state(needle, c, state);
+                dfa[c][state] = dfa[c][lps];
+
+            dfa[needle[state]][state] = state + 1;
+
+            lps = dfa[needle[state]][lps];
         }
 
         int state = 0;
         for(int i = 0; i < n; i ++){
             state = dfa[haystack[i]][state];
             if(state == m) return i - m + 1;
+
         }
         return -1;
-    }
-
-private:
-    int get_state(const string& p, int c, int m){
-
-        string s = p.substr(0, m) + string(1, c);
-        for(int len = s.size() - 1; len > 0; len --)
-            if(same(s, 0, s.size() - len, len))
-                return len;
-        return 0;
-    }
-
-    bool same(const string& s, int s1, int s2, int l){
-        for(int i = 0; i < l; i ++)
-            if(s[s1 + i] != s[s2 + i])
-                return false;
-        return true;
     }
 };
 

@@ -8,13 +8,11 @@
 using namespace std;
 
 
-/// KMP based on DFA
-/// Optimized DFA construction, using lps algorithm in main3 (or main4)
+/// BM Algorithm
+/// Only bad character heuristic is used
 ///
-/// Time Complexity: O(m^2 * all_characters + n)
+/// Time Complexity: O(m * all_characters + n)
 /// Sapce Complexity: O(m * all_characters)
-///
-/// TLE in Leetcode 28
 class Solution {
 public:
     int strStr(string haystack, string needle) {
@@ -23,42 +21,25 @@ public:
         if(haystack == "") return -1;
 
         int n = haystack.size(), m = needle.size();
-        vector<vector<int>> dfa(256, vector<int>(m + 1, 0));
+        vector<int> bad(256, -1); // last occurrence of every character
+        for(int i = 0; i < m; i ++)
+            bad[needle[i]] = i;
 
-        // dfa construction
-        dfa[needle[0]][0] = 1;
-        vector<int> lps(m + 1, 0);
-        for(int state = 1; state < m; state ++){
-            dfa[needle[state]][state] = state + 1;
-            for(int c = 0; c < 256; c ++)
-                if(c != needle[state])
-                    dfa[c][state] = get_state(needle, c, state, lps);
-        }
+        int i = 0;
+        while(i <= n - m){
 
-        int state = 0;
-        for(int i = 0; i < n; i ++){
-            state = dfa[haystack[i]][state];
-            if(state == m) return i - m + 1;
+            int j = m - 1;
+            for(; j >= 0; j --)
+                if(needle[j] != haystack[i + j])
+                    break;
+
+            if(j < 0) return i;
+            if(bad[haystack[i + j]] < 0)
+                i += j + 1;
+            else
+                i += max(1, j - bad[haystack[i + j]]);
         }
         return -1;
-    }
-
-private:
-    int get_state(const string& p, int c, int m, vector<int>& lps){
-
-        for(int &e: lps) e = 0;
-
-        int len = 0;
-        for(int i = 1; i < m; i ++){
-            while(len && p[i] != p[len])
-                len = lps[len - 1];
-
-            if(p[i] == p[len])
-                lps[i] = ++ len;
-        }
-
-        while(len && c != p[len]) len = lps[len - 1];
-        return c == p[len] ? len + 1 : 0;
     }
 };
 
