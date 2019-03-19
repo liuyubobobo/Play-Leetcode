@@ -27,11 +27,14 @@ public class Solution2 {
     private void generatePermutation(int[] nums, int index){
 
         if(index == nums.length){
-            res.add(new ArrayList(Arrays.asList(nums)));
+            List<Integer> list = new ArrayList<Integer>();
+            for(int i : nums)
+                list.add(i);
+            res.add(list);
             return;
         }
 
-        for(int i = 0 ; i < nums.length ; i ++){
+        for(int i = index ; i < nums.length ; i ++){
             swap(nums, i, index);
             generatePermutation(nums, index + 1);
             swap(nums, i, index);
