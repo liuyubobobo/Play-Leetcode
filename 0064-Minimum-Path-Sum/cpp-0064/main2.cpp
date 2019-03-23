@@ -29,8 +29,6 @@ public:
         for(int j = 1 ; j < m ; j ++)
             res[0][j] = grid[0][j] + res[0][j-1];
 
-        res[1][0] = grid[0][0] + res[0][0];
-
         for(int i = 1 ; i < n ; i ++){
             res[i%2][0] = grid[i][0] + res[(i-1)%2][0];
             for(int j = 1 ; j < m ; j ++)
