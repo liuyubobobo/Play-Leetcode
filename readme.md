@@ -689,3 +689,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1014 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [无] | [C++](1014-Capacity-To-Ship-Packages-Within-D-Days/cpp-1014/) | | |
 | 1015 | [Numbers With 1 Repeated Digit](https://leetcode.com/problems/numbers-with-1-repeated-digit/) | [无] | [C++](1015-Numbers-With-1-Repeated-Digit/cpp-1015/) | | |
 | | | | | | |
+| 1020 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | [无] | [C++](1020-Partition-Array-Into-Three-Parts-With-Equal-Sum/cpp-1020/) | | |
+| | | | | | |
