@@ -690,4 +690,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1015 | [Numbers With 1 Repeated Digit](https://leetcode.com/problems/numbers-with-1-repeated-digit/) | [无] | [C++](1015-Numbers-With-1-Repeated-Digit/cpp-1015/) | | |
 | | | | | | |
 | 1020 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | [无] | [C++](1020-Partition-Array-Into-Three-Parts-With-Equal-Sum/cpp-1020/) | | |
+| 1021 | [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) | [无] | [C++](1021-Best-Sightseeing-Pair/cpp-1021/) | | |
 | | | | | | |
