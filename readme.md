@@ -691,4 +691,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1020 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | [无] | [C++](1020-Partition-Array-Into-Three-Parts-With-Equal-Sum/cpp-1020/) | | |
 | 1021 | [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) | [无] | [C++](1021-Best-Sightseeing-Pair/cpp-1021/) | | |
+| 1022 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | [无] | [C++](1022-Smallest-Integer-Divisible-by-K/cpp-1022/) | | |
 | | | | | | |
