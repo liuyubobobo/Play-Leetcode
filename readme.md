@@ -78,7 +78,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 034 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [solution](https://leetcode.com/problems/search-for-a-range/solution/) | [C++](0034-Search-for-a-Range/cpp-0034/) | | |
 | | | | | | |
 | 036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [solution](https://leetcode.com/problems/valid-sudoku/solution/) | [C++](0036-Valid-Sudoku/cpp-0036/) | | |
-| 037 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | [无]<br/>[缺：Dancing Links] | [C++](0037-Sudoku-Solver/cpp-0037/) | | |
+| 037 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | [solution](https://leetcode.com/problems/sudoku-solver/)<br/>[缺：Dancing Links] | [C++](0037-Sudoku-Solver/cpp-0037/) | | |
 | 038 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | [无] | [C++](0038-Count-and-Say/cpp-0038/) | | |
 | 039 | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [无] | [C++](0039-Combination-Sum/cpp-0039/) | | |
 | 040 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [无] | [C++](0040-Combination-Sum-II/cpp-0040/) | | |
