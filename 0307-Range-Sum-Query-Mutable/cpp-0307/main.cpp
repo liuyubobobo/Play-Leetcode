@@ -9,6 +9,9 @@
 using namespace std;
 
 /// Segment Tree
+/// Time Complexity: update: O(logn)
+///                  query: O(logn)
+/// Space Complexity: O(n)
 class SegmentTree{
 
 private:
@@ -105,10 +108,7 @@ private:
     SegmentTree tree;
 
 public:
-    NumArray(vector<int> nums):tree(SegmentTree(nums)) {
-
-        tree.print();
-    }
+    NumArray(vector<int> nums):tree(nums) {}
 
     void update(int i, int val) {
         tree.update(i, val);
@@ -118,6 +118,7 @@ public:
         return tree.query(i, j);
     }
 };
+
 
 int main() {
 
