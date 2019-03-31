@@ -696,4 +696,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1028 | [Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/) | [无] | [C++](1028-Convert-to-Base--2/cpp-1028/) | | |
 | 1029 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [无] | [C++](1029-Binary-Prefix-Divisible-By-5/cpp-1029/) | | |
+| 1030 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | [无] | [C++](1030-Next-Greater-Node-In-Linked-List/cpp-1030/) | | |
 | | | | | | |
