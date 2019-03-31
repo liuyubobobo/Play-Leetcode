@@ -694,3 +694,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1022 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | [无] | [C++](1022-Smallest-Integer-Divisible-by-K/cpp-1022/) | | |
 | 1023 | [Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/) | [无] | [C++](1023-Binary-String-With-Substrings-Representing-1-To-N/cpp-1023/) | | |
 | | | | | | |
+| 1028 | [Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/) | [无] | [C++](1028-Convert-to-Base--2/cpp-1028/) | | |
+| | | | | | |
