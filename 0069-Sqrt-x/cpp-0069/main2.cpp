@@ -1,6 +1,6 @@
 /// Source : https://leetcode.com/problems/sqrtx/description/
 /// Author : liuyubobobo
-/// Time   : 2018-06-18
+/// Time   : 2019-04-03
 
 #include <iostream>
 
@@ -8,21 +8,27 @@ using namespace std;
 
 
 /// Binary Search
-/// Time Complexity: O(log(MAX_INT))
+/// Using double first
+///
+/// Time Complexity: O(log(MAX_INT) * precision)
 /// Space Complexity: O(1)
 class Solution {
+
+private:
+    double e = 1e-6;
+
 public:
     int mySqrt(int x) {
 
-        int l = 0, r = x;
-        while(l < r){
-            long long mid = l + ((long long)r - l + 1) / 2;
-            if(mid * mid <= (long long)x)
+        double l = 0.0, r = INT_MAX;
+        while(r - l >= e){
+            double mid = (l + r) / 2;
+            if(mid * mid <= x)
                 l = mid;
             else
-                r = mid - 1;
+                r = mid;
         }
-        return l;
+        return (int)r;
     }
 };
 
