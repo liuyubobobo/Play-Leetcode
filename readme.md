@@ -695,4 +695,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [无] | [C++](1018-Binary-Prefix-Divisible-By-5/cpp-1018/) | | |
 | 1019 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | [无] | [C++](1019-Next-Greater-Node-In-Linked-List/cpp-1019/) | | |
 | 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | [无] | [C++](1020-Number-of-Enclaves/cpp-1020/) | | |
+| 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [无] | [1021-Remove-Outermost-Parentheses/cpp-1021/] | | |
 | | | | | | |
