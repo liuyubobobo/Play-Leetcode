@@ -1,7 +1,15 @@
+/// Source : https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
+/// Author : liuyubobobo
+/// Time   : 2019-04-06
+
 #include <iostream>
 
 using namespace std;
 
+
+/// DFS
+/// Time Complexity: O(n)
+/// Space Complexity: O(h)
 
 /// Definition for a binary tree node.
 struct TreeNode {
@@ -38,6 +46,7 @@ private:
         if(node->right) dfs(node->right, num);
     }
 };
+
 
 int main() {
 
