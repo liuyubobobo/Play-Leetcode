@@ -7,10 +7,12 @@
 
 using namespace std;
 
+
 /// Naive Recursive
-/// Time Complexity: O(n^k)
+/// Time Complexity: O(k * C(n, k))
 /// Space Complexity: O(k)
 class Solution {
+
 private:
     vector<vector<int>> res;
 
@@ -29,6 +31,7 @@ private:
 
         return;
     }
+
 public:
     vector<vector<int>> combine(int n, int k) {
 
@@ -44,7 +47,7 @@ public:
 };
 
 
-void printVec(const vector<int>& vec){
+void print_vec(const vector<int>& vec){
 
     for(int e: vec)
         cout << e << " ";
@@ -55,6 +58,6 @@ int main() {
 
     vector<vector<int>> res = Solution().combine(4,2);
     for( int i = 0 ; i < res.size() ; i ++ )
-        printVec(res[i]);
+        print_vec(res[i]);
     return 0;
 }
