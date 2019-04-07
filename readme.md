@@ -698,4 +698,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [无] | [1021-Remove-Outermost-Parentheses/cpp-1021/] | | |
 | 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [无] | [C++](1022-Sum-of-Root-To-Leaf-Binary-Numbers/cpp-1022/) | | |
 | 1023 | [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/) | [无] | [C++](1023-Camelcase-Matching/cpp-1023/) | | |
+| 1024 | [Video Stitching](https://leetcode.com/problems/video-stitching/) | [无] | [C++](1024-Video-Stitching/cpp-1024/) | | |
 | | | | | | |
