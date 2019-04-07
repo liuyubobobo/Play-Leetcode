@@ -683,19 +683,16 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1007 | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | [无] | [C++](1007-Minimum-Domino-Rotations-For-Equal-Row/cpp-1007/) | | |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [无] | [C
 ++](1008-Construct-Binary-Search-Tree-from-Preorder-Traversal/cpp-1008/) | | |
-| | | | | | |
-| 1012 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [无] | [C++](1012-Complement-of-Base-10-Integer/cpp-1012/) | | |
-| 1013 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [无] | [C++](1013-Pairs-of-Songs-With-Total-Durations-Divisible-by-60/cpp-1013/) | | |
-| 1014 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [无] | [C++](1014-Capacity-To-Ship-Packages-Within-D-Days/cpp-1014/) | | |
-| 1015 | [Numbers With 1 Repeated Digit](https://leetcode.com/problems/numbers-with-1-repeated-digit/) | [无] | [C++](1015-Numbers-With-1-Repeated-Digit/cpp-1015/) | | |
-| | | | | | |
-| 1020 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | [无] | [C++](1020-Partition-Array-Into-Three-Parts-With-Equal-Sum/cpp-1020/) | | |
-| 1021 | [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) | [无] | [C++](1021-Best-Sightseeing-Pair/cpp-1021/) | | |
-| 1022 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | [无] | [C++](1022-Smallest-Integer-Divisible-by-K/cpp-1022/) | | |
-| 1023 | [Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/) | [无] | [C++](1023-Binary-String-With-Substrings-Representing-1-To-N/cpp-1023/) | | |
-| | | | | | |
-| 1028 | [Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/) | [无] | [C++](1028-Convert-to-Base--2/cpp-1028/) | | |
-| 1029 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [无] | [C++](1029-Binary-Prefix-Divisible-By-5/cpp-1029/) | | |
-| 1030 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | [无] | [C++](1030-Next-Greater-Node-In-Linked-List/cpp-1030/) | | |
-| 1031 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | [无] | [C++](1031-Number-of-Enclaves/cpp-1031/) | | |
+| 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [无] | [C++](1009-Complement-of-Base-10-Integer/cpp-1009/) | | |
+| 1010 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [无] | [C++](1010-Pairs-of-Songs-With-Total-Durations-Divisible-by-60/cpp-1010/) | | |
+| 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [无] | [C++](1011-Capacity-To-Ship-Packages-Within-D-Days/cpp-1011/) | | |
+| 1012 | [Numbers With 1 Repeated Digit](https://leetcode.com/problems/numbers-with-1-repeated-digit/) | [无] | [C++](1012-Numbers-With-1-Repeated-Digit/cpp-1012/) | | |
+| 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | [无] | [C++](1013-Partition-Array-Into-Three-Parts-With-Equal-Sum/cpp-1013/) | | |
+| 1014 | [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) | [无] | [C++](1014-Best-Sightseeing-Pair/cpp-1014/) | | |
+| 1015 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | [无] | [C++](1015-Smallest-Integer-Divisible-by-K/cpp-1015/) | | |
+| 1016 | [Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/) | [无] | [C++](1016-Binary-String-With-Substrings-Representing-1-To-N/cpp-10`6/) | | |
+| 1017 | [Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/) | [无] | [C++](1017-Convert-to-Base--2/cpp-1017/) | | |
+| 1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [无] | [C++](1018-Binary-Prefix-Divisible-By-5/cpp-1018/) | | |
+| 1019 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | [无] | [C++](1019-Next-Greater-Node-In-Linked-List/cpp-1019/) | | |
+| 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | [无] | [C++](1020-Number-of-Enclaves/cpp-1020/) | | |
 | | | | | | |
