@@ -7,6 +7,7 @@
 #include <unordered_map>
 using namespace std;
 
+
 /// Using Hash Map
 /// Time Complexity: O(len(nums1) + len(nums2))
 /// Space Complexity: O(len(nums1))
@@ -30,7 +31,7 @@ public:
 };
 
 
-void printVec(const vector<int>& vec){
+void print_vec(const vector<int>& vec){
     for(int e: vec)
         cout << e << " ";
     cout << endl;
@@ -38,13 +39,10 @@ void printVec(const vector<int>& vec){
 
 int main() {
 
-    int nums1[] = {1, 2, 2, 1};
-    vector<int> vec1(nums1, nums1 + sizeof(nums1)/sizeof(int));
+    vector<int> nums1 = {1, 2, 2, 1};
+    vector<int> nums2 = {2, 2};
 
-    int nums2[] = {2, 2};
-    vector<int> vec2(nums2, nums2 + sizeof(nums2)/sizeof(int));
-
-    printVec(Solution().intersect(vec1, vec2));
+    print_vec(Solution().intersect(nums1, nums2));
 
     return 0;
 }

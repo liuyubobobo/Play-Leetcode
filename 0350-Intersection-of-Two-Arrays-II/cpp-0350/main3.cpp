@@ -1,6 +1,6 @@
 /// Source : https://leetcode.com/problems/intersection-of-two-arrays-ii/description/
 /// Author : liuyubobobo
-/// Time   : 2017-11-14
+/// Time   : 2019-04-08
 
 #include <iostream>
 #include <vector>
@@ -9,27 +9,27 @@
 using namespace std;
 
 
-/// Using Hash Map
-/// Time Complexity: O(len(nums1) + len(nums2)*log(len(nums1)))
-/// Space Complexity: O(len(nums1))
+/// Sorting and Two Pointers
+/// Time Complexity: O(nlogn)
+/// Space Complexity: O(1)
 class Solution {
 public:
     vector<int> intersect(vector<int>& nums1, vector<int>& nums2) {
 
-        multiset<int> record;
-        for(int num: nums1)
-            record.insert(num);
+        sort(nums1.begin(), nums1.end());
+        sort(nums2.begin(), nums2.end());
 
-        multiseSt<int> result;
-        for(int num: nums2){
-            multiset<int>::iterator iter = record.find(num);
-            if( iter != record.end()){
-                result.insert(num);
-                record.erase(iter);
-            }
+        vector<int> res;
+
+        int i = 0, j = 0;
+        while(i < nums1.size() && j < nums2.size()){
+
+            if(nums1[i] == nums2[j]) res.push_back(nums1[i]), i ++, j ++;
+            else if(nums1[i] < nums2[j]) i ++;
+            else j ++;
         }
 
-        return vector<int>(result.begin(), result.end());
+        return res;
     }
 };
 
