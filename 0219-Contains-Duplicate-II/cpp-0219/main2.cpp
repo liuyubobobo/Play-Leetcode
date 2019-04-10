@@ -1,16 +1,16 @@
 /// Source : https://leetcode.com/problems/contains-duplicate-ii/description/
 /// Author : liuyubobobo
-/// Time   : 2017-11-15
+/// Time   : 2019-04-10
 
 #include <iostream>
 #include <vector>
-#include <unordered_set>
+#include <unordered_map>
 
 using namespace std;
 
-/// Using Hash Set
+/// Using Hash Map
 /// Time Complexity: O(n)
-/// Space Complexity: O(k)
+/// Space Complexity: O(n)
 class Solution {
 public:
     bool containsNearbyDuplicate(vector<int>& nums, int k) {
@@ -21,18 +21,14 @@ public:
         if(k <= 0)
             return false;
 
-        unordered_set<int> record;
-        for(int i = 0 ; i < nums.size() ; i ++){
+        unordered_map<int, int> record;
+        record[nums[0]] = 0;
+        for(int i = 1 ; i < nums.size() ; i ++){
 
-            if(record.find(nums[i]) != record.end())
+            if(record.count(nums[i]) && i - record[nums[i]] <= k)
                 return true;
 
-            record.insert(nums[i]);
-
-            // 保持record中最多有k个元素
-            // 因为在下一次循环中会添加一个新元素,使得总共考虑k+1个元素
-            if(record.size() == k + 1)
-                record.erase(nums[i - k]);
+            record[nums[i]] = i;
         }
 
         return false;
