@@ -22,10 +22,8 @@ public:
 
         for(int i = 0 ; i < nums.size() ; i ++){
             unordered_map<int,int>::iterator iter = record.find(target - nums[i]);
-            if(iter != record.end() && iter->second != i){
-                int res[] = {i, iter->second};
-                return vector<int>(res, res + 2);
-            }
+            if(iter != record.end() && iter->second != i)
+                return {i, iter->second};
         }
 
         throw invalid_argument("the input has no solution");
@@ -33,7 +31,7 @@ public:
 };
 
 
-void printVec(const vector<int>& vec){
+void print_vec(const vector<int>& vec){
     for(int e: vec)
         cout << e << " ";
     cout << endl;
@@ -41,10 +39,9 @@ void printVec(const vector<int>& vec){
 
 int main() {
 
-    const int nums[] = {0,4,3,0};
-    vector<int> nums_vec( nums, nums + sizeof(nums)/sizeof(int) );
+    vector<int> nums = {0,4,3,0};
     int target = 0;
-    printVec(Solution().twoSum(nums_vec, target));
+    printVec(Solution().twoSum(nums, target));
 
     return 0;
 }

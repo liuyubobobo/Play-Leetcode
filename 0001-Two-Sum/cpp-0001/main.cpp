@@ -16,28 +16,19 @@ public:
 
         for(int i = 0 ; i < nums.size() ; i ++)
             for(int j = i + 1 ; j < nums.size() ; j ++)
-                if(nums[i] + nums[j] == target){
-                    int res[] = {i, j};
-                    return vector<int>(res, res + 2);
-                }
+                if(nums[i] + nums[j] == target)
+                    return {i, j};
 
         throw invalid_argument("the input has no solution");
     }
 };
 
 
-void printVec(const vector<int>& vec){
-    for(int e: vec)
-        cout << e << " ";
-    cout << endl;
-}
-
 int main() {
 
-    const int nums[] = {0,4,3,0};
-    vector<int> nums_vec( nums, nums + sizeof(nums)/sizeof(int) );
+    vector<int> nums = {0,4,3,0};
     int target = 0;
-    printVec(Solution().twoSum(nums_vec, target));
+    printVec(Solution().twoSum(nums, target));
 
     return 0;
 }
