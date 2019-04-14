@@ -703,4 +703,6 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1024 | [Video Stitching](https://leetcode.com/problems/video-stitching/) | [无] | [C++](1024-Video-Stitching/cpp-1024/) | | |
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/) | [无] | [C++](1025-Divisor-Game/cpp-1025/) | | |
 | 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [无] | [C++](1026-Maximum-Difference-Between-Node-and-Ancestor/cpp-1026/) | | |
+| 1027 | [Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/) | [无] | [C++](1027-Longest-Arithmetic-Sequence/cpp-1027/) | | |
+| 1028 | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | [无] | [C++](1028-Recover-a-Tree-From-Preorder-Traversal/cpp-1028/) | | |
 | | | | | | |
