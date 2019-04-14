@@ -702,4 +702,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1023 | [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/) | [无] | [C++](1023-Camelcase-Matching/cpp-1023/) | | |
 | 1024 | [Video Stitching](https://leetcode.com/problems/video-stitching/) | [无] | [C++](1024-Video-Stitching/cpp-1024/) | | |
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/) | [无] | [C++](1025-Divisor-Game/cpp-1025/) | | |
+| 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [无] | [C++](1026-Maximum-Difference-Between-Node-and-Ancestor/cpp-1026/) | | |
 | | | | | | |
