@@ -706,4 +706,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1027 | [Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/) | [无] | [C++](1027-Longest-Arithmetic-Sequence/cpp-1027/) | | |
 | 1028 | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | [无] | [C++](1028-Recover-a-Tree-From-Preorder-Traversal/cpp-1028/) | | |
 | 1029 | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [无] | [C++](1029-Two-City-Scheduling/cpp-1029/) | | |
+| 1030 | [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/) | [无] | [C++](1030-Matrix-Cells-in-Distance-Order/cpp-1030/) | | |
 | | | | | | |
