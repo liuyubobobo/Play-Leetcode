@@ -708,5 +708,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1029 | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [无] | [C++](1029-Two-City-Scheduling/cpp-1029/) | | |
 | 1030 | [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/) | [无] | [C++](1030-Matrix-Cells-in-Distance-Order/cpp-1030/) | | |
 | 1031 | [Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/) | [无] | [C++](1031-Maximum-Sum-of-Two-Non-Overlapping-Subarrays/cpp-1031/) | | |
-| 1032 | [Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/) | [无] | [C++](1032-Maximum-Sum-of-Two-Non-Overlapping-Subarrays/cpp-1032/) | | |
+| 1032 | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/) | [无] | [C++](1032-Stream-of-Characters/cpp-1032/) | | |
 | | | | | | |
