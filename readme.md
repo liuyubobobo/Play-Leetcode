@@ -705,4 +705,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [无] | [C++](1026-Maximum-Difference-Between-Node-and-Ancestor/cpp-1026/) | | |
 | 1027 | [Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/) | [无] | [C++](1027-Longest-Arithmetic-Sequence/cpp-1027/) | | |
 | 1028 | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | [无] | [C++](1028-Recover-a-Tree-From-Preorder-Traversal/cpp-1028/) | | |
+| 1029 | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [无] | [C++](1029-Two-City-Scheduling/cpp-1029/) | | |
 | | | | | | |
