@@ -446,6 +446,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 698 | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/) | | [C++](0698-Partition-to-K-Equal-Sum-Subsets/cpp-0698/) | [Java](0698-Partition-to-K-Equal-Sum-Subsets/java-0698/src/) | |
 | 699 | [Falling Squares](https://leetcode.com/contest/leetcode-weekly-contest-54/problems/falling-squares/) | [缺：线段树；块状链表] | [C++](0699-Falling-Squares/cpp-0699/) | | |
 | | | | | | |
+| 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [solution](https://leetcode.com/problems/insert-into-a-binary-search-tree/solution/) | [C++](0701-Insert-into-a-Binary-Search-Tree/cpp-0701/) | | |
+| | | | | | |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/description/) | [无] | [C++](0704-Binary-Search/cpp-0704/) | | |
 | 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/description/) | [无] | [C++](0705-Design-HashSet/cpp-0705/) | | |
 | 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/description/) | [无] | [C++](0706-Design-HashMap/cpp-0706/) | | |
