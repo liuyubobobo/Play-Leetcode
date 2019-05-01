@@ -17,26 +17,30 @@ struct TreeNode {
 /// Time Complexity: O(n)
 /// Space Complexity: O(h) where h is the height of the BST
 class Solution {
+
+private:
+    int index;
+
 public:
     int kthSmallest(TreeNode* root, int k) {
-        int index = 0;
-        return kthSmallestNode(root, k, index)->val;
+        index = 0;
+        return kthSmallestNode(root, k)->val;
     }
 
 private:
-    TreeNode* kthSmallestNode(TreeNode* node, int k, int& index){
+    TreeNode* kthSmallestNode(TreeNode* node, int k){
 
         if(node == NULL)
             return NULL;
 
-        TreeNode* res = kthSmallestNode(node->left, k, index);
+        TreeNode* res = kthSmallestNode(node->left, k);
         if(res) return res;
 
         index ++;
         if(index == k)
             return node;
 
-        return kthSmallestNode(node->right, k, index);
+        return kthSmallestNode(node->right, k);
     }
 };
 

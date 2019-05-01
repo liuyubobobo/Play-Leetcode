@@ -239,7 +239,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [solution](https://leetcode.com/problems/invert-binary-tree/solution/) | [C++](0226-Invert-Binary-Tree/cpp-0226/) | [Java](0226-Invert-Binary-Tree/java-0226/src/) | |
 | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/) | [无] | [C++](0227-Basic-Calculator-II/cpp-0227/) | | |
 | | | | | | |
-| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | [无] | [C++](0230-Kth-Smallest-Element-in-a-BST/cpp-0230/) | | |
+| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | [solution](https://leetcode.com/problems/kth-smallest-element-in-a-bst/solution/)<br/>[缺：非递归] | [C++](0230-Kth-Smallest-Element-in-a-BST/cpp-0230/) | | |
 | | | | | | |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | [solution](https://leetcode.com/problems/implement-queue-using-stacks/solution/) | [C++](0232-Implement-Queue-using-Stacks/cpp-0232/) | | |
 | | | | | | |
