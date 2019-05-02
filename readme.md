@@ -112,7 +112,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 072 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [solution](https://leetcode.com/problems/edit-distance/solution/) | [C++](0072-Edit-Distance/cpp-0072/) | | |
 | 073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [solution](https://leetcode.com/problems/set-matrix-zeroes/solution/) | [C++](0073-Set-Matrix-Zeroes/cpp-0073/) | | |
-| | | | | | |
+| 074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [无] | [C++](0074-Search-a-2D-Matrix/cpp-0074/) | | |
 | 075 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [无] | [C++](0075-Sort-Colors/cpp-0075/) | [Java](0075-Sort-Colors/java-0075/src/) | |
 | 076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | [solution](https://leetcode.com/problems/minimum-window-substring/solution/) | [C++](0076-Minimum-Window-Substring/cpp-0076/) | | |
 | 077 | [Combinations](https://leetcode.com/problems/combinations/description/) | [solution](https://leetcode.com/problems/combinations/solution/) | [C++](0077-Combinations/cpp-0077/) | [Java](0077-Combinations/java-0077/src/) | |
@@ -369,6 +369,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/description/) | [无] | [C++](0454-4Sum-II/cpp-0454/) | [Java](0454-4Sum-II/java-0454/src/) | |
 | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) | [无] | [C++](0455-Assign-Cookies/cpp-0455/) | [Java](0455-Assign-Cookies/java-0455/src/) | |
+| | | | | | |
+| 458 | [Poor Pigs](https://leetcode.com/problems/poor-pigs/) | [solution](https://leetcode.com/problems/poor-pigs/solution/) | [C++](0458-Poor-Pigs/) | | |
 | | | | | | |
 | 470 | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/description/) | [solution](https://leetcode.com/problems/implement-rand10-using-rand7/solution/) | [C++](0470-Implement-Rand10-Using-Rand7/cpp-0470/) | | |
 | | | | | | |
