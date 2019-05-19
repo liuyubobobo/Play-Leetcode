@@ -729,3 +729,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1043 | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | [无] | [C++](1043-Partition-Array-for-Maximum-Sum/cpp-1043/) | | |
 | 1044 | [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/) | [无]<br/>[缺：后缀数组] | [C++](1044-Longest-Duplicate-Substring/cpp-1044/) | | |
 | | | | | | |
+| 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [无] | [C++](1046-Last-Stone-Weight/cpp-1046/) | | |
+| | | | | | |
