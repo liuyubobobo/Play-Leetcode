@@ -15,7 +15,7 @@ using namespace std;
 /// Space Complexity: O(n)
 class Solution {
 public:
-    int numberOfBoomerangs(vector<pair<int, int>>& points) {
+    int numberOfBoomerangs(vector<vector<int>>& points) {
 
         int res = 0;
         for( int i = 0 ; i < points.size() ; i ++ ){
@@ -34,11 +34,12 @@ public:
     }
 
 private:
-    int dis(const pair<int,int> &pa, const pair<int,int> &pb){
-        return (pa.first - pb.first) * (pa.first - pb.first) +
-               (pa.second - pb.second) * (pa.second - pb.second);
+    int dis(const vector<int> &pa, const vector<int> &pb){
+        return (pa[0] - pb[0]) * (pa[0] - pb[0]) +
+               (pa[1] - pb[1]) * (pa[1] - pb[1]);
     }
 };
+
 
 int main() {
 
