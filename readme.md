@@ -723,4 +723,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1037 | [Valid Boomerang](https://leetcode.com/problems/valid-boomerang/) | [无] | [C++](1037-Valid-Boomerang/cpp-1037/) | | |
 | 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | [无] | [C++](1038-Binary-Search-Tree-to-Greater-Sum-Tree/cpp-1038/) | | |
 | 1039 | [Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/) | [无] | [C++](1039-Minimum-Score-Triangulation-of-Polygon/cpp-1039/) | | |
+| 1040 | [Moving Stones Until Consecutive II](https://leetcode.com/problems/moving-stones-until-consecutive-ii/) | [无] | [C++](1040-Moving-Stones-Until-Consecutive-II/cpp-1040/) | | |
 | | | | | | |
