@@ -727,4 +727,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1041 | [Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) | [无] | [C++](1041-Robot-Bounded-In-Circle/cpp-1041/) | | |
 | 1042 | [Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/) | [无] | [C++](1042-Flower-Planting-With-No-Adjacent/cpp-1042/) | | |
 | 1043 | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | [无] | [C++](1043-Partition-Array-for-Maximum-Sum/cpp-1043/) | | |
+| 1044 | [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/) | [无]<br/>[缺：后缀数组] | [C++](1044-Longest-Duplicate-Substring/cpp-1044/) | | |
 | | | | | | |
