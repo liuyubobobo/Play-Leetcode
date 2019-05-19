@@ -721,4 +721,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1035 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | [无] | [C++](1035-Uncrossed-Lines/cpp-1035/) | | |
 | 1036 | [Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze/) | [无] | [C++](1036-Escape-a-Large-Maze/cpp-1036/) | | |
 | 1037 | [Valid Boomerang](https://leetcode.com/problems/valid-boomerang/) | [无] | [C++](1037-Valid-Boomerang/cpp-1037/) | | |
+| 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | [无] | [C++](1038-Binary-Search-Tree-to-Greater-Sum-Tree/cpp-1038/) | | |
 | | | | | | |
