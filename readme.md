@@ -730,4 +730,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1044 | [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/) | [无]<br/>[缺：后缀数组] | [C++](1044-Longest-Duplicate-Substring/cpp-1044/) | | |
 | | | | | | |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [无] | [C++](1046-Last-Stone-Weight/cpp-1046/) | | |
+| 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [无] | [C++](1047-Remove-All-Adjacent-Duplicates-In-String/cpp-1047/) | | |
 | | | | | | |
