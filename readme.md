@@ -720,4 +720,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1034 | [Coloring A Border](https://leetcode.com/problems/coloring-a-border/) | [无] | [C++](1034-Coloring-A-Border/cpp-1034/) | | |
 | 1035 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | [无] | [C++](1035-Uncrossed-Lines/cpp-1035/) | | |
 | 1036 | [Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze/) | [无] | [C++](1036-Escape-a-Large-Maze/cpp-1036/) | | |
+| 1037 | [Valid Boomerang](https://leetcode.com/problems/valid-boomerang/) | [无] | [C++](1037-Valid-Boomerang/cpp-1037/) | | |
 | | | | | | |
