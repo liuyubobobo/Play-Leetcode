@@ -1,49 +1,35 @@
 /// Source : https://leetcode.com/problems/merge-intervals/description/
 /// Author : liuyubobobo
 /// Time   : 2017-11-15
+/// Updated: 2019-05-23
 
 #include <iostream>
 #include <vector>
 
 using namespace std;
 
-// Definition for an interval.
-struct Interval {
-    int start;
-    int end;
-    Interval() : start(0), end(0) {}
-    Interval(int s, int e) : start(s), end(e) {}
-
-    friend ostream& operator<<(ostream& os, const Interval& interval){
-        os << "[" << interval.start << "," << interval.end << "]";
-        return os;
-    }
-};
-
-bool intervalCmp(const Interval& interval1, const Interval& interval2){
-
-    if(interval1.start != interval2.start)
-        return interval1.start < interval2.start;
-    return interval1.end < interval2.end;
-}
 
 /// Sorting
 /// Time Complexity: O(nlogn)
 /// Space Complexity: O(1)
 class Solution {
 public:
-    vector<Interval> merge(vector<Interval>& intervals) {
+    vector<vector<int>> merge(vector<vector<int>>& intervals) {
 
         if(intervals.size() <= 1)
             return intervals;
 
-        sort(intervals.begin(), intervals.end(), intervalCmp);
+        sort(intervals.begin(), intervals.end(), [](const vector<int>& a, const vector<int>& b){
+            if(a[0] != b[0])
+                return a[0] < b[0];
+            return a[1] < b[1];
+        });
 
-        vector<Interval> res;
+        vector<vector<int>> res;
         res.push_back(intervals[0]);
         for(int i = 1 ; i < intervals.size() ; i ++){
             if(cross(res.back(), intervals[i])){
-                Interval newInterval = mergeInterval(res.back(), intervals[i]);
+                vector<int> newInterval = mergeInterval(res.back(), intervals[i]);
                 res.pop_back();
                 res.push_back(newInterval);
             }
@@ -55,40 +41,31 @@ public:
     }
 
 private:
-    bool cross(const Interval& interval1, const Interval& interval2){
-        return interval2.start <= interval1.end;
+    bool cross(const vector<int>& interval1, const vector<int>& interval2){
+        return interval2[0] <= interval1[1];
     }
 
-    Interval mergeInterval(const Interval& interval1, const Interval& interval2){
-        return Interval(min(interval1.start, interval2.start),
-                        max(interval1.end, interval2.end));
+    vector<int> mergeInterval(const vector<int>& interval1, const vector<int>& interval2){
+        return {min(interval1[0], interval2[0]), max(interval1[1], interval2[1])};
     }
 };
 
 
-void printIntervals(const vector<Interval>& vec){
-    for(Interval interval: vec)
-        cout << interval << " ";
+void printIntervals(const vector<vector<int>>& vec){
+    for(const vector<int>& interval: vec)
+        cout << interval[0] << " " << interval[1] << endl;
     cout << endl;
 }
 
 int main() {
 
-    vector<Interval> vec1;
-    vec1.push_back(Interval(1, 3));
-    vec1.push_back(Interval(2, 6));
-    vec1.push_back(Interval(8, 10));
-    vec1.push_back(Interval(15, 18));
-
+    vector<vector<int>> vec1 = {{1, 3}, {2, 6}, {8, 10}, {15, 18}};
     printIntervals(Solution().merge(vec1));
     // [1,6] [8,10] [15,18]
 
     // ---
 
-    vector<Interval> vec2;
-    vec2.push_back(Interval(1, 4));
-    vec2.push_back(Interval(0, 0));
-
+    vector<vector<int>> vec2 = {{1, 4}, {0, 0}};
     printIntervals(Solution().merge(vec2));
     // [0,0] [1,4]
 
