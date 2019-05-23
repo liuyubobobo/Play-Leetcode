@@ -24,7 +24,7 @@ public:
             sums[i] = sums[i-1] + nums[i-1];
 
         int res = nums.size() + 1;
-        for(int l = 0 ; l < (int)nums.size() - 1 ; l ++){
+        for(int l = 0; l < (int)nums.size(); l ++){
             auto r_bound = lower_bound(sums.begin(), sums.end(), sums[l] + s);
             if(r_bound != sums.end()){
                 int r = r_bound - sums.begin();

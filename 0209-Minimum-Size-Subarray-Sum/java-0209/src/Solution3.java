@@ -18,7 +18,7 @@ public class Solution3 {
             sums[i] = sums[i-1] + nums[i-1];
 
         int res = nums.length + 1;
-        for(int l = 0 ; l < nums.length - 1 ; l ++){
+        for(int l = 0 ; l < nums.length; l ++){
             // Unfortunately, there's no lowerBound method in Java，
             // We need to implement our own lowerBound :(
             int r = lowerBound(sums, sums[l] + s);
