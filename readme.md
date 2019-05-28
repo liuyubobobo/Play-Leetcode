@@ -690,8 +690,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1005 | [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | [无] | [C++](1005-Maximize-Sum-Of-Array-After-K-Negations/cpp-1005/) | | |
 | 1006 | [Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/) | [无] | [C++](1006-Clumsy-Factorial/cpp-1006/) | | |
 | 1007 | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | [无] | [C++](1007-Minimum-Domino-Rotations-For-Equal-Row/cpp-1007/) | | |
-| 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [无] | [C
-++](1008-Construct-Binary-Search-Tree-from-Preorder-Traversal/cpp-1008/) | | |
+| 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [无] | [C++](1008-Construct-Binary-Search-Tree-from-Preorder-Traversal/cpp-1008/) | | |
 | 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [无] | [C++](1009-Complement-of-Base-10-Integer/cpp-1009/) | | |
 | 1010 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [无] | [C++](1010-Pairs-of-Songs-With-Total-Durations-Divisible-by-60/cpp-1010/) | | |
 | 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [无] | [C++](1011-Capacity-To-Ship-Packages-Within-D-Days/cpp-1011/) | | |
