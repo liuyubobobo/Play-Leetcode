@@ -683,7 +683,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 998 | [Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/) | [无] | [C++](0998-Maximum-Binary-Tree-II/cpp-0998/) | | |
 | 999 | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/) | [无] | [C++](0999-Available-Captures-for-Rook/cpp-0999/) | | |
 | 1000 | [Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/) | [无] | [C++](1000-Minimum-Cost-to-Merge-Stones/cpp-1000/) | | |
-| 1001 | [Grid Illumination](https://leetcode.com/problems/grid-illumination/) | [无] | [solution](1001-Grid-Illumination/cpp-1001/) | | |
+| 1001 | [Grid Illumination](https://leetcode.com/problems/grid-illumination/) | [无] | [C++](1001-Grid-Illumination/cpp-1001/) | | |
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [无] | [C++](1002-Find-Common-Characters/cpp-1002/) | | |
 | 1003 | [Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/) | [无] | [C++](1003-Check-If-Word-Is-Valid-After-Substitutions/cpp-1003/) | | |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [无] | [C++](1004-Max-Consecutive-Ones-III/cpp-1004/) | | |
@@ -704,7 +704,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [无] | [C++](1018-Binary-Prefix-Divisible-By-5/cpp-1018/) | | |
 | 1019 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | [无] | [C++](1019-Next-Greater-Node-In-Linked-List/cpp-1019/) | | |
 | 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | [无] | [C++](1020-Number-of-Enclaves/cpp-1020/) | | |
-| 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [无] | [1021-Remove-Outermost-Parentheses/cpp-1021/] | | |
+| 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [无] | [C++](1021-Remove-Outermost-Parentheses/cpp-1021/) | | |
 | 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [无] | [C++](1022-Sum-of-Root-To-Leaf-Binary-Numbers/cpp-1022/) | | |
 | 1023 | [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/) | [无] | [C++](1023-Camelcase-Matching/cpp-1023/) | | |
 | 1024 | [Video Stitching](https://leetcode.com/problems/video-stitching/) | [无] | [C++](1024-Video-Stitching/cpp-1024/) | | |
