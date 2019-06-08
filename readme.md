@@ -15,7 +15,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 
 如果对代码仓有任何问题，欢迎联系我：）
 
-**个人网站**：[liuyubobobo.com](http://liuyubobobo.com)
+**个人网站**：[liuyubobobo.com](http://liuyubobobo.com) [废弃重整中...]
 
 **电子邮件**：[liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 
@@ -27,7 +27,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 
 **个人公众号：是不是很酷**：）
 
-![QRCode](qrcode.jpg)
+![QRCode](qrcode.png)
 
 
 ## 其他相关代码仓
