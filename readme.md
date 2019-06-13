@@ -50,7 +50,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | --- | --- | :---: | :--- | :--- | :--- |
 | 001 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [solution](https://leetcode.com/problems/two-sum/solution/) | [C++](0001-Two-Sum/cpp-0001/) | [Java](0001-Two-Sum/java-0001/src/) | |
 | 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [solution](https://leetcode.com/problems/add-two-numbers/solution/) | [C++](0002-Add-Two-Numbers/cpp-0002/) | | |
-| 003 | [Longest-Substring-Without-Repeating-Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [solution](https://leetcode.com/problems/longest-substring-without-repeating-characters/solution/) | [C++](0003-Longest-Substring-Without-Repeating-Characters/cpp-0003/) | [Java](0003-Longest-Substring-Without-Repeating-Characters/java-0003/src/) | |
+| 003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [solution](https://leetcode.com/problems/longest-substring-without-repeating-characters/solution/) | [C++](0003-Longest-Substring-Without-Repeating-Characters/cpp-0003/) | [Java](0003-Longest-Substring-Without-Repeating-Characters/java-0003/src/) | |
+| 004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [solution](https://leetcode.com/problems/median-of-two-sorted-arrays/solution/) | [C++](0004-Median-of-Two-Sorted-Arrays/cpp-0004/) | | |
 | | | | | | |
 | 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [solution](https://leetcode.com/problems/reverse-integer/solution/) | [C++](0007-Reverse-Integer/cpp-0007/) | | |
 | | | | | | |
