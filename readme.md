@@ -735,3 +735,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1072 | [Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/) | [无] | [C++](1072-Flip-Columns-For-Maximum-Number-of-Equal-Rows/cpp-1072/) | | |
 | | | | | | |
+| 1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) | [无] | [C++](1078-Occurrences-After-Bigram/cpp-1078/) | | |
+| | | | | | |
