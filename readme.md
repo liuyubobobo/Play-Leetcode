@@ -740,4 +740,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1080 | [Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) | [无] | [C++](1080-Insufficient-Nodes-in-Root-to-Leaf-Paths/cpp-1080/) | | |
 | | | | | | |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [无] | [C++](1089-Duplicate-Zeros/cpp-1089/) | | |
+| 1090 | [Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/) | [无] | [C++](1090-Largest-Values-From-Labels/cpp-1090/) | | |
 | | | | | | |
