@@ -739,3 +739,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | [无] | [C++](1079-Letter-Tile-Possibilities/cpp-1079/) | | |
 | 1080 | [Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) | [无] | [C++](1080-Insufficient-Nodes-in-Root-to-Leaf-Paths/cpp-1080/) | | |
 | | | | | | |
+| 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [无] | [C++](1089-Duplicate-Zeros/cpp-1089/) | | |
+| | | | | | |
