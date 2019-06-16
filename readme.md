@@ -737,4 +737,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) | [无] | [C++](1078-Occurrences-After-Bigram/cpp-1078/) | | |
 | 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | [无] | [C++](1079-Letter-Tile-Possibilities/cpp-1079/) | | |
+| 1080 | [Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) | [无] | [C++](1080-Insufficient-Nodes-in-Root-to-Leaf-Paths/cpp-1080/) | | |
 | | | | | | |
