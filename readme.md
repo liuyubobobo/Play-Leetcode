@@ -745,4 +745,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1092 | [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/) | [无] | [C++](1092-Shortest-Common-Supersequence/cpp-1092/) | | |
 | 1093 | [Statistics from a Large Sample](https://leetcode.com/problems/statistics-from-a-large-sample/) | [无] | [C++](1093-Statistics-from-a-Large-Sample/cpp-1093/) | | |
 | 1094 | [Car Pooling](https://leetcode.com/problems/car-pooling/) | [无] | [C++](1094-Car-Pooling/cpp-1094/) | | |
+| 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | [无] | [C++](1095-Find-in-Mountain-Array/cpp-1095/) | | |
 | | | | | | |
