@@ -1,7 +1,6 @@
-cmake_minimum_required(VERSION 3.5)
+cmake_minimum_required(VERSION 3.14)
 project(cpp_0309)
 
-set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
+set(CMAKE_CXX_STANDARD 14)
 
-set(SOURCE_FILES main2.cpp)
-add_executable(cpp_0309 ${SOURCE_FILES})
+add_executable(cpp_0309 main.cpp)
