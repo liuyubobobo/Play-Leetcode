@@ -114,7 +114,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 072 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [solution](https://leetcode.com/problems/edit-distance/solution/) | [C++](0072-Edit-Distance/cpp-0072/) | | |
 | 073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [solution](https://leetcode.com/problems/set-matrix-zeroes/solution/) | [C++](0073-Set-Matrix-Zeroes/cpp-0073/) | | |
 | 074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [无] | [C++](0074-Search-a-2D-Matrix/cpp-0074/) | | |
-| 075 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [solution](https://leetcode.com/problems/sort-colors/solution/) | [C++](0075-Sort-Colors/cpp-0075/) | [Java](0075-Sort-Colors/java-0075/src/) | |
+| 075 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [solution](https://leetcode.com/problems/sort-colors/solution/) | [C++](0075-Sort-Colors/cpp-0075/) | [Java](0075-Sort-Colors/java-0075/src/) | [Python](0075-Sort-Colors/py-0075/) |
 | 076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | [solution](https://leetcode.com/problems/minimum-window-substring/solution/) | [C++](0076-Minimum-Window-Substring/cpp-0076/) | | |
 | 077 | [Combinations](https://leetcode.com/problems/combinations/description/) | [solution](https://leetcode.com/problems/combinations/solution/) | [C++](0077-Combinations/cpp-0077/) | [Java](0077-Combinations/java-0077/src/) | |
 | | | | | | |
