@@ -1,6 +1,6 @@
 /// Source : https://leetcode.com/problems/defanging-an-ip-address/
 /// Author : liuyubobobo
-/// Time   : 2019-07-07
+/// Time   : 2019-07-06
 
 #include <iostream>
 
