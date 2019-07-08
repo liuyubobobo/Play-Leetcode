@@ -746,13 +746,14 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1093 | [Statistics from a Large Sample](https://leetcode.com/problems/statistics-from-a-large-sample/) | [无] | [C++](1093-Statistics-from-a-Large-Sample/cpp-1093/) | | |
 | 1094 | [Car Pooling](https://leetcode.com/problems/car-pooling/) | [无] | [C++](1094-Car-Pooling/cpp-1094/) | | |
 | 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | [无] | [C++](1095-Find-in-Mountain-Array/cpp-1095/) | | |
-| 1096 | [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/) | [无] | [C++](1096-Brace-Expansion-II/cpp-1096/) | | |
+| 1096 | [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/) | [无]<br/>[缺：非递归算法] | [C++](1096-Brace-Expansion-II/cpp-1096/) | | |
 | | | | | | |
 | 1099 | [Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/) | [无] | [C++](1099-Two-Sum-Less-Than-K/cpp-1099/) | | |
 | | | | | | |
 | 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) | [solution](https://leetcode.com/problems/distribute-candies-to-people/solution/) | [C++](1103-Distribute-Candies-to-People/cpp-1103/) | | |
 | 1104 | [Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/) | [无] | [C++](1104-Path-In-Zigzag-Labelled-Binary-Tree/cpp-1104/) | | |
 | 1105 | [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/) | [无] | [C++](1105-Filling-Bookcase-Shelves/cpp-1105/) | | |
+| 1106 | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | [无]<br/>[缺：非递归算法] | [C++](1106-Parsing-A-Boolean-Expression/cpp-1106/) | | |
 | | | | | | |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [无] | [C++](1108-Defanging-an-IP-Address/cpp-1108/) | | |
 | 1109 | [Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/) | [无] | [C++](1109-Corporate-Flight-Bookings/cpp-1009/) | | |
