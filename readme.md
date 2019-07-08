@@ -751,6 +751,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1099 | [Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/) | [无] | [C++](1099-Two-Sum-Less-Than-K/cpp-1099/) | | |
 | | | | | | |
 | 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) | [solution](https://leetcode.com/problems/distribute-candies-to-people/solution/) | [C++](1103-Distribute-Candies-to-People/cpp-1103/) | | |
+| 1104 | [Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/) | [无] | [C++](1104-Path-In-Zigzag-Labelled-Binary-Tree/cpp-1104/) | | |
 | | | | | | |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [无] | [C++](1108-Defanging-an-IP-Address/cpp-1108/) | | |
 | 1109 | [Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/) | [无] | [C++](1109-Corporate-Flight-Bookings/cpp-1009/) | | |
