@@ -751,7 +751,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1099 | [Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/) | [无] | [C++](1099-Two-Sum-Less-Than-K/cpp-1099/) | | |
 | 1100 | [Find K-Length Substrings With No Repeated Characters](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/) | [无] | [C++](1100-Find-K-Length-Substrings-With-No-Repeated-Characters/cpp-1100/) | | |
 | 1101 | [The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/) | [无] | [C++](1101-The-Earliest-Moment-When-Everyone-Become-Friends/cpp-1101/) | | |
-| | | | | | |
+| 1102 | [Path With Maximum Minimum Value](https://leetcode.com/problems/path-with-maximum-minimum-value/) | [无]<br/>[缺：并查集] | [C++](1102-Path-With-Maximum-Minimum-Value/cpp-1102/) | | |
 | 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) | [solution](https://leetcode.com/problems/distribute-candies-to-people/solution/) | [C++](1103-Distribute-Candies-to-People/cpp-1103/) | | |
 | 1104 | [Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/) | [无] | [C++](1104-Path-In-Zigzag-Labelled-Binary-Tree/cpp-1104/) | | |
 | 1105 | [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/) | [无] | [C++](1105-Filling-Bookcase-Shelves/cpp-1105/) | | |
