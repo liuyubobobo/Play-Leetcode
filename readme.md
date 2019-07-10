@@ -103,7 +103,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 061 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [solution](https://leetcode.com/problems/rotate-list/solution/) | [C++](0061-Rotate-List/cpp-0061/) | | |
 | 062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [无]<br/>[缺：数学解] | [C++](0062-Unique-Paths/cpp-0062/) | | |
 | 063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [solution](https://leetcode.com/problems/unique-paths-ii/solution/) | [C++](0063-Unique-Paths-II/cpp-0063/) | | |
-| 064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [solution](https://leetcode.com/problems/minimum-path-sum/solution/) | [C++](0064-Minimum-Path-Sum/cpp-0064/) | [Java](0064-Minimum-Path-Sum/java-0064/src/) | |
+| 064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [solution](https://leetcode.com/problems/minimum-path-sum/solution/) | [C++](0064-Minimum-Path-Sum/cpp-0064/) | [Java](0064-Minimum-Path-Sum/java-0064/src/) | [Python](0064-Minimum-Path-Sum/py-0064/) |
 | | | | | | |
 | 066 | [Plus One](https://leetcode.com/problems/plus-one/description/) | [无] | [C++](0066-Plus-One/cpp-0066/) | | |
 | 067 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | [无] | [C++](0067-Add-Binary/cpp-0067/) | | |
