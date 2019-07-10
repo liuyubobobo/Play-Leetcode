@@ -103,7 +103,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 061 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [solution](https://leetcode.com/problems/rotate-list/solution/) | [C++](0061-Rotate-List/cpp-0061/) | | |
 | 062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [无]<br/>[缺：数学解] | [C++](0062-Unique-Paths/cpp-0062/) | | |
 | 063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [solution](https://leetcode.com/problems/unique-paths-ii/solution/) | [C++](0063-Unique-Paths-II/cpp-0063/) | | |
-| 064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [solution](https://leetcode.com/problems/minimum-path-sum/solution/) | [C++](0064-Minimum-Path-Sum/cpp-0064/) | [Java](0064-Minimum-Path-Sum/java-0064/src/) | |
+| 064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [solution](https://leetcode.com/problems/minimum-path-sum/solution/) | [C++](0064-Minimum-Path-Sum/cpp-0064/) | [Java](0064-Minimum-Path-Sum/java-0064/src/) | [Python](0064-Minimum-Path-Sum/py-0064/) |
 | | | | | | |
 | 066 | [Plus One](https://leetcode.com/problems/plus-one/description/) | [无] | [C++](0066-Plus-One/cpp-0066/) | | |
 | 067 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | [无] | [C++](0067-Add-Binary/cpp-0067/) | | |
@@ -136,7 +136,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [solution](https://leetcode.com/problems/validate-binary-search-tree/solution/) | [C++](0098-Validate-Binary-Search-Tree/cpp-0098/) | [Java](0098-Validate-Binary-Search-Tree/java-0098/src/) | |
 | 099 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/description/) | [无] | | [Java](0099-Recover-Binary-Search-Tree/java-0099/src/) | |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/description/) | [solution](https://leetcode.com/problems/same-tree/solution/) | [C++](0100-Same-Tree/cpp-0100/) | | |
-| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [solution](https://leetcode.com/problems/symmetric-tree/solution/) | [C++](0101-Symmetric-Tree/cpp-0101/) | | |
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [solution](https://leetcode.com/problems/symmetric-tree/solution/) | [C++](0101-Symmetric-Tree/cpp-0101/) | | [Python](0101-Symmetric-Tree/py-0101/) |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [solution](https://leetcode.com/problems/binary-tree-level-order-traversal/solution/) | [C++](0102-Binary-Tree-Level-Order-Traversal/cpp-0102/) | [Java](0102-Binary-Tree-Level-Order-Traversal/java-0102/src/) | |
 | | | | | | |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [solution](https://leetcode.com/problems/maximum-depth-of-binary-tree/solution/) | [C++](0104-Maximum-Depth-of-Binary-Tree/cpp-0104/) | [Java](0104-Maximum-Depth-of-Binary-Tree/java-0104/src/) | |
