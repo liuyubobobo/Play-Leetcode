@@ -762,3 +762,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1110 | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [无] | [C++](1110-Delete-Nodes-And-Return-Forest/cpp-1110/) | | |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | [无] | [C++](1111-Maximum-Nesting-Depth-of-Two-Valid-Parentheses-Strings/cpp-1111/) | | |
 | | | | | | |
+| 1118 | [Number of Days in a Month](https://leetcode.com/problems/number-of-days-in-a-month/) | [无] | [C++](1118-Number-of-Days-in-a-Month/cpp-1118/) | | |
+| | | | | | |
