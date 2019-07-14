@@ -765,4 +765,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1118 | [Number of Days in a Month](https://leetcode.com/problems/number-of-days-in-a-month/) | [无] | [C++](1118-Number-of-Days-in-a-Month/cpp-1118/) | | |
 | 1119 | [Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/) | [无] | [C++](1119-Remove-Vowels-from-a-String/cpp-1119/) | | |
 | 1120 | [Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/) | [无] | [C++](1120-Maximum-Average-Subtree/cpp-1120/) | | |
+| 1121 | [Divide Array Into Increasing Sequences](https://leetcode.com/problems/divide-array-into-increasing-sequences/) | [无] | [C++](1121-Divide-Array-Into-Increasing-Sequences/cpp-1121/) | | |
 | | | | | | |
