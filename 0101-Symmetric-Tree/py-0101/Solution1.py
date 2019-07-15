@@ -19,8 +19,8 @@ class Solution:
         def revert(node):
             if not node: return
             node.left, node.right = node.right, node.left
-            reverse(node.left)
-            reverse(node.right)
+            revert(node.left)
+            revert(node.right)
         
         def isEqual(left, right):
             if not left and not right: return True
