@@ -767,3 +767,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1120 | [Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/) | [无] | [C++](1120-Maximum-Average-Subtree/cpp-1120/) | | |
 | 1121 | [Divide Array Into Increasing Sequences](https://leetcode.com/problems/divide-array-into-increasing-sequences/) | [无] | [C++](1121-Divide-Array-Into-Increasing-Sequences/cpp-1121/) | | |
 | | | | | | |
+| 1124 | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | [无] | [C++](1124-Longest-Well-Performing-Interval/cpp-1124/) | | |
+| | | | | | |
