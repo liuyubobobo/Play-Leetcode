@@ -19,7 +19,7 @@ class Solution:
             return True
         q = [root, root]
         while q:
-            n1, n2 = q.pop(), q.pop()
+            n1, n2 = q.pop() if q else None, q.pop() if q else None
             if not n1 and not n2:
                 continue
             if not n1 or not n2:
