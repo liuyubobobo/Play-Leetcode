@@ -44,6 +44,7 @@ public:
     }
 };
 
+
 int main() {
 
     cout << Solution().integerBreak(2) << endl;
