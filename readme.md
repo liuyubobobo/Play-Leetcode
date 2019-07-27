@@ -773,4 +773,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1124 | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | [无] | [C++](1124-Longest-Well-Performing-Interval/cpp-1124/) | | |
 | | | | | | |
 | 1133 | [Largest Unique Number](https://leetcode.com/problems/largest-unique-number/) | [无] | [C++](1133-Largest-Unique-Number/cpp-1133/) | | |
+| 1134 | [Armstrong Number](https://leetcode.com/problems/armstrong-number/) | [无] | [C++](1134-Armstrong-Number/cpp-1134/) | | |
 | | | | | | |
