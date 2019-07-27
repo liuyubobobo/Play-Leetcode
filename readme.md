@@ -774,4 +774,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1133 | [Largest Unique Number](https://leetcode.com/problems/largest-unique-number/) | [无] | [C++](1133-Largest-Unique-Number/cpp-1133/) | | |
 | 1134 | [Armstrong Number](https://leetcode.com/problems/armstrong-number/) | [无] | [C++](1134-Armstrong-Number/cpp-1134/) | | |
+| 1135 | [Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) | [无] | [C++](1135-Connecting-Cities-With-Minimum-Cost/cpp-1135/) | | |
 | | | | | | |
