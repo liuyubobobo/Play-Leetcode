@@ -772,8 +772,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1124 | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | [无] | [C++](1124-Longest-Well-Performing-Interval/cpp-1124/) | | |
 | | | | | | |
+| 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | [无] | [C++](1128-Number-of-Equivalent-Domino-Pairs/cpp-1128/) | | |
+| | | | | | |
 | 1133 | [Largest Unique Number](https://leetcode.com/problems/largest-unique-number/) | [无] | [C++](1133-Largest-Unique-Number/cpp-1133/) | | |
 | 1134 | [Armstrong Number](https://leetcode.com/problems/armstrong-number/) | [无] | [C++](1134-Armstrong-Number/cpp-1134/) | | |
 | 1135 | [Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) | [无] | [C++](1135-Connecting-Cities-With-Minimum-Cost/cpp-1135/) | | |
-| 1136 | [Parallel Courses](https://leetcode.com/problems/parallel-courses/) | [无] | [C++](1136-Parallel-Courses/cpp-1136/) | | |
+| 1136 | [Parallel Courses](https://leetcode.com/problems/parallel-courses/) | [无]<br/>[缺：后序遍历拓扑排序] | [C++](1136-Parallel-Courses/cpp-1136/) | | |
 | | | | | | |
