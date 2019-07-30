@@ -428,6 +428,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | [solution](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | [C++](0637-Average-of-Levels-in-Binary-Tree/cpp-0637/) | | |
 | | | | | | |
+| 642 | [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) | [无] | [C++](0642-Design-Search-Autocomplete-System/cpp-0642/) | | |
+| | | | | | |
 | 648 | [Replace Words](https://leetcode.com/problems/replace-words/description/) | [无] | [C++](0648-Replace-Words/cpp-0648/) | | |
 | | | | | | |
 | 652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/description/) | [solution](https://leetcode.com/problems/find-duplicate-subtrees/solution/) | [C++](0652-Find-Duplicate-Subtrees/cpp-0652/) | | |
