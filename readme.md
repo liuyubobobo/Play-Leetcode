@@ -781,7 +781,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1134 | [Armstrong Number](https://leetcode.com/problems/armstrong-number/) | [无] | [C++](1134-Armstrong-Number/cpp-1134/) | | |
 | 1135 | [Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) | [无] | [C++](1135-Connecting-Cities-With-Minimum-Cost/cpp-1135/) | | |
 | 1136 | [Parallel Courses](https://leetcode.com/problems/parallel-courses/) | [无]<br/>[缺：后序遍历拓扑排序] | [C++](1136-Parallel-Courses/cpp-1136/) | | |
-| | | | | | |
+| 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [无] | [C++](1137-N-th-Tribonacci-Number/cpp-1137/) | | |
 | 1138 | [Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/) | [无] | [C++](1138-Alphabet-Board-Path/cpp-1138/) | | |
 | 1139 | [Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/) | [无] | [C++](1139-Largest-1-Bordered-Square/cpp-1139/) | | |
 | 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | [无] | [C++](1140-Stone-Game-II/cpp-1140/) | | |
