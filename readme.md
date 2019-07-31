@@ -782,5 +782,6 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1135 | [Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) | [无] | [C++](1135-Connecting-Cities-With-Minimum-Cost/cpp-1135/) | | |
 | 1136 | [Parallel Courses](https://leetcode.com/problems/parallel-courses/) | [无]<br/>[缺：后序遍历拓扑排序] | [C++](1136-Parallel-Courses/cpp-1136/) | | |
 | | | | | | |
+| 1139 | [Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/) | [无] | [C++](1139-Largest-1-Bordered-Square/cpp-1139/) | | |
 | 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | [无] | [C++](1140-Stone-Game-II/cpp-1140/) | | |
 | | | | | | |
