@@ -786,3 +786,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1139 | [Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/) | [无] | [C++](1139-Largest-1-Bordered-Square/cpp-1139/) | | |
 | 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | [无] | [C++](1140-Stone-Game-II/cpp-1140/) | | |
 | | | | | | |
+| 1144 | [Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/) | [无] | [C++](1144-Decrease-Elements-To-Make-Array-Zigzag/cpp-1144/) | | |
+| | | | | | |
