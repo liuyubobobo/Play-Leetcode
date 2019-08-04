@@ -788,4 +788,6 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1144 | [Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/) | [无] | [C++](1144-Decrease-Elements-To-Make-Array-Zigzag/cpp-1144/) | | |
 | 1145 | [Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/) | [无] | [C++](1145-Binary-Tree-Coloring-Game/cpp-1145/) | | |
+| 1146 | [Snapshot Array](https://leetcode.com/problems/snapshot-array/) | [无] | [C++](1146-Snapshot-Array/cpp-1146/) | | |
+| 1147 | [Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/) | [无] | [C++](1147-Longest-Chunked-Palindrome-Decomposition/cpp-1147/) | | |
 | | | | | | |
