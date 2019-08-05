@@ -1,6 +1,7 @@
 /// Source : https://leetcode.com/problems/evaluate-reverse-polish-notation/description/
 /// Author : liuyubobobo
 /// Time   : 2018-08-29
+/// Updated: 2019-08-05
 
 #include <iostream>
 #include <stack>
@@ -9,7 +10,7 @@
 using namespace std;
 
 
-/// Two stacks
+/// Using Stacks
 /// Time Complexity: O(n)
 /// Space Complexity: O(n)
 class Solution {
@@ -17,7 +18,6 @@ public:
     int evalRPN(vector<string>& tokens) {
 
         stack<int> nums;
-        stack<char> ops;
         for(const string& s: tokens){
             if(s == "+" || s == "-" || s == "*" || s == "/"){
                 int a = nums.top();
