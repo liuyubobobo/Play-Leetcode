@@ -337,7 +337,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | | [C++](0389-Find-the-Difference/cpp-0389/) | | |
 | 390 | [Elimination Game](https://leetcode.com/problems/elimination-game/description/) | | [C++](0390-Elimination-Game/cpp-0390/) | | |
 | 391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/description/) | [缺：矩形求交] | [C++](0391-Perfect-Rectangle/cpp-0391/) | | |
-| | | | | | |
+| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [无] | [C++](0392-Is-Subsequence/cpp-0392/) | | |
 | 393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | [solution](https://leetcode.com/problems/utf-8-validation/solution/) | [C++](0393-UTF-8-Validation/cpp-0393/) | | |
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/description/) | [无] | [C++](0394-Decode-String/cpp-0394/) | | |
 | | | | | | |
