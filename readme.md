@@ -795,4 +795,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1151 | [Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/) | [无] | [C++](1151-Minimum-Swaps-to-Group-All-1s-Together/cpp-1151/) | | |
 | 1152 | [Analyze User Website Visit Pattern](https://leetcode.com/problems/analyse-user-website-visit-pattern/) | [无] | [C++](1152-Analyze-User-Website-Visit-Pattern/cpp-1152/) | | |
 | 1153 | [String Transforms Into Another String](https://leetcode.com/problems/string-transforms-into-another-string/) | [无] | [C++](1153-String-Transforms-Into-Another-String/cpp-1153/) | | |
+| 1154 | [Day of the Year](https://leetcode.com/problems/ordinal-number-of-date/) | [无] | [C++](1154-Day-of-the-Year/cpp-1154/) | | |
 | | | | | | |
