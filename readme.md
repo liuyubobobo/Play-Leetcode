@@ -791,3 +791,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1146 | [Snapshot Array](https://leetcode.com/problems/snapshot-array/) | [无] | [C++](1146-Snapshot-Array/cpp-1146/) | | |
 | 1147 | [Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/) | [无] | [C++](1147-Longest-Chunked-Palindrome-Decomposition/cpp-1147/) | | |
 | | | | | | |
+| 1150 | [Check If a Number Is Majority Element in a Sorted Array](https://leetcode.com/problems/is-a-a-majority-element/) | [无] | [C++](1150-Check-If-a-Number-Is-Majority-Element-in-a-Sorted-Array/cpp-1150/) | | |
+| | | | | | |
