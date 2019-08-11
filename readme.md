@@ -796,4 +796,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1152 | [Analyze User Website Visit Pattern](https://leetcode.com/problems/analyse-user-website-visit-pattern/) | [无] | [C++](1152-Analyze-User-Website-Visit-Pattern/cpp-1152/) | | |
 | 1153 | [String Transforms Into Another String](https://leetcode.com/problems/string-transforms-into-another-string/) | [无] | [C++](1153-String-Transforms-Into-Another-String/cpp-1153/) | | |
 | 1154 | [Day of the Year](https://leetcode.com/problems/ordinal-number-of-date/) | [无] | [C++](1154-Day-of-the-Year/cpp-1154/) | | |
+| 1155 | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | [无]<br/>[缺：空间优化] | [C++](1155-Number-of-Dice-Rolls-With-Target-Sum/cpp-1155/) | | |
 | | | | | | |
