@@ -799,4 +799,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1154 | [Day of the Year](https://leetcode.com/problems/ordinal-number-of-date/) | [无] | [C++](1154-Day-of-the-Year/cpp-1154/) | | |
 | 1155 | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | [无]<br/>[缺：空间优化] | [C++](1155-Number-of-Dice-Rolls-With-Target-Sum/cpp-1155/) | | |
 | 1156 | [Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-maximum-repeated-substring/) | [无] | [C++](1156-Swap-For-Longest-Repeated-Character-Substring/cpp-1156/) | | |
+| 1157 | [Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/) | [无] | [C++](1157-Online-Majority-Element-In-Subarray/cpp-1157/) | | |
 | | | | | | |
