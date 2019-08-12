@@ -28,7 +28,7 @@ public:
             buy[i % 3] = max(buy[(i - 1) % 3], sell[(i - 2) % 3] - prices[i]);
         }
 
-        return cash[(n - 1) % 3];
+        return sell[(n - 1) % 3];
     }
 };
 
@@ -36,7 +36,7 @@ public:
 int main() {
 
     vector<int> prices1 = {1, 2, 3, 0, 2};
-    cout << Solution().maxProfit(vec1) << endl;
+    cout << Solution().maxProfit(prices1) << endl;
 
     return 0;
 }

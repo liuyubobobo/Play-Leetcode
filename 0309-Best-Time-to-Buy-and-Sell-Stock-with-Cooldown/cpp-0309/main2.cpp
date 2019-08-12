@@ -37,7 +37,7 @@ public:
 int main() {
 
     vector<int> prices1 = {1, 2, 3, 0, 2};
-    cout << Solution().maxProfit(vec1) << endl;
+    cout << Solution().maxProfit(prices1) << endl;
 
     return 0;
 }
