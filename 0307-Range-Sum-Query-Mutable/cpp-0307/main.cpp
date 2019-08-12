@@ -122,9 +122,8 @@ public:
 
 int main() {
 
-    int nums1[] = {1, 3, 5};
-    vector<int> vec1(nums1, nums1 + sizeof(nums1)/sizeof(int));
-    NumArray obj1(vec1);
+    vector<int> nums1 = {1, 3, 5};
+    NumArray obj1(nums1);
 
     cout << obj1.sumRange(0, 2) << endl;
     obj1.update(1, 2);
@@ -134,9 +133,8 @@ int main() {
 
     // ---
 
-    int nums2[] = {0, 9, 5, 7, 3};
-    vector<int> vec2(nums2, nums2 + sizeof(nums2)/sizeof(int));
-    NumArray obj2(vec2);
+    vector<int> nums2 = {0, 9, 5, 7, 3};
+    NumArray obj2(nums2);
 
     cout << obj2.sumRange(4, 4) << endl;
     cout << obj2.sumRange(2, 4) << endl;
