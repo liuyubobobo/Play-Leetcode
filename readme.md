@@ -802,4 +802,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1157 | [Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/) | [无] | [C++](1157-Online-Majority-Element-In-Subarray/cpp-1157/) | | |
 | | | | | | |
 | 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [无] | [C++](1160-Find-Words-That-Can-Be-Formed-by-Characters/cpp-1160/) | | |
+| 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [无] | [C++](1161-Maximum-Level-Sum-of-a-Binary-Tree/cpp-1161/) | | |
 | | | | | | |
