@@ -801,3 +801,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1156 | [Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-maximum-repeated-substring/) | [无] | [C++](1156-Swap-For-Longest-Repeated-Character-Substring/cpp-1156/) | | |
 | 1157 | [Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/) | [无] | [C++](1157-Online-Majority-Element-In-Subarray/cpp-1157/) | | |
 | | | | | | |
+| 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [无] | [C++](1160-Find-Words-That-Can-Be-Formed-by-Characters/cpp-1160/) | | |
+| | | | | | |
