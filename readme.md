@@ -808,3 +808,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1162 | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) | [无] | [C++](1162-As-Far-from-Land-as-Possible/cpp-1162/) | | |
 | 1163 | [Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/) | [无] | [C++](1163-Last-Substring-in-Lexicographical-Order/cpp-1163/) | | |
 | | | | | | |
+| 1165 | [Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/) | [无] | [C++](1165-Single-Row-Keyboard/cpp-1165/) | | |
+| | | | | | |
