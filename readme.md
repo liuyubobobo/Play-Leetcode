@@ -811,4 +811,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1165 | [Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/) | [无] | [C++](1165-Single-Row-Keyboard/cpp-1165/) | | |
 | 1166 | [Design File System](https://leetcode.com/problems/design-file-system/) | [无] | [C++](1166-Design-File-System/cpp-1166/) | | |
 | 1167 | [Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) | [无] | [C++](1167-Minimum-Cost-to-Connect-Sticks/cpp-1167/) | | |
+| 1168 | [Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/) | [无] | [C++](1168-Optimize-Water-Distribution-in-a-Village/cpp-1168/) | | |
 | | | | | | |
