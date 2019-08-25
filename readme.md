@@ -778,6 +778,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | [无] | [C++](1128-Number-of-Equivalent-Domino-Pairs/cpp-1128/) | | |
 | 1129 | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | [无] | [C++](1129-Shortest-Path-with-Alternating-Colors/cpp-1129/) | | |
 | 1130 | [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) | [无] | [C++](1130-Minimum-Cost-Tree-From-Leaf-Values/cpp-1130/) | | |
+| 1131 | [Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression/) | [无] | [C++](1131-Maximum-of-Absolute-Value-Expression/cpp-1131/) | | |
 | | | | | | |
 | 1133 | [Largest Unique Number](https://leetcode.com/problems/largest-unique-number/) | [无] | [C++](1133-Largest-Unique-Number/cpp-1133/) | | |
 | 1134 | [Armstrong Number](https://leetcode.com/problems/armstrong-number/) | [无] | [C++](1134-Armstrong-Number/cpp-1134/) | | |
