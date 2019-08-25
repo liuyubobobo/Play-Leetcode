@@ -814,4 +814,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1168 | [Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/) | [无] | [C++](1168-Optimize-Water-Distribution-in-a-Village/cpp-1168/) | | |
 | 1169 | [Invalid Transactions](https://leetcode.com/problems/invalid-transactions/) | [无] | [C++](1169-Invalid-Transactions/cpp-1169/) | | |
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | [无] | [C++](1170-Compare-Strings-by-Frequency-of-the-Smallest-Character/cpp-1170/) | | |
+| 1171 | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | [无] | [C++](1171-Remove-Zero-Sum-Consecutive-Nodes-from-Linked-List/cpp-1171/) | | |
 | | | | | | |
