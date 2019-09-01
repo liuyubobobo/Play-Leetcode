@@ -819,4 +819,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1172 | [Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/) | [无] | [C++](1172-Dinner-Plate-Stacks/cpp-1172/) | | |
 | | | | | | |
 | 1175 | [Prime Arrangements](https://leetcode.com/problems/prime-arrangements/) | [无] | [C++](1175-Prime-Arrangements/) | | |
+| 1176 | [Diet Plan Performance](https://leetcode.com/problems/diet-plan-performance/) | [无] | [C++](1176-Diet-Plan-Performance/cpp-1176/) | | |
 | | | | | | |
