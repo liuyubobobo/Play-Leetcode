@@ -818,3 +818,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1171 | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | [无] | [C++](1171-Remove-Zero-Sum-Consecutive-Nodes-from-Linked-List/cpp-1171/) | | |
 | 1172 | [Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/) | [无] | [C++](1172-Dinner-Plate-Stacks/cpp-1172/) | | |
 | | | | | | |
+| 1175 | [Prime Arrangements](https://leetcode.com/problems/prime-arrangements/) | [无] | [C++](1175-Prime-Arrangements/) | | |
+| | | | | | |
