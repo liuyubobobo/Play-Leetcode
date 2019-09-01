@@ -821,4 +821,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1175 | [Prime Arrangements](https://leetcode.com/problems/prime-arrangements/) | [无] | [C++](1175-Prime-Arrangements/) | | |
 | 1176 | [Diet Plan Performance](https://leetcode.com/problems/diet-plan-performance/) | [无] | [C++](1176-Diet-Plan-Performance/cpp-1176/) | | |
 | 1177 | [Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/) | [无] | [C++](1177-Can-Make-Palindrome-from-Substring/cpp-1177/) | | |
+| 1178 | [Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/) | [无] | [C++](1178-Number-of-Valid-Words-for-Each-Puzzle/cpp-1178/) | | |
 | | | | | | |
