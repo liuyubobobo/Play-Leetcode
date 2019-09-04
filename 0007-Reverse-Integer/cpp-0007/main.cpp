@@ -6,6 +6,7 @@
 
 using namespace std;
 
+
 /// Using long long to solve the overflow problem
 /// Time Complexity: O(logx)
 /// Space Complexity: O(logx)
@@ -18,7 +19,7 @@ public:
 
         int sign = x > 0 ? 1 : -1;
 
-        long long num = abs(x);
+        long long num = abs((long long)x);
         long long reverseNum = 0;
         while(num){
             reverseNum = reverseNum * 10 + num % 10;
@@ -31,6 +32,7 @@ public:
         return reverseNum;
     }
 };
+
 
 int main() {
 

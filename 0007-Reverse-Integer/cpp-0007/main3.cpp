@@ -8,6 +8,7 @@
 
 using namespace std;
 
+
 /// Poping digit one by one and check before overflow
 /// Time Complexity: O(logx)
 /// Space Complexity: O(1)
@@ -50,6 +51,7 @@ int main() {
     cout << Solution().reverse(INT_MAX) << endl;     // 0
     cout << Solution().reverse(INT_MIN) << endl;     // 0
     cout << Solution().reverse(-2147483412) << endl; // -2143847412
+    cout << Solution().reverse(-2147483418) << endl; // 0
 
     return 0;
 }
