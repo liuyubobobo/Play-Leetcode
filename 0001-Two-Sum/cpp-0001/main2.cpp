@@ -9,6 +9,7 @@
 
 using namespace std;
 
+
 /// Two-Pass Hash Table
 /// Time Complexity: O(n)
 /// Space Complexity: O(n)
@@ -37,11 +38,18 @@ void print_vec(const vector<int>& vec){
     cout << endl;
 }
 
+
+void print_vec(const vector<int>& vec){
+    for(int e: vec)
+        cout << e << " ";
+    cout << endl;
+}
+
 int main() {
 
     vector<int> nums = {0,4,3,0};
     int target = 0;
-    printVec(Solution().twoSum(nums, target));
+    print_vec(Solution().twoSum(nums, target));
 
     return 0;
 }

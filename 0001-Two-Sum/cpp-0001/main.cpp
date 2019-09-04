@@ -7,6 +7,7 @@
 
 using namespace std;
 
+
 /// Brute Force
 /// Time Complexity: O(n^2)
 /// Space Complexity: O(1)
@@ -24,11 +25,17 @@ public:
 };
 
 
+void print_vec(const vector<int>& vec){
+    for(int e: vec)
+        cout << e << " ";
+    cout << endl;
+}
+
 int main() {
 
-    vector<int> nums = {0,4,3,0};
-    int target = 0;
-    printVec(Solution().twoSum(nums, target));
+    vector<int> nums = {0,4,3,5};
+    int target = 10;
+    print_vec(Solution().twoSum(nums, target));
 
     return 0;
 }
