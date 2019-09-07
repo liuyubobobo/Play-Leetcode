@@ -827,4 +827,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1178 | [Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/) | [无] | [C++](1178-Number-of-Valid-Words-for-Each-Puzzle/cpp-1178/) | | |
 | | | | | | |
 | 1180 | [Count Substrings with Only One Distinct Letter](https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/) | [无] | [C++](1180-Count-Substrings-with-Only-One-Distinct-Letter/cpp-1180/) | | |
+| 1181 | [Before and After Puzzle](https://leetcode.com/problems/before-and-after-puzzle/) | [无] | [C++](1181-Before-and-After-Puzzle/cpp-1181/) | | |
 | | | | | | |
