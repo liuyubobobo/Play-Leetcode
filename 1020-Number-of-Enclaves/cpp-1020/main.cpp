@@ -33,33 +33,25 @@ public:
             if(A[n - 1][j]) dfs(A, n - 1, j);
         }
 
-//        for(int i = 0; i < n; i ++) {
-//            for (int j = 0; j < m; j++) cout << A[i][j] << " ";
-//            cout << endl;
-//        }
-
         int res = 0;
         for(int i = 0; i < n; i ++)
             for(int j = 0; j < m; j ++)
-                if(A[i][j]) res += dfs(A, i, j);
+                res += A[i][j];
         return res;
     }
 
 private:
-    int dfs(vector<vector<int>>& A, int x, int y){
+    void dfs(vector<vector<int>>& A, int x, int y){
 
         A[x][y] = 0;
-        int res = 1;
-
         for(int i = 0; i < 4; i ++){
             int nextx = x + d[i][0], nexty = y + d[i][1];
-            if(inArea(nextx, nexty) && A[nextx][nexty])
-                res += dfs(A, nextx, nexty);
+            if(in_area(nextx, nexty) && A[nextx][nexty])
+                dfs(A, nextx, nexty);
         }
-        return res;
     }
 
-    bool inArea(int x, int y){
+    bool in_area(int x, int y){
         return x >= 0 && x < n && y >= 0 && y < m;
     }
 };
@@ -67,8 +59,13 @@ private:
 
 int main() {
 
+    vector<vector<int>> A1 = {{0,0,0,0},{1,0,1,0},{0,1,1,0},{0,0,0,0}};
+    cout << Solution().numEnclaves(A1) << endl;
+    // 3
+
     vector<vector<int>> A2 = {{0,1,1,0},{0,0,1,0},{0,0,1,0},{0,0,0,0}};
     cout << Solution().numEnclaves(A2) << endl;
+    // 0
 
     return 0;
 }
