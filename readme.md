@@ -826,3 +826,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1177 | [Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/) | [无] | [C++](1177-Can-Make-Palindrome-from-Substring/cpp-1177/) | | |
 | 1178 | [Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/) | [无] | [C++](1178-Number-of-Valid-Words-for-Each-Puzzle/cpp-1178/) | | |
 | | | | | | |
+| 1180 | [Count Substrings with Only One Distinct Letter](https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/) | [无] | [C++](1180-Count-Substrings-with-Only-One-Distinct-Letter/cpp-1180/) | | |
+| | | | | | |
