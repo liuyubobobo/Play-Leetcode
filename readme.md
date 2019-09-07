@@ -545,6 +545,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/description/) | [solution](https://leetcode.com/problems/most-common-word/solution/) | [C++](0819-Most-Common-Word/cpp-0819/) | | |
 | | | | | | |
+| 827 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | [无] | [C++](0827-Making-A-Large-Island/cpp-0827/) | | |
+| | | | | | |
 | 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/) | [solution](https://leetcode.com/problems/keys-and-rooms/solution/) | [C++](0841-Keys-and-Rooms/cpp-0841/) | | |
 | | | | | | |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [solution](https://leetcode.com/problems/peak-index-in-a-mountain-array/solution/) | [C++](0852-Peak-Index-in-a-Mountain-Array/cpp-0852/) | | |
