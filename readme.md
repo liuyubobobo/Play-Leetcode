@@ -828,4 +828,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1180 | [Count Substrings with Only One Distinct Letter](https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/) | [无] | [C++](1180-Count-Substrings-with-Only-One-Distinct-Letter/cpp-1180/) | | |
 | 1181 | [Before and After Puzzle](https://leetcode.com/problems/before-and-after-puzzle/) | [无] | [C++](1181-Before-and-After-Puzzle/cpp-1181/) | | |
+| 1182 | [Shortest Distance to Target Color](https://leetcode.com/problems/shortest-distance-to-target-color/) | [无] | [C++](1182-Shortest-Distance-to-Target-Color/cpp-1182/) | | |
 | | | | | | |
