@@ -833,4 +833,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1182 | [Shortest Distance to Target Color](https://leetcode.com/problems/shortest-distance-to-target-color/) | [无] | [C++](1182-Shortest-Distance-to-Target-Color/cpp-1182/) | | |
 | 1183 | [Maximum Number of Ones](https://leetcode.com/problems/maximum-number-of-ones/) | [无] | [C++](1183-Maximum-Number-of-Ones/cpp-1183/) | | |
 | 1184 | [Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/) | [无] | [C++](1184-Distance-Between-Bus-Stops/cpp-1184/) | | |
+| 1185 | [Day of the Week](https://leetcode.com/problems/day-of-the-week/) | [无] | [C++](1185-Day-of-the-Week/cpp-1185/) | | |
 | | | | | | |
