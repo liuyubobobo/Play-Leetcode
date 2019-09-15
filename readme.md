@@ -838,4 +838,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [无] | [C++](1189-Maximum-Number-of-Balloons/cpp-1189/) | | |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [无] | [C++](1190-Reverse-Substrings-Between-Each-Pair-of-Parentheses/cpp-1190/) | | |
+| 1191 | [K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/) | [无] | [C++](1191-K-Concatenation-Maximum-Sum/cpp-1191/) | | |
 | | | | | | |
