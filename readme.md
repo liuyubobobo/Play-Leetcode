@@ -842,4 +842,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | [无] | [C++](1192-Critical-Connections-in-a-Network/cpp-1192/) | | |
 | | | | | | |
 | 1196 | [How Many Apples Can You Put into the Basket](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/) | [无] | [C++](1196-How-Many-Apples-Can-You-Put-into-the-Basket/cpp-1196/) | | |
+| 1197 | [Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/) | [无] | [C++](1197-Minimum-Knight-Moves/cpp-1197/cpp-1197/) | | |
 | | | | | | |
