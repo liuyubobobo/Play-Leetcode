@@ -850,4 +850,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1199 | [Minimum Time to Build Blocks](https://leetcode.com/problems/minimum-time-to-build-blocks/) | [无] | [C++](1199-Minimum-Time-to-Build-Blocks/cpp-1199/) | | |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [无] | [C++](1200-Minimum-Absolute-Difference/cpp-1200/) | | |
 | 1201 | [Ugly Number III](https://leetcode.com/problems/ugly-number-iii/) | [无] | [C++](1201-Ugly-Number-III/cpp-1201/) | | |
+| 1202 | [Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) | [无] | [C++](1202-Smallest-String-With-Swaps/cpp-1202/) | | |
 | | | | | | |
