@@ -835,6 +835,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1184 | [Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/) | [无] | [C++](1184-Distance-Between-Bus-Stops/cpp-1184/) | | |
 | 1185 | [Day of the Week](https://leetcode.com/problems/day-of-the-week/) | [无] | [C++](1185-Day-of-the-Week/cpp-1185/) | | |
 | 1186 | [Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) | [无] | [C++](1186-Maximum-Subarray-Sum-with-One-Deletion/cpp-1186/) | | |
+| 1187 | [Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/) | [无]<br/>[缺：动态规划] | [C++](1187-Make-Array-Strictly-Increasing/cpp-1187/) | | |
 | | | | | | |
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [无] | [C++](1189-Maximum-Number-of-Balloons/cpp-1189/) | | |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [无] | [C++](1190-Reverse-Substrings-Between-Each-Pair-of-Parentheses/cpp-1190/) | | |
