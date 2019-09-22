@@ -848,4 +848,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1197 | [Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/) | [无] | [C++](1197-Minimum-Knight-Moves/cpp-1197/cpp-1197/) | | |
 | 1198 | [Find Smallest Common Element in All Rows](https://leetcode.com/problems/find-smallest-common-element-in-all-rows/) | [无] | [C++](1198-Find-Smallest-Common-Element-in-All-Rows/cpp-1198/) | | |
 | 1199 | [Minimum Time to Build Blocks](https://leetcode.com/problems/minimum-time-to-build-blocks/) | [无] | [C++](1199-Minimum-Time-to-Build-Blocks/cpp-1199/) | | |
+| 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [无] | [C++](1200-Minimum-Absolute-Difference/cpp-1200/) | | |
 | | | | | | |
