@@ -851,4 +851,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [无] | [C++](1200-Minimum-Absolute-Difference/cpp-1200/) | | |
 | 1201 | [Ugly Number III](https://leetcode.com/problems/ugly-number-iii/) | [无] | [C++](1201-Ugly-Number-III/cpp-1201/) | | |
 | 1202 | [Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) | [无] | [C++](1202-Smallest-String-With-Swaps/cpp-1202/) | | |
+| 1203 | [Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) | [无] | [C++](1203-Sort-Items-by-Groups-Respecting-Dependencies/cpp-1203/) | | |
 | | | | | | |
