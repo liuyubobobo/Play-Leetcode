@@ -844,4 +844,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1196 | [How Many Apples Can You Put into the Basket](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/) | [无] | [C++](1196-How-Many-Apples-Can-You-Put-into-the-Basket/cpp-1196/) | | |
 | 1197 | [Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/) | [无] | [C++](1197-Minimum-Knight-Moves/cpp-1197/cpp-1197/) | | |
 | 1198 | [Find Smallest Common Element in All Rows](https://leetcode.com/problems/find-smallest-common-element-in-all-rows/) | [无] | [C++](1198-Find-Smallest-Common-Element-in-All-Rows/cpp-1198/) | | |
+| 1199 | [Minimum Time to Build Blocks](https://leetcode.com/problems/minimum-time-to-build-blocks/) | [无] | [C++](1199-Minimum-Time-to-Build-Blocks/cpp-1199/) | | |
 | | | | | | |
