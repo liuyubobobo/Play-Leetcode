@@ -33,22 +33,20 @@ public:
             return;
         }
 
+        data[num] ++;
         if(count % 2){ // odd number
-            data[num] ++;
-            count ++;
             if(num < iter->first){
                 if(index) index --;
                 else iter --, index = iter->second - 1;
             }
         }
         else{ // even number
-            data[num] ++;
-            count ++;
             if(num >= iter->first){
                 if(index + 1 < iter->second) index ++;
                 else iter ++, index = 0;
             }
         }
+        count ++;
     }
 
     double findMedian() {
