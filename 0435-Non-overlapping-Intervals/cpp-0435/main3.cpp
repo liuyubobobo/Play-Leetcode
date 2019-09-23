@@ -1,6 +1,7 @@
 /// https://leetcode.com/problems/non-overlapping-intervals/description/
 /// Author : liuyubobobo
 /// Time   : 2017-11-19
+/// Updated: 2019-09-22
 
 #include <iostream>
 #include <vector>
@@ -8,60 +9,42 @@
 using namespace std;
 
 
-/// Definition for an interval.
-struct Interval {
-    int start;
-    int end;
-    Interval() : start(0), end(0) {}
-    Interval(int s, int e) : start(s), end(e) {}
-};
-
-bool compare(const Interval &a, const Interval &b){
-    if(a.end != b.end)
-        return a.end < b.end;
-    return a.start < b.start;
-}
-
 /// Dynamic Programming based on ending point
 /// Time Complexity:  O(n^2)
 /// Space Complexity: O(n)
 class Solution {
-
 public:
-    int eraseOverlapIntervals(vector<Interval>& intervals) {
+    int eraseOverlapIntervals(vector<vector<int>>& intervals) {
 
         if(intervals.size() == 0)
             return 0;
 
-        sort(intervals.begin(), intervals.end(), compare);
+        sort(intervals.begin(), intervals.end(), [](const vector<int>& a, const vector<int>& b){
+            if(a[1] != b[1]) return a[1] < b[1];
+            return a[0] < b[0];
+        });
 
         vector<int> dp(intervals.size(), 1);
         for(int i = 1 ; i < intervals.size() ; i ++)
             for(int j = 0 ; j < i ; j ++)
-                if(intervals[i].start >= intervals[j].end)
+                if(intervals[i][0] >= intervals[j][1])
                     dp[i] = max(dp[i], 1 + dp[j]);
 
-        int res = 0;
-        for(int tres: dp)
-            res = max(res, tres);
-
-        return intervals.size() - res;
+        return intervals.size() - *max_element(dp.begin(), dp.end());
     }
 };
 
+
 int main() {
 
-    Interval interval1[] = {Interval(1,2), Interval(2,3), Interval(3,4), Interval(1,3)};
-    vector<Interval> v1(interval1, interval1 + sizeof(interval1)/sizeof(Interval));
-    cout << Solution().eraseOverlapIntervals(v1) << endl;
+    vector<vector<int>> interval1 = {{1,2}, {2,3}, {3,4}, {1,3}};
+    cout << Solution().eraseOverlapIntervals(interval1) << endl;
 
-    Interval interval2[] = {Interval(1,2), Interval(1,2), Interval(1,2)};
-    vector<Interval> v2(interval2, interval2 + sizeof(interval2)/sizeof(Interval));
-    cout << Solution().eraseOverlapIntervals(v2) << endl;
+    vector<vector<int>> interval2 = {{1,2}, {1,2}, {1,2}};
+    cout << Solution().eraseOverlapIntervals(interval2) << endl;
 
-    Interval interval3[] = {Interval(1,2), Interval(2,3)};
-    vector<Interval> v3(interval3, interval3 + sizeof(interval3)/sizeof(Interval));
-    cout << Solution().eraseOverlapIntervals(v3) << endl;
+    vector<vector<int>> interval3 = {{1,2}, {2,3}};
+    cout << Solution().eraseOverlapIntervals(interval3) << endl;
 
     return 0;
 }
