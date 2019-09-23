@@ -282,6 +282,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/description/) | [无] | [C++](0290-Word-Pattern/cpp-0290/) | | |
 | | | | | | |
+| 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [无] | [C++](0295-Find-Median-from-Data-Stream/cpp-0295/) | | |
+| | | | | | |
 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) | [solution](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/solution/) | [C++](0297-Serialize-and-Deserialize-Binary-Tree/cpp-0297/) | | |
 | | | | | | |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [solution](https://leetcode.com/problems/longest-increasing-subsequence/solution/) | [C++](0300-Longest-Increasing-Subsequence/cpp-0300/) | [Java](0300-Longest-Increasing-Subsequence/java-0300/src/) | |
