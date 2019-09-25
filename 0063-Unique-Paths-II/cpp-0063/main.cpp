@@ -1,6 +1,7 @@
 /// Source : https://leetcode.com/problems/unique-paths-ii/
 /// Author : liuyubobobo
 /// Time   : 2018-10-25
+/// Updated: 2019-09-24
 
 #include <iostream>
 #include <vector>
@@ -22,7 +23,7 @@ public:
         if(!n || obstacleGrid[0][0])
             return 0;
 
-        vector<vector<int>> dp(m, vector<int>(n, -1));
+        vector<vector<long long>> dp(m, vector<long long>(n, 1ll));
         dp[0][0] = 1;
         for(int j = 1; j < n; j ++)
             if(obstacleGrid[0][j])
