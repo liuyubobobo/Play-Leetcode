@@ -860,4 +860,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [无] | [C++](1207-Unique-Number-of-Occurrences/cpp-1207/) | | |
 | 1208 | [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/) | [无] | [C++](1208-Get-Equal-Substrings-Within-Budget/cpp-1208/) | | |
 | 1209 | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | [无] | [C++](1209-Remove-All-Adjacent-Duplicates-in-String-II/cpp-1209/) | | |
+| 1210 | [Minimum Moves to Reach Target with Rotations](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/) | [无] | [C++](1210-Minimum-Moves-to-Reach-Target-with-Rotations/cpp-1210/) | | |
 | | | | | | |
