@@ -857,3 +857,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1202 | [Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) | [无] | [C++](1202-Smallest-String-With-Swaps/cpp-1202/) | | |
 | 1203 | [Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) | [无] | [C++](1203-Sort-Items-by-Groups-Respecting-Dependencies/cpp-1203/) | | |
 | | | | | | |
+| 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [无] | [C++](1207-Unique-Number-of-Occurrences/cpp-1207/) | | |
+| | | | | | |
