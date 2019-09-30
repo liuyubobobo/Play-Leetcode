@@ -858,4 +858,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1203 | [Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) | [无] | [C++](1203-Sort-Items-by-Groups-Respecting-Dependencies/cpp-1203/) | | |
 | | | | | | |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [无] | [C++](1207-Unique-Number-of-Occurrences/cpp-1207/) | | |
+| 1208 | [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/) | [无] | [C++](1208-Get-Equal-Substrings-Within-Budget/cpp-1208/) | | |
 | | | | | | |
