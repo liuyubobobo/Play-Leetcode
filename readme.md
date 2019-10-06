@@ -862,6 +862,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1209 | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | [无] | [C++](1209-Remove-All-Adjacent-Duplicates-in-String-II/cpp-1209/) | | |
 | 1210 | [Minimum Moves to Reach Target with Rotations](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/) | [无] | [C++](1210-Minimum-Moves-to-Reach-Target-with-Rotations/cpp-1210/) | | |
 | | | | | | |
+| 1213 | [Intersection of Three Sorted Arrays](https://leetcode.com/problems/intersection-of-three-sorted-arrays/) | [无] | [C++](1213-Intersection-of-Three-Sorted-Arrays/cpp-1213/) | | |
+| | | | | | |
 | 1217 | [Play with Chips](https://leetcode.com/problems/play-with-chips/) | [无] | [C++](1217-Play with Chips/cpp-1217/) | | |
 | 1218 | [Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [无] | [C++](1218-Longest-Arithmetic-Subsequence-of-Given-Difference/cpp-1218/) | | |
 | 1219 | [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) | [无] | [C++](1219-Path-with-Maximum-Gold/cpp-1219/) | | |
