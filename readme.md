@@ -864,4 +864,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1217 | [Play with Chips](https://leetcode.com/problems/play-with-chips/) | [无] | [C++](1217-Play with Chips/cpp-1217/) | | |
 | 1218 | [Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [无] | [C++](1218-Longest-Arithmetic-Subsequence-of-Given-Difference/cpp-1218/) | | |
+| 1219 | [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) | [无] | [C++](1219-Path-with-Maximum-Gold/cpp-1219/) | | |
 | | | | | | |
