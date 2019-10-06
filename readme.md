@@ -863,4 +863,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1210 | [Minimum Moves to Reach Target with Rotations](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/) | [无] | [C++](1210-Minimum-Moves-to-Reach-Target-with-Rotations/cpp-1210/) | | |
 | | | | | | |
 | 1217 | [Play with Chips](https://leetcode.com/problems/play-with-chips/) | [无] | [C++](1217-Play with Chips/cpp-1217/) | | |
+| 1218 | [Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [无] | [C++](1218-Longest-Arithmetic-Subsequence-of-Given-Difference/cpp-1218/) | | |
 | | | | | | |
