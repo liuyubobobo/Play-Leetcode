@@ -871,4 +871,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1219 | [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) | [无] | [C++](1219-Path-with-Maximum-Gold/cpp-1219/) | | |
 | 1220 | [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) | [无] | [C++](1220-Count-Vowels-Permutation/cpp-1220/) | | |
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [无] | [C++](1221-Split-a-String-in-Balanced-Strings/cpp-1221/) | | |
+| 1222 | [Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/) | [无] | [C++](1222-Queens-That-Can-Attack-the-King/cpp-1222/) | | |
 | | | | | | |
