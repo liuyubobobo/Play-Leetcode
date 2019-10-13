@@ -873,4 +873,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [无] | [C++](1221-Split-a-String-in-Balanced-Strings/cpp-1221/) | | |
 | 1222 | [Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/) | [无] | [C++](1222-Queens-That-Can-Attack-the-King/cpp-1222/) | | |
 | 1223 | [Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation/) | [无] | [C++](1223-Dice-Roll-Simulation/cpp-1223/) | | |
+| 1224 | [Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency/) | [无] | [C++](1224-Maximum-Equal-Frequency/cpp-1224/) | | |
 | | | | | | |
