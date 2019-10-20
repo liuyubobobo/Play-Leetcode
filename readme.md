@@ -876,4 +876,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1224 | [Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency/) | [无] | [C++](1224-Maximum-Equal-Frequency/cpp-1224/) | | |
 | | | | | | |
 | 1228 | [Missing Number In Arithmetic Progression](https://leetcode.com/problems/missing-number-in-arithmetic-progression/) | [无] | [C++](1228-Missing-Number-In-Arithmetic-Progression/cpp-1228/) | | |
+| 1229 | [Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler/) | [无] | [C++](1229-Meeting-Scheduler/cpp-1229/) | | |
 | | | | | | |
