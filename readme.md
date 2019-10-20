@@ -879,4 +879,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1229 | [Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler/) | [无] | [C++](1229-Meeting-Scheduler/cpp-1229/) | | |
 | 1230 | [Toss Strange Coins](https://leetcode.com/problems/toss-strange-coins/) | [无] | [C++](1230-Toss-Strange-Coins/cpp-1230/) | | |
 | 1231 | [Divide Chocolate](https://leetcode.com/problems/divide-chocolate/) | [无] | [C++](1231-Divide-Chocolate/cpp-1231/) | | |
+| 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [无] | [C++](1232-Check-If-It-Is-a-Straight-Line/cpp-1232/) | | |
 | | | | | | |
