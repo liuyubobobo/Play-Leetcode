@@ -882,4 +882,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [无] | [C++](1232-Check-If-It-Is-a-Straight-Line/cpp-1232/) | | |
 | 1233 | [Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) | [无] | [C++](1233-Remove-Sub-Folders-from-the-Filesystem/cpp-1233/) | | |
 | 1234 | [Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) | [无] | [C++](1234-Replace-the-Substring-for-Balanced-String/cpp-1234/) | | |
+| 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [无] | [C++](1235-Maximum-Profit-in-Job-Scheduling/cpp-1235/) | | |
 | | | | | | |
