@@ -877,4 +877,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1228 | [Missing Number In Arithmetic Progression](https://leetcode.com/problems/missing-number-in-arithmetic-progression/) | [无] | [C++](1228-Missing-Number-In-Arithmetic-Progression/cpp-1228/) | | |
 | 1229 | [Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler/) | [无] | [C++](1229-Meeting-Scheduler/cpp-1229/) | | |
+| 1230 | [Toss Strange Coins](https://leetcode.com/problems/toss-strange-coins/) | [无] | [C++](1230-Toss-Strange-Coins/cpp-1230/) | | |
 | | | | | | |
