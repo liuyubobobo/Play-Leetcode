@@ -884,3 +884,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1234 | [Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) | [无] | [C++](1234-Replace-the-Substring-for-Balanced-String/cpp-1234/) | | |
 | 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [无] | [C++](1235-Maximum-Profit-in-Job-Scheduling/cpp-1235/) | | |
 | | | | | | |
+| 1237 | [Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/) | [无] | [C++](1237-Find-Positive-Integer-Solution-for-a-Given-Equation/cpp-1237/) | | |
+| | | | | | |
