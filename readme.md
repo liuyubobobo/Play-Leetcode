@@ -127,6 +127,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 086 | [Partition List](https://leetcode.com/problems/partition-list/description/) | [solution](https://leetcode.com/problems/partition-list/solution/) | [C++](0086-Partition-List/cpp-0086/) | | |
 | 087 | [Scramble String](https://leetcode.com/problems/scramble-string/description/) | [无] | [C++](0087-Scramble-String/cpp-0087/) | | |
 | 088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [solution](https://leetcode.com/problems/merge-sorted-array/solution/) | [C++](0088-Merge-Sorted-Array/cpp-0088/) | | |
+| 089 | [Gray Code](https://leetcode.com/problems/gray-code/) | [无] | [C++](0089-Gray-Code/cpp-0089/) | | |
 | | | | | | |
 | 091 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [无] | [C++](0091-Decode-Ways/cpp-0091/) | | |
 | 092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) | [solution](https://leetcode.com/problems/reverse-linked-list-ii/solution/) | [C++](0092-Reverse-Linked-List-II/cpp-0092/) | | |
