@@ -886,4 +886,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [无] | [C++](1235-Maximum-Profit-in-Job-Scheduling/cpp-1235/) | | |
 | | | | | | |
 | 1237 | [Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/) | [无] | [C++](1237-Find-Positive-Integer-Solution-for-a-Given-Equation/cpp-1237/) | | |
+| 1238 | [Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation/) | [无] | [C++](1238-Circular-Permutation-in-Binary-Representation/cpp-1238/) | | |
 | | | | | | |
