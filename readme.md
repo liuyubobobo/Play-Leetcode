@@ -887,4 +887,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1237 | [Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/) | [无] | [C++](1237-Find-Positive-Integer-Solution-for-a-Given-Equation/cpp-1237/) | | |
 | 1238 | [Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation/) | [无] | [C++](1238-Circular-Permutation-in-Binary-Representation/cpp-1238/) | | |
+| 1239 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [无] | [C++](1239-Maximum-Length-of-a-Concatenated-String-with-Unique-Characters/cpp-1239/) | | |
 | | | | | | |
