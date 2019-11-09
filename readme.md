@@ -890,3 +890,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1239 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [无] | [C++](1239-Maximum-Length-of-a-Concatenated-String-with-Unique-Characters/cpp-1239/) | | |
 | 1240 | [Tiling a Rectangle with the Fewest Squares](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/) | [无] | [C++](1240-Tiling-a-Rectangle-with-the-Fewest-Squares/cpp-1240/) | | |
 | | | | | | |
+| 1243 | [Array Transformation](https://leetcode.com/problems/array-transformation/) | [无] | [C++](1243-Array-Transformation/cpp-1243/) | | |
+| | | | | | |
