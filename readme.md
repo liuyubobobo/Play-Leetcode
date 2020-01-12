@@ -902,4 +902,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1312 | [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | [无] | [C++](1312-Minimum-Insertion-Steps-to-Make-a-String-Palindrome/cpp-1312/) | | |
 | | | | | | |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [无] | [C++](1317-Convert-Integer-to-the-Sum-of-Two-No-Zero-Integers/cpp-1317/) | | |
+| 1318 | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | [无] | [C++](1318-Minimum-Flips-to-Make-a-OR-b-Equal-to-c/cpp-1318/) | | |
 | | | | | | |
