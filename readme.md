@@ -908,4 +908,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [无] | [C++](1337-The-K-Weakest-Rows-in-a-Matrix/cpp-1337/) | | |
 | 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | [无] | [C++](1338-Reduce-Array-Size-to-The-Half/cpp-1338/) | | |
 | 1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | [无] | [C++](1339-Maximum-Product-of-Splitted-Binary-Tree/cpp-1339/) | | |
+| 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v/) | [无] | [C++](1340-Jump-Game-V/cpp-1340/) | | |
 | | | | | | |
