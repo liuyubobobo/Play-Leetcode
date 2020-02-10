@@ -111,7 +111,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)| [无] | [C++](0069-Sqrt-x/cpp-0069/) | | |
 | 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [solution](https://leetcode.com/problems/climbing-stairs/solution/) | [C++](0070-Climbing-Stairs/cpp-0070/) | [Java](0070-Climbing-Stairs/java-0070/src/) | |
-| | | | | | |
+| 071 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [无] | [C++](0071-Simplify-Path/cpp-0071/) | | |
 | 072 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [solution](https://leetcode.com/problems/edit-distance/solution/) | [C++](0072-Edit-Distance/cpp-0072/) | | |
 | 073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [solution](https://leetcode.com/problems/set-matrix-zeroes/solution/) | [C++](0073-Set-Matrix-Zeroes/cpp-0073/) | | |
 | 074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [无] | [C++](0074-Search-a-2D-Matrix/cpp-0074/) | | |
