@@ -906,4 +906,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1319 | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | [无] | [C++](1319-Number-of-Operations-to-Make-Network-Connected/cpp-1319/) | | |
 | | | | | | |
 | 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [无] | [C++](1337-The-K-Weakest-Rows-in-a-Matrix/cpp-1337/) | | |
+| 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | [无] | [C++](1338-Reduce-Array-Size-to-The-Half/cpp-1338/) | | |
 | | | | | | |
