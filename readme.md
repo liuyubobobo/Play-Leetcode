@@ -910,3 +910,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | [无] | [C++](1339-Maximum-Product-of-Splitted-Binary-Tree/cpp-1339/) | | |
 | 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v/) | [无] | [C++](1340-Jump-Game-V/cpp-1340/) | | |
 | | | | | | |
+| 1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [无] | [C++](1346-Check-If-N-and-Its-Double-Exist/cpp-1346/) | | |
+| | | | | | |
