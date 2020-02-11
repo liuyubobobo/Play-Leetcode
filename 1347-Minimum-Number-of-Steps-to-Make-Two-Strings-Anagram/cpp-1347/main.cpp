@@ -21,7 +21,7 @@ public:
 
         int res = 0;
         for(int e: v) res += abs(e);
-        return res;
+        return res / 2;
     }
 };
 
