@@ -911,4 +911,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v/) | [无] | [C++](1340-Jump-Game-V/cpp-1340/) | | |
 | | | | | | |
 | 1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [无] | [C++](1346-Check-If-N-and-Its-Double-Exist/cpp-1346/) | | |
+| 1347 | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | [无] | [C++](1347-Minimum-Number-of-Steps-to-Make-Two-Strings-Anagram/cpp-1347/) | | |
 | | | | | | |
