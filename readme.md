@@ -347,6 +347,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 398 | [Random Pick Index](https://leetcode.com/problems/random-pick-index/description/) | [无] | [C++](0398-Random-Pick-Index/cpp-0398/) | | |
 | | | | | | |
+| 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [无] | [C++](0401-Binary-Watch/cpp-0401/) | | |
+| | | | | | |
 | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [无] | [C++](0404-Sum-of-Left-Leaves/cpp-0404/) | | |
 | | | | | | |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [solution](https://leetcode.com/problems/fizz-buzz/solution/) | [C++](0412-Fizz-Buzz/cpp-0412/) | | |
