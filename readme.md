@@ -918,4 +918,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [无] | [C++](1351-Count-Negative-Numbers-in-a-Sorted-Matrix/cpp-1351/) | | |
 | 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | [无] | [C++](1352-Product-of-the-Last-K-Numbers/cpp-1352/) | | |
+| 1353 | [Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | [无] | [C++](1353-Maximum-Number-of-Events-That-Can-Be-Attended/cpp-1353/) | | |
 | | | | | | |
