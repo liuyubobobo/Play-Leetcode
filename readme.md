@@ -917,4 +917,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1348 | [Tweet Counts Per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency/) | [无] | [C++](1348-Tweet-Counts-Per-Frequency/cpp-1348/) | | |
 | | | | | | |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [无] | [C++](1351-Count-Negative-Numbers-in-a-Sorted-Matrix/cpp-1351/) | | |
+| 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | [无] | [C++](1352-Product-of-the-Last-K-Numbers/cpp-1352/) | | |
 | | | | | | |
