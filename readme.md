@@ -916,3 +916,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1347 | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | [无] | [C++](1347-Minimum-Number-of-Steps-to-Make-Two-Strings-Anagram/cpp-1347/) | | |
 | 1348 | [Tweet Counts Per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency/) | [无] | [C++](1348-Tweet-Counts-Per-Frequency/cpp-1348/) | | |
 | | | | | | |
+| 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [无] | [C++](1351-Count-Negative-Numbers-in-a-Sorted-Matrix/cpp-1351/) | | |
+| | | | | | |
