@@ -894,6 +894,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1243 | [Array Transformation](https://leetcode.com/problems/array-transformation/) | [无] | [C++](1243-Array-Transformation/cpp-1243/) | | |
 | | | | | | |
+| 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | [solution](https://leetcode.com/problems/shift-2d-grid/solution/) | [C++](1260-Shift-2D-Grid/cpp-1260/) | | |
+| | | | | | |
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [无] | [C++](1304-Find-N-Unique-Integers-Sum-up-to-Zero/cpp-1304/) | | |
 | 1305 | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | [无] | [C++](1305-All-Elements-in-Two-Binary-Search-Trees/cpp-1305/) | | |
 | 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [无] | [C++](1306-Jump-Game-III/cpp-1306/) | | |
