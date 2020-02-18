@@ -1,6 +1,6 @@
 /// Source : https://leetcode.com/problems/greatest-sum-divisible-by-three/
 /// Author : liuyubobobo
-/// Time   : 2019-12-17
+/// Time   : 2020-02-17
 
 #include <iostream>
 #include <vector>
