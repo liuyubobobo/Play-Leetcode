@@ -917,6 +917,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | [无] | [C++](1339-Maximum-Product-of-Splitted-Binary-Tree/cpp-1339/) | | |
 | 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v/) | [无] | [C++](1340-Jump-Game-V/cpp-1340/) | | |
 | | | | | | |
+| 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [无] | [C++](1342-Number-of-Steps-to-Reduce-a-Number-to-Zero/cpp-1342/) | | |
+| | | | | | |
 | 1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [无] | [C++](1346-Check-If-N-and-Its-Double-Exist/cpp-1346/) | | |
 | 1347 | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | [无] | [C++](1347-Minimum-Number-of-Steps-to-Make-Two-Strings-Anagram/cpp-1347/) | | |
 | 1348 | [Tweet Counts Per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency/) | [无] | [C++](1348-Tweet-Counts-Per-Frequency/cpp-1348/) | | |
