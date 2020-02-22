@@ -933,5 +933,6 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1353 | [Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | [无] | [C++](1353-Maximum-Number-of-Events-That-Can-Be-Attended/cpp-1353/) | | |
 | 1354 | [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/) | [无] | [C++](1354-Construct-Target-Array-With-Multiple-Sums/cpp-1354/) | | |
 | | | | | | |
-| 1355 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [无] | [C++](1355-Sort-Integers-by-The-Number-of-1-Bits/cpp-1355/) | | |
+| 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [无] | [C++](1356-Sort-Integers-by-The-Number-of-1-Bits/cpp-1356/) | | |
+| 1357 | [Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders/) | [无] | [C++](1357-Apply-Discount-Every-n-Orders/cpp-1357/) | | |
 | | | | | | |
