@@ -937,4 +937,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1357 | [Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders/) | [无] | [C++](1357-Apply-Discount-Every-n-Orders/cpp-1357/) | | |
 | | | | | | |
 | 1360 | [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) | [无] | [C++](1360-Number-of-Days-Between-Two-Dates/cpp-1360/) | | |
+| 1361 | [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/) | [无] | [C++](1361-Validate-Binary-Tree-Nodes/cpp-1361/) | | |
 | | | | | | |
