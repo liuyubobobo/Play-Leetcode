@@ -936,7 +936,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [无] | [C++](1356-Sort-Integers-by-The-Number-of-1-Bits/cpp-1356/) | | |
 | 1357 | [Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders/) | [无] | [C++](1357-Apply-Discount-Every-n-Orders/cpp-1357/) | | |
 | 1358 | [Number of Substrings Containing All Three Characters](1358-Number-of-Substrings-Containing-All-Three-Characters/cpp-1358/) | [无] | [C++](1358-Number-of-Substrings-Containing-All-Three-Characters/cpp-1358/) | | |
-| | | | | | |
+| 1359 | [Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/) | [无] | [C++](1359-Count-All-Valid-Pickup-and-Delivery-Options/cpp-1359/) | | |
 | 1360 | [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) | [无] | [C++](1360-Number-of-Days-Between-Two-Dates/cpp-1360/) | | |
 | 1361 | [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/) | [无] | [C++](1361-Validate-Binary-Tree-Nodes/cpp-1361/) | | |
 | 1362 | [Closest Divisors](https://leetcode.com/problems/closest-divisors/) | [无] | [C++](1362-Closest-Divisors/cpp-1362/) | | |
