@@ -63,6 +63,9 @@ class Solution {
 public:
     ListNode* sortList(ListNode* head) {
 
+        if(head == NULL || head->next == NULL)
+            return head;
+        
         ListNode* dummyHead = new ListNode(-1);
         dummyHead->next = head;
         int sz = 1;

@@ -918,7 +918,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | [无] | [C++](1338-Reduce-Array-Size-to-The-Half/cpp-1338/) | | |
 | 1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | [无] | [C++](1339-Maximum-Product-of-Splitted-Binary-Tree/cpp-1339/) | | |
 | 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v/) | [无] | [C++](1340-Jump-Game-V/cpp-1340/) | | |
-| | | | | | |
+| 1341 | SQL Problem | | | | |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [无] | [C++](1342-Number-of-Steps-to-Reduce-a-Number-to-Zero/cpp-1342/) | | |
 | 1343 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | [无] | [C++](1343-Number-of-Sub-arrays-of-Size-K-and-Average-Greater-than-or-Equal-to-Threshold/cpp-1343/) | | |
 | 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | [C++](1344-Angle-Between-Hands-of-a-Clock/cpp-1344/) | | | |
@@ -927,12 +927,12 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1347 | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | [无] | [C++](1347-Minimum-Number-of-Steps-to-Make-Two-Strings-Anagram/cpp-1347/) | | |
 | 1348 | [Tweet Counts Per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency/) | [无] | [C++](1348-Tweet-Counts-Per-Frequency/cpp-1348/) | | |
 | 1349 | [Maximum Students Taking Exam](https://leetcode.com/problems/maximum-students-taking-exam/) | [无] | [C++](1349-Maximum-Students-Taking-Exam/cpp-1349/) | | |
-| | | | | | |
+| 1350 | SQL Problem | | | | |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [无] | [C++](1351-Count-Negative-Numbers-in-a-Sorted-Matrix/cpp-1351/) | | |
 | 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | [无] | [C++](1352-Product-of-the-Last-K-Numbers/cpp-1352/) | | |
 | 1353 | [Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | [无] | [C++](1353-Maximum-Number-of-Events-That-Can-Be-Attended/cpp-1353/) | | |
 | 1354 | [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/) | [无] | [C++](1354-Construct-Target-Array-With-Multiple-Sums/cpp-1354/) | | |
-| | | | | | |
+| 1355 | SQL Problem | | | | |
 | 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [无] | [C++](1356-Sort-Integers-by-The-Number-of-1-Bits/cpp-1356/) | | |
 | 1357 | [Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders/) | [无] | [C++](1357-Apply-Discount-Every-n-Orders/cpp-1357/) | | |
 | 1358 | [Number of Substrings Containing All Three Characters](1358-Number-of-Substrings-Containing-All-Three-Characters/cpp-1358/) | [无] | [C++](1358-Number-of-Substrings-Containing-All-Three-Characters/cpp-1358/) | | |
