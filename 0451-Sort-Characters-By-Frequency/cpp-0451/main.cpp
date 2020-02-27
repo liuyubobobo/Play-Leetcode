@@ -6,7 +6,7 @@
 
 using namespace std;
 
-/// Using Counting Sort
+/// Sorting
 /// Time Complexity: O(n)
 /// Space Complexity: O(256)
 class Solution {
