@@ -914,9 +914,9 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) | [solution](https://leetcode.com/problems/remove-palindromic-subsequences/solution/) | [C++](1332-Remove-Palindromic-Subsequences/cpp-1332/) | | |
 | | | | | | |
-| 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [无] | [C++](1337-The-K-Weakest-Rows-in-a-Matrix/cpp-1337/) | | |
-| 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | [无] | [C++](1338-Reduce-Array-Size-to-The-Half/cpp-1338/) | | |
-| 1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | [无] | [C++](1339-Maximum-Product-of-Splitted-Binary-Tree/cpp-1339/) | | |
+| 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [solution](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/solution/) | [C++](1337-The-K-Weakest-Rows-in-a-Matrix/cpp-1337/) | | |
+| 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | [solution](https://leetcode.com/problems/reduce-array-size-to-the-half/solution/) | [C++](1338-Reduce-Array-Size-to-The-Half/cpp-1338/) | | |
+| 1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | [solution](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/solution/) | [C++](1339-Maximum-Product-of-Splitted-Binary-Tree/cpp-1339/) | | |
 | 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v/) | [无] | [C++](1340-Jump-Game-V/cpp-1340/) | | |
 | 1341 | SQL Problem | | | | |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [无] | [C++](1342-Number-of-Steps-to-Reduce-a-Number-to-Zero/cpp-1342/) | | |
@@ -931,7 +931,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [无] | [C++](1351-Count-Negative-Numbers-in-a-Sorted-Matrix/cpp-1351/) | | |
 | 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | [无] | [C++](1352-Product-of-the-Last-K-Numbers/cpp-1352/) | | |
 | 1353 | [Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | [无] | [C++](1353-Maximum-Number-of-Events-That-Can-Be-Attended/cpp-1353/) | | |
-| 1354 | [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/) | [无] | [C++](1354-Construct-Target-Array-With-Multiple-Sums/cpp-1354/) | | |
+| 1354 | [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/) | [solution](https://leetcode.com/problems/construct-target-array-with-multiple-sums/solution/) | [C++](1354-Construct-Target-Array-With-Multiple-Sums/cpp-1354/) | | |
 | 1355 | SQL Problem | | | | |
 | 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [无] | [C++](1356-Sort-Integers-by-The-Number-of-1-Bits/cpp-1356/) | | |
 | 1357 | [Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders/) | [无] | [C++](1357-Apply-Discount-Every-n-Orders/cpp-1357/) | | |
