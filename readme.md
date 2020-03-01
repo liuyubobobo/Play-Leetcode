@@ -453,6 +453,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 676 | [Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/description/) | [solution](https://leetcode.com/problems/implement-magic-dictionary/solution/) | [C++](0676-Implement-Magic-Dictionary/cpp-0676/) | | |
 | 677 | [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/description/) | [solution](https://leetcode.com/problems/map-sum-pairs/solution/) | [C++](0677/Map-Sum-Pairs/cpp-0677/) | | |
 | | | | | | |
+| 679 | [24 Game](https://leetcode.com/problems/24-game/) | [solution](https://leetcode.com/problems/24-game/) | [C++](0679-24-Game/cpp-0679/) | | |
+| | | | | | |
 | 684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/description/) | [solution](https://leetcode.com/problems/redundant-connection/solution/) | [C++](0684-Redundant-Connection/cpp-0684/) | | |
 | 685 | [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/description/) | [solution](https://leetcode.com/problems/redundant-connection-ii/solution/) | [C++](0685-Redundant-Connection-II/cpp-0685/) | | |
 | | | | | | |
