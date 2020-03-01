@@ -913,6 +913,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1319 | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | [无] | [C++](1319-Number-of-Operations-to-Make-Network-Connected/cpp-1319/) | | |
 | | | | | | |
 | 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) | [solution](https://leetcode.com/problems/remove-palindromic-subsequences/solution/) | [C++](1332-Remove-Palindromic-Subsequences/cpp-1332/) | | |
+| 1333 | [Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/) | [无] | [C++](1333-Filter-Restaurants-by-Vegan-Friendly-Price-and-Distance/cpp-1333/) | | |
 | | | | | | |
 | 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [solution](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/solution/) | [C++](1337-The-K-Weakest-Rows-in-a-Matrix/cpp-1337/) | | |
 | 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | [solution](https://leetcode.com/problems/reduce-array-size-to-the-half/solution/) | [C++](1338-Reduce-Array-Size-to-The-Half/cpp-1338/) | | |
