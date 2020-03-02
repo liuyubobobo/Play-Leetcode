@@ -944,4 +944,6 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1361 | [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/) | [无] | [C++](1361-Validate-Binary-Tree-Nodes/cpp-1361/) | | |
 | 1362 | [Closest Divisors](https://leetcode.com/problems/closest-divisors/) | [无] | [C++](1362-Closest-Divisors/cpp-1362/) | | |
 | 1363 | [Largest Multiple of Three](https://leetcode.com/problems/largest-multiple-of-three/) | [无] | [C++](1363-Largest-Multiple-of-Three/cpp-1363/) | | |
+| 1364 | SQL Problem | | | | |
+| 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [无] | [C++](1365-How-Many-Numbers-Are-Smaller-Than-the-Current-Number/cpp-1365/) | | |
 | | | | | | |
