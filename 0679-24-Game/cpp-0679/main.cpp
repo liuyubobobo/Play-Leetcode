@@ -1,6 +1,6 @@
-/// Source : https://leetcode.com/problems/two-sum/description/
+/// Source : https://leetcode.com/problems/24-game/
 /// Author : liuyubobobo
-/// Time   : 2020-03-01
+/// Time   : 2020-03-02
 
 #include <iostream>
 #include <vector>
@@ -38,6 +38,14 @@ private:
 
                     try{
                         if(equals(op(op(a, b, op1), op(c, d, op3), op2), 24.0)) return true;
+                    }catch(invalid_argument& e){}
+
+                    try{
+                        if(equals(op(op(a, op(b, c, op2), op1), d, op3), 24.0)) return true;
+                    }catch(invalid_argument& e){}
+
+                    try{
+                        if(equals(op(a, op(op(b, c, op2), d, op3), op1), 24.0)) return true;
                     }catch(invalid_argument& e){}
 
                     try{
