@@ -947,4 +947,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1364 | SQL Problem | | | | |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [无] | [C++](1365-How-Many-Numbers-Are-Smaller-Than-the-Current-Number/cpp-1365/) | | |
 | 1366 | [Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/) | [无] | [C++](1366-Rank-Teams-by-Votes/cpp-1366/) | | |
+| 1367 | [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/) | [无] | [C++](1367-Linked-List-in-Binary-Tree/cpp-1367/) | | |
 | | | | | | |
