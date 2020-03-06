@@ -42,7 +42,10 @@ public:
                 prev = cur;
             cur = p;
         }
-        return dummyHead->next;
+
+        ListNode* ret = dummyHead->next;
+        delete dummyHead;
+        return ret;
     }
 };
 
