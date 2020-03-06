@@ -5,7 +5,7 @@
  * Time Complexity:O(n)
  * Space Complexity:O(n)
  */
-public class Solution2 {
+public class Solution1 {
 
     //using auxilliary array
     public static void merge(int[] nums1, int m, int[] nums2, int n) {

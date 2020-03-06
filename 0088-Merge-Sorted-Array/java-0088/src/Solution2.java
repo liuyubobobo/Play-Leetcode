@@ -5,7 +5,7 @@
  * Time Complexity:O(n)
  * Space Complexity:O(1)
  */
-public class Solution1 {
+public class Solution2 {
 
     //do not use auxilliary array, tranverse num1 from back to front
     public static void merge2(int[] nums1, int m, int[] nums2, int n) {
