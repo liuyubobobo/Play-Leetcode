@@ -916,6 +916,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) | [solution](https://leetcode.com/problems/remove-palindromic-subsequences/solution/) | [C++](1332-Remove-Palindromic-Subsequences/cpp-1332/) | | |
 | 1333 | [Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/) | [无] | [C++](1333-Filter-Restaurants-by-Vegan-Friendly-Price-and-Distance/cpp-1333/) | | |
+| 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | [无] | [C++](1334-Find-the-City-With-the-Smallest-Number-of-Neighbors-at-a-Threshold-Distance/cpp-1334/) | | |
 | | | | | | |
 | 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [solution](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/solution/) | [C++](1337-The-K-Weakest-Rows-in-a-Matrix/cpp-1337/) | | |
 | 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | [solution](https://leetcode.com/problems/reduce-array-size-to-the-half/solution/) | [C++](1338-Reduce-Array-Size-to-The-Half/cpp-1338/) | | |
