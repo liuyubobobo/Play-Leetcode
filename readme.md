@@ -926,7 +926,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | [solution](https://leetcode.com/problems/reduce-array-size-to-the-half/solution/) | [C++](1338-Reduce-Array-Size-to-The-Half/cpp-1338/) | | |
 | 1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | [solution](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/solution/) | [C++](1339-Maximum-Product-of-Splitted-Binary-Tree/cpp-1339/) | | |
 | 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v/) | [无] | [C++](1340-Jump-Game-V/cpp-1340/) | | |
-| 1341 | [Database Problem](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1341 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [无] | [C++](1342-Number-of-Steps-to-Reduce-a-Number-to-Zero/cpp-1342/) | | |
 | 1343 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | [无] | [C++](1343-Number-of-Sub-arrays-of-Size-K-and-Average-Greater-than-or-Equal-to-Threshold/cpp-1343/) | | |
 | 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | [C++](1344-Angle-Between-Hands-of-a-Clock/cpp-1344/) | | | |
@@ -935,12 +935,12 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1347 | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | [无] | [C++](1347-Minimum-Number-of-Steps-to-Make-Two-Strings-Anagram/cpp-1347/) | | |
 | 1348 | [Tweet Counts Per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency/) | [无] | [C++](1348-Tweet-Counts-Per-Frequency/cpp-1348/) | | |
 | 1349 | [Maximum Students Taking Exam](https://leetcode.com/problems/maximum-students-taking-exam/) | [无] | [C++](1349-Maximum-Students-Taking-Exam/cpp-1349/) | | |
-| 1350 | [Database Problem](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1350 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [无] | [C++](1351-Count-Negative-Numbers-in-a-Sorted-Matrix/cpp-1351/) | | |
 | 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | [无] | [C++](1352-Product-of-the-Last-K-Numbers/cpp-1352/) | | |
 | 1353 | [Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | [无] | [C++](1353-Maximum-Number-of-Events-That-Can-Be-Attended/cpp-1353/) | | |
 | 1354 | [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/) | [solution](https://leetcode.com/problems/construct-target-array-with-multiple-sums/solution/) | [C++](1354-Construct-Target-Array-With-Multiple-Sums/cpp-1354/) | | |
-| 1355 | [Database Problem](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1355 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [无] | [C++](1356-Sort-Integers-by-The-Number-of-1-Bits/cpp-1356/) | | |
 | 1357 | [Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders/) | [无] | [C++](1357-Apply-Discount-Every-n-Orders/cpp-1357/) | | |
 | 1358 | [Number of Substrings Containing All Three Characters](1358-Number-of-Substrings-Containing-All-Three-Characters/cpp-1358/) | [无] | [C++](1358-Number-of-Substrings-Containing-All-Three-Characters/cpp-1358/) | | |
@@ -949,11 +949,11 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1361 | [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/) | [无] | [C++](1361-Validate-Binary-Tree-Nodes/cpp-1361/) | | |
 | 1362 | [Closest Divisors](https://leetcode.com/problems/closest-divisors/) | [无] | [C++](1362-Closest-Divisors/cpp-1362/) | | |
 | 1363 | [Largest Multiple of Three](https://leetcode.com/problems/largest-multiple-of-three/) | [无] | [C++](1363-Largest-Multiple-of-Three/cpp-1363/) | | |
-| 1364 | [Database Problem](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1364 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [无] | [C++](1365-How-Many-Numbers-Are-Smaller-Than-the-Current-Number/cpp-1365/) | | |
 | 1366 | [Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/) | [无] | [C++](1366-Rank-Teams-by-Votes/cpp-1366/) | | |
 | 1367 | [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/) | [无] | [C++](1367-Linked-List-in-Binary-Tree/cpp-1367/) | | |
 | 1368 | [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | [无] | [C++](1368-Minimum-Cost-to-Make-at-Least-One-Valid-Path-in-a-Grid/cpp-1368/) | | |
-| 1369 | [Database Problem](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1369 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1370 | [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/) | [无] | [C++](1370-Increasing-Decreasing-String/cpp-1370/) | | |
 | | | | | | |
