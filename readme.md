@@ -961,4 +961,6 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1375 | [Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii/) | [无] | [C++](1375-Bulb-Switcher-III/cpp-1375/) | | |
 | 1376 | [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) | [无] | [C++](1376-Time-Needed-to-Inform-All-Employees/cpp-1376/) | | |
 | 1377 | [Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds/) | [无] | [C++](1377-Frog-Position-After-T-Seconds/cpp-1377/) | | |
+| 1378 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | [无] | [C++](1379-Find-a-Corresponding-Node-of-a-Binary-Tree-in-a-Clone-of-That-Tree/cpp-1379/) | | |
 | | | | | | |
