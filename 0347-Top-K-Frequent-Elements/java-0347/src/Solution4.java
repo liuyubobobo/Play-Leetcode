@@ -1,14 +1,16 @@
 /// Source : https://leetcode.com/problems/top-k-frequent-elements/description/
 /// Author : liuyubobobo
-/// Time   : 2017-11-17
+/// Time   : 2020-03-14
 
 import java.util.*;
 import java.util.HashMap;
+import java.util.HashSet;
 
-/// Priority Queue
+
+/// Priority Queue contains n - k elements
 /// Time Complexity: O(nlogn)
 /// Space Complexity: O(n)
-class Solution3 {
+class Solution4 {
 
     private class Pair implements Comparable<Pair>{
         public int num, freq;
@@ -20,7 +22,7 @@ class Solution3 {
 
         @Override
         public int compareTo(Pair another){
-            return this.freq - another.freq;
+            return another.freq - this.freq;
         }
     }
 
@@ -42,13 +44,17 @@ class Solution3 {
         PriorityQueue<Pair> pq = new PriorityQueue<>();
         for(Integer num: freq.keySet()){
             int numFreq = freq.get(num);
-            if(pq.size() == k && numFreq > pq.peek().freq) pq.poll();
-            if(pq.size() < k) pq.add(new Pair(num, numFreq));
+            if(freq.size() - k > 0 && pq.size() == freq.size() - k && numFreq < pq.peek().freq) pq.poll();
+            if(freq.size() - k > 0 && pq.size() < freq.size() - k) pq.add(new Pair(num, numFreq));
         }
 
-        ArrayList<Integer> res = new ArrayList<Integer>();
+        HashSet<Integer> notContains = new HashSet<>();
         while(!pq.isEmpty())
-            res.add(pq.poll().num);
+            notContains.add(pq.poll().num);
+
+        ArrayList<Integer> res = new ArrayList<Integer>();
+        for(Integer key: freq.keySet())
+            if(!notContains.contains(key)) res.add(key);
 
         return res;
     }
@@ -63,6 +69,6 @@ class Solution3 {
 
         int[] nums = {1, 1, 1, 2, 2, 3};
         int k = 2;
-        printList((new Solution3()).topKFrequent(nums, k));
+        printList((new Solution4()).topKFrequent(nums, k));
     }
 }

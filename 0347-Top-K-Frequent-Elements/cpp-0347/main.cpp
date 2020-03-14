@@ -48,27 +48,14 @@ public:
 };
 
 
-void printVec(const vector<int>& vec){
-    for(int e: vec)
-        cout << e << " ";
-    cout << endl;
+void print_vec(const vector<int>& vec){
+    for(int e: vec) cout << e << " "; cout << endl;
 }
 
 int main() {
 
-    int nums1[] = {1, 1, 1, 2, 2, 3};
-    vector<int> vec1(nums1, nums1 + sizeof(nums1)/sizeof(int));
-    int k1 = 2;
-    printVec(Solution().topKFrequent(vec1, k1));
-    // 1, 2
-
-    // ---
-
-    int nums2[] = {1, 2};
-    vector<int> vec2(nums2, nums2 + sizeof(nums2)/sizeof(int));
-    int k2 = 2;
-    printVec(Solution().topKFrequent(vec2, k2));
-    // 1, 2
+    vector<int> nums = {1, 1, 1, 2, 2, 3};
+    print_vec(Solution().topKFrequent(nums, 2));
 
     return 0;
 }

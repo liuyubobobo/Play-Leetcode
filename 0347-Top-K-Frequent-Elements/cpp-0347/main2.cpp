@@ -43,16 +43,15 @@ public:
     }
 };
 
+
+void print_vec(const vector<int>& vec){
+    for(int e: vec) cout << e << " "; cout << endl;
+}
+
 int main() {
 
-    int nums[] = {1, 1, 1, 2, 2, 3};
-    vector<int> vec(nums, nums + sizeof(nums)/sizeof(int));
-    int k = 2;
-
-    vector<int> res = Solution().topKFrequent(vec, 2);
-    for( int i = 0 ; i < res.size() ; i ++ )
-        cout<<res[i]<<" ";
-    cout<<endl;
+    vector<int> nums = {1, 1, 1, 2, 2, 3};
+    print_vec(Solution().topKFrequent(nums, 2));
 
     return 0;
 }
