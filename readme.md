@@ -957,3 +957,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1369 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1370 | [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/) | [无] | [C++](1370-Increasing-Decreasing-String/cpp-1370/) | | |
 | | | | | | |
+| 1374 | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [无] | [C++](1374-Generate-a-String-With-Characters-That-Have-Odd-Counts/cpp-1374/) | | |
+| | | | | | |
