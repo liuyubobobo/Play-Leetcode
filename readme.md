@@ -958,4 +958,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1370 | [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/) | [无] | [C++](1370-Increasing-Decreasing-String/cpp-1370/) | | |
 | | | | | | |
 | 1374 | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [无] | [C++](1374-Generate-a-String-With-Characters-That-Have-Odd-Counts/cpp-1374/) | | |
+| 1375 | [Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii/) | [无] | [C++](1375-Bulb-Switcher-III/cpp-1375/) | | |
 | | | | | | |
