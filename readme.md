@@ -968,4 +968,6 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1390 | [Four Divisors](https://leetcode.com/problems/four-divisors/) | [无] | [C++](1390-Four-Divisors/cpp-1390/) | | |
 | 1391 | [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | [无] | [C++](1391-Check-if-There-is-a-Valid-Path-in-a-Grid/cpp-1391/) | | |
 | 1392 | [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/) | [无] | [C++](1392-Longest-Happy-Prefix/cpp-1392/) | | |
+| 1393 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1394 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | [无] | [C++](1394-Find-Lucky-Integer-in-an-Array/cpp-1394/) | | |
 | | | | | | |
