@@ -967,4 +967,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [无] | [C++](1389-Create-Target-Array-in-the-Given-Order/cpp-1389/) | | |
 | 1390 | [Four Divisors](https://leetcode.com/problems/four-divisors/) | [无] | [C++](1390-Four-Divisors/cpp-1390/) | | |
 | 1391 | [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | [无] | [C++](1391-Check-if-There-is-a-Valid-Path-in-a-Grid/cpp-1391/) | | |
+| 1392 | [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/) | [无] | [C++](1392-Longest-Happy-Prefix/cpp-1392/) | | |
 | | | | | | |
