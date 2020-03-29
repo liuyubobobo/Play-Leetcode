@@ -964,3 +964,6 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1378 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | [无] | [C++](1379-Find-a-Corresponding-Node-of-a-Binary-Tree-in-a-Clone-of-That-Tree/cpp-1379/) | | |
 | | | | | | |
+| 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [无] | [C++](1389-Create-Target-Array-in-the-Given-Order/cpp-1389/) | | |
+| | | | | | |
+| | | | | | |
