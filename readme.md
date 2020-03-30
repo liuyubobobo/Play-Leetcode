@@ -970,4 +970,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1392 | [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/) | [无] | [C++](1392-Longest-Happy-Prefix/cpp-1392/) | | |
 | 1393 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1394 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | [无] | [C++](1394-Find-Lucky-Integer-in-an-Array/cpp-1394/) | | |
+| 1395 | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/) | [无]<br/>[缺：线段树] | [C++](1395-Count-Number-of-Teams/cpp-1395/) | | |
 | | | | | | |
