@@ -1,29 +1,24 @@
 /// Source : https://leetcode.com/problems/happy-number/
 /// Author : liuyubobobo
-/// Time   : 2017-01-18
+/// Time   : 2020-04-03
 
 #include <iostream>
-#include <unordered_set>
+#include <set>
 
 using namespace std;
 
-/// Using HashTable
+/// The only cycle is 4-16-37-58-89-145-42-20-4
 /// Time Complexity: O(logn)
-/// Space Complexity: O(logn)
+/// Space Complexity: O(1)
 class Solution {
 public:
     bool isHappy(int n) {
 
-        unordered_set<int> record;
-        record.insert(n);
+        set<int> cycle = {4, 16, 37, 58, 89, 145, 42, 20};
         while(n != 1){
+            if(cycle.count(n)) return false;
             n = op(n);
-            if( record.find(n) == record.end() )
-                record.insert(n);
-            else
-                return false;
         }
-
         return true;
     }
 

@@ -221,7 +221,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [solution](https://leetcode.com/problems/binary-tree-right-side-view/solution/) | [C++](199-Binary-Tree-Right-Side-View/cpp-0199/) | | |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [solution](https://leetcode.com/problems/number-of-islands/solution/) | [C++](0200-Number-of-Islands/cpp-0200/) | [Java](0200-Number-of-Islands/java-0200/src/) | |
 | | | | | | |
-| 202 | [Happy Number](https://leetcode.com/problems/happy-number/description/) | [无] | [C++](0202-Happy-Number/cpp-0202/) | | |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/description/) | [solution](https://leetcode.com/problems/happy-number/solution/) | [C++](0202-Happy-Number/cpp-0202/) | | |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [无] | [C++](0203-Remove-Linked-List-Elements/cpp-0203/) | [Java](0203-Remove-Linked-List-Elements/java-0203/src/) | |
 | | | | | | |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | [无] | [C++](0205-Isomorphic-Strings/cpp-0205/) | | |

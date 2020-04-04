@@ -1,30 +1,29 @@
 /// Source : https://leetcode.com/problems/happy-number/
 /// Author : liuyubobobo
-/// Time   : 2017-01-18
+/// Time   : 2020-04-03
 
 #include <iostream>
-#include <unordered_set>
 
 using namespace std;
 
-/// Using HashTable
+/// Floyd's Cycle-Finding Algorithm
 /// Time Complexity: O(logn)
-/// Space Complexity: O(logn)
+/// Space Complexity: O(1)
 class Solution {
 public:
     bool isHappy(int n) {
 
-        unordered_set<int> record;
-        record.insert(n);
-        while(n != 1){
-            n = op(n);
-            if( record.find(n) == record.end() )
-                record.insert(n);
-            else
-                return false;
+        if(n == 1) return true;
+
+        int slow = op(n); if(slow == 1) return true;
+        int fast =op(slow); if(fast == 1) return true;
+        while(slow != fast){
+            slow = op(slow);
+            fast = op(fast); if(fast == 1) return true;
+            fast = op(fast); if(fast == 1) return true;
         }
 
-        return true;
+        return false;
     }
 
 private:
