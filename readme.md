@@ -98,7 +98,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [无] | [C++](0050-Pow-x-n/cpp-0050/) | | |
 | 051 | [N-Queens](https://leetcode.com/problems/n-queens/description/) | [缺：N皇后问题整理] | [C++](0051-N-Queens/cpp-0051/) | [Java](0051-N-Queens/java-0051/src/) | |
 | 052 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [solution](https://leetcode.com/problems/n-queens-ii/solution/)<br/>[缺：N皇后问题整理] | [C++](0052-N-Queens-II/cpp-0052/) | | |
-| 053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++](0053-Maximum-Subarray/cpp-0053/) | | | |
+| 053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [solution](https://leetcode.com/problems/maximum-subarray/solution/) | [C++](0053-Maximum-Subarray/cpp-0053/) | | |
 | 054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [solution](https://leetcode.com/problems/spiral-matrix/solution/) | [C++](0054-Spiral-Matrix/cpp-0054/) | | |
 | | | | | | |
 | 056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [solution](https://leetcode.com/problems/merge-intervals/solution/) | [C++](0056-Merge-Intervals/cpp-0056/) | | |
@@ -972,4 +972,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1393 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1394 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | [无] | [C++](1394-Find-Lucky-Integer-in-an-Array/cpp-1394/) | | |
 | 1395 | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/) | [无]<br/>[缺：线段树] | [C++](1395-Count-Number-of-Teams/cpp-1395/) | | |
+| | | | | | |
+| 1398 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group/) | [无] | [C++](1399-Count-Largest-Group/cpp-1399/) | | |
 | | | | | | |
