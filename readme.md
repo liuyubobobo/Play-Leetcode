@@ -165,7 +165,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | [无] | [C++](0119-Pascals-Triangle-II/cpp-0119/) | | |
 | 120 | [Triangle](https://leetcode.com/problems/triangle/description/) | [无] | [C++](0120-Triangle/cpp-0120/) | | |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solution/) | | [C++](0121-Best-Time-to-Buy-and-Sell-Stock/cpp-0121/) | | |
-| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | | [C++](0122-Best-Time-to-Buy-and-Sell-Stock-II/cpp-0122/) | | |
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/solution/) | [C++](0122-Best-Time-to-Buy-and-Sell-Stock-II/cpp-0122/) | | |
 | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | | [C++](0123-Best-Time-to-Buy-and-Sell-Stock-III/cpp-0123/) | | |
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [solution](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [C++](0124-Binary-Tree-Maximum-Path-Sum/cpp-0124/) | | |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [无] | [C++](0125-Valid-Palindrome/cpp-0125/) | | |
@@ -975,4 +975,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1398 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group/) | [无] | [C++](1399-Count-Largest-Group/cpp-1399/) | | |
+| 1400 | [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/) | [无] | [C++](1400-Construct-K-Palindrome-Strings/cpp-1400/) | | |
+| | | | | | |
+| 1403 | [Minimum Subsequence in Non Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) | [无] | [C++](1403-Minimum-Subsequence-in-Non-Increasing-Order/cpp-1403/) | | |
 | | | | | | |
