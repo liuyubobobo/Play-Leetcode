@@ -978,5 +978,4 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1400 | [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/) | [无] | [C++](1400-Construct-K-Palindrome-Strings/cpp-1400/) | | |
 | | | | | | |
 | 1403 | [Minimum Subsequence in Non Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) | [无] | [C++](1403-Minimum-Subsequence-in-Non-Increasing-Order/cpp-1403/) | | |
-| 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | [无] | [C++](1404-Number-of-Steps-to-Reduce-a-Number-in-Binary-Representation-to-One/cpp-1404/) | | |
 | | | | | | |
