@@ -59,7 +59,7 @@ private:
                     }
                 }
             }
-            
+
             res += dfs(index + 1, next_state, limit && i == s[index], evil, s, dp);
             res %= MOD;
         }
