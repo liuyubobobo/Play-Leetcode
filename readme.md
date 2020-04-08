@@ -974,6 +974,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1394 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | [无] | [C++](1394-Find-Lucky-Integer-in-an-Array/cpp-1394/) | | |
 | 1395 | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/) | [无]<br/>[缺：线段树] | [C++](1395-Count-Number-of-Teams/cpp-1395/) | | |
 | | | | | | |
+| 1397 | [Find All Good Strings](https://leetcode.com/problems/find-all-good-strings/) | [无] | [C++](1397-Find-All-Good-Strings/cpp-1397/) | | |
 | 1398 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group/) | [无] | [C++](1399-Count-Largest-Group/cpp-1399/) | | |
 | 1400 | [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/) | [无] | [C++](1400-Construct-K-Palindrome-Strings/cpp-1400/) | | |
