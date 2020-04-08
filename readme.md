@@ -251,7 +251,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | [solution](https://leetcode.com/problems/kth-smallest-element-in-a-bst/solution/)<br/>[缺：非递归] | [C++](0230-Kth-Smallest-Element-in-a-BST/cpp-0230/) | | |
 | | | | | | |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | [solution](https://leetcode.com/problems/implement-queue-using-stacks/solution/) | [C++](0232-Implement-Queue-using-Stacks/cpp-0232/) | | |
-| | | | | | |
+| 233 | [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/) | [solution](https://leetcode.com/problems/number-of-digit-one/solution/)<br/>[缺：数学方法] | [C++](0233-Number-of-Digit-One/cpp-0233/) | | |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [无] | [C++](0234-Palindrome-Linked-List/cpp-0234/) | | |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | [solution](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/solution/) | [C++](0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree/cpp-0235/) | [Java](0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree/java-0235/src/) | |
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [solution](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/solution/)<br/>[缺：非递归解法；LCA问题总结] | [C++](0236-Lowest-Common-Ancestor-of-a-Binary-Tree/cpp-0236/) | | |
