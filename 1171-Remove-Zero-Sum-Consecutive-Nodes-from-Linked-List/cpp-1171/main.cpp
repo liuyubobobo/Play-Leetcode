@@ -1,6 +1,6 @@
 /// Source : https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/
 /// Author : liuyubobobo
-/// Time   : 2019-08-25
+/// Time   : 2020-04-11
 
 #include <iostream>
 #include <unordered_map>
@@ -8,9 +8,9 @@
 using namespace std;
 
 
-/// Using HashMap
-/// Time Complexity: O(n)
-/// Space Complexity: O(n)
+/// Brute Force
+/// Time Complexity: O(n^2)
+/// Space Complexity: O(1)
 
 /// Definition for singly-linked list.
 struct ListNode {
@@ -26,16 +26,17 @@ public:
         ListNode* dummyHead = new ListNode(0);
         dummyHead->next = head;
 
-        unordered_map<int, ListNode*> map;
-        ListNode* cur = dummyHead;
-        int presum = 0;
-        while(cur){
-            presum += cur->val;
-            if(map.count(presum))
-                map[presum]->next = cur->next;
-            else
-                map[presum] = cur;
-            cur = cur->next;
+        for(ListNode* prev = dummyHead; prev->next;){
+
+            int sum = 0;
+            for(ListNode* node = prev->next; node; node = node->next){
+                sum += node->val;
+                if(sum == 0){
+                    prev->next = node->next;
+                    break;
+                }
+            }
+            if(sum) prev = prev->next;
         }
         return dummyHead->next;
     }
