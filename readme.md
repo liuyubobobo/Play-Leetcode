@@ -978,8 +978,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1398 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group/) | [无] | [C++](1399-Count-Largest-Group/cpp-1399/) | | |
 | 1400 | [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/) | [无] | [C++](1400-Construct-K-Palindrome-Strings/cpp-1400/) | | |
-| 1401 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | [无] | [C++](1401-Reducing-Dishes/cpp-1401/) | | |
-| | | | | | |
+| 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | [无] | [C++](1401-Circle-and-Rectangle-Overlapping/cpp-1401/) | | |
+| 1402 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | [无] | [C++](1402-Reducing-Dishes/cpp-1402/) | | |
 | 1403 | [Minimum Subsequence in Non Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) | [无] | [C++](1403-Minimum-Subsequence-in-Non-Increasing-Order/cpp-1403/) | | |
 | 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | [无] | [C++](1404-Number-of-Steps-to-Reduce-a-Number-in-Binary-Representation-to-One/cpp-1404/) | | |
 | 1405 | [Longest Happy String](https://leetcode.com/problems/longest-happy-string/) | [无] | [C++](1405-Longest-Happy-String/cpp-1405/) | | |
