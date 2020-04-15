@@ -984,4 +984,6 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | [无] | [C++](1404-Number-of-Steps-to-Reduce-a-Number-in-Binary-Representation-to-One/cpp-1404/) | | |
 | 1405 | [Longest Happy String](https://leetcode.com/problems/longest-happy-string/) | [无] | [C++](1405-Longest-Happy-String/cpp-1405/) | | |
 | 1406 | [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | [无] | [C++](1406-Stone-Game-III/cpp-1406/) | | |
+| 1407 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1408 | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) | [无] | [C++](1408-String-Matching-in-an-Array/cpp-1408/) | | |
 | | | | | | |
