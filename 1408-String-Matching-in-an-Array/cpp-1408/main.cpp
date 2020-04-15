@@ -1,6 +1,6 @@
 /// Source : https://leetcode.com/problems/string-matching-in-an-array/
 /// Author : liuyubobobo
-/// Time   : 2020-04-14
+/// Time   : 2020-04-11
 
 #include <iostream>
 #include <vector>
