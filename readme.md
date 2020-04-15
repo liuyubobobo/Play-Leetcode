@@ -986,5 +986,6 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1406 | [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | [无] | [C++](1406-Stone-Game-III/cpp-1406/) | | |
 | 1407 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1408 | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) | [无] | [C++](1408-String-Matching-in-an-Array/cpp-1408/) | | |
-| 1409 | [Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/) | [无] | [C++](1409-Queries-on-a-Permutation-With-Key/cpp-1409/) | | |
+| 1409 | [Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/) | [无]<br/>[缺：BIT] | [C++](1409-Queries-on-a-Permutation-With-Key/cpp-1409/) | | |
+| 1410 | [HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/) | [无] | [C++](1410-HTML-Entity-Parser/cpp-1410/) | | |
 | | | | | | |
