@@ -996,6 +996,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | ID | Problem | Official<br/>Solution | C++ | Java | Python |
 | --- | --- | :---: | :---: | :---: | :---: |
 | | | | | | |
-| LCP06 | [拿硬币](https://leetcode-cn.com/problems/na-ying-bi/) | [无] | [C++](LCP06-na-ying-bi/cpp-LCP-06/) |
+| LCP06 | [拿硬币](https://leetcode-cn.com/problems/na-ying-bi/) | [无] | [C++](LCP06-na-ying-bi/cpp-LCP06/) |
+| LCP07 | [传递信息](https://leetcode-cn.com/problems/chuan-di-xin-xi/) | [无] | [C++](LCP07-chuan-di-xin-xi/cpp-LCP07/) | | |
+| LCP08 | [剧情触发时间](LCP08-ju-qing-hong-fa-shi-jian/cpp-LCP08/) | [无] | [C++](LCP08-ju-qing-hong-fa-shi-jian/cpp-LCP08/) | | |
 | | | | | | |
 
