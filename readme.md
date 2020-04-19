@@ -990,6 +990,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1410 | [HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/) | [无] | [C++](1410-HTML-Entity-Parser/cpp-1410/) | | |
 | 1411 | [Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) | [无] | [C++](1411-Number-of-Ways-to-Paint-N×3-Grid/cpp-1411/) | | |
 | | | | | | |
+| 1417 | [Reformat The String](https://leetcode.com/problems/reformat-the-string/) | [无] | [C++](1317-Reformat-The-String/cpp-1417/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
