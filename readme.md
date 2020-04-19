@@ -992,6 +992,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1412 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1413 | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | [无] | [C++](1413-Minimum-Value-to-Get-Positive-Step-by-Step-Sum/cpp-1413/) | | |
 | 1414 | [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | [无] | [C++](1414-Find-the-Minimum-Number-of-Fibonacci-Numbers-Whose-Sum-Is-K/cpp-1414/) | | |
+| 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [无] | [C++](1415-The-k-th-Lexicographical-String-of-All-Happy-Strings-of-Length-n/cpp-1415/) | | |
 | | | | | | |
 | 1417 | [Reformat The String](https://leetcode.com/problems/reformat-the-string/) | [无] | [C++](1317-Reformat-The-String/cpp-1417/) | | |
 | 1418 | [Display Table of Food Orders in a Restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/) | [无] | [C++](1418-Display-Table-of-Food-Orders-in-a-Restaurant/cpp-1418/) | | |
