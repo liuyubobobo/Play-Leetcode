@@ -991,6 +991,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1411 | [Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) | [无] | [C++](1411-Number-of-Ways-to-Paint-N×3-Grid/cpp-1411/) | | |
 | | | | | | |
 | 1417 | [Reformat The String](https://leetcode.com/problems/reformat-the-string/) | [无] | [C++](1317-Reformat-The-String/cpp-1417/) | | |
+| 1418 | [Display Table of Food Orders in a Restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/) | [无] | [C++](1418-Display-Table-of-Food-Orders-in-a-Restaurant/cpp-1418/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
