@@ -989,8 +989,9 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1409 | [Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/) | [无]<br/>[缺：BIT] | [C++](1409-Queries-on-a-Permutation-With-Key/cpp-1409/) | | |
 | 1410 | [HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/) | [无] | [C++](1410-HTML-Entity-Parser/cpp-1410/) | | |
 | 1411 | [Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) | [无] | [C++](1411-Number-of-Ways-to-Paint-N×3-Grid/cpp-1411/) | | |
-| | | | | | |
+| 1412 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1413 | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | [无] | [C++](1413-Minimum-Value-to-Get-Positive-Step-by-Step-Sum/cpp-1413/) | | |
+| 1414 | [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | [无] | [C++](1414-Find-the-Minimum-Number-of-Fibonacci-Numbers-Whose-Sum-Is-K/cpp-1414/) | | |
 | | | | | | |
 | 1417 | [Reformat The String](https://leetcode.com/problems/reformat-the-string/) | [无] | [C++](1317-Reformat-The-String/cpp-1417/) | | |
 | 1418 | [Display Table of Food Orders in a Restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/) | [无] | [C++](1418-Display-Table-of-Food-Orders-in-a-Restaurant/cpp-1418/) | | |
