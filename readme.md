@@ -993,6 +993,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1417 | [Reformat The String](https://leetcode.com/problems/reformat-the-string/) | [无] | [C++](1317-Reformat-The-String/cpp-1417/) | | |
 | 1418 | [Display Table of Food Orders in a Restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/) | [无] | [C++](1418-Display-Table-of-Food-Orders-in-a-Restaurant/cpp-1418/) | | |
 | 1419 | [Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/) | [无] | [C++](1419-Minimum-Number-of-Frogs-Croaking/cpp-1419/) | | |
+| 1420 | [Build Array Where You Can Find The Maximum Exactly K Comparisons](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | [无] | [C++](1420-Build-Array-Where-You-Can-Find-The-Maximum-Exactly-K-Comparisons/cpp-1420/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
