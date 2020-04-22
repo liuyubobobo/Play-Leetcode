@@ -1,15 +1,15 @@
 /// Source : https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/
 /// Author : liuyubobobo
-/// Time   : 2017-01-30
+/// Time   : 2020-04-22
 
 #include <iostream>
-#include <cassert>
+#include <vector>
 
 using namespace std;
 
-/// Recursion implementation
-/// Time Complexity: O(n)
-/// Space Complexity: O(n)
+/// Find two paths
+/// Time Complexity: O(3n)
+/// Space Complexity: O(2n)
 
 ///Definition for a binary tree node.
 struct TreeNode {
@@ -21,31 +21,34 @@ struct TreeNode {
 
 class Solution {
 public:
-    // 在root中寻找p和q
-    // 如果p和q都在root所在的二叉树中, 则返回LCA
-    // 如果p和q只有一个在root所在的二叉树中, 则返回p或者q
-    // 如果p和q均不在root所在的二叉树中, 则返回NULL
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
 
-        if(root == NULL)
-            return root;
+        vector<TreeNode*> path1;
+        dfs(root, p, path1);
 
-        if(root == p || root == q)
-            return root;
+        vector<TreeNode*> path2;
+        dfs(root, q, path2);
 
-        TreeNode *left = lowestCommonAncestor(root->left, p, q);
-        TreeNode *right = lowestCommonAncestor(root->right, p, q);
+        TreeNode* res;
+        for(int i = 0; i < path1.size() && i < path2.size(); i ++)
+            if(path1[i] == path2[i]) res = path1[i];
+            else break;
+        return res;
+    }
 
-        if(left != NULL && right != NULL)
-            return root;
+private:
+    bool dfs(TreeNode* node, TreeNode* target, vector<TreeNode*>& path){
 
-        if(left != NULL)
-            return left;
+        if(!node) return false;
 
-        if(right != NULL)
-            return right;
+        path.push_back(node);
+        if(node == target) return true;
 
-        return NULL;
+        if(dfs(node->left, target, path)) return true;
+        if(dfs(node->right, target, path)) return true;
+
+        path.pop_back();
+        return false;
     }
 };
 
