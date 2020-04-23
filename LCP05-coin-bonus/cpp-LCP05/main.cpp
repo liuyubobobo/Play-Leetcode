@@ -1,3 +1,7 @@
+/// Source : https://leetcode-cn.com/problems/coin-bonus/
+/// Author : liuyubobobo
+/// Time   : 2020-04-22
+
 #include <iostream>
 #include <vector>
 #include <set>
@@ -5,15 +9,18 @@
 using namespace std;
 
 
+/// DFS Order + Segment Tree
+/// Time Complexity: O(n + nlogn)
+/// Space Complexity: O(n)
 class SegmentTree{
 
 private:
     int n;
-    vector<long long> tree, lazy;
+    vector<int> tree, lazy;
     int MOD = 1e9 + 7;
 
 public:
-    SegmentTree(int n): n(n), tree(4 * n, 0ll), lazy(4 * n, 0ll){}
+    SegmentTree(int n): n(n), tree(4 * n, 0), lazy(4 * n, 0){}
 
     void add(int index, int val){
         update(0, 0, n - 1, index, index, val);
@@ -32,25 +39,21 @@ public:
     }
 
 private:
-    void update(int treeID, int treeL, int treeR, int uL, int uR, long long val){
+    void update(int treeID, int treeL, int treeR, int uL, int uR, int val){
 
         if(lazy[treeID]){
-            tree[treeID] += (long long)(treeR - treeL + 1) * lazy[treeID];
-            tree[treeID] %= MOD;
+            tree[treeID] = (tree[treeID] + (long long)(treeR - treeL + 1) * lazy[treeID]) % MOD;
             if(treeL != treeR){
                 lazy[2 * treeID + 1] += lazy[treeID];
                 lazy[2 * treeID + 2] += lazy[treeID];
             }
-            lazy[treeID] = 0ll;
+            lazy[treeID] = 0;
         }
 
-//        if (treeL > treeR || treeL > uR || treeR < uL)
-//            return;
+        if (treeL > uR || treeR < uL) return;
 
-//        assert(treeL <= uL && uR <= treeR);
-        if(uL == treeL && uR == treeR){
-            tree[treeID] += (long long)(treeR - treeL + 1) * val;
-            tree[treeID] %= MOD;
+        if(uL <= treeL && uR >= treeR){
+            tree[treeID] = (tree[treeID] + (long long)(treeR - treeL + 1) * val) % MOD;
             if(treeL != treeR){
                 lazy[2 * treeID + 1] += val;
                 lazy[2 * treeID + 2] += val;
@@ -59,47 +62,31 @@ private:
         }
 
         int mid = (treeL + treeR) / 2;
-
-        if(uR <= mid)
-            update(2 * treeID + 1, treeL, mid, uL, uR, val);
-        else if(uL >= mid + 1)
-            update(2 * treeID + 2, mid + 1, treeR, uL, uR, val);
-        else{
-            update(2 * treeID + 1, treeL, mid, uL, mid, val);
-            update(2 * treeID + 2, mid + 1, treeR, mid + 1, uR, val);
-        }
-        tree[treeID] = tree[treeID * 2 + 1] + tree[treeID * 2 + 2];
-        tree[treeID] %= MOD;
+        update(2 * treeID + 1, treeL, mid, uL, uR, val);
+        update(2 * treeID + 2, mid + 1, treeR, uL, uR, val);
+        tree[treeID] = (tree[treeID * 2 + 1] + tree[treeID * 2 + 2]) % MOD;
         return;
     }
 
-    long long query(int treeID, int treeL, int treeR, int qL, int qR){
-
-        if(treeL > qR || treeR < qL) return 0ll;
+    int query(int treeID, int treeL, int treeR, int qL, int qR){
 
         if(lazy[treeID]){
-            tree[treeID] += (long long)(treeR - treeL + 1) * lazy[treeID];
-            tree[treeID] %= MOD;
+            tree[treeID] = (tree[treeID] + (long long)(treeR - treeL + 1) * lazy[treeID]) % MOD;
             if(treeL != treeR){
                 lazy[2 * treeID + 1] += lazy[treeID];
                 lazy[2 * treeID + 2] += lazy[treeID];
             }
-            lazy[treeID] = 0ll;
+            lazy[treeID] = 0;
         }
 
-        if(qL == treeL && qR == treeR)
+        if(treeL > qR || treeR < qL) return 0;
+
+        if(qL <= treeL && qR >= treeR)
             return tree[treeID];
 
         int mid = (treeL + treeR) / 2;
-
-        if(qR <= mid)
-            return query(2 * treeID + 1, treeL, mid, qL, qR);
-        else if(qL >= mid + 1)
-            return query(2 * treeID + 2, mid + 1, treeR, qL, qR);
-
-        int leftRes = query(2 * treeID + 1, treeL, mid, qL, mid);
-        int rightRes = query(2 * treeID + 2, mid + 1, treeR, mid + 1, qR);
-
+        int leftRes = query(2 * treeID + 1, treeL, mid, qL, qR);
+        int rightRes = query(2 * treeID + 2, mid + 1, treeR, qL, qR);
         return (leftRes + rightRes) % MOD;
     }
 };
