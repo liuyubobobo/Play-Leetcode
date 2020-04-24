@@ -533,6 +533,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [solution](https://leetcode.com/problems/jewels-and-stones/solution/) | [C++](0771-Jewels-and-Stones/cpp-0771/) | | |
 | 772 | [Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/description/) | [无] | [C++](0772-Basic-Calculator-III/cpp-0772/) | | |
 | | | | | | |
+| 774 | [Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) | [solution](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) | [C++](0774-Minimize-Max-Distance-to-Gas-Station/cpp-0774/) | | |
+| | | | | | |
 | 780 | [Reaching Points](https://leetcode.com/problems/reaching-points/description/) | [solution](https://leetcode.com/problems/reaching-points/solution/) | [C++](0780-Reaching-Points/cpp-0780/) | | |
 | 781 | [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/description/) | [solution](https://leetcode.com/problems/rabbits-in-forest/solution/) | [C++](0781-Rabbits-in-Forest/cpp-0781/) | | |
 | | | | | | |
