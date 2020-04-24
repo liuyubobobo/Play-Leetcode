@@ -1005,6 +1005,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | ID | Problem | Official<br/>Solution | C++ | Java | Python |
 | --- | --- | :---: | :---: | :---: | :---: |
 | | | | | | |
+| LCP04 | [覆盖](https://leetcode-cn.com/problems/broken-board-dominoes/) | [无] | [c++](LCP04-broken-board-dominoes/cpp-LCP04/) | | |
 | LCP05 | [发 LeetCoin](https://leetcode-cn.com/problems/coin-bonus/) | [无] | [C++](LCP05-coin-bonus/cpp-LCP05/) | | |
 | LCP06 | [拿硬币](https://leetcode-cn.com/problems/na-ying-bi/) | [无] | [C++](LCP06-na-ying-bi/cpp-LCP06/) |
 | LCP07 | [传递信息](https://leetcode-cn.com/problems/chuan-di-xin-xi/) | [无] | [C++](LCP07-chuan-di-xin-xi/cpp-LCP07/) | | |
