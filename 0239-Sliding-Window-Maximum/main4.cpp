@@ -49,18 +49,15 @@ public:
 };
 
 
-void printVec(const vector<int>& vec){
-
-    for(int e: vec)
-        cout << e << " ";
-    cout << endl;
+void print_vec(const vector<int>& vec){
+    for(int e: vec) cout << e << " "; cout << endl;
 }
 
 int main() {
 
     vector<int> nums = {1, 3, -1, -3, 5, 3, 6, 7};
     int k = 3;
-    printVec(Solution().maxSlidingWindow(nums, k));
+    print_vec(Solution().maxSlidingWindow(nums, k));
 
     return 0;
 }
