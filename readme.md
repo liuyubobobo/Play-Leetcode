@@ -1010,6 +1010,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1422 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [无] | [C++](1422-Maximum-Score-After-Splitting-a-String/cpp-1422/) | | |
 | 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [无] | [C++](1423-Maximum-Points-You-Can-Obtain-from-Cards/cpp-1423/) | | |
 | 1424 | [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/) | [无] | [C++](1424-Diagonal-Traverse-II/cpp-1424/) | | |
+| 1425 | [Constrained Subset Sum](https://leetcode.com/problems/constrained-subset-sum/) | [无] | [c++](1425-Constrained-Subset-Sum/cpp-1425/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
