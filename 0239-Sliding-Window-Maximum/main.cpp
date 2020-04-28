@@ -220,8 +220,8 @@ void print_vec(const vector<int>& vec){
 int main() {
 
     vector<int> nums = {1, 3, -1, -3, 5, 3, 6, 7};
-    int k = 3;
-    print_vec(Solution().maxSlidingWindow(nums, k));
+    print_vec(Solution().maxSlidingWindow(nums, 3));
+    // 3 3 5 5 6 7
 
     return 0;
 }

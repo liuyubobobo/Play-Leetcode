@@ -1,18 +1,17 @@
 /// Source : https://leetcode.com/problems/sliding-window-maximum/description/
 /// Author : liuyubobobo
-/// Time   : 2017-11-22
+/// Time   : 2020-04-27
 
 #include <iostream>
 #include <vector>
-#include <deque>
+#include <map>
 #include <cassert>
 
 using namespace std;
 
 
-/// Using Deque as a Decreasing Queue
-/// It's a template problem! :)
-/// Time Complexity: O(n)
+/// Using a map as a priority queue
+/// Time Complexity: O(nlogn)
 /// Space Complexity: O(n)
 class Solution {
 public:
@@ -21,22 +20,20 @@ public:
         if(k == 0 || nums.size() == 0)
             return vector<int>();
 
-        if(k == 1)
-            return nums;
+        if(k == 1) return nums;
 
-        deque<int> q;
+        map<int, int> window;
+        for(int i = 0; i < k - 1; i ++)
+            window[nums[i]] ++;
+
         vector<int> res;
-        for(int i = 0 ; i < nums.size() ; i ++){
+        for(int i = k - 1 ; i < nums.size() ; i ++){
 
-            while(!q.empty() && q.back() < nums[i])
-                q.pop_back();
-            q.push_back(nums[i]);
+            window[nums[i]] ++;
+            res.push_back(window.rbegin()->first);
 
-            if(i >= k - 1){
-                res.push_back(q.front());
-                if(q.front() == nums[i - (k - 1)])
-                    q.pop_front();
-            }
+            window[nums[i - k + 1]] --;
+            if(window[nums[i - k + 1]] == 0) window.erase(nums[i - k + 1]);
         }
 
         return res;
@@ -51,8 +48,8 @@ void print_vec(const vector<int>& vec){
 int main() {
 
     vector<int> nums = {1, 3, -1, -3, 5, 3, 6, 7};
-    int k = 3;
-    print_vec(Solution().maxSlidingWindow(nums, k));
+    print_vec(Solution().maxSlidingWindow(nums, 3));
+    // 3 3 5 5 6 7
 
     return 0;
 }
