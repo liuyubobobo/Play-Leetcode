@@ -1025,4 +1025,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | LCP08 | [剧情触发时间](https://leetcode-cn.com/problems/ju-qing-hong-fa-shi-jian/) | [无] | [C++](LCP08-ju-qing-hong-fa-shi-jian/cpp-LCP08/) | | |
 | LCP09 | [最小跳跃次数](https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu/) | [无] | [C++](LCP09-zui-xiao-tiao-yue-ci-shu/cpp-LCP09/) | | |
 | LCP10 | [二叉树任务调度](https://leetcode-cn.com/problems/er-cha-shu-ren-wu-diao-du/) | [无] | [C++](LCP10-er-cha-shu-ren-wu-diao-du/cpp-LCP10/) | | |
+| LCP11 | [期望个数统计](https://leetcode-cn.com/problems/qi-wang-ge-shu-tong-ji/) | [无] | [C++](LCP11-qi-wang-ge-shu-tong-ji/cpp-LCP11/) | | |
 
