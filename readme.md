@@ -1020,10 +1020,11 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | LCP04 | [覆盖](https://leetcode-cn.com/problems/broken-board-dominoes/) | [无] | [c++](LCP04-broken-board-dominoes/cpp-LCP04/) | | |
 | LCP05 | [发 LeetCoin](https://leetcode-cn.com/problems/coin-bonus/) | [无] | [C++](LCP05-coin-bonus/cpp-LCP05/) | | |
-| LCP06 | [拿硬币](https://leetcode-cn.com/problems/na-ying-bi/) | [无] | [C++](LCP06-na-ying-bi/cpp-LCP06/) |
-| LCP07 | [传递信息](https://leetcode-cn.com/problems/chuan-di-xin-xi/) | [无] | [C++](LCP07-chuan-di-xin-xi/cpp-LCP07/) | | |
-| LCP08 | [剧情触发时间](https://leetcode-cn.com/problems/ju-qing-hong-fa-shi-jian/) | [无] | [C++](LCP08-ju-qing-hong-fa-shi-jian/cpp-LCP08/) | | |
-| LCP09 | [最小跳跃次数](https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu/) | [无] | [C++](LCP09-zui-xiao-tiao-yue-ci-shu/cpp-LCP09/) | | |
-| LCP10 | [二叉树任务调度](https://leetcode-cn.com/problems/er-cha-shu-ren-wu-diao-du/) | [无] | [C++](LCP10-er-cha-shu-ren-wu-diao-du/cpp-LCP10/) | | |
-| LCP11 | [期望个数统计](https://leetcode-cn.com/problems/qi-wang-ge-shu-tong-ji/) | [无] | [C++](LCP11-qi-wang-ge-shu-tong-ji/cpp-LCP11/) | | |
-
+| LCP06 | [拿硬币](https://leetcode-cn.com/problems/na-ying-bi/) | [题解](https://leetcode-cn.com/problems/na-ying-bi/solution/na-ying-bi-by-leetcode-solution/) | [C++](LCP06-na-ying-bi/cpp-LCP06/) |
+| LCP07 | [传递信息](https://leetcode-cn.com/problems/chuan-di-xin-xi/) | [题解](https://leetcode-cn.com/problems/chuan-di-xin-xi/solution/chuan-di-xin-xi-by-leetcode-solution/) | [C++](LCP07-chuan-di-xin-xi/cpp-LCP07/) | | |
+| LCP08 | [剧情触发时间](https://leetcode-cn.com/problems/ju-qing-hong-fa-shi-jian/) | [题解](https://leetcode-cn.com/problems/ju-qing-hong-fa-shi-jian/solution/ju-qing-hong-fa-shi-jian-by-leetcode-solution/) | [C++](LCP08-ju-qing-hong-fa-shi-jian/cpp-LCP08/) | | |
+| LCP09 | [最小跳跃次数](https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu/) | [题解](https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu/solution/zui-xiao-tiao-yue-ci-shu-by-leetcode-solution/) | [C++](LCP09-zui-xiao-tiao-yue-ci-shu/cpp-LCP09/) | | |
+| LCP10 | [二叉树任务调度](https://leetcode-cn.com/problems/er-cha-shu-ren-wu-diao-du/) | [题解](https://leetcode-cn.com/problems/er-cha-shu-ren-wu-diao-du/solution/dfs-si-lu-dai-ma-he-zheng-ming-by-leetcode-solutio/) | [C++](LCP10-er-cha-shu-ren-wu-diao-du/cpp-LCP10/) | | |
+| LCP11 | [期望个数统计](https://leetcode-cn.com/problems/qi-wang-ge-shu-tong-ji/) | [题解](https://leetcode-cn.com/problems/qi-wang-ge-shu-tong-ji/solution/qi-wang-ge-shu-tong-ji-qi-wang-ji-suan-yu-zheng-mi/) | [C++](LCP11-qi-wang-ge-shu-tong-ji/cpp-LCP11/) | | |
+| LCP12 | [小张刷题计划](https://leetcode-cn.com/problems/xiao-zhang-shua-ti-ji-hua/) | [题解](https://leetcode-cn.com/problems/xiao-zhang-shua-ti-ji-hua/solution/xiao-zhang-shua-ti-ji-hua-er-fen-cha-zhao-by-leetc/) | [C++](LCP12-xiao-zhang-shua-ti-ji-hua/cpp-LCP12/) | | |
+| | | | | | |
