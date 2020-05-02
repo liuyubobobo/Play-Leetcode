@@ -1017,6 +1017,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [无] | [C++](1431-Kids-With-the-Greatest-Number-of-Candies/cpp-1431/) | | |
 | 1432 | [Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) | [无] | [C++](1432-Max-Difference-You-Can-Get-From-Changing-an-Integer/cpp-1432/) | | |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/) | [无] | [C++](1433-Check-If-a-String-Can-Break-Another-String/cpp-1433/) | | |
+| 1434 | [Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/) | [无] | [C++](1434-Number-of-Ways-to-Wear-Different-Hats-to-Each-Other/cpp-1434/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
