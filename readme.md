@@ -435,6 +435,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/description/) | [solution](https://leetcode.com/problems/delete-operation-for-two-strings/solution/) | [C++](0583-Delete-Operation-for-Two-Strings/cpp-0583/) | | |
 | | | | | | |
+| 587 | [Erect the Fence](https://leetcode.com/problems/erect-the-fence/) | [solution](https://leetcode.com/problems/erect-the-fence/solution/) [题解](https://leetcode-cn.com/problems/erect-the-fence/solution/an-zhuang-zha-lan-by-leetcode/) | [C++](0587-Erect-the-Fence/cpp-0587/) | | |
+| | | | | | |
 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [solution](https://leetcode.com/problems/n-ary-tree-preorder-traversal/solution/) | [C++](0589-N-ary-Tree-Preorder-Traversal/cpp-0589/) | | |
 | 590 | [N-ary Tree Postorder Transversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [solution](https://leetcode.com/problems/n-ary-tree-postorder-traversal/solution/) | [C++](0590-N-ary-Tree-Postorder-Transversal/cpp-0590/) | | |
 | | | | | | |
