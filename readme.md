@@ -435,7 +435,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/description/) | [solution](https://leetcode.com/problems/delete-operation-for-two-strings/solution/) | [C++](0583-Delete-Operation-for-Two-Strings/cpp-0583/) | | |
 | | | | | | |
-| 587 | [Erect the Fence](https://leetcode.com/problems/erect-the-fence/) | [solution](https://leetcode.com/problems/erect-the-fence/solution/) [题解](https://leetcode-cn.com/problems/erect-the-fence/solution/an-zhuang-zha-lan-by-leetcode/) | [C++](0587-Erect-the-Fence/cpp-0587/) | | |
+| 587 | [Erect the Fence](https://leetcode.com/problems/erect-the-fence/) | [solution](https://leetcode.com/problems/erect-the-fence/solution/) [题解](https://leetcode-cn.com/problems/erect-the-fence/solution/an-zhuang-zha-lan-by-leetcode/)<br/>[缺：凸包解法整理] | [C++](0587-Erect-the-Fence/cpp-0587/) | | |
 | | | | | | |
 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [solution](https://leetcode.com/problems/n-ary-tree-preorder-traversal/solution/) | [C++](0589-N-ary-Tree-Preorder-Traversal/cpp-0589/) | | |
 | 590 | [N-ary Tree Postorder Transversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [solution](https://leetcode.com/problems/n-ary-tree-postorder-traversal/solution/) | [C++](0590-N-ary-Tree-Postorder-Transversal/cpp-0590/) | | |
@@ -1013,7 +1013,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [无] | [C++](1423-Maximum-Points-You-Can-Obtain-from-Cards/cpp-1423/) | | |
 | 1424 | [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/) | [无] | [C++](1424-Diagonal-Traverse-II/cpp-1424/) | | |
 | 1425 | [Constrained Subset Sum](https://leetcode.com/problems/constrained-subset-sum/) | [无] | [C++](1425-Constrained-Subset-Sum/cpp-1425/) | | |
-| 1426 | [Counting Elements](https://leetcode.com/problems/counting-elements/) | [无] | [C++](1426-Counting-Elements/cpp-1426/) | | |
+| 1426 | [Counting Elements](https://leetcode.com/problems/counting-elements/) | [solution](https://leetcode.com/problems/counting-elements/solution/) | [C++](1426-Counting-Elements/cpp-1426/) | | |
+| 1427 | [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) | [solution](https://leetcode.com/problems/perform-string-shifts/solution/) | [C++](1427-Perform-String-Shifts/cpp-1427/) | | |
 | | | | | | |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [无] | [C++](1431-Kids-With-the-Greatest-Number-of-Candies/cpp-1431/) | | |
 | 1432 | [Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) | [无] | [C++](1432-Max-Difference-You-Can-Get-From-Changing-an-Integer/cpp-1432/) | | |
