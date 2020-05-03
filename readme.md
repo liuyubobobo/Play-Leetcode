@@ -1023,6 +1023,9 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/) | [无] | [C++](1433-Check-If-a-String-Can-Break-Another-String/cpp-1433/) | | |
 | 1434 | [Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/) | [无] | [C++](1434-Number-of-Ways-to-Wear-Different-Hats-to-Each-Other/cpp-1434/) | | |
 | | | | | | |
+| 1436 | [Destination City](https://leetcode.com/problems/destination-city/) | [无] | [C++](1436-Destination-City/cpp-1436/) | | |
+| 1437 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | [无] | [C++](1437-Check-If-All-1s-Are-at-Least-Length-K-Places-Away/cpp-1437/)| | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
