@@ -1015,6 +1015,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1425 | [Constrained Subset Sum](https://leetcode.com/problems/constrained-subset-sum/) | [无] | [C++](1425-Constrained-Subset-Sum/cpp-1425/) | | |
 | 1426 | [Counting Elements](https://leetcode.com/problems/counting-elements/) | [solution](https://leetcode.com/problems/counting-elements/solution/) | [C++](1426-Counting-Elements/cpp-1426/) | | |
 | 1427 | [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) | [solution](https://leetcode.com/problems/perform-string-shifts/solution/) | [C++](1427-Perform-String-Shifts/cpp-1427/) | | |
+| 1428 | [Leftmost Column with at Least a One](https://leetcode.com/problems/leftmost-column-with-at-least-a-one/) | [C++](1428-Leftmost-Column-with-at-Least-a-One/cpp-1428/) | | | |
 | | | | | | |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [无] | [C++](1431-Kids-With-the-Greatest-Number-of-Candies/cpp-1431/) | | |
 | 1432 | [Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) | [无] | [C++](1432-Max-Difference-You-Can-Get-From-Changing-an-Integer/cpp-1432/) | | |
