@@ -1017,7 +1017,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1427 | [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) | [solution](https://leetcode.com/problems/perform-string-shifts/solution/) | [C++](1427-Perform-String-Shifts/cpp-1427/) | | |
 | 1428 | [Leftmost Column with at Least a One](https://leetcode.com/problems/leftmost-column-with-at-least-a-one/) | [solution](https://leetcode.com/problems/leftmost-column-with-at-least-a-one/solution/) | [C++](1428-Leftmost-Column-with-at-Least-a-One/cpp-1428/) | | |
 | 1429 | [First Unique Number](https://leetcode.com/problems/first-unique-number/) | [solution](https://leetcode.com/problems/first-unique-number/) | [C++](1429-First-Unique-Number/cpp-1429/) | | |
-| | | | | | |
+| 1430 | [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/) | [无] | [C++](1430-Check-If-a-String-Is-a-Valid-Sequence-from-Root-to-Leaves-Path-in-a-Binary-Tree/cpp-1430/) | | |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [无] | [C++](1431-Kids-With-the-Greatest-Number-of-Candies/cpp-1431/) | | |
 | 1432 | [Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) | [无] | [C++](1432-Max-Difference-You-Can-Get-From-Changing-an-Integer/cpp-1432/) | | |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/) | [无] | [C++](1433-Check-If-a-String-Can-Break-Another-String/cpp-1433/) | | |
