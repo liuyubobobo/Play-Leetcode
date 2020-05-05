@@ -976,6 +976,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1378 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | [无] | [C++](1379-Find-a-Corresponding-Node-of-a-Binary-Tree-in-a-Clone-of-That-Tree/cpp-1379/) | | |
 | | | | | | |
+| 1383 | [Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/) | [无] | [C++](1383-Maximum-Performance-of-a-Team/cpp-1383/) | | |
+| | | | | | |
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [无] | [C++](1389-Create-Target-Array-in-the-Given-Order/cpp-1389/) | | |
 | 1390 | [Four Divisors](https://leetcode.com/problems/four-divisors/) | [无] | [C++](1390-Four-Divisors/cpp-1390/) | | |
 | 1391 | [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | [无] | [C++](1391-Check-if-There-is-a-Valid-Path-in-a-Grid/cpp-1391/) | | |
