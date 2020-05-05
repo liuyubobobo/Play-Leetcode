@@ -969,6 +969,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1369 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1370 | [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/) | [无] | [C++](1370-Increasing-Decreasing-String/cpp-1370/) | | |
 | | | | | | |
+| 1372 | [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | [题解](https://leetcode-cn.com/problems/longest-zigzag-path-in-a-binary-tree/solution/er-cha-shu-zhong-de-zui-chang-jiao-cuo-lu-jing-b-2/)<br/>[缺：dp，返回值DFS] | [C++](1372-Longest-ZigZag-Path-in-a-Binary-Tree/cpp-1372/) | | |
+| | | | | | |
 | 1374 | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [无] | [C++](1374-Generate-a-String-With-Characters-That-Have-Odd-Counts/cpp-1374/) | | |
 | 1375 | [Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii/) | [无] | [C++](1375-Bulb-Switcher-III/cpp-1375/) | | |
 | 1376 | [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) | [无] | [C++](1376-Time-Needed-to-Inform-All-Employees/cpp-1376/) | | |
