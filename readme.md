@@ -968,7 +968,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1368 | [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | [无] | [C++](1368-Minimum-Cost-to-Make-at-Least-One-Valid-Path-in-a-Grid/cpp-1368/) | | |
 | 1369 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1370 | [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/) | [无] | [C++](1370-Increasing-Decreasing-String/cpp-1370/) | | |
-| | | | | | |
+| 1371 | [Find the Longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/) | [无] | [C++](1371-Find-the-Longest-Substring-Containing-Vowels-in-Even-Counts/cpp-1371/) | | |
 | 1372 | [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | [题解](https://leetcode-cn.com/problems/longest-zigzag-path-in-a-binary-tree/solution/er-cha-shu-zhong-de-zui-chang-jiao-cuo-lu-jing-b-2/)<br/>[缺：dp，返回值DFS] | [C++](1372-Longest-ZigZag-Path-in-a-Binary-Tree/cpp-1372/) | | |
 | | | | | | |
 | 1374 | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [无] | [C++](1374-Generate-a-String-With-Characters-That-Have-Odd-Counts/cpp-1374/) | | |
