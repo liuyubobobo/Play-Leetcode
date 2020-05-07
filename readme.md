@@ -913,6 +913,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1240 | [Tiling a Rectangle with the Fewest Squares](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/) | [无] | [C++](1240-Tiling-a-Rectangle-with-the-Fewest-Squares/cpp-1240/) | | |
 | | | | | | |
 | 1243 | [Array Transformation](https://leetcode.com/problems/array-transformation/) | [无] | [C++](1243-Array-Transformation/cpp-1243/) | | |
+| 1244 | [Design A Leaderboard](https://leetcode.com/problems/design-a-leaderboard/) | [无] | [C++](1244-Design-A-Leaderboard/cpp-1244/) | | |
 | | | | | | |
 | 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | [solution](https://leetcode.com/problems/shift-2d-grid/solution/) | [C++](1260-Shift-2D-Grid/cpp-1260/) | | |
 | 1261 | [Find Elements in a Contaminated Binary Tree](https://leetcode.com/contest/weekly-contest-163/problems/find-elements-in-a-contaminated-binary-tree/) | [C++](1261-Find-Elements-in-a-Contaminated-Binary-Tree/cpp-1261/) | | | |
