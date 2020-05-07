@@ -777,6 +777,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | [无] | [C++](1079-Letter-Tile-Possibilities/cpp-1079/) | | |
 | 1080 | [Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) | [无] | [C++](1080-Insufficient-Nodes-in-Root-to-Leaf-Paths/cpp-1080/) | | |
 | | | | | | |
+| 1087 | [Brace Expansion](https://leetcode.com/problems/brace-expansion/) | [无] | [C++](1087-Brace-Expansion/cpp-1087/) | | |
+| | | | | | |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [无] | [C++](1089-Duplicate-Zeros/cpp-1089/) | | |
 | 1090 | [Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/) | [无] | [C++](1090-Largest-Values-From-Labels/cpp-1090/) | | |
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [无] | [C++](1091-Shortest-Path-in-Binary-Matrix/cpp-1091/) | | |
