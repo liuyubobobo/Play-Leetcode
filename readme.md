@@ -301,6 +301,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 308 | [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/description/) | | [C++](0308-Range-Sum-Query-2D-Mutable/cpp-0308/) | | |
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | | [C++](0309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown/cpp-0309/) | | |
 | | | | | | |
+| 312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [solution](https://leetcode.com/problems/burst-balloons/solution/) [题解](https://leetcode-cn.com/problems/burst-balloons/solution/chuo-qi-qiu-by-leetcode/) | [C++](0312-Burst-Balloons/cpp-0312/) | | |
+| | | | | | |
 | 315 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [无] | [C++](0315-Count-of-Smaller-Numbers-After-Self/cpp-0315/) | | |
 | | | | | | |
 | 319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/) | [无] | [C++](0319-Bulb-Switcher/cpp-0319/) | | |
