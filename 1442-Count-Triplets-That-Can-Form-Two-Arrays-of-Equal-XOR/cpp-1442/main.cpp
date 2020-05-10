@@ -22,7 +22,7 @@ public:
 
         int res = 0;
         for(int i = 0; i < n; i ++)
-            for(int j = i + 2; j < n; j ++)
+            for(int j = i + 1; j < n; j ++)
                 for(int k = j; k < n; k ++)
                     if(pre[j] ^ pre[i] == pre[k + 1] ^ pre[j])
                         res ++;
