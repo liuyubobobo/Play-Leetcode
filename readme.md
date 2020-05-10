@@ -1040,6 +1040,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1440 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | [无] | [C++](1441-Build-an-Array-With-Stack-Operations/cpp-1441/) | | |
 | 1442 | [Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | [无]<br/>[缺：O(n)] | [C++](1442-Count-Triplets-That-Can-Form-Two-Arrays-of-Equal-XOR/cpp-1442/) | | |
+| 1443 | [Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) | [无] | [C++](1443-Minimum-Time-to-Collect-All-Apples-in-a-Tree/cpp-1443/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
