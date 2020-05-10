@@ -1038,6 +1038,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | [无] | [C++](1438-Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit/cpp-1438/) | | |
 | 1439 | [Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/) | [无] | [C++](1439-Find-the-Kth-Smallest-Sum-of-a-Matrix-With-Sorted-Rows/cpp-1439/) | | |
 | 1440 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | [无] | [C++](1441-Build-an-Array-With-Stack-Operations/cpp-1441/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
