@@ -993,7 +993,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1393 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1394 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | [无] | [C++](1394-Find-Lucky-Integer-in-an-Array/cpp-1394/) | | |
 | 1395 | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/) | [无]<br/>[缺：线段树] | [C++](1395-Count-Number-of-Teams/cpp-1395/) | | |
-| | | | | | |
+| 1396 | [Design Underground System](https://leetcode.com/problems/design-underground-system/) | [solution](https://leetcode.com/problems/design-underground-system/solution/) | [C++](1396-Design-Underground-System/cpp-1396/) | | |
 | 1397 | [Find All Good Strings](https://leetcode.com/problems/find-all-good-strings/) | [无]<br/>[缺：双端数位 DP] | [C++](1397-Find-All-Good-Strings/cpp-1397/) | | |
 | 1398 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group/) | [无] | [C++](1399-Count-Largest-Group/cpp-1399/) | | |
@@ -1032,11 +1032,12 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1432 | [Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) | [无] | [C++](1432-Max-Difference-You-Can-Get-From-Changing-an-Integer/cpp-1432/) | | |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/) | [无] | [C++](1433-Check-If-a-String-Can-Break-Another-String/cpp-1433/) | | |
 | 1434 | [Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/) | [无] | [C++](1434-Number-of-Ways-to-Wear-Different-Hats-to-Each-Other/cpp-1434/) | | |
-| | | | | | |
+| 1435 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1436 | [Destination City](https://leetcode.com/problems/destination-city/) | [无] | [C++](1436-Destination-City/cpp-1436/) | | |
 | 1437 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | [无] | [C++](1437-Check-If-All-1s-Are-at-Least-Length-K-Places-Away/cpp-1437/)| | |
 | 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | [无] | [C++](1438-Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit/cpp-1438/) | | |
 | 1439 | [Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/) | [无] | [C++](1439-Find-the-Kth-Smallest-Sum-of-a-Matrix-With-Sorted-Rows/cpp-1439/) | | |
+| 1440 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
 
 ## 力扣中文站比赛
