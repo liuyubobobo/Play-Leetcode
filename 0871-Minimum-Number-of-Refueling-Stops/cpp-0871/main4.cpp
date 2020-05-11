@@ -1,15 +1,16 @@
 /// Source : https://leetcode.com/problems/minimum-number-of-refueling-stops/description/
 /// Author : liuyubobobo
-/// Time   : 2018-08-05
+/// Time   : 2020-05-10
 
 #include <iostream>
 #include <vector>
+#include <queue>
 
 using namespace std;
 
 
-/// Dynamic Programming
-/// Time Complexity: O(n^2)
+/// Greedy using PQ
+/// Time Complexity: O(nlogn)
 /// Space Complexity: O(n)
 class Solution {
 
@@ -20,19 +21,16 @@ public:
             return 0;
 
         int n = stations.size();
-        vector<long long> dp(n + 1, 0);
-        dp[0] = startFuel;
+        priority_queue<int> pq;
+        int i = 0, cur = startFuel, res = 0;
+        while(cur < target){
+            for(; i < n && cur >= stations[i][0]; i ++)
+                pq.push(stations[i][1]);
 
-        for(int i = 0 ; i < n ; i ++)
-            for(int t = i ; t >= 0 ; t --)
-                if(dp[t] >= stations[i][0]){
-                    dp[t + 1] = max(dp[t + 1], dp[t] + stations[i][1]);
-                }
-
-        for(int t = 0; t <= n; t ++)
-            if(dp[t] >= target)
-                return t;
-        return -1;
+            if(!pq.empty()) cur += pq.top(), pq.pop(), res ++;
+            else break;
+        }
+        return cur >= target ? res : -1;
     }
 };
 
