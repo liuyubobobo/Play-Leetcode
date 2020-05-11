@@ -35,8 +35,7 @@ public:
             vector<int> tdp(R * C, 0);
             for(int r = 0; r < R; r ++)
                 for(int c = 0; c < C; c ++){
-
-
+                    
                     for(int i = r + 1; i < R; i ++)
                         if(ok(cnt, r, c, i - 1, C - 1))
                             tdp[r * C + c] += dp[i * C + c],
