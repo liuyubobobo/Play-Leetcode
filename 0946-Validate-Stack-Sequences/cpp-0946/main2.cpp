@@ -12,7 +12,6 @@ using namespace std;
 
 /// Using a stack to simulation
 /// Greedy Thinking is used when deal with popped elements
-///
 /// Time Complexity: O(n)
 /// Space Complexity: O(n)
 class Solution {

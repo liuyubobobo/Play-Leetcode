@@ -12,7 +12,6 @@ using namespace std;
 
 /// Using a stack to simulation
 /// and using a HashSet to record every elements
-///
 /// Time Complexity: O(n)
 /// Space Complexity: O(n)
 class Solution {
