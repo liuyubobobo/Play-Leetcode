@@ -128,6 +128,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 082 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [无] | [C++](0082-Remove-Duplicates-from-Sorted-List-II/cpp-0082/) | | |
 | 083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [无] | [C++](0083-Remove-Duplicates-from-Sorted-List/cpp-0083/) | | |
+| 084 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [solution](https://leetcode.com/problems/largest-rectangle-in-histogram/solution/) [题解](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/solution/zhu-zhuang-tu-zhong-zui-da-de-ju-xing-by-leetcode/) | [C++](0084-Largest-Rectangle-in-Histogram/cpp-0084/) | | |
 | | | | | | |
 | 086 | [Partition List](https://leetcode.com/problems/partition-list/description/) | [solution](https://leetcode.com/problems/partition-list/solution/) | [C++](0086-Partition-List/cpp-0086/) | | |
 | 087 | [Scramble String](https://leetcode.com/problems/scramble-string/description/) | [无] | [C++](0087-Scramble-String/cpp-0087/) | | |
