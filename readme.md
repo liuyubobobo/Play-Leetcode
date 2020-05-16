@@ -1047,6 +1047,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1444 | [Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/) | [无] | [C++](1444-Number-of-Ways-of-Cutting-a-Pizza/cpp-1444/) | | |
 | | | | | | |
 | 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | [无] | [C++](1446-Consecutive-Characters/cpp-1446/) | | |
+| 1447 | [Simplified Fractions](https://leetcode.com/problems/simplified-fractions/) | [无] | [C++](1447-Simplified-Fractions/cpp-1447/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
