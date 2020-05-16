@@ -1048,6 +1048,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | [无] | [C++](1446-Consecutive-Characters/cpp-1446/) | | |
 | 1447 | [Simplified Fractions](https://leetcode.com/problems/simplified-fractions/) | [无] | [C++](1447-Simplified-Fractions/cpp-1447/) | | |
+| 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [无] | [C++](1448-Count-Good-Nodes-in-Binary-Tree/cpp-1448/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
