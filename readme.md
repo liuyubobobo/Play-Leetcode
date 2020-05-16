@@ -1045,10 +1045,11 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1442 | [Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | [无]<br/>[缺：O(n)] | [C++](1442-Count-Triplets-That-Can-Form-Two-Arrays-of-Equal-XOR/cpp-1442/) | | |
 | 1443 | [Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) | [无] | [C++](1443-Minimum-Time-to-Collect-All-Apples-in-a-Tree/cpp-1443/) | | |
 | 1444 | [Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/) | [无] | [C++](1444-Number-of-Ways-of-Cutting-a-Pizza/cpp-1444/) | | |
-| | | | | | |
+| 1445 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | [无] | [C++](1446-Consecutive-Characters/cpp-1446/) | | |
 | 1447 | [Simplified Fractions](https://leetcode.com/problems/simplified-fractions/) | [无] | [C++](1447-Simplified-Fractions/cpp-1447/) | | |
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [无] | [C++](1448-Count-Good-Nodes-in-Binary-Tree/cpp-1448/) | | |
+| 1449 | [Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/) | [无] | [C++](1449-Form-Largest-Integer-With-Digits-That-Add-up-to-Target/cpp-1449/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
