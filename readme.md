@@ -1046,6 +1046,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1443 | [Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) | [无] | [C++](1443-Minimum-Time-to-Collect-All-Apples-in-a-Tree/cpp-1443/) | | |
 | 1444 | [Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/) | [无] | [C++](1444-Number-of-Ways-of-Cutting-a-Pizza/cpp-1444/) | | |
 | | | | | | |
+| 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | [无] | [C++](1446-Consecutive-Characters/cpp-1446/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
