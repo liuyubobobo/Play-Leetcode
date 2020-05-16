@@ -10,7 +10,7 @@ using namespace std;
 
 /// Memory Search
 /// Time Complexity: O(target)
-/// Space Complexity: O(target)
+/// Space Complexity: O(target * |s|)
 class Solution {
 public:
     string largestNumber(vector<int>& cost, int target) {

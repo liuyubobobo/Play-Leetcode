@@ -9,7 +9,8 @@ using namespace std;
 
 
 /// Dynamic Programming
-/// Calculate result string length first and constructing the string afterwards
+/// Calculate the result string's length first
+/// and construct this result string afterwards
 /// Time Complexity: O(target)
 /// Space Complexity: O(target)
 class Solution {
