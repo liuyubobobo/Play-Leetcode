@@ -1050,6 +1050,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1447 | [Simplified Fractions](https://leetcode.com/problems/simplified-fractions/) | [无] | [C++](1447-Simplified-Fractions/cpp-1447/) | | |
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [无] | [C++](1448-Count-Good-Nodes-in-Binary-Tree/cpp-1448/) | | |
 | 1449 | [Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/) | [无] | [C++](1449-Form-Largest-Integer-With-Digits-That-Add-up-to-Target/cpp-1449/) | | |
+| 1450 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | [无] | [C++](1450-Number-of-Students-Doing-Homework-at-a-Given-Time/cpp-1450/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
