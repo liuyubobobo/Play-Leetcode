@@ -356,6 +356,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 398 | [Random Pick Index](https://leetcode.com/problems/random-pick-index/description/) | [无] | [C++](0398-Random-Pick-Index/cpp-0398/) | | |
 | | | | | | |
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [无] | [C++](0401-Binary-Watch/cpp-0401/) | | |
+| 402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [solution](https://leetcode.com/problems/remove-k-digits/solution/) [题解](https://leetcode-cn.com/problems/remove-k-digits/solution/yi-diao-kwei-shu-zi-by-leetcode/) | [C++](0402-Remove-K-Digits/cpp-0402/) | | |
 | | | | | | |
 | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [无] | [C++](0404-Sum-of-Left-Leaves/cpp-0404/) | | |
 | | | | | | |
