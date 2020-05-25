@@ -1,6 +1,6 @@
 /// Source : https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/
 /// Author : liuyubobobo
-/// Time   : 2017-10-23
+/// Time   : 2020-05-25
 
 #include <iostream>
 #include <vector>
@@ -9,27 +9,28 @@ using namespace std;
 
 
 /// Dynamic Programming
+/// Using three states every day
 /// Time Complexity: O(n)
 /// Space Complexity: O(n)
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
 
-        if(prices.size() <= 1)
+        int n = prices.size();
+
+        if(n <= 1)
             return 0;
 
-        vector<int> buy(prices.size(), 0);
-        vector<int> sell(prices.size(), 0);
+        vector<vector<int>> dp(n, vector<int>(3, 0)); // 0 hold; 1 sell(cooldown); 2 unhold
+        dp[0][0] = -prices[0];
 
-        buy[0] = -prices[0];
-        buy[1] = max(-prices[0], -prices[1]);
-        sell[1] = max(0, buy[0] + prices[1]);
-        for(int i = 2 ; i < prices.size() ; i ++){
-            sell[i] = max(sell[i-1], buy[i-1] + prices[i]);
-            buy[i] = max(buy[i-1], sell[i-2] - prices[i]);
+        for(int i = 1 ; i < n ; i ++){
+            dp[i][0] = max(dp[i - 1][0], dp[i - 1][2] - prices[i]);
+            dp[i][1] = dp[i - 1][0] + prices[i];
+            dp[i][2] = max(dp[i - 1][1], dp[i - 1][2]);
         }
 
-        return sell.back();
+        return max(dp[n - 1][1], dp[n - 1][2]);
     }
 };
 

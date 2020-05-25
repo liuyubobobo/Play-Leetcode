@@ -53,6 +53,7 @@ int main() {
 
     vector<int> prices1 = {1, 2, 3, 0, 2};
     cout << Solution().maxProfit(prices1) << endl;
+    // 3
 
     return 0;
 }
