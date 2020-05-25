@@ -34,26 +34,23 @@ private:
     int dfs(TreeNode* node, unordered_map<int, int>& freq){
 
         freq[node->val] ++;
-        if(!node->left && !node->right){
-            int res = ok(freq);
-            freq[node->val] --;
-            if(freq[node->val] == 0) freq.erase(node->val);
-            return res;
-        }
 
         int res = 0;
-        if(node->left) res += dfs(node->left, freq);
-        if(node->right) res += dfs(node->right, freq);
+        if(!node->left && !node->right) res = ok(freq);
+        else {
+            if (node->left) res += dfs(node->left, freq);
+            if (node->right) res += dfs(node->right, freq);
+        }
 
         freq[node->val] --;
         if(freq[node->val] == 0) freq.erase(node->val);
+
         return res;
     }
 
     bool ok(unordered_map<int, int>& freq){
 
         int odd = 0;
-        // for(const pair<int, int>& p: freq) cout << p.first << " " << p.second << endl; cout << endl;
         for(const pair<int, int>& p: freq)
             odd += p.second % 2;
         return odd <= 1;
