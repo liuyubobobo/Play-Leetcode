@@ -1063,6 +1063,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | [无] | [C++](1455-Check-If-a-Word-Occurs-As-a-Prefix-of-Any-Word-in-a-Sentence/cpp-1455/) | | |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [无] | [C++](1456-Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length/cpp-1456/) | | |
 | 1457 | [Pseudo Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | [无] | [C++](1457-Pseudo-Palindromic-Paths-in-a-Binary-Tree/) | | |
+| 1458 | [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | [无] | [C++](1458-Max-Dot-Product-of-Two-Subsequences/cpp-1458/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
