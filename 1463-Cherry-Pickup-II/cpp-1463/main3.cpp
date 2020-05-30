@@ -9,39 +9,38 @@
 using namespace std;
 
 
-/// Dynamic Programming with State Compression + Rolling Array
+/// Memory Search with State Compression
+/// Optimization: the two routes shouldn't cross
 /// Time Complexity: O(C^2 * R)
-/// Space Complexity: O(C^2)
+/// Space Complexity: O(C^2 * R)
 class Solution {
+
+private:
+    int R, C;
+
 public:
     int cherryPickup(vector<vector<int>>& grid) {
 
-        int R = grid.size(), C = grid[0].size();
-        unordered_map<int, int> dp;
-        dp[0 * C + C - 1] = grid[0][0] + (C == 1 ? 0 : grid[0][C - 1]);
-        for(int i = 1; i < R; i ++){
+        R = grid.size(), C = grid[0].size();
+        vector<int> dp(R * 10000 + C * 100 + C, -1);
+        return dfs(grid, 0, 0, C - 1, dp);
+    }
 
-            unordered_map<int, int> tdp;
-            for(const pair<int, int>& p: dp){
-                int a = p.first / C, b = p.first % C;
-                for(int j1 = -1; j1 <= 1; j1 ++)
-                    if(a + j1 >= 0 && a + j1 < C)
-                        for(int j2 = -1; j2 <= 1; j2 ++)
-                            if(b + j2 >= 0 && b + j2 < C){
-                                int t = p.second;
-                                if(a + j1 == b + j2) t += grid[i][a + j1];
-                                else t += (grid[i][a + j1] + grid[i][b + j2]);
+private:
+    int dfs(const vector<vector<int>>& grid, int r, int a, int b,
+            vector<int>& dp){
 
-                                int next = (a + j1) * C + b + j2;
-                                tdp[next] = max(tdp[next], t);
-                            }
-            }
-            dp = tdp;
-        }
+        if(r == R) return 0;
+        if(dp[r * 10000 + a * 100 + b] != -1) return dp[r * 10000 + a * 100 + b];
 
+        int cur = grid[r][a] + grid[r][b];
         int res = 0;
-        for(const pair<int, int>& p: dp) res = max(res, p.second);
-        return res;
+        for(int i = -1; i <= 1; i ++)
+            if(a + i >= 0 && a + i < C)
+                for(int j = -1; j <= 1; j ++)
+                    if(b + j >= 0 && b + j < C && a + i < b + j)
+                        res = max(res, cur + dfs(grid, r + 1, a + i, b + j, dp));
+        return dp[r * 10000 + a * 100 + b] = res;
     }
 };
 
