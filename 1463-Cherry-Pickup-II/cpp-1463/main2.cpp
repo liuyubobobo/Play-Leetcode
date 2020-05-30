@@ -9,7 +9,7 @@
 using namespace std;
 
 
-/// Dynamic Programming with State Compression
+/// Memory Search with State Compression
 /// Time Complexity: O(C^2 * R)
 /// Space Complexity: O(C^2 * R)
 class Solution {

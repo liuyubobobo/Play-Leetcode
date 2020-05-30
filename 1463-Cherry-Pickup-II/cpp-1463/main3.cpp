@@ -9,9 +9,9 @@
 using namespace std;
 
 
-/// Dynamic Programming with State Compression
+/// Dynamic Programming with State Compression + Rolling Array
 /// Time Complexity: O(C^2 * R)
-/// Space Complexity: O(C^2 * R)
+/// Space Complexity: O(C^2)
 class Solution {
 public:
     int cherryPickup(vector<vector<int>>& grid) {
