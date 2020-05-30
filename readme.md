@@ -1067,6 +1067,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [无] | [C++](1456-Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length/cpp-1456/) | | |
 | 1457 | [Pseudo Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | [无] | [C++](1457-Pseudo-Palindromic-Paths-in-a-Binary-Tree/) | | |
 | 1458 | [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | [无] | [C++](1458-Max-Dot-Product-of-Two-Subsequences/cpp-1458/) | | |
+| 1459 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1460 | [Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/) | [无] | [C++](1460-Make-Two-Arrays-Equal-by-Reversing-Sub-arrays/cpp-1460/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
