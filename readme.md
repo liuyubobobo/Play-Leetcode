@@ -1069,6 +1069,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1458 | [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | [无] | [C++](1458-Max-Dot-Product-of-Two-Subsequences/cpp-1458/) | | |
 | 1459 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1460 | [Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/) | [无] | [C++](1460-Make-Two-Arrays-Equal-by-Reversing-Sub-arrays/cpp-1460/) | | |
+| 1461 | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [无] | [C++](1461-Check-If-a-String-Contains-All-Binary-Codes-of-Size-K/cpp-1461/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
