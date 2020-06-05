@@ -1073,6 +1073,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1462 | [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/) | [无] | [C++](1462-Course-Schedule-IV/cpp-1462/) | | |
 | 1463 | [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | [无] | [C++](1463-Cherry-Pickup-II/cpp-1463/) | | |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [无] | [C++](1464-Maximum-Product-of-Two-Elements-in-an-Array/cpp-1464/) | | |
+| 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | [无] | [C++](1465-Maximum-Area-of-a-Piece-of-Cake-After-Horizontal-and-Vertical-Cuts/cpp-1465/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
