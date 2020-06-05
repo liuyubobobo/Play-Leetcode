@@ -23,8 +23,7 @@ public:
         for(int i = k - 1; i < s.size(); i ++){
             cur = cur * 2 + (s[i] == '1');
             set.insert(cur);
-            if(s[i - (k - 1)] == '1')
-                cur -= (1 << (k - 1));
+            cur &= ~(1 << (k - 1));
         }
         return set.size() == (1 << k);
     }

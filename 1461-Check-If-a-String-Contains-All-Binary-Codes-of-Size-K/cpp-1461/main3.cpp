@@ -23,8 +23,7 @@ public:
         for(int i = k - 1; i < s.size(); i ++){
             cur = cur * 2 + (s[i] == '1');
             used[cur] = true;
-            if(s[i - (k - 1)] == '1')
-                cur -= (1 << (k - 1));
+            cur &= ~(1 << (k - 1));
         }
 
         for(int e: used) if(!e) return false;
