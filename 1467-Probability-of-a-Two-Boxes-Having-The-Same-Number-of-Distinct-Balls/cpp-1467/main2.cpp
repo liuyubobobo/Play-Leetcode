@@ -9,9 +9,9 @@
 using namespace std;
 
 
-/// DFS to calculate all possibilities
-/// Time Complexity: O(balls[i] * balls[i] ^ balls.length)
-/// Space Complexity: O(balls.length + sum)
+/// Memory Search
+/// Time Complexity: O(balls[i]^3 * balls.length * sum)
+/// Space Complexity: O(balls[i]^2 * balls.length * sum)
 class Solution {
 
 private:
