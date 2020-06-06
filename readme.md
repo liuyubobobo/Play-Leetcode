@@ -1077,6 +1077,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1466 | [Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | [无] | [C++](1466-Reorder-Routes-to-Make-All-Paths-Lead-to-the-City-Zero/cpp-1466/) | | |
 | 1467 | [Probability of a Two Boxes Having The Same Number of Distinct Balls](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | [无] | [C++](1467-Probability-of-a-Two-Boxes-Having-The-Same-Number-of-Distinct-Balls/cpp-1467/) | | |
 | 1468 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1469 | [Find All the Lonely Nodes](https://leetcode.com/problems/find-all-the-lonely-nodes/) | [无] | [C++](1469-Find-All-the-Lonely-Nodes/cpp-1469/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
