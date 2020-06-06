@@ -1074,6 +1074,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1463 | [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | [无] | [C++](1463-Cherry-Pickup-II/cpp-1463/) | | |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [无] | [C++](1464-Maximum-Product-of-Two-Elements-in-an-Array/cpp-1464/) | | |
 | 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | [无] | [C++](1465-Maximum-Area-of-a-Piece-of-Cake-After-Horizontal-and-Vertical-Cuts/cpp-1465/) | | |
+| 1466 | [Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | [无] | [C++](1466-Reorder-Routes-to-Make-All-Paths-Lead-to-the-City-Zero/cpp-1466/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
