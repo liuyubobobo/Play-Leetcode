@@ -1080,6 +1080,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1469 | [Find All the Lonely Nodes](https://leetcode.com/problems/find-all-the-lonely-nodes/) | [无] | [C++](1469-Find-All-the-Lonely-Nodes/cpp-1469/) | | |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [无] | [C++](1470-Shuffle-the-Array/cpp-1470/) | | |
 | 1471 | [The k Strongest Values in an Array](https://leetcode.com/problems/the-k-strongest-values-in-an-array/) | [无] | [C++](1471-The-k-Strongest-Values-in-an-Array/cpp-1471/) | | |
+| 1472 | [Design Browser History](https://leetcode.com/problems/design-browser-history/) | [无] | [C++](1472-Design-Browser-History/cpp-1472/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
