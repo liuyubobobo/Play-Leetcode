@@ -10,7 +10,7 @@ using namespace std;
 
 /// Simulation
 /// Time Complexity: O(n)
-/// Space Complexity: O(1)
+/// Space Complexity: O(n)
 class Solution {
 public:
     vector<int> shuffle(vector<int>& nums, int n) {
