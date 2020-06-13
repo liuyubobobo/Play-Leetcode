@@ -1084,6 +1084,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1473 | [Paint House III](https://leetcode.com/problems/paint-house-iii/) | [无] | [C++](1473-Paint-House-III/cpp-1473/) | | |
 | | | | | | |
 | 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | [无] | [C++](1475-Final-Prices-With-a-Special-Discount-in-a-Shop/cpp-1475/) | | |
+| 1476 | [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) | [无] | [C++](1476-Subrectangle-Queries/cpp-1476/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
