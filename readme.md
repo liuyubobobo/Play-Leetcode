@@ -1085,6 +1085,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | [无] | [C++](1475-Final-Prices-With-a-Special-Discount-in-a-Shop/cpp-1475/) | | |
 | 1476 | [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) | [无] | [C++](1476-Subrectangle-Queries/cpp-1476/) | | |
+| 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [无] | [C++](1477-Find-Two-Non-overlapping-Sub-arrays-Each-With-Target-Sum/cpp-1477/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
