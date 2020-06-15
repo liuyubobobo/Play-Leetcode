@@ -1089,6 +1089,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1478 | [Allocate Mailboxes](https://leetcode.com/problems/allocate-mailboxes/) | [无] | [C++](1478-Allocate-Mailboxes/cpp-1478/) | | |
 | 1479 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [无] | [C++](1480-Running-Sum-of-1d-Array/cpp-1480/) | | |
+| 1481 | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) | [无] | [C++](1481-Least-Number-of-Unique-Integers-after-K-Removals/cpp-1481/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
