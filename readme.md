@@ -1095,6 +1095,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [无] | [C++](1482-Minimum-Number-of-Days-to-Make-m-Bouquets/cpp-1482/) | | |
 | 1483 | [Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) | [无] | [C++](1483-Kth-Ancestor-of-a-Tree-Node/cpp-1483/) | | |
 | | | | | | |
+| 1489 | [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | [无] | [C++](1489-Find-Critical-and-Pseudo-Critical-Edges-in-Minimum-Spanning-Tree/cpp-1489/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
