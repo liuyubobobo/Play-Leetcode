@@ -1084,7 +1084,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1471 | [The k Strongest Values in an Array](https://leetcode.com/problems/the-k-strongest-values-in-an-array/) | [无] | [C++](1471-The-k-Strongest-Values-in-an-Array/cpp-1471/) | | |
 | 1472 | [Design Browser History](https://leetcode.com/problems/design-browser-history/) | [无] | [C++](1472-Design-Browser-History/cpp-1472/) | | |
 | 1473 | [Paint House III](https://leetcode.com/problems/paint-house-iii/) | [无] | [C++](1473-Paint-House-III/cpp-1473/) | | |
-| | | | | | |
+| 1474 | [Delete N Nodes After M Nodes of a Linked List](https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/) | [无] | [C++](1474-Delete-N-Nodes-After-M-Nodes-of-a-Linked-List/cpp-1474/) | | |
 | 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | [无] | [C++](1475-Final-Prices-With-a-Special-Discount-in-a-Shop/cpp-1475/) | | |
 | 1476 | [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) | [无] | [C++](1476-Subrectangle-Queries/cpp-1476/) | | |
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [无] | [C++](1477-Find-Two-Non-overlapping-Sub-arrays-Each-With-Target-Sum/cpp-1477/) | | |
@@ -1094,7 +1094,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1481 | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) | [无] | [C++](1481-Least-Number-of-Unique-Integers-after-K-Removals/cpp-1481/) | | |
 | 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [无] | [C++](1482-Minimum-Number-of-Days-to-Make-m-Bouquets/cpp-1482/) | | |
 | 1483 | [Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) | [无] | [C++](1483-Kth-Ancestor-of-a-Tree-Node/cpp-1483/) | | |
-| | | | | | |
+| 1484 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1485 | [Clone Binary Tree With Random Pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/) | [无] | [C++](1485-Clone-Binary-Tree-With-Random-Pointer/cpp-1485/) | | |
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [无] | [C++](1486-XOR-Operation-in-an-Array/cpp-1486/) | | |
 | 1487 | [Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/) | [无] | [C++](1487-Making-File-Names-Unique/cpp-1487/) | | |
