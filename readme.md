@@ -1098,7 +1098,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [无] | [C++](1486-XOR-Operation-in-an-Array/cpp-1486/) | | |
 | 1487 | [Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/) | [无] | [C++](1487-Making-File-Names-Unique/cpp-1487/) | | |
 | 1488 | [Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/) | [无] | [C++](1488-Avoid-Flood-in-The-City/cpp-1488/) | | |
-| 1489 | [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | [无] | [C++](1489-Find-Critical-and-Pseudo-Critical-Edges-in-Minimum-Spanning-Tree/cpp-1489/) | | |
+| 1489 | [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | [无]<br/>[缺：O(ElogE) 的解] | [C++](1489-Find-Critical-and-Pseudo-Critical-Edges-in-Minimum-Spanning-Tree/cpp-1489/) | | |
+| 1490 | [Clone N-ary Tree](https://leetcode.com/problems/clone-n-ary-tree/) | [无] | [C++](1490-Clone-N-ary-Tree/cpp-1490/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
