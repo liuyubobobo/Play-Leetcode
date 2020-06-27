@@ -1103,6 +1103,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1489 | [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | [无]<br/>[缺：O(ElogE) 的解] | [C++](1489-Find-Critical-and-Pseudo-Critical-Edges-in-Minimum-Spanning-Tree/cpp-1489/) | | |
 | 1490 | [Clone N-ary Tree](https://leetcode.com/problems/clone-n-ary-tree/) | [无] | [C++](1490-Clone-N-ary-Tree/cpp-1490/) | | |
 | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [无] | [C++](1491-Average-Salary-Excluding-the-Minimum-and-Maximum-Salary/cpp-1491/) | | |
+| 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | [无] | [C++](1492-The-kth-Factor-of-n/cpp-1492/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
