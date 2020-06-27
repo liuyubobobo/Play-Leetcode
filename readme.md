@@ -1104,6 +1104,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1490 | [Clone N-ary Tree](https://leetcode.com/problems/clone-n-ary-tree/) | [无] | [C++](1490-Clone-N-ary-Tree/cpp-1490/) | | |
 | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [无] | [C++](1491-Average-Salary-Excluding-the-Minimum-and-Maximum-Salary/cpp-1491/) | | |
 | 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | [无] | [C++](1492-The-kth-Factor-of-n/cpp-1492/) | | |
+| 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | [无] | [C++](1493-Longest-Subarray-of-1's-After-Deleting-One-Element/cpp-1493/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
