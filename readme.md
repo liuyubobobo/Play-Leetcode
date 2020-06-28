@@ -1106,6 +1106,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | [无] | [C++](1492-The-kth-Factor-of-n/cpp-1492/) | | |
 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | [无] | [C++](1493-Longest-Subarray-of-1's-After-Deleting-One-Element/cpp-1493/) | | |
 | | | | | | |
+| 1497 | [Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | [无] | [C++](1497-Check-If-Array-Pairs-Are-Divisible-by-k/cpp-1497/) | | |
 | 1498 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | [无] | [C++](1498-Number-of-Subsequences-That-Satisfy-the-Given-Sum-Condition/cpp-1498/) | | |
 | 1499 | [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/) | [无] | [C++](1499-Max-Value-of-Equation/cpp-1499/) | | |
 | | | | | | |
