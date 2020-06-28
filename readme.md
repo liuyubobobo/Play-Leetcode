@@ -1106,6 +1106,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | [无] | [C++](1492-The-kth-Factor-of-n/cpp-1492/) | | |
 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | [无] | [C++](1493-Longest-Subarray-of-1's-After-Deleting-One-Element/cpp-1493/) | | |
 | | | | | | |
+| 1499 | [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/) | [无] | [C++](1499-Max-Value-of-Equation/cpp-1499/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
