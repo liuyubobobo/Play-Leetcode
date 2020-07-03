@@ -26,7 +26,7 @@ public:
 
             // 取出红黑树中的最大 y - x 值，如果不满足约束，则删除
             while(!tree.empty() && points[i][0] - tree.rbegin()->second > k)
-                tree.erase(*tree.rbegin());
+                tree.erase(--tree.end());
 
             // 使用红黑树最大元素信息更新解
             if(!tree.empty())
