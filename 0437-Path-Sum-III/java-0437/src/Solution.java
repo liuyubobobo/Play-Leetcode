@@ -3,7 +3,7 @@
 /// Time   : 2017-11-18
 
 /// Recursive
-/// Time Complexity: O(n), where n is the node's number of the tree
+/// Time Complexity: O(n^2), where n is the node's number of the tree
 /// Space Complexity: O(h), where h is the height of the tree
 class Solution {
 
