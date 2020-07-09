@@ -19,5 +19,4 @@ class Solution {
 
         return countLeft + countRight + 1;
     }
-
 }
