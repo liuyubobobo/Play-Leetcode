@@ -938,6 +938,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [无] | [C++](1304-Find-N-Unique-Integers-Sum-up-to-Zero/cpp-1304/) | | |
 | 1305 | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | [无] | [C++](1305-All-Elements-in-Two-Binary-Search-Trees/cpp-1305/) | | |
 | 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [无] | [C++](1306-Jump-Game-III/cpp-1306/) | | |
+| 1307 | [Verbal Arithmetic Puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle/) | [无] | [C++](1307-Verbal-Arithmetic-Puzzle/cpp-1307/) | | |
 | | | | | | |
 | 1309 | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | [无] | [C++](1309-Decrypt-String-from-Alphabet-to-Integer-Mapping/cpp-1309/) | | |
 | 1310 | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/) | [无] | [C++](1310-XOR-Queries-of-a-Subarray/cpp-1310/) | | |
