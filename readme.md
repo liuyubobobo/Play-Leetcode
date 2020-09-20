@@ -1114,6 +1114,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1499 | [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/) | [无] | [C++](1499-Max-Value-of-Equation/cpp-1499/) | | |
 | | | | | | |
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [无] | [C++](1588-Sum-of-All-Odd-Length-Subarrays/cpp-1588/) | | |
+| 1589 | [Maximum Sum Obtained of Any Permutation](https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/) | [无] | [C++](1589-Maximum-Sum-Obtained-of-Any-Permutation/cpp-1589/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
