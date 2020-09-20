@@ -1117,6 +1117,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1589 | [Maximum Sum Obtained of Any Permutation](https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/) | [无] | [C++](1589-Maximum-Sum-Obtained-of-Any-Permutation/cpp-1589/) | | |
 | 1590 | [Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/) | [无] | [C++](1590-Make-Sum-Divisible-by-P/cpp-1590/) | | |
 | | | | | | |
+| 1592 | [Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/) | [无] | [C++](1592-Rearrange-Spaces-Between-Words/cpp-1592/) | | |
 | 1593 | [Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | [无] | [C++](1593-Split-a-String-Into-the-Max-Number-of-Unique-Substrings/cpp-1593/) | | |
 | 1594 | [Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) | [无] | [C++](1594-Maximum-Non-Negative-Product-in-a-Matrix/cpp-1594/) | | |
 | 1595 | [Minimum Cost to Connect Two Groups of Points](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/) | [无] | [C++](1595-Minimum-Cost-to-Connect-Two-Groups-of-Points/cpp-1595/) | | |
