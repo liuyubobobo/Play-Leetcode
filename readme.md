@@ -1116,7 +1116,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [无] | [C++](1588-Sum-of-All-Odd-Length-Subarrays/cpp-1588/) | | |
 | 1589 | [Maximum Sum Obtained of Any Permutation](https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/) | [无] | [C++](1589-Maximum-Sum-Obtained-of-Any-Permutation/cpp-1589/) | | |
 | 1590 | [Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/) | [无] | [C++](1590-Make-Sum-Divisible-by-P/cpp-1590/) | | |
-| | | | | | |
+| 1591 | [Strange Printer II](https://leetcode.com/problems/strange-printer-ii/) | [无] | [C++](1591-Strange-Printer-II/cpp-1591/) | | |
 | 1592 | [Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/) | [无] | [C++](1592-Rearrange-Spaces-Between-Words/cpp-1592/) | | |
 | 1593 | [Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | [无] | [C++](1593-Split-a-String-Into-the-Max-Number-of-Unique-Substrings/cpp-1593/) | | |
 | 1594 | [Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) | [无] | [C++](1594-Maximum-Non-Negative-Product-in-a-Matrix/cpp-1594/) | | |

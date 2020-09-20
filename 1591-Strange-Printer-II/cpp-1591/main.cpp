@@ -1,72 +1,83 @@
+/// Source : https://leetcode.com/problems/strange-printer-ii/
+/// Author : liuyubobobo
+/// Time   : 2020-09-20
+
 #include <iostream>
 #include <vector>
 #include <unordered_map>
-#include <unordered_set>
 
 using namespace std;
 
 
+/// Simulation
+/// Time Complexity: O(num^2 * m * n)
+/// Space Complexity: O(m * n + num)
 class Solution {
 
 private:
     class Rectangle{
     public:
-        int color, minx, maxx, miny, maxy;
-        unordered_set<int> points;
+        int color, minx, maxx, miny, maxy, cnt;
 
-        Rectangle(int color): color(color),
+        Rectangle(int color): color(color), cnt(0),
                               minx(INT_MAX), maxx(INT_MIN), miny(INT_MAX), maxy(INT_MIN){}
 
-        Rectangle(): Rectangle(-1){};
-
-        const int diff() const{
-            return (maxx - minx + 1) * (maxy - miny + 1) - points.size();
+        int diff() const{
+            return (maxx - minx + 1) * (maxy - miny + 1) - cnt;
         }
     };
 
 public:
     bool isPrintable(vector<vector<int>>& targetGrid) {
 
-        unordered_map<int, Rectangle> table;
+        vector<Rectangle*> table(61, NULL);
 
         for(int i = 0; i < targetGrid.size(); i ++)
             for(int j = 0; j < targetGrid[i].size(); j ++){
-                if(!table.count(targetGrid[i][j]))
-                    table[targetGrid[i][j]] = Rectangle(targetGrid[i][j]);
-                table[targetGrid[i][j]].minx = min(table[targetGrid[i][j]].minx, i);
-                table[targetGrid[i][j]].maxx = max(table[targetGrid[i][j]].maxx, i);
-                table[targetGrid[i][j]].miny = min(table[targetGrid[i][j]].miny, j);
-                table[targetGrid[i][j]].maxy = max(table[targetGrid[i][j]].maxy, j);
-                table[targetGrid[i][j]].points.insert(i * 70 + j);
+                int color = targetGrid[i][j];
+                if(!table[color])
+                    table[color] = new Rectangle(color);
+                table[color]->minx = min(table[color]->minx, i);
+                table[color]->maxx = max(table[color]->maxx, i);
+                table[color]->miny = min(table[color]->miny, j);
+                table[color]->maxy = max(table[color]->maxy, j);
+                table[color]->cnt ++;
             }
 
-        vector<Rectangle> q;
-        for(const pair<int, Rectangle>& p: table)
-            if(p.second.diff() == 0)
-                q.push_back(p.second);
-
-        for(const Rectangle& rec: q) table.erase(rec.color);
+        vector<Rectangle*> q;
+        for(int i = 1; i <= 60; i ++)
+            if(table[i] && table[i]->diff() == 0){
+                q.push_back(table[i]);
+                table[i] = NULL;
+            }
 
         while(!q.empty()){
 
-            Rectangle cur = q.back();
+            Rectangle* cur = q.back();
             q.pop_back();
 
-            for(const pair<int, Rectangle>& p: table){
-                Rectangle rec = p.second;
-                for(int i = cur.minx; i <= cur.maxx; i ++)
-                    if(rec.minx <= i && i <= rec.maxx)
-                        for(int j = cur.miny; j <= cur.maxy; j ++)
-                            if(rec.miny <= j && j <= rec.maxy)
-                                rec.points.insert(i * 70 + j);
-                table[p.first] = rec;
+            for(int i = 1; i <= 60; i ++)
+                if(table[i]){
+                    Rectangle* rec = table[i];
+                    for(int i = cur->minx; i <= cur->maxx; i ++)
+                        if(rec->minx <= i && i <= rec->maxx)
+                            for(int j = cur->miny; j <= cur->maxy; j ++)
+                                if(rec->miny <= j && j <= rec->maxy)
+                                    rec->cnt += (targetGrid[i][j] != 0);
 
-                if(rec.diff() == 0) q.push_back(rec);
-            }
+                    if(rec->diff() == 0){
+                        q.push_back(rec);
+                        table[i] = NULL;
+                    }
+                }
 
-            for(const Rectangle& rec: q) table.erase(rec.color);
+            for(int i = cur->minx; i <= cur->maxx; i ++)
+                for(int j = cur->miny; j <= cur->maxy; j ++)
+                    targetGrid[i][j] = 0;
         }
-        return table.size() == 0;
+
+        for(int i = 1; i <= 60; i ++) if(table[i]) return false;
+        return true;
     }
 };
 
