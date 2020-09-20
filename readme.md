@@ -1115,6 +1115,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [无] | [C++](1588-Sum-of-All-Odd-Length-Subarrays/cpp-1588/) | | |
 | 1589 | [Maximum Sum Obtained of Any Permutation](https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/) | [无] | [C++](1589-Maximum-Sum-Obtained-of-Any-Permutation/cpp-1589/) | | |
+| 1590 | [Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/) | [无] | [C++](1590-Make-Sum-Divisible-by-P/cpp-1590/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
