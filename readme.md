@@ -1148,4 +1148,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | LCP22 | [黑白方格画](https://leetcode-cn.com/problems/ccw6C7/) | [无] | [C++](LCP22/cpp-LCP22/) | | |
 | LCP23 | [魔术排列](https://leetcode-cn.com/problems/er94lq/) | [无] | [C++](LCP23/cpp-LCP23/) | | |
 | LCP24 | [数字游戏](https://leetcode-cn.com/problems/5TxKeK/) | [无] | [C++](LCP24/cpp-LCP24/) | | |
+| LCP25 | [古董键盘](https://leetcode-cn.com/problems/Uh984O/) | [无] | [C++](LCP25/cpp-LCP25/) | | |
 | | | | | | |
