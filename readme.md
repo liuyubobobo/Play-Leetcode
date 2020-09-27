@@ -1124,6 +1124,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1595 | [Minimum Cost to Connect Two Groups of Points](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/) | [无] | [C++](1595-Minimum-Cost-to-Connect-Two-Groups-of-Points/cpp-1595/) | | |
 | | | | | | |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | [无] | [C++](1598-Crawler-Log-Folder/cpp-1598/) | | |
+| 1599 | [Maximum Profit of Operating a Centennial Wheel](https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/) | [无] | [C++](1599-Maximum-Profit-of-Operating-a-Centennial-Wheel/cpp-1599/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
