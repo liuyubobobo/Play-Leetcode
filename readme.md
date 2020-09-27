@@ -1126,6 +1126,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | [无] | [C++](1598-Crawler-Log-Folder/cpp-1598/) | | |
 | 1599 | [Maximum Profit of Operating a Centennial Wheel](https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/) | [无] | [C++](1599-Maximum-Profit-of-Operating-a-Centennial-Wheel/cpp-1599/) | | |
 | 1600 | [Throne Inheritance](https://leetcode.com/problems/throne-inheritance/) | [无] | [C++](1600-Throne-Inheritance/cpp-1600/) | | |
+| 1601 | [Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/) | [无] | [C++](1601-Maximum-Number-of-Achievable-Transfer-Requests/cpp-1601/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
