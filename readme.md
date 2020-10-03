@@ -1122,11 +1122,14 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1593 | [Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | [无] | [C++](1593-Split-a-String-Into-the-Max-Number-of-Unique-Substrings/cpp-1593/) | | |
 | 1594 | [Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) | [无] | [C++](1594-Maximum-Non-Negative-Product-in-a-Matrix/cpp-1594/) | | |
 | 1595 | [Minimum Cost to Connect Two Groups of Points](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/) | [无] | [C++](1595-Minimum-Cost-to-Connect-Two-Groups-of-Points/cpp-1595/) | | |
+| 1596 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | [无] | [C++](1598-Crawler-Log-Folder/cpp-1598/) | | |
 | 1599 | [Maximum Profit of Operating a Centennial Wheel](https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/) | [无] | [C++](1599-Maximum-Profit-of-Operating-a-Centennial-Wheel/cpp-1599/) | | |
 | 1600 | [Throne Inheritance](https://leetcode.com/problems/throne-inheritance/) | [无] | [C++](1600-Throne-Inheritance/cpp-1600/) | | |
 | 1601 | [Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/) | [无] | [C++](1601-Maximum-Number-of-Achievable-Transfer-Requests/cpp-1601/) | | |
+| | | | | | |
+| 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | [无] | [C++](1603-Design-Parking-System/cpp-1603/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
