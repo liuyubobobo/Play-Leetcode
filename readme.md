@@ -125,7 +125,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 079 | [Word Search](https://leetcode.com/problems/word-search/description/) | [无] | [C++](0079-Word-Search/cpp-0079/) | [Java](0079-Word-Search/java-0079/src/) | |
 | 080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) | [无] | [C++](0080-Remove-Duplicates-from-Sorted-Array-II/cpp-0080/) | | |
-| | | | | | |
+| 081 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [solution](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/solution/) | [C++](0081-Search-in-Rotated-Sorted-Array-II/cpp-0081/) | | |
 | 082 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [无] | [C++](0082-Remove-Duplicates-from-Sorted-List-II/cpp-0082/) | | |
 | 083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [无] | [C++](0083-Remove-Duplicates-from-Sorted-List/cpp-0083/) | | |
 | 084 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [solution](https://leetcode.com/problems/largest-rectangle-in-histogram/solution/) [题解](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/solution/zhu-zhuang-tu-zhong-zui-da-de-ju-xing-by-leetcode/) | [C++](0084-Largest-Rectangle-in-Histogram/cpp-0084/) | | |
