@@ -1136,6 +1136,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1610 | [Maximum Number of Visible Points](https://leetcode.com/problems/maximum-number-of-visible-points/) | [无] | [C++](1610-Maximum-Number-of-Visible-Points/cpp-1610/) | | |
 | 1611 | [Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | [无] | [C++](1611-Minimum-One-Bit-Operations-to-Make-Integers-Zero/cpp-1611/) | | |
 | | | | | | |
+| 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [无] | [C++](1614-Maximum-Nesting-Depth-of-the-Parentheses/cpp-1614/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
