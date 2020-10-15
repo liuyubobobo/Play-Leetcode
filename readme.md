@@ -431,6 +431,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/) | [solution](https://leetcode.com/problems/reverse-string-ii/solution/) | [C++](0541-Reverse-String-II/cpp-0541/) | | |
 | 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/description/) | [solution](https://leetcode.com/problems/01-matrix/solution/) | [C++](0542-01-Matrix/cpp-0542/) | | |
+| 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [solution](https://leetcode.com/problems/diameter-of-binary-tree/solution/) | [C++](0543-Diameter-of-Binary-Tree/cpp-0543/) | | |
 | | | | | | |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | [solution](https://leetcode.com/problems/reverse-words-in-a-string-iii/solution/) | [C++](0557-Reverse-Words-in-a-String-III/cpp-0557/) | | |
 | | | | | | |
