@@ -24,7 +24,7 @@ public:
         for(int i = 0; i <= (1 << n) - 1; i ++){
             int d = getd(n, g, i);
 //            cout << "state " << i << " : " << d << endl;
-            assert(d >= 0 && d < n);
+//            assert(d >= 0 && d < n);
             if(d) res[d - 1] ++;
         }
         return res;
@@ -33,50 +33,29 @@ public:
 private:
     int getd(int n, const vector<unordered_set<int>>& g, int state){
 
-        int visited = 0;
         for(int i = 0; i < n; i ++)
             if(state & (1 << i)){
-                dfs1(n, g, i, state, visited);
-                break;
-            }
-
-        if(state != visited) return 0;
-
-        for(int i = 0; i < n; i ++)
-            if(state & (1 << i)){
-                visited = 0;
-                pair<int, int> res = dfs2(n, g, i, state, visited);
-                return res.second;
+                int visited = 0, res = 0;
+                dfs(n, g, i, state, visited, res);
+                return visited == state ? res : 0;
             }
         return 0;
     }
 
-    void dfs1(int n, const vector<unordered_set<int>>& g, int v, int state, int& visited){
-
-        visited |= (1 << v);
-        for(int next: g[v])
-            if((state & (1 << next)) && !(visited & (1 << next)))
-                dfs1(n, g, next, state, visited);
-    }
-
-    pair<int, int> dfs2(int n, const vector<unordered_set<int>>& g, int v, int state, int& visited){
+    int dfs(int n, const vector<unordered_set<int>>& g, int v, int state,
+            int& visited, int& res){
 
         visited |= (1 << v);
 
-        int res = 0;
-        vector<int> dis;
+        int first = 0, second = 0;
         for(int next: g[v])
-            if((state & (1 << next)) && !(visited & (1 << next))) {
-                pair<int, int> tres = dfs2(n, g, next, state, visited);
-                res = max(res, tres.second);
-                dis.push_back(tres.first + 1);
+            if((state & (1 << next)) && !(visited & (1 << next))){
+                int t = dfs(n, g, next, state, visited, res) + 1;
+                if(t >= first) second = first, first = t;
+                else if(t > second) second = t;
             }
-
-        if(dis.size() == 0) return {0, res};
-        if(dis.size() == 1) return {dis[0], max(res, dis[0])};
-
-        sort(dis.begin(), dis.end(), greater<int>());
-        return {dis[0], max(res, dis[0] + dis[1])};
+        res = max(res, first + second);
+        return first;
     }
 };
 
