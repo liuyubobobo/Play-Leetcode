@@ -1145,6 +1145,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1615 | [Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/) | [无] | [C++](1615-Maximal-Network-Rank/cpp-1615/) | | |
 | 1616 | [Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/) | [无] | [C++](1616-Split-Two-Strings-to-Make-Palindrome/cpp-1616/) | | |
 | 1617 | [Count Subtrees With Max Distance Between Cities](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/) | [无] | [C++](1617-Count-Subtrees-With-Max-Distance-Between-Cities/cpp-1617/) | | |
+| 1618 | [Maximum Font to Fit a Sentence in a Screen](https://leetcode.com/problems/maximum-font-to-fit-a-sentence-in-a-screen/) | [无] | [C++](1618-Maximum-Font-to-Fit-a-Sentence-in-a-Screen/cpp-1618/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
