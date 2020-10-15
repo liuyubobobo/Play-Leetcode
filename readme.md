@@ -1137,6 +1137,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1611 | [Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | [无] | [C++](1611-Minimum-One-Bit-Operations-to-Make-Integers-Zero/cpp-1611/) | | |
 | | | | | | |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [无] | [C++](1614-Maximum-Nesting-Depth-of-the-Parentheses/cpp-1614/) | | |
+| 1615 | [Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/) | [无] | [C++](1615-Maximal-Network-Rank/cpp-1615/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
