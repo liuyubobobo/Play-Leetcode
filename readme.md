@@ -430,6 +430,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) | [无] | | [Java](0530-Minimum-Absolute-Difference-in-BST/java-0530/src/) | |
 | 531 | [Lonely Pixel I](https://leetcode.com/problems/lonely-pixel-i/) | [无] | [C++](0531-Lonely-Pixel-I/cpp-0531/) | | |
 | | | | | | |
+| 533 | [Lonely Pixel II](https://leetcode.com/problems/lonely-pixel-ii/) | [无] | [C++](0533-Lonely-Pixel-II/cpp-0533/) | | |
+| | | | | | |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/) | [solution](https://leetcode.com/problems/reverse-string-ii/solution/) | [C++](0541-Reverse-String-II/cpp-0541/) | | |
 | 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/description/) | [solution](https://leetcode.com/problems/01-matrix/solution/) | [C++](0542-01-Matrix/cpp-0542/) | | |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [solution](https://leetcode.com/problems/diameter-of-binary-tree/solution/) | [C++](0543-Diameter-of-Binary-Tree/cpp-0543/) | | |
