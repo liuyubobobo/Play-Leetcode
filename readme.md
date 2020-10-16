@@ -428,6 +428,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 528 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/description/) | [solution](https://leetcode.com/problems/random-pick-with-weight/solution/) | [C++](0528-Random-Pick-with-Weight/cpp-0528/) | | |
 | 529 | [Minesweeper](https://leetcode.com/problems/minesweeper/) | [无] | [C++](0529-Minesweeper/cpp-0529/) | | |
 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) | [无] | | [Java](0530-Minimum-Absolute-Difference-in-BST/java-0530/src/) | |
+| 531 | [Lonely Pixel I](https://leetcode.com/problems/lonely-pixel-i/) | [无] | [C++](0531-Lonely-Pixel-I/cpp-0531/) | | |
 | | | | | | |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/) | [solution](https://leetcode.com/problems/reverse-string-ii/solution/) | [C++](0541-Reverse-String-II/cpp-0541/) | | |
 | 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/description/) | [solution](https://leetcode.com/problems/01-matrix/solution/) | [C++](0542-01-Matrix/cpp-0542/) | | |
