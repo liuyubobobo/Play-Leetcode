@@ -1134,6 +1134,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1601 | [Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/) | [无]<br/>[缺：网络流解法] | [C++](1601-Maximum-Number-of-Achievable-Transfer-Requests/cpp-1601/) | | |
 | | | | | | |
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | [无] | [C++](1603-Design-Parking-System/cpp-1603/) | | |
+| 1604 | [Alert Using Same Key-Card Three or More Times in a One Hour Period](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | [无] | [C++](1604-Alert-Using-Same-Key-Card-Three-or-More-Times-in-a-One-Hour-Period/cpp-1604/) | | |
 | | | | | | |
 | 1607 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1608 | [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | [无] | [C++](1608-Special-Array-With-X-Elements-Greater-Than-or-Equal-X/cpp-1608/) | | |
