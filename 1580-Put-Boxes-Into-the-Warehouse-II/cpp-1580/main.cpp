@@ -8,7 +8,7 @@
 using namespace std;
 
 
-/// Sorting and Two Pointers
+/// Sorting and Greedy and Two Pointers
 /// Time Complexity: O(nlogn + mlogm + (n + m))
 /// Space Complexity: O(1)
 class Solution {

@@ -1122,6 +1122,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1522 | [Diameter of N-Ary Tree](https://leetcode.com/problems/diameter-of-n-ary-tree/) | [无] | [C++](1522-Diameter-of-N-Ary-Tree/cpp-1522/) | | |
 | | | | | | |
+| 1564 | [Put Boxes Into the Warehouse I](https://leetcode.com/problems/put-boxes-into-the-warehouse-i/) |  [无] | [C++](1564-Put-Boxes-Into-the-Warehouse-I/cpp-1564/) | | |
+| | | | | | |
 | 1580 | [Put Boxes Into the Warehouse II](https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/) | [无] | [C++](1580-Put-Boxes-Into-the-Warehouse-II/cpp-1580/) | | |
 | 1581 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1582 | [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | [无] | [C++](1582-Special-Positions-in-a-Binary-Matrix/cpp-1582/) | | |
