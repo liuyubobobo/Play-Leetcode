@@ -54,6 +54,7 @@ int main() {
 
     vector<int> rods2 = {1, 2};
     cout << Solution().tallestBillboard(rods2) << endl;
+    // 0
 
     return 0;
 }
