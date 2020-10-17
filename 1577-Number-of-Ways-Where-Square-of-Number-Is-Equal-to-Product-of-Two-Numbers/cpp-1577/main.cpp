@@ -1,6 +1,6 @@
 /// Source : https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/
 /// Author : liuyubobobo
-/// Time   : 2020-10-17
+/// Time   : 2020-09-05
 
 #include <iostream>
 #include <vector>
