@@ -1125,7 +1125,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1582 | [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | [无] | [C++](1582-Special-Positions-in-a-Binary-Matrix/cpp-1582/) | | |
 | 1583 | [Count Unhappy Friends](https://leetcode.com/problems/count-unhappy-friends/) | [无] | [C++](1583-Count-Unhappy-Friends/cpp-1583/) | | |
 | 1584 | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | [无]<br/>[缺：prim 和 ] | [C++](1584-Min-Cost-to-Connect-All-Points/cpp-1584/) | | |
-| | | | | | |
+| 1585 | [Check If String Is Transformable With Substring Sort Operations](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/) | [无] | [C++](1585-Check-If-String-Is-Transformable-With-Substring-Sort-Operations/cpp-1585/) | | |
 | 1586 | [Binary Search Tree Iterator II](https://leetcode.com/problems/binary-search-tree-iterator-ii/) | [无]<br/>[缺：用栈模拟] | [C++](1586-Binary-Search-Tree-Iterator-II/cpp-1586/) | | |
 | 1587 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [无] | [C++](1588-Sum-of-All-Odd-Length-Subarrays/cpp-1588/) | | |
