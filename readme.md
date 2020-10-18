@@ -1167,7 +1167,9 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1616 | [Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/) | [无] | [C++](1616-Split-Two-Strings-to-Make-Palindrome/cpp-1616/) | | |
 | 1617 | [Count Subtrees With Max Distance Between Cities](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/) | [无] | [C++](1617-Count-Subtrees-With-Max-Distance-Between-Cities/cpp-1617/) | | |
 | 1618 | [Maximum Font to Fit a Sentence in a Screen](https://leetcode.com/problems/maximum-font-to-fit-a-sentence-in-a-screen/) | [无] | [C++](1618-Maximum-Font-to-Fit-a-Sentence-in-a-Screen/cpp-1618/) | | |
+| 1619 | [Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/) | [无] | [C++](1619-Mean-of-Array-After-Removing-Some-Elements/cpp-1619/) | | |
 | | | | | | |
+| 1623 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1624 | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | [无] | [C++](1624-Largest-Substring-Between-Two-Equal-Characters/cpp-1624/) | | |
 | 1625 | [Lexicographically Smallest String After Applying Operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/) | [无] | [C++](1625-Lexicographically-Smallest-String-After-Applying-Operations/cpp-1625/) | | |
 | 1626 | [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/) | [无]<br/>[缺：nlogn 算法] | [C++](1626-Best-Team-With-No-Conflicts/cpp-1626/) | | |
