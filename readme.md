@@ -1169,6 +1169,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1618 | [Maximum Font to Fit a Sentence in a Screen](https://leetcode.com/problems/maximum-font-to-fit-a-sentence-in-a-screen/) | [无] | [C++](1618-Maximum-Font-to-Fit-a-Sentence-in-a-Screen/cpp-1618/) | | |
 | | | | | | |
 | 1624 | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | [无] | [C++](1624-Largest-Substring-Between-Two-Equal-Characters/cpp-1624/) | | |
+| 1625 | [Lexicographically Smallest String After Applying Operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/) | [无] | [C++](1625-Lexicographically-Smallest-String-After-Applying-Operations/cpp-1625/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
