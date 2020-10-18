@@ -1168,6 +1168,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1617 | [Count Subtrees With Max Distance Between Cities](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/) | [无] | [C++](1617-Count-Subtrees-With-Max-Distance-Between-Cities/cpp-1617/) | | |
 | 1618 | [Maximum Font to Fit a Sentence in a Screen](https://leetcode.com/problems/maximum-font-to-fit-a-sentence-in-a-screen/) | [无] | [C++](1618-Maximum-Font-to-Fit-a-Sentence-in-a-Screen/cpp-1618/) | | |
 | 1619 | [Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/) | [无] | [C++](1619-Mean-of-Array-After-Removing-Some-Elements/cpp-1619/) | | |
+| 1620 | [Coordinate With Maximum Network Quality](https://leetcode.com/problems/coordinate-with-maximum-network-quality/) | [无] | [C++](1620-Coordinate-With-Maximum-Network-Quality/cpp-1620/) | | |
 | | | | | | |
 | 1623 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1624 | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | [无] | [C++](1624-Largest-Substring-Between-Two-Equal-Characters/cpp-1624/) | | |
