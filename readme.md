@@ -1170,6 +1170,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1624 | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | [无] | [C++](1624-Largest-Substring-Between-Two-Equal-Characters/cpp-1624/) | | |
 | 1625 | [Lexicographically Smallest String After Applying Operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/) | [无] | [C++](1625-Lexicographically-Smallest-String-After-Applying-Operations/cpp-1625/) | | |
+| 1626 | [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/) | [无]<br/>[缺：nlogn 算法] | [C++](1626-Best-Team-With-No-Conflicts/cpp-1626/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
