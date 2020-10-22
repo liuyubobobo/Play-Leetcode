@@ -1,6 +1,7 @@
 /// Source : https://leetcode.com/problems/count-complete-tree-nodes/
 /// Author : liuyubobobo
 /// Time   : 2018-08-02
+/// Updated: 2020-10-22
 
 #include <iostream>
 #include <cassert>
@@ -27,13 +28,13 @@ public:
         if(root == NULL)
             return 0;
 
-        int leftLeft = leftHeight(root->left);
-        int leftRight = rightHeight(root->left);
-        if(leftLeft == leftRight)
-            return 1 + ((1<<leftLeft) - 1) + countNodes(root->right);
+        int left = leftHeight(root);
+        int right = rightHeight(root);
+        if(left == right)
+            return (1 << left) - 1;
 
-        assert(leftLeft == leftRight + 1);
-        return 1 + ((1<<leftRight) - 1) + countNodes(root->left);
+//        assert(left == right + 1);
+        return 1 + countNodes(root->left) + countNodes(root->right);
     }
 
 private:
