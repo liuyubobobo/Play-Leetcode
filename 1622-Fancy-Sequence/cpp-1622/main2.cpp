@@ -41,7 +41,7 @@ private:
     void update(int treeID, int treeL, int treeR, int uL, int uR, int inc, int mul){
 
         if(lazya[treeID] != 0 || lazym[treeID] != 1){
-            tree[treeID] = (tree[treeID] + tree[treeID] * (lazym[treeID] - 1) + (treeR - treeL + 1)* lazya[treeID]) % MOD;
+            tree[treeID] = (tree[treeID] * lazym[treeID] + (treeR - treeL + 1)* lazya[treeID]) % MOD;
             if(treeL != treeR){
                 lazym[2 * treeID + 1] = lazym[2 * treeID + 1] * lazym[treeID] % MOD;
                 lazya[2 * treeID + 1] = lazya[2 * treeID + 1] * lazym[treeID] % MOD;
@@ -81,7 +81,7 @@ private:
     int query(int treeID, int treeL, int treeR, int index){
 
         if(lazya[treeID] != 0 || lazym[treeID] != 1){
-            tree[treeID] = (tree[treeID] + tree[treeID] * (lazym[treeID] - 1) + (treeR - treeL + 1)* lazya[treeID]) % MOD;
+            tree[treeID] = (tree[treeID] * lazym[treeID] + (treeR - treeL + 1)* lazya[treeID]) % MOD;
             if(treeL != treeR){
                 lazym[2 * treeID + 1] = lazym[2 * treeID + 1] * lazym[treeID] % MOD;
                 lazya[2 * treeID + 1] = lazya[2 * treeID + 1] * lazym[treeID] % MOD;
@@ -106,7 +106,6 @@ private:
 class Fancy {
 
 private:
-    const long long MOD = 1e9 + 7;
     SegmentTree tree;
     int len = 0;
 

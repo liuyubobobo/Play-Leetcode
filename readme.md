@@ -1124,7 +1124,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1564 | [Put Boxes Into the Warehouse I](https://leetcode.com/problems/put-boxes-into-the-warehouse-i/) |  [无] | [C++](1564-Put-Boxes-Into-the-Warehouse-I/cpp-1564/) | | |
 | | | | | | |
-| 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | [无] | [C++](1576-Replace-All-?s-to-Avoid-Consecutive-Repeating-Characters/cpp-1576/) | | |
+| 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | [无] | [C++](1576-Replace-All-Question-Marks-to-Avoid-Consecutive-Repeating-Characters/cpp-1576/) | | |
 | 1577 | [Number of Ways Where Square of Number Is Equal to Product of Two Numbers](https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | [无] | [C++](1576-Number-of-Ways-Where-Square-of-Number-Is-Equal-to-Product-of-Two-Numbers/cpp-1577/) | | |
 | 1578 | [Minimum Deletion Cost to Avoid Repeating Letters](https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/) | [无] | [C++](1578-Minimum-Deletion-Cost-to-Avoid-Repeating-Letters/cpp-1578/) | | |
 | 1579 | [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | [无] | [C++](1579-Remove-Max-Number-of-Edges-to-Keep-Graph-Fully-Traversable/cpp-1579/) | | |
