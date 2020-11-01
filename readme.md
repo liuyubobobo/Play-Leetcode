@@ -1177,6 +1177,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1626 | [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/) | [无]<br/>[缺：nlogn 算法] | [C++](1626-Best-Team-With-No-Conflicts/cpp-1626/) | | |
 | 1627 | [Graph Connectivity With Threshold](https://leetcode.com/problems/graph-connectivity-with-threshold/) | [无] | [C++](1627-Graph-Connectivity-With-Threshold/cpp-1627/) | | |
 | | | | | | |
+| 1636 | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [无] | [C++](1636-Sort-Array-by-Increasing-Frequency/cpp-1636/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
