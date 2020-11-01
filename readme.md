@@ -1183,6 +1183,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1639 | [Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/) | [无] | [C++](1639-Number-of-Ways-to-Form-a-Target-String-Given-a-Dictionary/cpp-1639/) | | |
 | 1640 | [Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/) | [solution](https://leetcode.com/problems/check-array-formation-through-concatenation/solution/) | [C++](1640-Check-Array-Formation-Through-Concatenation/cpp-1640/) | | |
 | 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | [solution](https://leetcode.com/problems/count-sorted-vowel-strings/solution/) | [C++](1641-Count-Sorted-Vowel-Strings/cpp-1641/) | | |
+| 1642 | [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) | [无] | [C++](1642-Furthest-Building-You-Can-Reach/cpp-1642/) | | |
+| 1643 | [Kth Smallest Instructions](https://leetcode.com/problems/kth-smallest-instructions/) | [无] | [C++](1643-Kth-Smallest-Instructions/cpp-1643/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
