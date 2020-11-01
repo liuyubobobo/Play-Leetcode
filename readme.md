@@ -1177,6 +1177,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1626 | [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/) | [无]<br/>[缺：nlogn 算法] | [C++](1626-Best-Team-With-No-Conflicts/cpp-1626/) | | |
 | 1627 | [Graph Connectivity With Threshold](https://leetcode.com/problems/graph-connectivity-with-threshold/) | [无] | [C++](1627-Graph-Connectivity-With-Threshold/cpp-1627/) | | |
 | | | | | | |
+| 1634 | [Add Two Polynomials Represented as Linked Lists](https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists/) | [无] | [C++](1634-Add-Two-Polynomials-Represented-as-Linked-Lists/cpp-1634/) | | |
+| 1635 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1636 | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [无] | [C++](1636-Sort-Array-by-Increasing-Frequency/cpp-1636/) | | |
 | 1637 | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | [无] | [C++](1637-Widest-Vertical-Area-Between-Two-Points-Containing-No-Points/cpp-1637/) | | |
 | 1638 | [Count Substrings That Differ by One Character](https://leetcode.com/problems/count-substrings-that-differ-by-one-character/) | [无] | [C++](1638-Count-Substrings-That-Differ-by-One-Character/cpp-1638/) | | |
