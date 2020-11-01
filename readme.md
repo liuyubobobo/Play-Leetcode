@@ -1180,6 +1180,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1636 | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [无] | [C++](1636-Sort-Array-by-Increasing-Frequency/cpp-1636/) | | |
 | 1637 | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | [无] | [C++](1637-Widest-Vertical-Area-Between-Two-Points-Containing-No-Points/cpp-1637/) | | |
 | 1638 | [Count Substrings That Differ by One Character](https://leetcode.com/problems/count-substrings-that-differ-by-one-character/) | [无] | [C++](1638-Count-Substrings-That-Differ-by-One-Character/cpp-1638/) | | |
+| 1639 | [Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/) | [无] | [C++](1639-Number-of-Ways-to-Form-a-Target-String-Given-a-Dictionary/cpp-1639/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
