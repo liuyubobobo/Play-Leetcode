@@ -1178,6 +1178,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1627 | [Graph Connectivity With Threshold](https://leetcode.com/problems/graph-connectivity-with-threshold/) | [无] | [C++](1627-Graph-Connectivity-With-Threshold/cpp-1627/) | | |
 | | | | | | |
 | 1636 | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [无] | [C++](1636-Sort-Array-by-Increasing-Frequency/cpp-1636/) | | |
+| 1637 | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | [无] | [C++](1637-Widest-Vertical-Area-Between-Two-Points-Containing-No-Points/cpp-1637/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
