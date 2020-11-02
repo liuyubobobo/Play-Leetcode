@@ -1179,6 +1179,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1628 | [Design an Expression Tree With Evaluate Function](https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function/) | [无] | [C++](1628-Design-an-Expression-Tree-With-Evaluate-Function/cpp-1628/) | | |
 | 1629 | [Slowest Key](https://leetcode.com/problems/slowest-key/) | [无] | [C++](1629-Slowest-Key/cpp-1629/) | |
 | 1630 | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/) | [无] | [C++](1630-Arithmetic-Subarrays/cpp-1630/) | | |
+| 1631 | [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | [solution](https://leetcode.com/problems/path-with-minimum-effort/solution/) | [C++](1631-Path-With-Minimum-Effort/cpp-1631/) | | |
 | | | | | | |
 | 1633 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1634 | [Add Two Polynomials Represented as Linked Lists](https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists/) | [无] | [C++](1634-Add-Two-Polynomials-Represented-as-Linked-Lists/cpp-1634/) | | |
