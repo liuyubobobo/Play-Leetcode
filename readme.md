@@ -1196,6 +1196,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1645 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1646 | [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/) |  [solution](https://leetcode.com/problems/get-maximum-in-generated-array/) | [C++](1646-Get-Maximum-in-Generated-Array/cpp-1646/) | | |
 | 1647 | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | [无] | [C++](1647-Minimum-Deletions-to-Make-Character-Frequencies-Unique/cpp-1647/) | | |
+| 1648 | [Sell Diminishing-Valued Colored Balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/) | [无] | [C++](1648-Sell-Diminishing-Valued-Colored-Balls/cpp-1648/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
