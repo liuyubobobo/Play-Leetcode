@@ -1193,6 +1193,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1642 | [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) | [无] | [C++](1642-Furthest-Building-You-Can-Reach/cpp-1642/) | | |
 | 1643 | [Kth Smallest Instructions](https://leetcode.com/problems/kth-smallest-instructions/) | [无] | [C++](1643-Kth-Smallest-Instructions/cpp-1643/) | | |
 | | | | | | |
+| 1646 | [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/) |  [solution](https://leetcode.com/problems/get-maximum-in-generated-array/) | [C++](1646-Get-Maximum-in-Generated-Array/cpp-1646/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
