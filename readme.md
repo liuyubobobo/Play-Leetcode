@@ -1198,6 +1198,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1647 | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | [无] | [C++](1647-Minimum-Deletions-to-Make-Character-Frequencies-Unique/cpp-1647/) | | |
 | 1648 | [Sell Diminishing-Valued Colored Balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/) | [无] | [C++](1648-Sell-Diminishing-Valued-Colored-Balls/cpp-1648/) | | |
 | 1649 | [Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/) | [solution](https://leetcode.com/problems/create-sorted-array-through-instructions/solution/)<br/>[缺：树状数组；归并] | [C++](1649-Create-Sorted-Array-through-Instructions/cpp-1649/) | | |
+| 1650 | [Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/) | [无] | [C++](1650-Lowest-Common-Ancestor-of-a-Binary-Tree-III/cpp-1650/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
