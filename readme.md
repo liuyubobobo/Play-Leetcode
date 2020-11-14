@@ -1201,6 +1201,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1650 | [Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/) | [无] | [C++](1650-Lowest-Common-Ancestor-of-a-Binary-Tree-III/cpp-1650/) | | |
 | 1651 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) | [无] | [C++](1652-Defuse-the-Bomb/cpp-1652/) | | |
+| 1653 | [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | [无] | [C++](1653-Minimum-Deletions-to-Make-String-Balanced/cpp-1653/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
