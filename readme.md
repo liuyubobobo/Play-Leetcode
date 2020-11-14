@@ -1199,6 +1199,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1648 | [Sell Diminishing-Valued Colored Balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/) | [无] | [C++](1648-Sell-Diminishing-Valued-Colored-Balls/cpp-1648/) | | |
 | 1649 | [Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/) | [solution](https://leetcode.com/problems/create-sorted-array-through-instructions/solution/)<br/>[缺：树状数组；归并] | [C++](1649-Create-Sorted-Array-through-Instructions/cpp-1649/) | | |
 | 1650 | [Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/) | [无] | [C++](1650-Lowest-Common-Ancestor-of-a-Binary-Tree-III/cpp-1650/) | | |
+| 1651 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) | [无] | [C++](1652-Defuse-the-Bomb/cpp-1652/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
