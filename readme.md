@@ -1203,6 +1203,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) | [无] | [C++](1652-Defuse-the-Bomb/cpp-1652/) | | |
 | 1653 | [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | [无] | [C++](1653-Minimum-Deletions-to-Make-String-Balanced/cpp-1653/) | | |
 | | | | | | |
+| 1659 | [Maximize Grid Happiness](https://leetcode.com/problems/maximize-grid-happiness/) | [无] | [C++](1659-Maximize-Grid-Happiness/cpp-1659/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
