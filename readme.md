@@ -1203,6 +1203,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) | [无] | [C++](1652-Defuse-the-Bomb/cpp-1652/) | | |
 | 1653 | [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | [无] | [C++](1653-Minimum-Deletions-to-Make-String-Balanced/cpp-1653/) | | |
 | | | | | | |
+| 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [solution](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/solution/) | [C++](1658-Minimum-Operations-to-Reduce-X-to-Zero/cpp-1658/) | | |
 | 1659 | [Maximize Grid Happiness](https://leetcode.com/problems/maximize-grid-happiness/) | [无] | [C++](1659-Maximize-Grid-Happiness/cpp-1659/) | [Java](1659-Maximize-Grid-Happiness/java-1659/) | |
 | | | | | | |
 
