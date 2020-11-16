@@ -1202,6 +1202,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1651 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) | [无] | [C++](1652-Defuse-the-Bomb/cpp-1652/) | | |
 | 1653 | [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | [无] | [C++](1653-Minimum-Deletions-to-Make-String-Balanced/cpp-1653/) | | |
+| 1654 | [Minimum Jumps to Reach Home](https://leetcode.com/problems/minimum-jumps-to-reach-home/) | [无] | [C++](1654-Minimum-Jumps-to-Reach-Home/cpp-1654/) | | |
 | | | | | | |
 | 1656 | [Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/) | [无] | [C++](1656-Design-an-Ordered-Stream/cpp-1656/) | | |
 | 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [solution](https://leetcode.com/problems/determine-if-two-strings-are-close/solution/) | [C++](1657-Determine-if-Two-Strings-Are-Close/cpp-1657/) | | |
