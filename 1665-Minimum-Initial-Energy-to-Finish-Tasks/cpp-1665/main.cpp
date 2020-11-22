@@ -1,3 +1,7 @@
+/// Source : https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/
+/// Author : liuyubobobo
+/// Time   : 2020-11-21
+
 #include <iostream>
 #include <vector>
 #include <map>
@@ -5,59 +9,42 @@
 using namespace std;
 
 
+/// Binary Search
+/// Time Complexity: O(nlogn + nlog|max_int|)
+/// Space Complexity: O(1)
 class Solution {
 public:
     int minimumEffort(vector<vector<int>>& tasks) {
 
-        map<int, map<int, int>> lowact, highmin;
-        for(const vector<int>& v: tasks){
-            lowact[v[0]][v[1]] ++;
-            highmin[v[1]][v[0]] ++;
-        }
+        sort(tasks.begin(), tasks.end(), [](const vector<int>& v1, const vector<int>& v2){
+
+            if(v1[1] - v1[0] != v2[1] - v2[0])
+                return v1[1] - v1[0] > v2[1] - v2[0];
+
+            if(v1[0] != v2[0]) return v1[0] < v2[0];
+            return v1[1] > v2[1];
+        });
 
         int l = 0, r = 2e9;
         while(l < r){
             int mid = (l + r) / 2;
-            if(ok(lowact, highmin, mid)) r = mid;
+            if(ok(tasks, mid)) r = mid;
             else l = mid + 1;
         }
         return l;
     }
 
 private:
-    bool ok(map<int, map<int, int>> lowact, map<int, map<int, int>> highmin, int k){
+    bool ok(const vector<vector<int>>& v, int k){
 
-        while(!lowact.empty()){
-            if(k == highmin.rbegin()->first){
-                int mini = highmin.rbegin()->first, act = highmin.rbegin()->second.begin()->first;
-                k -= act;
-
-                highmin[mini][act] --;
-                if(highmin[mini][act] == 0) highmin[mini].erase(act);
-                if(highmin[mini].empty()) highmin.erase(mini);
-
-                lowact[act][mini] --;
-                if(lowact[act][mini] == 0) lowact[act].erase(mini);
-                if(lowact[act].empty()) lowact.erase(act);
-            }
-            else if(k >= lowact.begin()->second.rbegin()->first){
-
-                int act = lowact.begin()->first, mini = lowact.begin()->second.rbegin()->first;
-                k -= act;
-
-                highmin[mini][act] --;
-                if(highmin[mini][act] == 0) highmin[mini].erase(act);
-                if(highmin[mini].empty()) highmin.erase(mini);
-
-                lowact[act][mini] --;
-                if(lowact[act][mini] == 0) lowact[act].erase(mini);
-                if(lowact[act].empty()) lowact.erase(act);
-            }
-            else return false;
+        for(const vector<int>& e: v){
+            if(k < e[1]) return false;
+            k -= e[0];
         }
         return true;
     }
 };
+
 
 int main() {
 
