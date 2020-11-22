@@ -21,7 +21,6 @@ public:
             if(v1[1] - v1[0] != v2[1] - v2[0])
                 return v1[1] - v1[0] > v2[1] - v2[0];
 
-            if(v1[0] != v2[0]) return v1[0] < v2[0];
             return v1[1] > v2[1];
         });
 
