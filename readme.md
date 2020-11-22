@@ -1208,7 +1208,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [solution](https://leetcode.com/problems/determine-if-two-strings-are-close/solution/) | [C++](1657-Determine-if-Two-Strings-Are-Close/cpp-1657/) | | |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [solution](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/solution/) | [C++](1658-Minimum-Operations-to-Reduce-X-to-Zero/cpp-1658/) | | |
 | 1659 | [Maximize Grid Happiness](https://leetcode.com/problems/maximize-grid-happiness/) | [无] | [C++](1659-Maximize-Grid-Happiness/cpp-1659/) | [Java](1659-Maximize-Grid-Happiness/java-1659/) | |
-| | | | | | |
+| 1660 | [Correct a Binary Tree](https://leetcode.com/problems/correct-a-binary-tree/) | [无] | [C++](1660-Correct-a-Binary-Tree/cpp-1660/) | | |
+| 1661 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [solution](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [C++](1662-Check-If-Two-String-Arrays-are-Equivalent/cpp-1662/) | | |
 | 1663 | [Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/) | [solution](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/solution/) | [C++](1663-Smallest-String-With-A-Given-Numeric-Value/cpp-1663/) | | |
 | 1664 | [Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array/) | [无] | [C++](1664-Ways-to-Make-a-Fair-Array/cpp-1664/) | | |
