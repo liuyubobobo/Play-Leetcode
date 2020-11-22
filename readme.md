@@ -1212,6 +1212,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [solution](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [C++](1662-Check-If-Two-String-Arrays-are-Equivalent/cpp-1662/) | | |
 | 1663 | [Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/) | [solution](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/solution/) | [C++](1663-Smallest-String-With-A-Given-Numeric-Value/cpp-1663/) | | |
 | 1664 | [Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array/) | [无] | [C++](1664-Ways-to-Make-a-Fair-Array/cpp-1664/) | | |
+| 1665 | [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | [无] | [C++](1665-Minimum-Initial-Energy-to-Finish-Tasks/cpp-1665/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
