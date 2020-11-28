@@ -1216,7 +1216,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1665 | [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | [无] | [C++](1665-Minimum-Initial-Energy-to-Finish-Tasks/cpp-1665/) | | |
 | | | | | | |
 | 1668 | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/) | [无] | [C++](1668-Maximum-Repeating-Substring/cpp-1668/) | | |
-| | | | | | |
+| 1669 | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | [无] | [C++](1669-Merge-In-Between-Linked-Lists/cpp-1669/) | | |
 
 ## 力扣中文站比赛
 
