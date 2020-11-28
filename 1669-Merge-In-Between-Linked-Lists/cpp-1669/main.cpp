@@ -1,3 +1,7 @@
+/// Source : https://leetcode.com/problems/design-front-middle-back-queue/
+/// Author : liuyubobobo
+/// Time   : 2020-11-28
+
 #include <iostream>
 
 using namespace std;
