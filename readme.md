@@ -1215,6 +1215,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1664 | [Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array/) | [无] | [C++](1664-Ways-to-Make-a-Fair-Array/cpp-1664/) | | |
 | 1665 | [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | [无] | [C++](1665-Minimum-Initial-Energy-to-Finish-Tasks/cpp-1665/) | | |
 | | | | | | |
+| 1668 | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/) | [无] | [C++](1668-Maximum-Repeating-Substring/cpp-1668/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
