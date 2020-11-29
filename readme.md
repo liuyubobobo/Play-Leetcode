@@ -1218,7 +1218,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1668 | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/) | [无] | [C++](1668-Maximum-Repeating-Substring/cpp-1668/) | | |
 | 1669 | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | [无] | [C++](1669-Merge-In-Between-Linked-Lists/cpp-1669/) | | |
 | 1670 | [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/) | [无] | [C++](1670-Design-Front-Middle-Back-Queue/cpp-1670/) | | |
-| | | | | | |
+| 1671 | [Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) | [无] | [C++](1671-Minimum-Number-of-Removals-to-Make-Mountain-Array/cpp-1671/) | | |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [无] | [C++](1672-Richest-Customer-Wealth/cpp-1672/) | | |
 | | | | | | |
 
