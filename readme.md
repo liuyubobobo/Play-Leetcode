@@ -1214,7 +1214,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1663 | [Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/) | [solution](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/solution/) | [C++](1663-Smallest-String-With-A-Given-Numeric-Value/cpp-1663/) | | |
 | 1664 | [Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array/) | [无] | [C++](1664-Ways-to-Make-a-Fair-Array/cpp-1664/) | | |
 | 1665 | [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | [无] | [C++](1665-Minimum-Initial-Energy-to-Finish-Tasks/cpp-1665/) | | |
-| | | | | | |
+| 1666 | [Change the Root of a Binary Tree](https://leetcode.com/problems/change-the-root-of-a-binary-tree/) | [无] | [C++](1666-Change-the-Root-of-a-Binary-Tree/cpp-1666/) | | |
+| 1667 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1668 | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/) | [无] | [C++](1668-Maximum-Repeating-Substring/cpp-1668/) | | |
 | 1669 | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | [无] | [C++](1669-Merge-In-Between-Linked-Lists/cpp-1669/) | | |
 | 1670 | [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/) | [无] | [C++](1670-Design-Front-Middle-Back-Queue/cpp-1670/) | | |
