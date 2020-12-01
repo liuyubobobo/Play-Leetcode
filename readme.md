@@ -1221,7 +1221,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1670 | [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/) | [无] | [C++](1670-Design-Front-Middle-Back-Queue/cpp-1670/) | | |
 | 1671 | [Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) | [无] | [C++](1671-Minimum-Number-of-Removals-to-Make-Mountain-Array/cpp-1671/) | | |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [无] | [C++](1672-Richest-Customer-Wealth/cpp-1672/) | | |
-| 1673 | [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) | [无] | [C++](1673-Find-the-Most-Competitive-Subsequence/cpp-1673/) | | |
+| 1673 | [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) | [solution](https://leetcode.com/problems/find-the-most-competitive-subsequence/solution/) | [C++](1673-Find-the-Most-Competitive-Subsequence/cpp-1673/) | | |
+| 1674 | [Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) | [无] | [C++](1674-Minimum-Moves-to-Make-Array-Complementary/cpp-1674/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
