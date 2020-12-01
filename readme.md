@@ -1225,6 +1225,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [无] | [C++](1672-Richest-Customer-Wealth/cpp-1672/) | | |
 | 1673 | [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) | [solution](https://leetcode.com/problems/find-the-most-competitive-subsequence/solution/) | [C++](1673-Find-the-Most-Competitive-Subsequence/cpp-1673/) | | |
 | 1674 | [Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) | [无] | [C++](1674-Minimum-Moves-to-Make-Array-Complementary/cpp-1674/) | | |
+| 1675 | [Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/) | [solution](https://leetcode.com/problems/minimize-deviation-in-array/) | [C++](1675-Minimize-Deviation-in-Array/cpp-1675/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
