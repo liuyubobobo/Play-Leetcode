@@ -461,6 +461,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/) | [无] | [C++](0622-Design-Circular-Queue/cpp-0622/) | | |
 | | | | | | |
+| 632 | [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | [solution](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/solution/) | [C++](0632-Smallest-Range-Covering-Elements-from-K-Lists/cpp-0632/) | | |
+| | | | | | |
 | 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | [solution](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | [C++](0637-Average-of-Levels-in-Binary-Tree/cpp-0637/) | | |
 | | | | | | |
 | 642 | [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) | [无] | [C++](0642-Design-Search-Autocomplete-System/cpp-0642/) | | |
