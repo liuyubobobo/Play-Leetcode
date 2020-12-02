@@ -305,6 +305,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [solution](https://leetcode.com/problems/burst-balloons/solution/) [题解](https://leetcode-cn.com/problems/burst-balloons/solution/chuo-qi-qiu-by-leetcode/) | [C++](0312-Burst-Balloons/cpp-0312/) | | |
 | | | | | | |
 | 315 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [无] | [C++](0315-Count-of-Smaller-Numbers-After-Self/cpp-0315/) | | |
+| 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [solution](https://leetcode.com/problems/remove-duplicate-letters/solution/) | [C++](0316-Remove-Duplicate-Letters/cpp-0316/) | | |
 | | | | | | |
 | 319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/) | [无] | [C++](0319-Bulb-Switcher/cpp-0319/) | | |
 | | | | | | |
