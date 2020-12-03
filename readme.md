@@ -473,6 +473,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/description/) | [solution](https://leetcode.com/problems/find-duplicate-subtrees/solution/) | [C++](0652-Find-Duplicate-Subtrees/cpp-0652/) | | |
 | | | | | | |
+| 659 | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | [solution](https://leetcode.com/problems/split-array-into-consecutive-subsequences/solution/) | [C++](0659-Split-Array-into-Consecutive-Subsequences/cpp-0659/) | | |
+| | | | | | |
 | 664 | [Strange Printer](https://leetcode.com/problems/strange-printer/) | [solution](https://leetcode.com/problems/strange-printer/) | [C++](0664-Strange-Printer/cpp-0664/) | | |
 | | | | | | |
 | 668 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [solution](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [C++](0668-Kth-Smallest-Number-in-Multiplication-Table/cpp-0668/) | | |
