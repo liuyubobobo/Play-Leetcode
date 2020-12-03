@@ -224,7 +224,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/description/) | [solution](https://leetcode.com/problems/happy-number/solution/) | [C++](0202-Happy-Number/cpp-0202/) | | |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [无] | [C++](0203-Remove-Linked-List-Elements/cpp-0203/) | [Java](0203-Remove-Linked-List-Elements/java-0203/src/) | |
-| | | | | | |
+| 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [无] | [C++](0204-Count-Primes/cpp-0204/) | | |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | [无] | [C++](0205-Isomorphic-Strings/cpp-0205/) | | |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [solution](https://leetcode.com/problems/reverse-linked-list/solution/) | [C++](0206-Reverse-Linked-List/cpp-0206/) | [Java](0206-Reverse-Linked-List/java-0206/src/) | |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [无] | [C++](0207-Course-Schedule/cpp-0207/) | | |
@@ -309,6 +309,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/) | [无] | [C++](0319-Bulb-Switcher/cpp-0319/) | | |
 | | | | | | |
+| 321 | [Create Maximum Number](https://leetcode.com/problems/create-maximum-number/) | [无] | [C++](0321-Create-Maximum-Number/cpp-0321/) | | |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/description/) | [solution](https://leetcode.com/problems/coin-change/solution/) | [C++](0322-Coin-Change/cpp-0322/) | | |
 | | | | | | |
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | [solution](https://leetcode.com/problems/odd-even-linked-list/solution/) | [C++](0328-Odd-Even-Linked-List/cpp-0328/) | | |
