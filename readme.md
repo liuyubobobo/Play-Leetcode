@@ -1229,6 +1229,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1673 | [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) | [solution](https://leetcode.com/problems/find-the-most-competitive-subsequence/solution/) | [C++](1673-Find-the-Most-Competitive-Subsequence/cpp-1673/) | | |
 | 1674 | [Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) | [无] | [C++](1674-Minimum-Moves-to-Make-Array-Complementary/cpp-1674/) | | |
 | 1675 | [Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/) | [solution](https://leetcode.com/problems/minimize-deviation-in-array/) | [C++](1675-Minimize-Deviation-in-Array/cpp-1675/) | | |
+| 1676 | [Lowest Common Ancestor of a Binary Tree IV](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv/) | [无] | [C++](1676-Lowest-Common-Ancestor-of-a-Binary-Tree-IV/cpp-1676/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
