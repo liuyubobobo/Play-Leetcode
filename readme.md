@@ -1237,6 +1237,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | [无] | [C++](1678-Goal-Parser-Interpretation/cpp-1678/) | | |
 | 1679 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | [solution](https://leetcode.com/problems/max-number-of-k-sum-pairs/solution/) | [C++](1679-Max-Number-of-K-Sum-Pairs/cpp-1679/) | | |
 | 1680 | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | [solution](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/solution/) | [C++](1680-Concatenation-of-Consecutive-Binary-Numbers/cpp-1680/) | | |
+| 1681 | [Minimum Incompatibility](https://leetcode.com/problems/minimum-incompatibility/) | [无] | [C++](1681-Minimum-Incompatibility/cpp-1681/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
