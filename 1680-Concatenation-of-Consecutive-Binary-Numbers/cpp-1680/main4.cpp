@@ -4,13 +4,14 @@
 
 #include <iostream>
 #include <vector>
+#include <cmath>
 
 using namespace std;
 
 
-/// Two Pointers to get the bit length
+/// Mathematics
 /// Time Complexiity: O(n)
-/// Space Complexity: O(logn)
+/// Space Complexity: O(1)
 class Solution {
 
 private:
@@ -18,17 +19,9 @@ private:
 
 public:
     int concatenatedBinary(int n) {
-
-        vector<int> pow2 = {1, 2};
-        for(int i = 2; i < 31; i ++)
-            pow2.push_back(pow2.back() * 2);
-
         long long cur = 0;
-        int p = 0;
-        for(int i = 1; i <= n; i ++){
-            if(i == pow2[p + 1]) p ++;
-            cur = (cur * pow2[p + 1] + i) % MOD;
-        }
+        for(int i = 1; i <= n; i ++)
+            cur = (cur * (int)pow(2, floor(log2(i)) + 1) + i) % MOD;
         return cur;
     }
 };

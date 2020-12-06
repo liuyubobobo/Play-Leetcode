@@ -20,7 +20,7 @@ public:
     int concatenatedBinary(int n) {
 
         vector<int> pow2 = {1, 2};
-        for(int i = 2; i < 30; i ++)
+        for(int i = 2; i < 31; i ++)
             pow2.push_back(pow2.back() * 2);
 
         long long cur = 0;
@@ -37,8 +37,8 @@ public:
 
 int main() {
 
-//    cout << Solution().concatenatedBinary(1) << endl;
-//    // 1
+    cout << Solution().concatenatedBinary(1) << endl;
+    // 1
 
     cout << Solution().concatenatedBinary(3) << endl;
     // 27
