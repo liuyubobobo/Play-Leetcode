@@ -1233,6 +1233,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1674 | [Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) | [无] | [C++](1674-Minimum-Moves-to-Make-Array-Complementary/cpp-1674/) | | |
 | 1675 | [Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/) | [solution](https://leetcode.com/problems/minimize-deviation-in-array/) | [C++](1675-Minimize-Deviation-in-Array/cpp-1675/) | | |
 | 1676 | [Lowest Common Ancestor of a Binary Tree IV](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv/) | [无] | [C++](1676-Lowest-Common-Ancestor-of-a-Binary-Tree-IV/cpp-1676/) | | |
+| 1677 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | [无] | [C++](1678-Goal-Parser-Interpretation/cpp-1678/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
