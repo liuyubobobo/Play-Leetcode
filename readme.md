@@ -1235,7 +1235,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1676 | [Lowest Common Ancestor of a Binary Tree IV](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv/) | [无] | [C++](1676-Lowest-Common-Ancestor-of-a-Binary-Tree-IV/cpp-1676/) | | |
 | 1677 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | [无] | [C++](1678-Goal-Parser-Interpretation/cpp-1678/) | | |
-| 1679 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | [无] | [C++](1679-Max-Number-of-K-Sum-Pairs/cpp-1679/) | | |
+| 1679 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | [solution](https://leetcode.com/problems/max-number-of-k-sum-pairs/solution/) | [C++](1679-Max-Number-of-K-Sum-Pairs/cpp-1679/) | | |
+| 1680 | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | [solution](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/solution/) | [C++](1680-Concatenation-of-Consecutive-Binary-Numbers/cpp-1680/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
