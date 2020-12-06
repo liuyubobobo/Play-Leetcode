@@ -10,7 +10,8 @@ using namespace std;
 
 
 /// State Compression DP
-/// Time Complexity: O(2^n * logn + 2^n * C(n, n / k))
+/// Using __builtin_popcount
+/// Time Complexity: O(2^n + 2^n * C(n, n / k))
 /// Space Complexity: O(C(n, n / k))
 class Solution {
 public:
@@ -21,9 +22,8 @@ public:
 
         int sz = n / k;
         for(int state = 1; state < (1 << n); state ++)
-            if(ones(state) == sz){
+            if(__builtin_popcount(state) == sz)
                 deal(table, nums, state);
-            }
 
         vector<int> dp(1 << n, -1);
         int res = dfs(table, (1 << n) - 1, dp);
@@ -61,15 +61,6 @@ private:
             if(v[i - 1] == v[i]) return;
 
         table[state] = v.back() - v[0];
-    }
-
-    int ones(int x){
-        int res = 0;
-        while(x){
-            x = x & (x - 1);
-            res ++;
-        }
-        return res;
     }
 };
 
