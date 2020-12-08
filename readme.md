@@ -203,6 +203,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [solution](https://leetcode.com/problems/intersection-of-two-linked-lists/solution/) | [C++](0160-Intersection-of-Two-Linked-Lists/cpp-0160/) | | |
 | 161 | [One Edit Distance](https://leetcode.com/problems/one-edit-distance/) | [solution](https://leetcode.com/problems/one-edit-distance/solution/) | [C++](0161-One-Edit-Distance/cpp-0161/) | | |
 | | | | | | |
+| 163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges/) | [solution](https://leetcode.com/problems/missing-ranges/solution/) | [C++](0163-Missing-Ranges/cpp-0163/) | | |
+| | | | | | |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [solution](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/solution/) | [C++](0167-Two-Sum-II-Input-array-is-sorted/cpp-0167/) | [Java](0167-Two-Sum-II-Input-array-is-sorted/java-0167/src/) | |
 | | | | | | |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | [solution](https://leetcode.com/problems/majority-element/solution/) | [C++](0169-Majority-Element/cpp-0169/) | | [Python](0169-Majority-Element/py-0169/) |
