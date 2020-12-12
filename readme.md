@@ -1248,6 +1248,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1681 | [Minimum Incompatibility](https://leetcode.com/problems/minimum-incompatibility/) | [无] | [C++](1681-Minimum-Incompatibility/cpp-1681/) | | |
 | 1682 | [Longest Palindromic Subsequence II](https://leetcode.com/problems/longest-palindromic-subsequence-ii/) | [无] | [C++](1682-Longest-Palindromic-Subsequence-II/cpp-1682/) | | |
 | | | | | | |
+| 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [无] | [C++](1684-Count-the-Number-of-Consistent-Strings/cpp-1684/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
