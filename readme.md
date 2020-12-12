@@ -1249,6 +1249,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1682 | [Longest Palindromic Subsequence II](https://leetcode.com/problems/longest-palindromic-subsequence-ii/) | [无] | [C++](1682-Longest-Palindromic-Subsequence-II/cpp-1682/) | | |
 | | | | | | |
 | 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [无] | [C++](1684-Count-the-Number-of-Consistent-Strings/cpp-1684/) | | |
+| 1685 | [Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) | [无] | [C++](1685-Sum-of-Absolute-Differences-in-a-Sorted-Array/cpp-1685/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
