@@ -1250,10 +1250,12 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1683 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [无] | [C++](1684-Count-the-Number-of-Consistent-Strings/cpp-1684/) | | |
 | 1685 | [Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) | [无] | [C++](1685-Sum-of-Absolute-Differences-in-a-Sorted-Array/cpp-1685/) | | |
+| 1686 | [Stone Game VI](https://leetcode.com/problems/stone-game-vi/) | [无] | [C++](1686-Stone-Game-VI/cpp-1686/) | | |
 | | | | | | |
 | 1688 | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/) | [C++](1688-Count-of-Matches-in-Tournament/cpp-1688/) | | | |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [solution](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/solution/) | [C++](1689-Partitioning-Into-Minimum-Number-Of-Deci-Binary-Numbers/cpp-1689/) | | |
 | 1690 | [Stone Game VII](https://leetcode.com/problems/stone-game-vii/) | [solution](https://leetcode.com/problems/stone-game-vii/solution/)<br/>[缺：记忆化搜索；DP 空间优化] | [C++](1690-Stone-Game-VII/cpp-1690/) | | |
+| 1691 | [Maximum Height by Stacking Cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/) | [无] | [C++](1691-Maximum-Height-by-Stacking-Cuboids/cpp-1691/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
