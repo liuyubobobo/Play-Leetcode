@@ -1252,6 +1252,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1685 | [Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) | [无] | [C++](1685-Sum-of-Absolute-Differences-in-a-Sorted-Array/cpp-1685/) | | |
 | | | | | | |
 | 1688 | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/) | [C++](1688-Count-of-Matches-in-Tournament/cpp-1688/) | | | |
+| 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [solution](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/solution/) | [C++](1689-Partitioning-Into-Minimum-Number-Of-Deci-Binary-Numbers/cpp-1689/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
