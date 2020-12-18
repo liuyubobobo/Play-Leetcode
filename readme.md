@@ -317,6 +317,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | [solution](https://leetcode.com/problems/odd-even-linked-list/solution/) | [C++](0328-Odd-Even-Linked-List/cpp-0328/) | | |
 | | | | | | |
+| 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [solution](https://leetcode.com/problems/increasing-triplet-subsequence/solution/) | [C++](0334-Increasing-Triplet-Subsequence/cpp-0334/) | | |
+| | | | | | |
 | 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/description/) | [无] | [C++](0337-House-Robber-III/cpp-0337/) | | |
 | | | | | | |
 | 340 | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | [solution](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/solution/) | [C++](0340-Longest-Substring-with-At-Most-K-Distinct-Characters/cpp-0340/) | | |
