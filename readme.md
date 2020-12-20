@@ -1262,6 +1262,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1691 | [Maximum Height by Stacking Cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/) | [无] | [C++](1691-Maximum-Height-by-Stacking-Cuboids/cpp-1691/) | | |
 | | | | | | |
 | 1694 | [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/) | [无] | [C++](1694-Reformat-Phone-Number/cpp-1694/) | | |
+| 1695 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [无] | [C++](1695-Maximum-Erasure-Value/cpp-1695/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
