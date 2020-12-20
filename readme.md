@@ -1261,6 +1261,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1690 | [Stone Game VII](https://leetcode.com/problems/stone-game-vii/) | [solution](https://leetcode.com/problems/stone-game-vii/solution/)<br/>[缺：记忆化搜索；DP 空间优化] | [C++](1690-Stone-Game-VII/cpp-1690/) | | |
 | 1691 | [Maximum Height by Stacking Cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/) | [无] | [C++](1691-Maximum-Height-by-Stacking-Cuboids/cpp-1691/) | | |
 | | | | | | |
+| 1694 | [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/) | [无] | [C++](1694-Reformat-Phone-Number/cpp-1694/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
