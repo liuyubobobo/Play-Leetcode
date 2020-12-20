@@ -1260,6 +1260,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [solution](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/solution/) | [C++](1689-Partitioning-Into-Minimum-Number-Of-Deci-Binary-Numbers/cpp-1689/) | | |
 | 1690 | [Stone Game VII](https://leetcode.com/problems/stone-game-vii/) | [solution](https://leetcode.com/problems/stone-game-vii/solution/)<br/>[缺：记忆化搜索；DP 空间优化] | [C++](1690-Stone-Game-VII/cpp-1690/) | | |
 | 1691 | [Maximum Height by Stacking Cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/) | [无] | [C++](1691-Maximum-Height-by-Stacking-Cuboids/cpp-1691/) | | |
+| 1692 | [Count Ways to Distribute Candies](https://leetcode.com/problems/count-ways-to-distribute-candies/) | [无] | [C++](1692-Count-Ways-to-Distribute-Candies/cpp-1692/) | | |
 | | | | | | |
 | 1694 | [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/) | [无] | [C++](1694-Reformat-Phone-Number/cpp-1694/) | | |
 | 1695 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [无] | [C++](1695-Maximum-Erasure-Value/cpp-1695/) | | |
