@@ -446,6 +446,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/description/) | [solution](https://leetcode.com/problems/01-matrix/solution/) | [C++](0542-01-Matrix/cpp-0542/) | | |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [solution](https://leetcode.com/problems/diameter-of-binary-tree/solution/) | [C++](0543-Diameter-of-Binary-Tree/cpp-0543/) | | |
 | | | | | | |
+| 556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [solution](https://leetcode.com/problems/next-greater-element-iii/solution/)<br/>[缺：底层实现] | [C++](0556-Next-Greater-Element-III/cpp-0556/) | | |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | [solution](https://leetcode.com/problems/reverse-words-in-a-string-iii/solution/) | [C++](0557-Reverse-Words-in-a-String-III/cpp-0557/) | | |
 | | | | | | |
 | 559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/) | [solution](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/solution/) | [C++](0559-Maximum-Depth-of-N-ary-Tree/cpp-0559/) | | |
