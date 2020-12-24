@@ -154,7 +154,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | [无] | [C++](0107-Binary-Tree-Level-Order-Traversal-II/cpp-0107/) | | |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [无] | [C++](0108-Convert-Sorted-Array-to-Binary-Search-Tree/cpp-0108/) | | |
 | 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/) | [solution](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/solution/) | [C++](0109-Convert-Sorted-List-to-Binary-Search-Tree/cpp-0109/) | | |
-| | | | | | |
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [solution](https://leetcode.com/problems/balanced-binary-tree/solution/) | [C++](0110-Balanced-Binary-Tree/cpp-0110/) | | |
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [solution](https://leetcode.com/problems/minimum-depth-of-binary-tree/solution/) | [C++](0111-Minimum-Depth-of-Binary-Tree/cpp-0111/) | | |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/description/) | [solution](https://leetcode.com/problems/path-sum/solution/) | [C++](0112-Path-Sum/cpp-0112/) | [Java](0112-Path-Sum/cpp-0112/src/) | |
 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) | [无] | [C++](0113-Path-Sum-II/cpp-0113/) | | |
@@ -1261,7 +1261,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1690 | [Stone Game VII](https://leetcode.com/problems/stone-game-vii/) | [solution](https://leetcode.com/problems/stone-game-vii/solution/)<br/>[缺：记忆化搜索；DP 空间优化] | [C++](1690-Stone-Game-VII/cpp-1690/) | | |
 | 1691 | [Maximum Height by Stacking Cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/) | [无] | [C++](1691-Maximum-Height-by-Stacking-Cuboids/cpp-1691/) | | |
 | 1692 | [Count Ways to Distribute Candies](https://leetcode.com/problems/count-ways-to-distribute-candies/) | [无] | [C++](1692-Count-Ways-to-Distribute-Candies/cpp-1692/) | | |
-| | | | | | |
+| 1693 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1694 | [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/) | [无] | [C++](1694-Reformat-Phone-Number/cpp-1694/) | | |
 | 1695 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [无] | [C++](1695-Maximum-Erasure-Value/cpp-1695/) | | |
 | 1696 | [Jump Game VI](https://leetcode.com/problems/jump-game-vi/) | [无] | [C++](1696-Jump-Game-VI/cpp-1696/) | | |
