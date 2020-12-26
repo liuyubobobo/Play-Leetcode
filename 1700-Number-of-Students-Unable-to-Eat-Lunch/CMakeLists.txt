@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(1700_Number_of_Students_Unable_to_Eat_Lunch)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(1700_Number_of_Students_Unable_to_Eat_Lunch main2.cpp)
