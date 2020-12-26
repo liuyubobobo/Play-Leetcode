@@ -1271,6 +1271,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1699 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [无] | [C++](1700-Number-of-Students-Unable-to-Eat-Lunch/cpp-1700/) | | |
 | 1701 | [Average Waiting Time](https://leetcode.com/problems/average-waiting-time/) | [无] | [C++](1701-Average-Waiting-Time/cpp-1701/) | | |
+| 1702 | [Maximum Binary String After Change](https://leetcode.com/problems/maximum-binary-string-after-change/) | [无] | [C++](1702-Maximum-Binary-String-After-Change/cpp-1702/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
