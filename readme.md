@@ -1267,6 +1267,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1695 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [无] | [C++](1695-Maximum-Erasure-Value/cpp-1695/) | | |
 | 1696 | [Jump Game VI](https://leetcode.com/problems/jump-game-vi/) | [无] | [C++](1696-Jump-Game-VI/cpp-1696/) | | |
 | 1697 | [Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/) | [无] | [C++](1697-Checking-Existence-of-Edge-Length-Limited-Paths/cpp-1697/) | | |
+| 1698 | [Number of Distinct Substrings in a String](https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/) | [无] | [C++](1698-Number-of-Distinct-Substrings-in-a-String/cpp-1698/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
