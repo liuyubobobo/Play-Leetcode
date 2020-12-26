@@ -1270,6 +1270,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1698 | [Number of Distinct Substrings in a String](https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/) | [无] | [C++](1698-Number-of-Distinct-Substrings-in-a-String/cpp-1698/) | | |
 | 1699 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [无] | [C++](1700-Number-of-Students-Unable-to-Eat-Lunch/cpp-1700/) | | |
+| 1701 | [Average Waiting Time](https://leetcode.com/problems/average-waiting-time/) | [无] | [C++](1701-Average-Waiting-Time/cpp-1701/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
