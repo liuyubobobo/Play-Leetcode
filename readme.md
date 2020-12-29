@@ -317,6 +317,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | [solution](https://leetcode.com/problems/odd-even-linked-list/solution/) | [C++](0328-Odd-Even-Linked-List/cpp-0328/) | | |
 | | | | | | |
+| 330 | [Patching Array](https://leetcode.com/problems/patching-array/) | [C++](0330-Patching-Array/cpp-0330/) | | | |
+| | | | | | |
 | 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [solution](https://leetcode.com/problems/increasing-triplet-subsequence/solution/) | [C++](0334-Increasing-Triplet-Subsequence/cpp-0334/) | | |
 | | | | | | |
 | 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/description/) | [无] | [C++](0337-House-Robber-III/cpp-0337/) | | |
