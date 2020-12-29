@@ -1278,6 +1278,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [solution](https://leetcode.com/problems/determine-if-string-halves-are-alike/solution/) | [C++](1704-Determine-if-String-Halves-Are-Alike/cpp-1704/) | | |
 | 1705 | [Maximum Number of Eaten Apples](https://leetcode.com/problems/maximum-number-of-eaten-apples/) | [solution](https://leetcode.com/problems/maximum-number-of-eaten-apples/solution/) | [C++](1705-Maximum-Number-of-Eaten-Apples/cpp-1705/) | | |
 | 1706 | [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | [无] | [C++](1706-Where-Will-the-Ball-Fall/cpp-1706/) | | |
+| 1707 | [Maximum XOR With an Element From Array](https://leetcode.com/problems/maximum-xor-with-an-element-from-array/) | [无] | [C++](1707-Maximum-XOR-With-an-Element-From-Array/cpp-1707/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
