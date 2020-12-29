@@ -1274,6 +1274,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [无] | [C++](1700-Number-of-Students-Unable-to-Eat-Lunch/cpp-1700/) | | |
 | 1701 | [Average Waiting Time](https://leetcode.com/problems/average-waiting-time/) | [无] | [C++](1701-Average-Waiting-Time/cpp-1701/) | | |
 | 1702 | [Maximum Binary String After Change](https://leetcode.com/problems/maximum-binary-string-after-change/) | [无] | [C++](1702-Maximum-Binary-String-After-Change/cpp-1702/) | | |
+| 1703 | [Minimum Adjacent Swaps for K Consecutive Ones](https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/) | [无] | [C++](1703-Minimum-Adjacent-Swaps-for-K-Consecutive-Ones/cpp-1703/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
