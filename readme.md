@@ -289,7 +289,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 286 | [Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/) | [solution](https://leetcode.com/problems/walls-and-gates/solution/) | [C++](0286-Walls-and-Gates/cpp-0286/) | | |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | | [C++](0287-Find-the-Duplicate-Number/cpp-0287/) | | |
 | 288 | [Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/description/) | [solution](https://leetcode.com/problems/unique-word-abbreviation/solution/) | [C++](0288-Unique-Word-Abbreviation/cpp-0288/) | | |
-| | | | | | |
+| 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | [solution](https://leetcode.com/problems/game-of-life/solution/) | [C++](0289-Game-of-Life/cpp-0289/) | | |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/description/) | [无] | [C++](0290-Word-Pattern/cpp-0290/) | | |
 | | | | | | |
 | 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [无] | [C++](0295-Find-Median-from-Data-Stream/cpp-0295/) | | |
