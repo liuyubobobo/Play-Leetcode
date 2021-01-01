@@ -279,6 +279,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 259 | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/description/) | [solution](https://leetcode.com/problems/3sum-smaller/solution/) | [C++](0001-0500/0259-3Sum-Smaller/cpp-0259/) | | |
 | | | | | | |
+| 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | [solution](https://leetcode.com/problems/palindrome-permutation/solution/) | [C++](0001-0500/0266-Palindrome-Permutation/cpp-0266/) | | |
+| | | | | | |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [solution](https://leetcode.com/problems/missing-number/solution/) | [C++](0001-0500/0268-Missing-Number/cpp-0268/) | | |
 | | | | | | |
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) | [无]<br/>四平方和数学解 | [C++](0001-0500/0279-Perfect-Squares/cpp-0279/) | [Java](0001-0500/0279-Perfect-Squares/java-0279/src/) | |
