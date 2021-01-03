@@ -280,7 +280,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 259 | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/description/) | [solution](https://leetcode.com/problems/3sum-smaller/solution/) | [C++](0001-0500/0259-3Sum-Smaller/cpp-0259/) | | |
 | | | | | | |
 | 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | [solution](https://leetcode.com/problems/palindrome-permutation/solution/) | [C++](0001-0500/0266-Palindrome-Permutation/cpp-0266/) | | |
-| | | | | | |
+| 267 | [Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/) | [solution](https://leetcode.com/problems/palindrome-permutation-ii/solution/) | [C++](0001-0500/0267-Palindrome-Permutation-II/cpp-0267/) | | |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [solution](https://leetcode.com/problems/missing-number/solution/) | [C++](0001-0500/0268-Missing-Number/cpp-0268/) | | |
 | | | | | | |
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) | [无]<br/>四平方和数学解 | [C++](0001-0500/0279-Perfect-Squares/cpp-0279/) | [Java](0001-0500/0279-Perfect-Squares/java-0279/src/) | |
@@ -1281,6 +1281,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1705 | [Maximum Number of Eaten Apples](https://leetcode.com/problems/maximum-number-of-eaten-apples/) | [solution](https://leetcode.com/problems/maximum-number-of-eaten-apples/solution/) | [C++](1501-2000/1705-Maximum-Number-of-Eaten-Apples/cpp-1705/) | | |
 | 1706 | [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | [无] | [C++](1501-2000/1706-Where-Will-the-Ball-Fall/cpp-1706/) | | |
 | 1707 | [Maximum XOR With an Element From Array](https://leetcode.com/problems/maximum-xor-with-an-element-from-array/) | [无] | [C++](1501-2000/1707-Maximum-XOR-With-an-Element-From-Array/cpp-1707/) | | |
+| | | | | | |
+| 1713 | [Minimum Operations to Make a Subsequence](https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/) | [无] | [solution](1501-2000/1713-Minimum-Operations-to-Make-a-Subsequence/cpp-1713/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
