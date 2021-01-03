@@ -438,7 +438,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 519 | [Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix/description/) | [solution](https://leetcode.com/problems/random-flip-matrix/solution/) | [C++](0501-1000/0519-Random-Flip-Matrix/cpp-0519/) | | |
 | | | | | | |
 | 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [solution](https://leetcode.com/problems/contiguous-array/solution/) [题解](https://leetcode-cn.com/problems/contiguous-array/solution/lian-xu-shu-zu-by-leetcode/) | [C++](0501-1000/0525-Contiguous-Array/cpp-0525/) | | |
-| 526 | [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | [solution](https://leetcode.com/problems/beautiful-arrangement/solution/) | [C++](0526-Beautiful-Arrangement/cpp-0526/) | | |
+| 526 | [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | [solution](https://leetcode.com/problems/beautiful-arrangement/solution/) | [C++](0501-1000/0526-Beautiful-Arrangement/cpp-0526/) | | |
 | | | | | | |
 | 528 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/description/) | [solution](https://leetcode.com/problems/random-pick-with-weight/solution/) | [C++](0501-1000/0528-Random-Pick-with-Weight/cpp-0528/) | | |
 | 529 | [Minesweeper](https://leetcode.com/problems/minesweeper/) | [无] | [C++](0501-1000/0529-Minesweeper/cpp-0529/) | | |
@@ -495,6 +495,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 664 | [Strange Printer](https://leetcode.com/problems/strange-printer/) | [solution](https://leetcode.com/problems/strange-printer/) | [C++](0501-1000/0664-Strange-Printer/cpp-0664/) | | |
 | | | | | | |
+| 667 | [Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/) | [solution](https://leetcode.com/problems/beautiful-arrangement-ii/solution/) | [C++](0501-1000/0667-Beautiful-Arrangement-II/ccp-0667/) | | |
 | 668 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [solution](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [C++](0501-1000/0668-Kth-Smallest-Number-in-Multiplication-Table/cpp-0668/) | | |
 | | | | | | |
 | 672 | [Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/description/) | [solution](https://leetcode.com/problems/bulb-switcher-ii/solution/) | [C++](0501-1000/0672-Bulb-Switcher-II/cpp-0672/) | | |
