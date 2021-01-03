@@ -1281,10 +1281,11 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1705 | [Maximum Number of Eaten Apples](https://leetcode.com/problems/maximum-number-of-eaten-apples/) | [solution](https://leetcode.com/problems/maximum-number-of-eaten-apples/solution/) | [C++](1501-2000/1705-Maximum-Number-of-Eaten-Apples/cpp-1705/) | | |
 | 1706 | [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | [无] | [C++](1501-2000/1706-Where-Will-the-Ball-Fall/cpp-1706/) | | |
 | 1707 | [Maximum XOR With an Element From Array](https://leetcode.com/problems/maximum-xor-with-an-element-from-array/) | [无] | [C++](1501-2000/1707-Maximum-XOR-With-an-Element-From-Array/cpp-1707/) | | |
-| | | | | | |
+| 1708 | [Largest Subarray Length K](https://leetcode.com/problems/largest-subarray-length-k/) | [无] | [C++](1708-Largest-Subarray-Length-K/cpp-1708/) | | |
+| 1709 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | [solution](https://leetcode.com/problems/maximum-units-on-a-truck/solution/) | [C++](1501-2000/1710-Maximum-Units-on-a-Truck/cpp-1710/) | | |
 | 1711 | [Count Good Meals](https://leetcode.com/problems/count-good-meals/) | [无] | [C++](1711-Count-Good-Meals/cpp-1711/) | | |
-| 1712 | [Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) | [solution](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/solution/) | [C++](1712-Ways-to-Split-Array-Into-Three-Subarrays/cpp-1712/) | | |
+| 1712 | [Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) | [solution](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/solution/) | [C++](1501-2000/1712-Ways-to-Split-Array-Into-Three-Subarrays/cpp-1712/) | | |
 | 1713 | [Minimum Operations to Make a Subsequence](https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/) | [无] | [C++](1501-2000/1713-Minimum-Operations-to-Make-a-Subsequence/cpp-1713/) | | |
 | | | | | | |
 
