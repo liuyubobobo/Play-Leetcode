@@ -1282,7 +1282,9 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1706 | [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | [无] | [C++](1501-2000/1706-Where-Will-the-Ball-Fall/cpp-1706/) | | |
 | 1707 | [Maximum XOR With an Element From Array](https://leetcode.com/problems/maximum-xor-with-an-element-from-array/) | [无] | [C++](1501-2000/1707-Maximum-XOR-With-an-Element-From-Array/cpp-1707/) | | |
 | | | | | | |
-| 1713 | [Minimum Operations to Make a Subsequence](https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/) | [无] | [solution](1501-2000/1713-Minimum-Operations-to-Make-a-Subsequence/cpp-1713/) | | |
+| 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | [solution](https://leetcode.com/problems/maximum-units-on-a-truck/solution/) | [C++](1501-2000/1710-Maximum-Units-on-a-Truck/cpp-1710/) | | |
+| | | | | | |
+| 1713 | [Minimum Operations to Make a Subsequence](https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/) | [无] | [C++](1501-2000/1713-Minimum-Operations-to-Make-a-Subsequence/cpp-1713/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
