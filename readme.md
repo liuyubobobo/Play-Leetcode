@@ -616,6 +616,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 827 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | [无] | [C++](0501-1000/0827-Making-A-Large-Island/cpp-0827/) | | |
 | | | | | | |
+| 830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/) | [solution](https://leetcode.com/problems/positions-of-large-groups/solution/) | [C++](0501-1000/0830-Positions-of-Large-Groups/cpp-0830/) | | |
+| | | | | | |
 | 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/) | [solution](https://leetcode.com/problems/keys-and-rooms/solution/) | [C++](0501-1000/0841-Keys-and-Rooms/cpp-0841/) | | |
 | 842 | [Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) | [solution](https://leetcode.com/problems/split-array-into-fibonacci-sequence/solution/) | [C++](0501-1000/0842-Split-Array-into-Fibonacci-Sequence/cpp-0842/) | | |
 | | | | | | |
