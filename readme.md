@@ -367,6 +367,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/description/) | [无] | [C++](0001-0500/0394-Decode-String/cpp-0394/) | | |
 | | | | | | |
 | 398 | [Random Pick Index](https://leetcode.com/problems/random-pick-index/description/) | [无] | [C++](0001-0500/0398-Random-Pick-Index/cpp-0398/) | | |
+| 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | [solution](https://leetcode.com/problems/evaluate-division/solution/)<br/>[缺：UF] | [C++](0001-0500/0399-Evaluate-Division/cpp-0399/) | | |
 | | | | | | |
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [无] | [C++](0001-0500/0401-Binary-Watch/cpp-0401/) | | |
 | 402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [solution](https://leetcode.com/problems/remove-k-digits/solution/) [题解](https://leetcode-cn.com/problems/remove-k-digits/solution/yi-diao-kwei-shu-zi-by-leetcode/) | [C++](0001-0500/0402-Remove-K-Digits/cpp-0402/) | | |
