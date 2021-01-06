@@ -1152,6 +1152,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1522 | [Diameter of N-Ary Tree](https://leetcode.com/problems/diameter-of-n-ary-tree/) | [无] | [C++](1501-2000/1522-Diameter-of-N-Ary-Tree/cpp-1522/) | | |
 | | | | | | |
+| 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [solution](https://leetcode.com/problems/kth-missing-positive-number/solution/) | [C++](1501-2000/1539-Kth-Missing-Positive-Number/cpp-1539/) | | |
+| | | | | | |
 | 1564 | [Put Boxes Into the Warehouse I](https://leetcode.com/problems/put-boxes-into-the-warehouse-i/) |  [无] | [C++](1501-2000/1564-Put-Boxes-Into-the-Warehouse-I/cpp-1564/) | | |
 | | | | | | |
 | 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | [无] | [C++](1501-2000/1576-Replace-All-Question-Marks-to-Avoid-Consecutive-Repeating-Characters/cpp-1576/) | | |
