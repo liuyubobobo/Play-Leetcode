@@ -1296,6 +1296,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1711 | [Count Good Meals](https://leetcode.com/problems/count-good-meals/) | [无] | [C++](1711-Count-Good-Meals/cpp-1711/) | | |
 | 1712 | [Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) | [solution](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/solution/) | [C++](1501-2000/1712-Ways-to-Split-Array-Into-Three-Subarrays/cpp-1712/) | | |
 | 1713 | [Minimum Operations to Make a Subsequence](https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/) | [无] | [C++](1501-2000/1713-Minimum-Operations-to-Make-a-Subsequence/cpp-1713/) | | |
+| 1714 | [Sum Of Special Evenly-Spaced Elements In Array](https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array/) | [无] | [C++](1501-2000/1714-Sum-Of-Special-Evenly-Spaced-Elements-In-Array/cpp-1714/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
