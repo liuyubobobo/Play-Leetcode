@@ -1152,6 +1152,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1498 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | [无] | [C++](1001-1500/1498-Number-of-Subsequences-That-Satisfy-the-Given-Sum-Condition/cpp-1498/) | | |
 | 1499 | [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/) | [无] | [C++](1001-1500/1499-Max-Value-of-Equation/cpp-1499/) | | |
 | | | | | | |
+| 1506 | [Find Root of N-Ary Tree](https://leetcode.com/problems/find-root-of-n-ary-tree/) | [solution](https://leetcode.com/problems/find-root-of-n-ary-tree/solution/) | [C++](1501-2000/1506-Find-Root-of-N-Ary-Tree/cpp-1506/) | | |
+| | | | | | |
 | 1522 | [Diameter of N-Ary Tree](https://leetcode.com/problems/diameter-of-n-ary-tree/) | [无] | [C++](1501-2000/1522-Diameter-of-N-Ary-Tree/cpp-1522/) | | |
 | | | | | | |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [solution](https://leetcode.com/problems/kth-missing-positive-number/solution/) | [C++](1501-2000/1539-Kth-Missing-Positive-Number/cpp-1539/) | | |
