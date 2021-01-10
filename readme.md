@@ -1305,7 +1305,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1720 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | [无] | [C++](1501-2000/1720-Decode-XORed-Array/cpp-1720/) | | |
 | 1721 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [无] | [C++](1501-2000/1721-Swapping-Nodes-in-a-Linked-List/cpp-1721/) | | |
 | 1722 | [Minimize Hamming Distance After Swap Operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) | [无] | [C++](1501-2000/1722-Minimize-Hamming-Distance-After-Swap-Operations/cpp-1722/) | | |
-| | | | | | |
+| 1723 | [Find Minimum Time to Finish All Jobs](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/) | [无] | [C++](1501-2000/1723-Find-Minimum-Time-to-Finish-All-Jobs/cpp-1723/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
