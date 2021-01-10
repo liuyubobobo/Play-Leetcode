@@ -251,6 +251,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) | [solution](https://leetcode.com/problems/implement-stack-using-queues/solution/) | [C++](0001-0500/0225-Implement-Stack-using-Queues/cpp-0225/) | | |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [solution](https://leetcode.com/problems/invert-binary-tree/solution/) | [C++](0001-0500/0226-Invert-Binary-Tree/cpp-0226/) | [Java](0001-0500/0226-Invert-Binary-Tree/java-0226/src/) | [Python](0001-0500/0226-Invert-Binary-Tree/py-0226/) |
 | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/) | [无] | [C++](0001-0500/0227-Basic-Calculator-II/cpp-0227/) | | |
+| 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [solution](https://leetcode.com/problems/summary-ranges/solution/) | [C++](0001-0500/0228-Summary-Ranges/cpp-0228/) | | |
 | | | | | | |
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | [solution](https://leetcode.com/problems/kth-smallest-element-in-a-bst/solution/)<br/>[缺：非递归] | [C++](0001-0500/0230-Kth-Smallest-Element-in-a-BST/cpp-0230/) | | |
 | | | | | | |
@@ -1301,7 +1302,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1714 | [Sum Of Special Evenly-Spaced Elements In Array](https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array/) | [无] | [C++](1501-2000/1714-Sum-Of-Special-Evenly-Spaced-Elements-In-Array/cpp-1714/) | | |
 | 1715 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1716 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | [无] | [C++](1501-2000/1716-Calculate-Money-in-Leetcode-Bank/cpp-1716/) | | |
-| 1717 | [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/) | [无] | [C++](1717-Maximum-Score-From-Removing-Substrings/cpp-1717/) | | |
+| 1717 | [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/) | [无] | [C++](1501-2000/1717-Maximum-Score-From-Removing-Substrings/cpp-1717/) | | |
 | | | | | | |
 | 1720 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | [无] | [C++](1501-2000/1720-Decode-XORed-Array/cpp-1720/) | | |
 | 1721 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [无] | [C++](1501-2000/1721-Swapping-Nodes-in-a-Linked-List/cpp-1721/) | | |
