@@ -1301,6 +1301,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1714 | [Sum Of Special Evenly-Spaced Elements In Array](https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array/) | [无] | [C++](1501-2000/1714-Sum-Of-Special-Evenly-Spaced-Elements-In-Array/cpp-1714/) | | |
 | 1715 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1716 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | [无] | [C++](1501-2000/1716-Calculate-Money-in-Leetcode-Bank/cpp-1716/) | | |
+| 1717 | [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/) | [无] | [C++](1717-Maximum-Score-From-Removing-Substrings/cpp-1717/) | | |
 | | | | | | |
 | 1720 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | [无] | [C++](1501-2000/1720-Decode-XORed-Array/cpp-1720/) | | |
 | 1721 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [无] | [C++](1501-2000/1721-Swapping-Nodes-in-a-Linked-List/cpp-1721/) | | |
