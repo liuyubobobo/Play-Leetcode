@@ -1303,7 +1303,9 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1716 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | [无] | [C++](1501-2000/1716-Calculate-Money-in-Leetcode-Bank/cpp-1716/) | | |
 | | | | | | |
 | 1720 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | [无] | [C++](1501-2000/1720-Decode-XORed-Array/cpp-1720/) | | |
-| 1721 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [无] | [C++](1721-Swapping-Nodes-in-a-Linked-List/cpp-1721/) | | |
+| 1721 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [无] | [C++](1501-2000/1721-Swapping-Nodes-in-a-Linked-List/cpp-1721/) | | |
+| 1722 | [Minimize Hamming Distance After Swap Operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) | [无] | [C++](1501-2000/1722-Minimize-Hamming-Distance-After-Swap-Operations/cpp-1722/) | | |
+| | | | | | |
 | | | | | | |
 
 ## 力扣中文站比赛
