@@ -1302,6 +1302,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1715 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1716 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | [无] | [C++](1501-2000/1716-Calculate-Money-in-Leetcode-Bank/cpp-1716/) | | |
 | | | | | | |
+| 1720 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | [无] | [C++](1501-2000/1720-Decode-XORed-Array/cpp-1720/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
