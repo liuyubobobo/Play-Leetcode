@@ -326,6 +326,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/description/) | [无] | [C++](0001-0500/0337-House-Robber-III/cpp-0337/) | | |
 | | | | | | |
+| 339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) | [无] | [C++](0001-0500/0339-Nested-List-Weight-Sum/cpp-0339/) | | |
 | 340 | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | [solution](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/solution/) | [C++](0001-0500/0340-Longest-Substring-with-At-Most-K-Distinct-Characters/cpp-0340/) | | |
 | 341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [无] | [C++](0001-0500/0341-Flatten-Nested-List-Iterator/cpp-0341/) | | |
 | | | | | | |
