@@ -342,6 +342,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/description/) | [无] | [C++](0001-0500/0359-Logger-Rate-Limiter/cpp-0359/) | | |
 | 360 | [Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/description/) | [无] | [C++](0001-0500/0360-Sort-Transformed-Array/cpp-0360/) | | |
 | | | | | | |
+| 364 | [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/) | [无] | [C++](0001-0500/0364-Nested-List-Weight-Sum-II/cpp-0364/) | | |
+| | | | | | |
 | 369 | [Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/) | [solution](https://leetcode.com/problems/plus-one-linked-list/solution/) | [C++](0001-0500/0369-Plus-One-Linked-List/cpp-0369/) | | |
 | 370 | [Range Addition](https://leetcode.com/problems/range-addition/description/) | | [C++](0001-0500/0370-Range-Addition/cpp-0370/) | | |
 | | | | | | |
