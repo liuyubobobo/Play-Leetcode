@@ -1308,7 +1308,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1716 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | [无] | [C++](1501-2000/1716-Calculate-Money-in-Leetcode-Bank/cpp-1716/) | | |
 | 1717 | [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/) | [无] | [C++](1501-2000/1717-Maximum-Score-From-Removing-Substrings/cpp-1717/) | | |
 | 1718 | [Construct the Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/) | [无] | [C++](1501-2000/1718-Construct-the-Lexicographically-Largest-Valid-Sequence/cpp-1718/) | | |
-| | | | | | |
+| 1719 | [Number Of Ways To Reconstruct A Tree](https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree/) | [无] | [C++](1501-2000/1719-Number-Of-Ways-To-Reconstruct-A-Tree/cpp-1719/) | | |
 | 1720 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | [无] | [C++](1501-2000/1720-Decode-XORed-Array/cpp-1720/) | | |
 | 1721 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [无] | [C++](1501-2000/1721-Swapping-Nodes-in-a-Linked-List/cpp-1721/) | | |
 | 1722 | [Minimize Hamming Distance After Swap Operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) | [无] | [C++](1501-2000/1722-Minimize-Hamming-Distance-After-Swap-Operations/cpp-1722/) | | |
