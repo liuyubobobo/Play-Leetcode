@@ -1317,6 +1317,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1723 | [Find Minimum Time to Finish All Jobs](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/) | [无] | [C++](1501-2000/1723-Find-Minimum-Time-to-Finish-All-Jobs/cpp-1723/) | | |
 | 1724 | [Checking Existence of Edge Length Limited Paths II](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths-ii/) | [无] | [C++](1501-2000/1724-Checking-Existence-of-Edge-Length-Limited-Paths-II/cpp-1724/) | | |
 | 1725 | [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/) | [无] | [C++](1501-2000/1725-Number-Of-Rectangles-That-Can-Form-The-Largest-Square/cpp-1725/) | | |
+| 1726 | [Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/) | [无] | [C++](1501-2000/1726-Tuple-with-Same-Product/cpp-1726/)| | |
 | | | | | | |
 
 ## 力扣中文站比赛
