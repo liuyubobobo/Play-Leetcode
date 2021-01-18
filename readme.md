@@ -1319,6 +1319,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1725 | [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/) | [无] | [C++](1501-2000/1725-Number-Of-Rectangles-That-Can-Form-The-Largest-Square/cpp-1725/) | | |
 | 1726 | [Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/) | [无] | [C++](1501-2000/1726-Tuple-with-Same-Product/cpp-1726/)| | |
 | 1727 | [Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) | [无] | [C++](1501-2000/1727-Largest-Submatrix-With-Rearrangements/cpp-1727/) | | |
+| 1728 | [Cat and Mouse II](https://leetcode.com/problems/cat-and-mouse-ii/) | [无] | [C++](1501-2000/1728-Cat-and-Mouse-II/cpp-1728/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
