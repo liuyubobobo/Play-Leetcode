@@ -1323,6 +1323,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1727 | [Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) | [无] | [C++](1501-2000/1727-Largest-Submatrix-With-Rearrangements/cpp-1727/) | | |
 | 1728 | [Cat and Mouse II](https://leetcode.com/problems/cat-and-mouse-ii/) | [无] | [C++](1501-2000/1728-Cat-and-Mouse-II/cpp-1728/) | | |
 | 1729 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1730 | [Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food/) | [无] | [C++](1501-2000/1730-Shortest-Path-to-Get-Food/cpp-1730/) | | |
+| 1731 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
 
 ## 力扣中文站比赛
