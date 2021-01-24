@@ -1330,6 +1330,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1734 | [Decode XORed Permutation](https://leetcode.com/problems/decode-xored-permutation/) | [无] | [C++](1501-2000/1734-Decode-XORed-Permutation/cpp-1734/) | | |
 | | | | | | |
 | 1736 | [Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/) | [无] | [C++](1501-2000/1736-Latest-Time-by-Replacing-Hidden-Digits/cpp-1736/) | | |
+| 1737 | [Change Minimum Characters to Satisfy One of Three Conditions](https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/) | [无] | [C++](1501-2000/1737-Change-Minimum-Characters-to-Satisfy-One-of-Three-Conditions/cpp-1737/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
