@@ -1327,6 +1327,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1731 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [无] | [C++](1501-2000/1732-Find-the-Highest-Altitude/cpp-1732/) | | |
 | 1733 | [Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/) | [无] | [C++](1501-2000/1733-Minimum-Number-of-People-to-Teach/cpp-1733/) | | |
+| 1734 | [Decode XORed Permutation](https://leetcode.com/problems/decode-xored-permutation/) | [无] | [C++](1501-2000/1734-Decode-XORed-Permutation/cpp-1734/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
