@@ -14,23 +14,11 @@ class Solution {
 public:
     int minimumBoxes(int n) {
 
-        if(n == 1) return 1;
-
-        int total = 1, res = 1;
-        for(int h = 2; h <= n; h ++){
-
-            if(total + 1 == n){ res ++; break;}
-
-            total += 3, res += 2;
-            if(total >= n) break;
-
-            for(int x = 3; x <= h; x ++){
+        int total = 0, res = 0;
+        for(int h = 1; h <= n && total < n; h ++){
+            for(int x = 1; x <= h && total < n; x ++)
                 total += x, res ++;
-                if(total >= n) break;
-            }
-            if(total >= n) break;
         }
-
         return res;
     }
 };
