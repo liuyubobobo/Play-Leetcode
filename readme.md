@@ -1332,6 +1332,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1736 | [Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/) | [无] | [C++](1501-2000/1736-Latest-Time-by-Replacing-Hidden-Digits/cpp-1736/) | | |
 | 1737 | [Change Minimum Characters to Satisfy One of Three Conditions](https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/) | [无] | [C++](1501-2000/1737-Change-Minimum-Characters-to-Satisfy-One-of-Three-Conditions/cpp-1737/) | | |
 | 1738 | [Find Kth Largest XOR Coordinate Value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/) | [无] | [C++](1501-2000/1738-Find-Kth-Largest-XOR-Coordinate-Value/cpp-1738/) | | |
+| 1739 | [Building Boxes](https://leetcode.com/problems/building-boxes/) | [无]<br/>[缺：二分；数学] | [C++](1501-2000/1739-Building-Boxes/cpp-1739/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
