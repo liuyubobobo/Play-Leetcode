@@ -343,6 +343,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 360 | [Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/description/) | [无] | [C++](0001-0500/0360-Sort-Transformed-Array/cpp-0360/) | | |
 | | | | | | |
 | 364 | [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/) | [无] | [C++](0001-0500/0364-Nested-List-Weight-Sum-II/cpp-0364/) | | |
+| 365 | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) | [题解](https://leetcode-cn.com/problems/water-and-jug-problem/solution/shui-hu-wen-ti-by-leetcode-solution/)<br/>[缺：数学解法] | [C++](0001-0500/0365-Water-and-Jug-Problem/cpp-0365/) | | |
 | | | | | | |
 | 369 | [Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/) | [solution](https://leetcode.com/problems/plus-one-linked-list/solution/) | [C++](0001-0500/0369-Plus-One-Linked-List/cpp-0369/) | | |
 | 370 | [Range Addition](https://leetcode.com/problems/range-addition/description/) | | [C++](0001-0500/0370-Range-Addition/cpp-0370/) | | |
