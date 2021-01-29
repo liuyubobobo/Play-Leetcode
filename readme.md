@@ -1331,7 +1331,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [无] | [C++](1501-2000/1732-Find-the-Highest-Altitude/cpp-1732/) | | |
 | 1733 | [Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/) | [无] | [C++](1501-2000/1733-Minimum-Number-of-People-to-Teach/cpp-1733/) | | |
 | 1734 | [Decode XORed Permutation](https://leetcode.com/problems/decode-xored-permutation/) | [无] | [C++](1501-2000/1734-Decode-XORed-Permutation/cpp-1734/) | | |
-| | | | | | |
+| 1735 | [Count Ways to Make Array With Product](https://leetcode.com/problems/count-ways-to-make-array-with-product/) | [无] | [C++](1501-2000/1735-Count-Ways-to-Make-Array-With-Product/cpp-1735/) | | |
 | 1736 | [Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/) | [无] | [C++](1501-2000/1736-Latest-Time-by-Replacing-Hidden-Digits/cpp-1736/) | | |
 | 1737 | [Change Minimum Characters to Satisfy One of Three Conditions](https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/) | [无] | [C++](1501-2000/1737-Change-Minimum-Characters-to-Satisfy-One-of-Three-Conditions/cpp-1737/) | | |
 | 1738 | [Find Kth Largest XOR Coordinate Value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/) | [无] | [C++](1501-2000/1738-Find-Kth-Largest-XOR-Coordinate-Value/cpp-1738/) | | |
