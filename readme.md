@@ -1344,6 +1344,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1742 | [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) | [无] | [C++](1501-2000/1742-Maximum-Number-of-Balls-in-a-Box/cpp-1742/) | | |
 | 1743 | [Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/) | [无] | [C++](1501-2000/1743-Restore-the-Array-From-Adjacent-Pairs/cpp-1743/) | | |
 | 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day?](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) | [无] |  [C++](1501-2000/1744-Can-You-Eat-Your-Favorite-Candy-on-Your-Favorite-Day/cpp-1744/) | | |
+| 1745 | [Palindrome Partitioning IV](https://leetcode.com/problems/palindrome-partitioning-iv/) | [无] | [C++](1745-Palindrome-Partitioning-IV/cpp-1745/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
