@@ -1339,7 +1339,9 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1737 | [Change Minimum Characters to Satisfy One of Three Conditions](https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/) | [无] | [C++](1501-2000/1737-Change-Minimum-Characters-to-Satisfy-One-of-Three-Conditions/cpp-1737/) | | |
 | 1738 | [Find Kth Largest XOR Coordinate Value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/) | [无] | [C++](1501-2000/1738-Find-Kth-Largest-XOR-Coordinate-Value/cpp-1738/) | | |
 | 1739 | [Building Boxes](https://leetcode.com/problems/building-boxes/) | [无]<br/>[缺：二分；数学] | [C++](1501-2000/1739-Building-Boxes/cpp-1739/) | | |
-| 1740 | [Find Distance in a Binary Tree](https://leetcode.com/problems/find-distance-in-a-binary-tree/) |  [无]<br/>[缺：LCA] | [C++](1740-Find-Distance-in-a-Binary-Tree/cpp-1740/) | | |
+| 1740 | [Find Distance in a Binary Tree](https://leetcode.com/problems/find-distance-in-a-binary-tree/) |  [无]<br/>[缺：LCA] | [C++](1501-2000/1740-Find-Distance-in-a-Binary-Tree/cpp-1740/) | | |
+| 1741 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1742 | [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) | [无] | [C++](1501-2000/1742-Maximum-Number-of-Balls-in-a-Box/cpp-1742/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
