@@ -1342,6 +1342,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1740 | [Find Distance in a Binary Tree](https://leetcode.com/problems/find-distance-in-a-binary-tree/) |  [无]<br/>[缺：LCA] | [C++](1501-2000/1740-Find-Distance-in-a-Binary-Tree/cpp-1740/) | | |
 | 1741 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1742 | [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) | [无] | [C++](1501-2000/1742-Maximum-Number-of-Balls-in-a-Box/cpp-1742/) | | |
+| 1743 | [Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/) | [无] | [C++](1743-Restore-the-Array-From-Adjacent-Pairs/cpp-1743/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
