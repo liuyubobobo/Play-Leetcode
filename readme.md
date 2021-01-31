@@ -176,7 +176,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) | [无] | [C++](0001-0500/0129-Sum-Root-to-Leaf-Numbers/cpp-0129/) | | |
 | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/) | [无] | [C++](0001-0500/0130-Surrounded-Regions/cpp-0130/) | | |
 | 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [solution](https://leetcode.com/problems/palindrome-partitioning/solution/)  <br/>[缺：DP] | [C++](0001-0500/0131-Palindrome-Partitioning/cpp-0131/) | | |
-| | | | | | |
+| 132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [无] | [C++](0001-0500/0132-Palindrome-Partitioning-II/cpp-0132/) | | |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/description/) | [无] | [C++](0001-0500/0133-Clone-Graph/cpp-0133/) | | |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [solution](https://leetcode.com/problems/gas-station/solution/) | [C++](0001-0500/0134-Gas-Station/cpp-0134/) | | |
 | 135 | [Candy](https://leetcode.com/problems/candy/) | [solution](https://leetcode.com/problems/candy/solution/)<br/>[缺：O(1)空间算法] | [C++](0001-0500/0135-Candy/cpp-0135/) | | |
@@ -1344,7 +1344,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1742 | [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) | [无] | [C++](1501-2000/1742-Maximum-Number-of-Balls-in-a-Box/cpp-1742/) | | |
 | 1743 | [Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/) | [无] | [C++](1501-2000/1743-Restore-the-Array-From-Adjacent-Pairs/cpp-1743/) | | |
 | 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day?](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) | [无] |  [C++](1501-2000/1744-Can-You-Eat-Your-Favorite-Candy-on-Your-Favorite-Day/cpp-1744/) | | |
-| 1745 | [Palindrome Partitioning IV](https://leetcode.com/problems/palindrome-partitioning-iv/) | [无] | [C++](1745-Palindrome-Partitioning-IV/cpp-1745/) | | |
+| 1745 | [Palindrome Partitioning IV](https://leetcode.com/problems/palindrome-partitioning-iv/) | [无] | [C++](1501-2000/1745-Palindrome-Partitioning-IV/cpp-1745/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
