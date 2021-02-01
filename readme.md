@@ -389,6 +389,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/) | [无] | | [Java](0001-0500/0417-Pacific-Atlantic-Water-Flow/java-0417/src/) | |
 | | | | | | |
 | 423 | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | [solution](https://leetcode.com/problems/reconstruct-original-digits-from-english/solution/) | [C++](0001-0500/0423-Reconstruct-Original-Digits-from-English/cpp-0423/) | | |
+| 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [无] | [C++](0001-0500/0424-Longest-Repeating-Character-Replacement/cpp-0424/) | | |
 | | | | | | |
 | 426 | [Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) | [solution](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/solution/) | [C++](0001-0500/0426-Convert-Binary-Search-Tree-to-Sorted-Doubly-Linked-List/cpp-0426/) | | |
 | | | | | | |
