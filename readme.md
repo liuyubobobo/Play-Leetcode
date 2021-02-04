@@ -497,6 +497,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | [solution](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | [C++](0501-1000/0637-Average-of-Levels-in-Binary-Tree/cpp-0637/) | | |
 | | | | | | |
 | 642 | [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) | [无] | [C++](0501-1000/0642-Design-Search-Autocomplete-System/cpp-0642/) | | |
+| 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [solution](https://leetcode.com/problems/maximum-average-subarray-i/solution/) | [C++](0501-1000/0643-Maximum-Average-Subarray-I/cpp-0643/) | | |
 | | | | | | |
 | 648 | [Replace Words](https://leetcode.com/problems/replace-words/description/) | [无] | [C++](0501-1000/0648-Replace-Words/cpp-0648/) | | |
 | 649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | [solution](https://leetcode.com/problems/dota2-senate/solution/)<br/>[缺：队列] | [C++](0501-1000/0649-Dota2-Senate/cpp-0649/) | | |
@@ -509,7 +510,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 667 | [Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/) | [solution](https://leetcode.com/problems/beautiful-arrangement-ii/solution/) | [C++](0501-1000/0667-Beautiful-Arrangement-II/ccp-0667/) | | |
 | 668 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [solution](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [C++](0501-1000/0668-Kth-Smallest-Number-in-Multiplication-Table/cpp-0668/) | | |
-| 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [solution](https://leetcode.com/problems/trim-a-binary-search-tree/solution/) | [C++](0669-Trim-a-Binary-Search-Tree/cpp-0669/) | | |
+| 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [solution](https://leetcode.com/problems/trim-a-binary-search-tree/solution/) | [C++](0501-1000/0669-Trim-a-Binary-Search-Tree/cpp-0669/) | | |
 | | | | | | |
 | 672 | [Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/description/) | [solution](https://leetcode.com/problems/bulb-switcher-ii/solution/) | [C++](0501-1000/0672-Bulb-Switcher-II/cpp-0672/) | | |
 | 673 | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/) | [缺：BIT；线段树] | [C++](0501-1000/0673-Number-of-Longest-Increasing-Subsequence/cpp-0673/) | | |
