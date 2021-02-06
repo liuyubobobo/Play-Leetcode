@@ -1377,6 +1377,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | LCP15 | [游乐园的迷宫](https://leetcode-cn.com/problems/you-le-yuan-de-mi-gong/) | [题解](https://leetcode-cn.com/problems/you-le-yuan-de-mi-gong/solution/you-le-yuan-de-mi-gong-tan-xin-si-lu-by-leetcode-s/) | [C++](LCP/LCP15-you-le-yuan-de-mi-gong/cpp-LCP15/) | | |
 | LCP16 | [游乐园的游览计划](https://leetcode-cn.com/problems/you-le-yuan-de-you-lan-ji-hua/) | [题解](https://leetcode-cn.com/problems/you-le-yuan-de-you-lan-ji-hua/solution/you-le-yuan-de-you-lan-ji-hua-tu-lun-jie-xi-by-l-2/) | [C++](LCP/LCP16-you-le-yuan-de-you-lan-ji-hua/cpp-LCP16/) | | |
 | LCP17 | [速算机器人](https://leetcode-cn.com/problems/nGK0Fy/) | [无] | [C++](LCP/LCP17/cpp-LCP17/) | | |
+| LCP18 | [早餐组合](https://leetcode-cn.com/problems/2vYnGI/) | [无] | [C++](LCP/LCP18/cpp-LCP18/) | | |
 | | | | | | |
 | LCP22 | [黑白方格画](https://leetcode-cn.com/problems/ccw6C7/) | [无] | [C++](LCP/LCP22/cpp-LCP22/) | | |
 | LCP23 | [魔术排列](https://leetcode-cn.com/problems/er94lq/) | [无] | [C++](LCP/LCP23/cpp-LCP23/) | | |
