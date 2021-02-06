@@ -1380,7 +1380,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | LCP18 | [早餐组合](https://leetcode-cn.com/problems/2vYnGI/) | [无] | [C++](LCP/LCP18/cpp-LCP18/) | | |
 | LCP19 | [秋叶收藏集](https://leetcode-cn.com/problems/UlBDOe/) | [题解](https://leetcode-cn.com/problems/UlBDOe/solution/qiu-xie-shou-cang-ji-by-leetcode-solution/) | [C++](LCP/LCP19/cpp-LCP19/) | | |
 | LCP20 | [快速公交](https://leetcode-cn.com/problems/meChtZ/) | [无] | [C++](LCP/LCP20/cpp-LCP20/) | | |
-| | | | | | |
+| LCP21 | [追逐游戏](https://leetcode-cn.com/problems/Za25hA/) | [无] | [C++](LCP/LCP21/cpp-LCP21/) | | |
 | LCP22 | [黑白方格画](https://leetcode-cn.com/problems/ccw6C7/) | [无] | [C++](LCP/LCP22/cpp-LCP22/) | | |
 | LCP23 | [魔术排列](https://leetcode-cn.com/problems/er94lq/) | [无] | [C++](LCP/LCP23/cpp-LCP23/) | | |
 | LCP24 | [数字游戏](https://leetcode-cn.com/problems/5TxKeK/) | [无] | [C++](LCP/LCP24/cpp-LCP24/) | | |
