@@ -1357,6 +1357,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1746 | [Maximum Subarray Sum After One Operation](https://leetcode.com/problems/maximum-subarray-sum-after-one-operation/) | [无] | [C++](1501-2000/1746-Maximum-Subarray-Sum-After-One-Operation/cpp-1746/) | | |
 | 1747 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1748 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | [无] | [C++](1501-2000/1748-Sum-of-Unique-Elements/cpp-1748/) | | |
+| 1749 | [Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | [无] | [C++](1749-Maximum-Absolute-Sum-of-Any-Subarray/cpp-1749/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
