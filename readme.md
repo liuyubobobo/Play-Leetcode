@@ -510,6 +510,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 659 | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | [solution](https://leetcode.com/problems/split-array-into-consecutive-subsequences/solution/) | [C++](0501-1000/0659-Split-Array-into-Consecutive-Subsequences/cpp-0659/) | | |
 | | | | | | |
 | 664 | [Strange Printer](https://leetcode.com/problems/strange-printer/) | [solution](https://leetcode.com/problems/strange-printer/) | [C++](0501-1000/0664-Strange-Printer/cpp-0664/) | | |
+| 665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [solution](https://leetcode.com/problems/non-decreasing-array/solution/) | [C++](0501-1000/0665-Non-decreasing-Array/cpp-0665/) | | |
 | | | | | | |
 | 667 | [Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/) | [solution](https://leetcode.com/problems/beautiful-arrangement-ii/solution/) | [C++](0501-1000/0667-Beautiful-Arrangement-II/ccp-0667/) | | |
 | 668 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [solution](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [C++](0501-1000/0668-Kth-Smallest-Number-in-Multiplication-Table/cpp-0668/) | | |
