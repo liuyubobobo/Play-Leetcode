@@ -1355,6 +1355,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day?](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) | [无] |  [C++](1501-2000/1744-Can-You-Eat-Your-Favorite-Candy-on-Your-Favorite-Day/cpp-1744/) | | |
 | 1745 | [Palindrome Partitioning IV](https://leetcode.com/problems/palindrome-partitioning-iv/) | [无] | [C++](1501-2000/1745-Palindrome-Partitioning-IV/cpp-1745/) | | |
 | 1746 | [Maximum Subarray Sum After One Operation](https://leetcode.com/problems/maximum-subarray-sum-after-one-operation/) | [无] | [C++](1501-2000/1746-Maximum-Subarray-Sum-After-One-Operation/cpp-1746/) | | |
+| 1747 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1748 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | [无] | [C++](1501-2000/1748-Sum-of-Unique-Elements/cpp-1748/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
