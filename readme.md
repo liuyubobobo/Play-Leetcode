@@ -1359,6 +1359,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1748 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | [无] | [C++](1501-2000/1748-Sum-of-Unique-Elements/cpp-1748/) | | |
 | 1749 | [Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | [无] | [C++](1501-2000/1749-Maximum-Absolute-Sum-of-Any-Subarray/cpp-1749/) | | |
 | 1750 | [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | [无] | [C++](1501-2000/1750-Minimum-Length-of-String-After-Deleting-Similar-Ends/cpp-1750/) | | |
+| 1751 | [Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/) | [无] | [C++](1501-2000/1751-Maximum-Number-of-Events-That-Can-Be-Attended-II/cpp-1751/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
