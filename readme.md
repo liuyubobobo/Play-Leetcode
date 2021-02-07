@@ -1363,6 +1363,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [无] | [C++](1501-2000/1752-Check-if-Array-Is-Sorted-and-Rotated/cpp-1752/) | | |
 | 1753 | [Maximum Score From Removing Stones](https://leetcode.com/problems/maximum-score-from-removing-stones/) | [无] | [C++](1501-2000/1753-Maximum-Score-From-Removing-Stones/cpp-1753/) | | |
 | 1754 | [Largest Merge Of Two Strings](https://leetcode.com/problems/largest-merge-of-two-strings/) | [无] | [C++](1501-2000/1754-Largest-Merge-Of-Two-Strings/cpp-1754/) | | |
+| 1755 | [Closest Subsequence Sum](https://leetcode.com/problems/closest-subsequence-sum/) | [无] | [C++](1501-2000/1755-Closest-Subsequence-Sum/cpp-1755/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
