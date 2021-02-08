@@ -1,6 +1,7 @@
 /// Source : https://leetcode.com/problems/longest-turbulent-subarray/
 /// Author : liuyubobobo
 /// Time   : 2018-01-19
+/// Updated: 2021-02-08
 
 #include <iostream>
 #include <vector>
@@ -16,17 +17,19 @@ public:
     int maxTurbulenceSize(vector<int>& A) {
 
         vector<int> diff;
-        for(int i = 1; i < A.size(); i ++)
+        int res = 0;
+        for(int i = 1; i < A.size(); i ++){
             diff.push_back(get_sign(A[i] - A[i - 1]));
+            if(diff.back() != 0) res = 1;
+        }
 
-        int res = 1;
-        for(int start = 0, i = start + 1; i <= diff.size(); i ++)
-            if(i == diff.size() || diff[i] * diff[i - 1] >= 0){
-                res = max(res, i - start + 1);
-                start = i;
-                i = start;
+        for(int start = 0, i = start + 1; i < diff.size(); )
+            if((diff[i - 1] == 1 && diff[i] == -1) || (diff[i - 1] == -1 && diff[i] == 1)){
+                res = max(res, i + 1 - start);
+                i ++;
             }
-        return res;
+            else start = i, i = start + 1;
+        return res + 1;
     }
 
 private:
@@ -48,6 +51,14 @@ int main() {
 
     vector<int> A3 = {100};
     cout << Solution().maxTurbulenceSize(A3) << endl;
+    // 1
+
+    vector<int> A4 = {9, 9};
+    cout << Solution().maxTurbulenceSize(A4) << endl;
+    // 1
+
+    vector<int> A5 = {9, 9, 9};
+    cout << Solution().maxTurbulenceSize(A5) << endl;
     // 1
 
     return 0;
