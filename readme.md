@@ -1372,6 +1372,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1756 | [Design Most Recently Used Queue](https://leetcode.com/problems/design-most-recently-used-queue/) | [无]<br/>[缺：线段树，sqrt 分解] | [C++](1501-2000/1756-Design-Most-Recently-Used-Queue/cpp-1756/) | | |
 | 1757 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1758 | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | [无] | [C++](1501-2000/1758-Minimum-Changes-To-Make-Alternating-Binary-String/cpp-1758/) | | |
+| 1759 | [Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/) | [无] | [C++](1501-2000/1759-Count-Number-of-Homogenous-Substrings/cpp-1759/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
