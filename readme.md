@@ -1370,6 +1370,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1754 | [Largest Merge Of Two Strings](https://leetcode.com/problems/largest-merge-of-two-strings/) | [无] | [C++](1501-2000/1754-Largest-Merge-Of-Two-Strings/cpp-1754/) | | |
 | 1755 | [Closest Subsequence Sum](https://leetcode.com/problems/closest-subsequence-sum/) | [无] | [C++](1501-2000/1755-Closest-Subsequence-Sum/cpp-1755/) | | |
 | 1756 | [Design Most Recently Used Queue](https://leetcode.com/problems/design-most-recently-used-queue/) | [无]<br/>[缺：线段树，sqrt 分解] | [C++](1501-2000/1756-Design-Most-Recently-Used-Queue/cpp-1756/) | | |
+| 1757 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1758 | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | [无] | [C++](1501-2000/1758-Minimum-Changes-To-Make-Alternating-Binary-String/cpp-1758/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
