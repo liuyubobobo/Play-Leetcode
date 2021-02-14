@@ -1374,6 +1374,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1758 | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | [无] | [C++](1501-2000/1758-Minimum-Changes-To-Make-Alternating-Binary-String/cpp-1758/) | | |
 | 1759 | [Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/) | [无] | [C++](1501-2000/1759-Count-Number-of-Homogenous-Substrings/cpp-1759/) | | |
 | 1760 | [Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) | [无] | [C++](1760-Minimum-Limit-of-Balls-in-a-Bag/cpp-1760/) | | |
+| 1761 | [Minimum Degree of a Connected Trio in a Graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/) | [无] | [C++](1761-Minimum-Degree-of-a-Connected-Trio-in-a-Graph/cpp-1761/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
