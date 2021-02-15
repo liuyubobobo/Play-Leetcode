@@ -1300,7 +1300,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [无] | [C++](1501-2000/1684-Count-the-Number-of-Consistent-Strings/cpp-1684/) | | |
 | 1685 | [Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) | [无] | [C++](1501-2000/1685-Sum-of-Absolute-Differences-in-a-Sorted-Array/cpp-1685/) | | |
 | 1686 | [Stone Game VI](https://leetcode.com/problems/stone-game-vi/) | [无] | [C++](1501-2000/1686-Stone-Game-VI/cpp-1686/) | | |
-| | | | | | |
+| 1687 | [Delivering Boxes from Storage to Ports](https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/) | [无]<br/>[缺：dp + 优化] | [C++](1501-2000/1687-Delivering-Boxes-from-Storage-to-Ports/cpp-1687/) | | |
 | 1688 | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/) | [C++](1501-2000/1688-Count-of-Matches-in-Tournament/cpp-1688/) | | | |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [solution](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/solution/) | [C++](1501-2000/1689-Partitioning-Into-Minimum-Number-Of-Deci-Binary-Numbers/cpp-1689/) | | |
 | 1690 | [Stone Game VII](https://leetcode.com/problems/stone-game-vii/) | [solution](https://leetcode.com/problems/stone-game-vii/solution/)<br/>[缺：记忆化搜索；DP 空间优化] | [C++](1501-2000/1690-Stone-Game-VII/cpp-1690/) | | |
