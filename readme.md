@@ -478,6 +478,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | [solution](https://leetcode.com/problems/subtree-of-another-tree/solution/) | [C++](0501-1000/0572-Subtree-of-Another-Tree/cpp-0572/) | | |
 | 573 | [Squirrel Simulation](https://leetcode.com/problems/squirrel-simulation/) |[solution](https://leetcode.com/problems/squirrel-simulation/solution/) | [C++](0501-1000/0573-Squirrel-Simulation/cpp-0573/) | | |
 | | | | | | |
+| 582 | [Kill Process](https://leetcode.com/problems/kill-process/) | [solution](https://leetcode.com/problems/kill-process/solution/) | [C++](0501-1000/0582-Kill-Process/cpp-0582/) | | |
 | 583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/description/) | [solution](https://leetcode.com/problems/delete-operation-for-two-strings/solution/) | [C++](0501-1000/0583-Delete-Operation-for-Two-Strings/cpp-0583/) | | |
 | | | | | | |
 | 587 | [Erect the Fence](https://leetcode.com/problems/erect-the-fence/) | [solution](https://leetcode.com/problems/erect-the-fence/solution/) [题解](https://leetcode-cn.com/problems/erect-the-fence/solution/an-zhuang-zha-lan-by-leetcode/)<br/>[缺：凸包解法整理] | [C++](0501-1000/0587-Erect-the-Fence/cpp-0587/) | | |
