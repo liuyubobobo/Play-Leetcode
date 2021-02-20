@@ -1380,7 +1380,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1760 | [Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) | [无] | [C++](1501-2000/1760-Minimum-Limit-of-Balls-in-a-Bag/cpp-1760/) | | |
 | 1761 | [Minimum Degree of a Connected Trio in a Graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/) | [无] | [C++](1501-2000/1761-Minimum-Degree-of-a-Connected-Trio-in-a-Graph/cpp-1761/) | | |
 | 1762 | [Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/) | [无] | [C++](1501-2000/1762-Buildings-With-an-Ocean-View/cpp-1762/) | | |
-| 1763 | [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/) | [无] | [C++](1763-Longest-Nice-Substring/cpp-1763/) | | |
+| 1763 | [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/) | [无] | [C++](1501-2000/1763-Longest-Nice-Substring/cpp-1763/) | | |
+| 1764 | [Form Array by Concatenating Subarrays of Another Array](1501-2000/1764-Form-Array-by-Concatenating-Subarrays-of-Another-Array/cpp-1764/) | | | | |
 | | | | | | |
 
 ## 力扣中文站比赛
