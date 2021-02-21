@@ -1386,6 +1386,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1766 | [Tree of Coprimes](https://leetcode.com/problems/tree-of-coprimes/) | [无] | [C++](1501-2000/1766-Tree-of-Coprimes/cpp-1766/) | | |
 | 1767 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [无] | [C++](1501-2000/1768-Merge-Strings-Alternately/cpp-1768/) | | |
+| 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | [无] | [C++](1501-2000/1769-Minimum-Number-of-Operations-to-Move-All-Balls-to-Each-Box/cpp-1769/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
