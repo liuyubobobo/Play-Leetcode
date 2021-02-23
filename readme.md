@@ -284,6 +284,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 267 | [Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/) | [solution](https://leetcode.com/problems/palindrome-permutation-ii/solution/) | [C++](0001-0500/0267-Palindrome-Permutation-II/cpp-0267/) | | |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [solution](https://leetcode.com/problems/missing-number/solution/) | [C++](0001-0500/0268-Missing-Number/cpp-0268/) | | |
 | | | | | | |
+| 277 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | [solution](https://leetcode.com/problems/find-the-celebrity/solution/) <br/> [缺：O(n) 解法] | [C++](0001-0500/0277-Find-the-Celebrity/cpp-0277/) | | |
+| | | | | | |
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) | [无]<br/>四平方和数学解 | [C++](0001-0500/0279-Perfect-Squares/cpp-0279/) | [Java](0001-0500/0279-Perfect-Squares/java-0279/src/) | |
 | | | | | | |
 | 282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/description/) | [solution](https://leetcode.com/problems/expression-add-operators/solution/) | [C++](0001-0500/0282-Expression-Add-Operators/cpp-0282/) | | |
