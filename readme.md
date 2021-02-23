@@ -650,6 +650,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/) | [solution](https://leetcode.com/problems/positions-of-large-groups/solution/) | [C++](0501-1000/0830-Positions-of-Large-Groups/cpp-0830/) | | |
 | | | | | | |
+| 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [solution](https://leetcode.com/problems/flipping-an-image/solution/) | [C++](0501-1000/0832-Flipping-an-Image/cpp-0832/) | | |
+| | | | | | |
 | 839 | [Similar String Groups](https://leetcode.com/problems/similar-string-groups/) | [solution](https://leetcode.com/problems/similar-string-groups/solution/) | 
 [C++](0501-1000/0839-Similar-String-Groups/cpp-0839/) | | |
 | | | | | | |
