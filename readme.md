@@ -183,6 +183,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | [solution](https://leetcode.com/problems/single-number/solution/) | [C++](0001-0500/0136-Single-Number/cpp-0136/) | | |
 | | | | | | |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | [solution](https://leetcode.com/problems/copy-list-with-random-pointer/solution/) | [C++](0001-0500/0138-Copy-List-with-Random-Pointer/cpp-0138/) | | |
+| 139 | [Word Break](https://leetcode.com/problems/word-break/) | [solution](https://leetcode.com/problems/word-break/solution/) | [C++](0001-0500/0139-Word-Break/cpp-0139/) | | |
 | | | | | | |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [solution](https://leetcode.com/problems/linked-list-cycle/solution/) | [C++](0001-0500/0141-Linked-List-Cycle/cpp-0141/) | | |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [solution](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [C++](0001-0500/0142-Linked-List-Cycle-II/cpp-0142/) | | |
