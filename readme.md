@@ -1399,6 +1399,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | [无] | [C++](1501-2000/1769-Minimum-Number-of-Operations-to-Move-All-Balls-to-Each-Box/cpp-1769/) | | |
 | 1770 | [Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) | [无] | [C++](1501-2000/1770-Maximum-Score-from-Performing-Multiplication-Operations/cpp-1770/) | | |
 | 1771 | [Maximize Palindrome Length From Subsequences](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/) | [无] | [C++](1501-2000/1771-Maximize-Palindrome-Length-From-Subsequences/cpp-1771/) | | |
+| 1772 | [Sort Features by Popularity](https://leetcode.com/problems/sort-features-by-popularity/) | [无] | [C++](1501-2000/1772-Sort-Features-by-Popularity/cpp-1772/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
