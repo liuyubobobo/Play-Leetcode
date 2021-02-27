@@ -79,6 +79,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [solution](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solution/) | [C++](0001-0500/0026-Remove-Duplicates-from-Sorted-Array/cpp-0026/) | | |
 | 027 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [solution](https://leetcode.com/problems/remove-element/solution/) | [C++](0001-0500/0027-Remove-Element/cpp-0027/) | | |
 | 028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [无]<br/>[缺：完整BM算法, 其他模式匹配算法] | [C++](0001-0500/0028-Implement-strStr/cpp-0028/) | | |
+| 029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [solution](https://leetcode.com/problems/divide-two-integers/solution/)<br/>[缺：不使用乘法加法除法] | | | |
 | | | | | | |
 | 033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [solution](https://leetcode.com/problems/search-in-rotated-sorted-array/solution/) | [C++](0001-0500/0033-Search-in-Rotated-Sorted-Array/cpp-0033/) | | |
 | 034 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [solution](https://leetcode.com/problems/search-for-a-range/solution/) | [C++](0001-0500/0034-Search-for-a-Range/cpp-0034/) | | |
