@@ -332,7 +332,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [solution](https://leetcode.com/problems/increasing-triplet-subsequence/solution/) | [C++](0001-0500/0334-Increasing-Triplet-Subsequence/cpp-0334/) | | |
 | | | | | | |
 | 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/description/) | [无] | [C++](0001-0500/0337-House-Robber-III/cpp-0337/) | | |
-| | | | | | |
+| 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [solution](https://leetcode.com/problems/counting-bits/solution/) | [C++](0001-0500/0338-Counting-Bits/cpp-0338/) | | |
 | 339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) | [无] | [C++](0001-0500/0339-Nested-List-Weight-Sum/cpp-0339/) | | |
 | 340 | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | [solution](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/solution/) | [C++](0001-0500/0340-Longest-Substring-with-At-Most-K-Distinct-Characters/cpp-0340/) | | |
 | 341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [无] | [C++](0001-0500/0341-Flatten-Nested-List-Iterator/cpp-0341/) | | |
@@ -518,7 +518,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 642 | [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) | [无] | [C++](0501-1000/0642-Design-Search-Autocomplete-System/cpp-0642/) | | |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [solution](https://leetcode.com/problems/maximum-average-subarray-i/solution/) | [C++](0501-1000/0643-Maximum-Average-Subarray-I/cpp-0643/) | | |
 | 644 | [Maximum Average Subarray II](https://leetcode.com/problems/maximum-average-subarray-ii/) | [solution](https://leetcode.com/problems/maximum-average-subarray-ii/solution/) | [C++](0501-1000/0644-Maximum-Average-Subarray-II/cpp-0644/) | | |
-| 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [solution](https://leetcode.com/problems/set-mismatch/solution/) | [C++](0501-1000/0645-Set-Mismatch/cpp-0645/) | | |
+| 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [solution](https://leetcode.com/problems/set-mismatch/solution/)<br/>[缺：空间 O(1) 解法] | [C++](0501-1000/0645-Set-Mismatch/cpp-0645/) | | |
 | | | | | | |
 | 648 | [Replace Words](https://leetcode.com/problems/replace-words/description/) | [无] | [C++](0501-1000/0648-Replace-Words/cpp-0648/) | | |
 | 649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | [solution](https://leetcode.com/problems/dota2-senate/solution/)<br/>[缺：队列] | [C++](0501-1000/0649-Dota2-Senate/cpp-0649/) | | |
@@ -1406,6 +1406,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1770 | [Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) | [无] | [C++](1501-2000/1770-Maximum-Score-from-Performing-Multiplication-Operations/cpp-1770/) | | |
 | 1771 | [Maximize Palindrome Length From Subsequences](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/) | [无] | [C++](1501-2000/1771-Maximize-Palindrome-Length-From-Subsequences/cpp-1771/) | | |
 | 1772 | [Sort Features by Popularity](https://leetcode.com/problems/sort-features-by-popularity/) | [无] | [C++](1501-2000/1772-Sort-Features-by-Popularity/cpp-1772/) | | |
+| | | | | | |
+| 1777 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
 
 ## 力扣中文站比赛
