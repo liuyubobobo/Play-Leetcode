@@ -309,6 +309,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 301 | [0301-Remove-Invalid-Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [solution](https://leetcode.com/problems/remove-invalid-parentheses/solution/)<br/>[缺：DP+构建] | [C++](0001-0500/0301-Remove-Invalid-Parentheses/cpp-0301/) | | |
 | | | | | | |
 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) | | [C++](0001-0500/0303/Range-Sum-Query-Immutable/cpp-0303/) | | |
+| 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [solution](https://leetcode.com/problems/range-sum-query-2d-immutable/solution/) | [C++](0001-0500/0304-Range-Sum-Query-2D-Immutable/cpp-0304/) | | |
 | | | | | | |
 | 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/description/) | [缺：BIT] | [C++](0001-0500/0307-Range-Sum-Query-Mutable/cpp-0307/) | | |
 | 308 | [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/description/) | | [C++](0001-0500/0308-Range-Sum-Query-2D-Mutable/cpp-0308/) | | |
