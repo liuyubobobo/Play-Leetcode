@@ -1408,6 +1408,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1772 | [Sort Features by Popularity](https://leetcode.com/problems/sort-features-by-popularity/) | [无] | [C++](1501-2000/1772-Sort-Features-by-Popularity/cpp-1772/) | | |
 | 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [无] | [C++](1501-2000/1773-Count-Items-Matching-a-Rule/cpp-1773/) | | |
 | 1774 | [Closest Dessert Cost](https://leetcode.com/problems/closest-dessert-cost/) | [无] | [C++](1501-2000/1774-Closest-Dessert-Cost/cpp-1774/) | | |
+| 1775 | [Equal Sum Arrays With Minimum Number of Operations](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/) | [无] | [C++](1501-2000/1775-Equal-Sum-Arrays-With-Minimum-Number-of-Operations/cpp-1775/) | | |
 | | | | | | |
 | 1777 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
