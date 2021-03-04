@@ -346,6 +346,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [solution](https://leetcode.com/problems/intersection-of-two-arrays/solution/) | [C++](0001-0500/0349-Intersection-of-Two-Arrays/cpp-0349/) | [Java](0001-0500/0349-Intersection-of-Two-Arrays/java-0349/src/) | |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [无] | [C++](0001-0500/0350-Intersection-of-Two-Arrays-II/cpp-0350/) | [Java](0001-0500/0350-Intersection-of-Two-Arrays-II/java-0350/src/) | |
 | | | | | | |
+| 354 | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) | [solution](https://leetcode.com/problems/russian-doll-envelopes/solution/) | [C++](0001-0500/0354-Russian-Doll-Envelopes/cpp-0354/) | | |
+| | | | | | |
 | 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/description/) | [无] | [C++](0001-0500/0359-Logger-Rate-Limiter/cpp-0359/) | | |
 | 360 | [Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/description/) | [无] | [C++](0001-0500/0360-Sort-Transformed-Array/cpp-0360/) | | |
 | | | | | | |
