@@ -452,6 +452,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [无] | [C++](0501-1000/0501-Find-Mode-in-Binary-Search-Tree/cpp-0501/) | | |
 | | | | | | |
+| 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [solution](https://leetcode.com/problems/next-greater-element-ii/solution/) | [C++](0501-1000/0503-Next-Greater-Element-II/cpp-0503/) | | |
+| | | | | | |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [无] | [C++](0501-1000/0509-Fibonacci-Number/cpp-0509/) | | |
 | | | | | | |
 | 516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [无] | [C++](0501-1000/0516-Longest-Palindromic-Subsequence/cpp-0516/) | | |
