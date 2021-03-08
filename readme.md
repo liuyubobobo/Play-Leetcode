@@ -274,7 +274,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 245 | [Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/) | [无] | [C++](0001-0500/0245-Shortest-Word-Distance-III/cpp-0245/) | | |
 | 246 | [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/) | [solution](https://leetcode.com/problems/strobogrammatic-number/solution/) | [C++](0001-0500/0246-Strobogrammatic-Number/cpp-0246/) | | |
 | 247 | [Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/) | [无] | [C++](0001-0500/0247-Strobogrammatic-Number-II/cpp-0247/) | | |
-| | | | | | |
+| 248 | [Strobogrammatic Number III](https://leetcode.com/problems/strobogrammatic-number-iii/) | [无] | [C++](0001-0500/0248-Strobogrammatic-Number-III/cpp-0248/) | | |
 | 249 | [Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/description/) | [无] | [C++](0001-0500/0249-Group-Shifted-Strings/cpp-0249/) | | |
 | 250 | [Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/description/) | [solution](https://leetcode.com/problems/count-univalue-subtrees/solution/) | [C++](0001-0500/0250-Count-Univalue-Subtrees/cpp-0250/) | | |
 | | | | | | |
