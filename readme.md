@@ -516,6 +516,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [solution](https://leetcode.com/problems/task-scheduler/solution/) | [C++](0501-1000/0621-Task-Scheduler/cpp-0621/) | | |
 | 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/) | [无] | [C++](0501-1000/0622-Design-Circular-Queue/cpp-0622/) | | |
+| 623 | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | [solution](https://leetcode.com/problems/add-one-row-to-tree/solution/) | [C++](0501-1000/0623-Add-One-Row-to-Tree/cpp-0623/) | | |
 | | | | | | |
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [solution](https://leetcode.com/problems/maximum-product-of-three-numbers/solution/) | [C++](0501-1000/0628-Maximum-Product-of-Three-Numbers/cpp-0628/) | | |
 | | | | | | |
