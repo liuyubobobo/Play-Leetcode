@@ -1,6 +1,7 @@
 /// Source : https://leetcode.com/problems/basic-calculator/description/
 /// Author : liuyubobobo
 /// Time   : 2018-09-03
+/// Updated: 2021-03-09
 
 #include <iostream>
 #include <vector>
@@ -11,7 +12,6 @@ using namespace std;
 
 /// Two Stacks
 /// Shunting-Yard Algorithms: https://en.wikipedia.org/wiki/Shunting-yard_algorithm
-///
 /// Time Complexity: O(n)
 /// Space Complexity: O(n)
 class Solution {
@@ -44,10 +44,6 @@ public:
             }
             else
                 i ++;
-
-//            Solution::print_vec(nums);
-//            Solution::print_vec(ops);
-//            cout << endl;
         }
 
         assert(nums.size() == 1);
@@ -58,21 +54,16 @@ private:
     void cal(vector<int>& nums, vector<char>& ops){
 
         if(!ops.empty() && (ops.back() == '+' || ops.back() == '-')){
+
             int second = nums.back();
             nums.pop_back();
-            assert(!nums.empty());
-            int first = nums.back();
-            nums.pop_back();
+
+            int first = nums.empty() ? 0 : nums.back();
+            if(!nums.empty()) nums.pop_back();
+
             nums.push_back(ops.back() == '+' ? (first + second) : (first - second));
             ops.pop_back();
         }
-    }
-
-    template<typename T>
-    static void print_vec(const vector<T>& vec){
-        for(int i = 0; i < vec.size(); i ++)
-            cout << vec[i] << " ";
-        cout << endl;
     }
 };
 
@@ -82,6 +73,7 @@ int main() {
     cout << Solution().calculate("1 + 1") << endl; // 2
     cout << Solution().calculate(" 2-1 + 2 ") << endl; // 3
     cout << Solution().calculate("(1+(4+5+2)-3)+(6+8)") << endl; // 23
+    cout << Solution().calculate("-2+ 1") << endl; // -1
 
     return 0;
 }
