@@ -1425,6 +1425,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1785 | [Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/) | [无] | [C++](1501-2000/1785-Minimum-Elements-to-Add-to-Form-a-Given-Sum/cpp-1785/) | | |
 | 1786 | [Number of Restricted Paths From First to Last Node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/) | [无] | [C++](1501-2000/1786-Number-of-Restricted-Paths-From-First-to-Last-Node/cpp-1786/) | | |
 | 1787 | [Make the XOR of All Segments Equal to Zero](https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero/) | [无] | [C++](1501-2000/1787-Make-the-XOR-of-All-Segments-Equal-to-Zero/cpp-1787/) | | |
+| 1788 | [Maximize the Beauty of the Garden](https://leetcode.com/problems/maximize-the-beauty-of-the-garden/) | [无] | [C++](1501-2000/1788-Maximize-the-Beauty-of-the-Garden/cpp-1788/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
