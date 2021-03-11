@@ -1421,6 +1421,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1776 | [Car Fleet II](https://leetcode.com/problems/car-fleet-ii/) | [无]<br/>[缺：stack] | [C++](1501-2000/1776-Car-Fleet-II/cpp-1776/) | | |
 | 1777 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
+| 1784 | [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | [无] | [C++](1501-2000/1784-Check-if-Binary-String-Has-at-Most-One-Segment-of-Ones/cpp-1784/) | | |
+| | | | | | |
 | 1787 | [Make the XOR of All Segments Equal to Zero](https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero/) | [无] | [C++](1501-2000/1787-Make-the-XOR-of-All-Segments-Equal-to-Zero/cpp-1787/) | | |
 | | | | | | |
 
