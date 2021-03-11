@@ -1420,6 +1420,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1775 | [Equal Sum Arrays With Minimum Number of Operations](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/) | [无] | [C++](1501-2000/1775-Equal-Sum-Arrays-With-Minimum-Number-of-Operations/cpp-1775/) | | |
 | 1776 | [Car Fleet II](https://leetcode.com/problems/car-fleet-ii/) | [无]<br/>[缺：stack] | [C++](1501-2000/1776-Car-Fleet-II/cpp-1776/) | | |
 | 1777 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1778 | [Shortest Path in a Hidden Grid](https://leetcode.com/problems/shortest-path-in-a-hidden-grid/) | [无] | [C++](1501-2000/1778-Shortest-Path-in-a-Hidden-Grid/cpp-1778/) | | |
+| 1779 | [Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) | [无] | [C++](1501-2000/1779-Find-Nearest-Point-That-Has-the-Same-X-or-Y-Coordinate/cpp-1779/) | | |
 | | | | | | |
 | 1784 | [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | [无] | [C++](1501-2000/1784-Check-if-Binary-String-Has-at-Most-One-Segment-of-Ones/cpp-1784/) | | |
 | 1785 | [Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/) | [无] | [C++](1501-2000/1785-Minimum-Elements-to-Add-to-Form-a-Given-Sum/cpp-1785/) | | |
