@@ -1420,7 +1420,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1775 | [Equal Sum Arrays With Minimum Number of Operations](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/) | [无] | [C++](1501-2000/1775-Equal-Sum-Arrays-With-Minimum-Number-of-Operations/cpp-1775/) | | |
 | 1776 | [Car Fleet II](https://leetcode.com/problems/car-fleet-ii/) | [无]<br/>[缺：stack] | [C++](1501-2000/1776-Car-Fleet-II/cpp-1776/) | | |
 | 1777 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
-| 1778 | []| | | | |
+| | | | | | |
+| 1787 | [Make the XOR of All Segments Equal to Zero](https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero/) | [无] | [C++](1501-2000/1787-Make-the-XOR-of-All-Segments-Equal-to-Zero/cpp-1787/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
