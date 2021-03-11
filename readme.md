@@ -331,6 +331,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | [solution](https://leetcode.com/problems/odd-even-linked-list/solution/) | [C++](0001-0500/0328-Odd-Even-Linked-List/cpp-0328/) | | |
 | 329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [solution](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/solution/) | [C++](0001-0500/0329-Longest-Increasing-Path-in-a-Matrix/cpp-0329/) | | |
 | 330 | [Patching Array](https://leetcode.com/problems/patching-array/) | [C++](0001-0500/0330-Patching-Array/cpp-0330/) | | | |
+| 331 | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [solution](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/solution/) | [C++](0001-0500/0331-Verify-Preorder-Serialization-of-a-Binary-Tree/cpp-0331/) | | |
 | | | | | | |
 | 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [solution](https://leetcode.com/problems/increasing-triplet-subsequence/solution/) | [C++](0001-0500/0334-Increasing-Triplet-Subsequence/cpp-0334/) | | |
 | | | | | | |
