@@ -1426,13 +1426,15 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1780 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/) | [无] | [C++](1501-2000/1780-Check-if-Number-is-a-Sum-of-Powers-of-Three/cpp-1780/) | | |
 | 1781 | [Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | [无] | [C++](1501-2000/1781-Sum-of-Beauty-of-All-Substrings/cpp-1781/) | | |
 | | | | | | |
+| 1783 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1784 | [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | [无] | [C++](1501-2000/1784-Check-if-Binary-String-Has-at-Most-One-Segment-of-Ones/cpp-1784/) | | |
 | 1785 | [Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/) | [无] | [C++](1501-2000/1785-Minimum-Elements-to-Add-to-Form-a-Given-Sum/cpp-1785/) | | |
 | 1786 | [Number of Restricted Paths From First to Last Node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/) | [无] | [C++](1501-2000/1786-Number-of-Restricted-Paths-From-First-to-Last-Node/cpp-1786/) | | |
 | 1787 | [Make the XOR of All Segments Equal to Zero](https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero/) | [无] | [C++](1501-2000/1787-Make-the-XOR-of-All-Segments-Equal-to-Zero/cpp-1787/) | | |
 | 1788 | [Maximize the Beauty of the Garden](https://leetcode.com/problems/maximize-the-beauty-of-the-garden/) | [无] | [C++](1501-2000/1788-Maximize-the-Beauty-of-the-Garden/cpp-1788/) | | |
 | 1789 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
-| 1790 | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | [C++](1501-2000/1790-Check-if-One-String-Swap-Can-Make-Strings-Equal/cpp-1790/) | | | |
+| 1790 | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | [无] | [C++](1501-2000/1790-Check-if-One-String-Swap-Can-Make-Strings-Equal/cpp-1790/) | | |
+| 1791 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | [无] | [C++](1501-2000/1791-Find-Center-of-Star-Graph/cpp-1791/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
