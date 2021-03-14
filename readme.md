@@ -1436,6 +1436,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1790 | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | [无] | [C++](1501-2000/1790-Check-if-One-String-Swap-Can-Make-Strings-Equal/cpp-1790/) | | |
 | 1791 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | [无] | [C++](1501-2000/1791-Find-Center-of-Star-Graph/cpp-1791/) | | |
 | 1792 | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/) | [无] | [C++](1501-2000/1792-Maximum-Average-Pass-Ratio/cpp-1792/) | | |
+| 1793 | [Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) | [无] | [C++](1501-2000/1793-Maximum-Score-of-a-Good-Subarray/cpp-1793/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
