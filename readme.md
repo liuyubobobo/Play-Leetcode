@@ -1430,6 +1430,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1786 | [Number of Restricted Paths From First to Last Node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/) | [无] | [C++](1501-2000/1786-Number-of-Restricted-Paths-From-First-to-Last-Node/cpp-1786/) | | |
 | 1787 | [Make the XOR of All Segments Equal to Zero](https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero/) | [无] | [C++](1501-2000/1787-Make-the-XOR-of-All-Segments-Equal-to-Zero/cpp-1787/) | | |
 | 1788 | [Maximize the Beauty of the Garden](https://leetcode.com/problems/maximize-the-beauty-of-the-garden/) | [无] | [C++](1501-2000/1788-Maximize-the-Beauty-of-the-Garden/cpp-1788/) | | |
+| 1789 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1790 | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | [C++](1501-2000/1790-Check-if-One-String-Swap-Can-Make-Strings-Equal/cpp-1790/) | | | |
 | | | | | | |
 
 ## 力扣中文站比赛
