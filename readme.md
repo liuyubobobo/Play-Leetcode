@@ -473,7 +473,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 533 | [Lonely Pixel II](https://leetcode.com/problems/lonely-pixel-ii/) | [无] | [C++](0501-1000/0533-Lonely-Pixel-II/cpp-0533/) | | |
 | | | | | | |
-| 536 | [Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string/) | [solution](https://leetcode.com/problems/construct-binary-tree-from-string/solution/) | [C++](0501-1000/0536-Construct-Binary-Tree-from-String/cpp-0536/) | | |
+| 536 | [Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string/) | [solution](https://leetcode.com/problems/construct-binary-tree-from-string/solution/)<br/>[缺：stack] | [C++](0501-1000/0536-Construct-Binary-Tree-from-String/cpp-0536/) | | |
 | | | | | | |
 | 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [solution](https://leetcode.com/problems/convert-bst-to-greater-tree/solution/) | [C++](0501-1000/0538-Convert-BST-to-Greater-Tree/cpp-0538/) | | |
 | | | | | | |
@@ -1428,7 +1428,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1779 | [Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) | [无] | [C++](1501-2000/1779-Find-Nearest-Point-That-Has-the-Same-X-or-Y-Coordinate/cpp-1779/) | | |
 | 1780 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/) | [无] | [C++](1501-2000/1780-Check-if-Number-is-a-Sum-of-Powers-of-Three/cpp-1780/) | | |
 | 1781 | [Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | [无] | [C++](1501-2000/1781-Sum-of-Beauty-of-All-Substrings/cpp-1781/) | | |
-| | | | | | |
+| 1782 | [Count Pairs Of Nodes](https://leetcode.com/problems/count-pairs-of-nodes/) | [无] | [C++](1501-2000/1782-Count-Pairs-Of-Nodes/cpp-1782/) | | |
 | 1783 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1784 | [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | [无] | [C++](1501-2000/1784-Check-if-Binary-String-Has-at-Most-One-Segment-of-Ones/cpp-1784/) | | |
 | 1785 | [Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/) | [无] | [C++](1501-2000/1785-Minimum-Elements-to-Add-to-Form-a-Given-Sum/cpp-1785/) | | |
