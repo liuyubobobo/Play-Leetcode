@@ -473,6 +473,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 533 | [Lonely Pixel II](https://leetcode.com/problems/lonely-pixel-ii/) | [无] | [C++](0501-1000/0533-Lonely-Pixel-II/cpp-0533/) | | |
 | | | | | | |
+| 536 | [Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string/) | [solution](https://leetcode.com/problems/construct-binary-tree-from-string/solution/) | [C++](0501-1000/0536-Construct-Binary-Tree-from-String/cpp-0536/) | | |
+| | | | | | |
 | 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [solution](https://leetcode.com/problems/convert-bst-to-greater-tree/solution/) | [C++](0501-1000/0538-Convert-BST-to-Greater-Tree/cpp-0538/) | | |
 | | | | | | |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/) | [solution](https://leetcode.com/problems/reverse-string-ii/solution/) | [C++](0501-1000/0541-Reverse-String-II/cpp-0541/) | | |
