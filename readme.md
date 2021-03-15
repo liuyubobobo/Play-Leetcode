@@ -514,6 +514,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 600 | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/description/) | [solution](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/solution/)<br/>[缺：Bit Manipulation]| [C++](0501-1000/0600-Non-negative-Integers-without-Consecutive-Ones/cpp-0600/) | | |
 | | | | | | |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [solution](https://leetcode.com/problems/can-place-flowers/solution/) | [C++](0501-1000/0605-Can-Place-Flowers/cpp-0605/) | | |
+| 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [solution](https://leetcode.com/problems/construct-string-from-binary-tree/solution/) | [C++](0501-1000/0606-Construct-String-from-Binary-Tree/cpp-0606/) | | |
 | | | | | | |
 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [solution](https://leetcode.com/problems/task-scheduler/solution/) | [C++](0501-1000/0621-Task-Scheduler/cpp-0621/) | | |
 | 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/) | [无] | [C++](0501-1000/0622-Design-Circular-Queue/cpp-0622/) | | |
