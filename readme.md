@@ -1449,6 +1449,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/) | [无] | [C++](1501-2000/1800-Maximum-Ascending-Subarray-Sum/cpp-1800/) | | |
 | 1801 | [Number of Orders in the Backlog](https://leetcode.com/problems/number-of-orders-in-the-backlog/) | [无] | [C++](1501-2000/1801-Number-of-Orders-in-the-Backlog/cpp-1801/) | | |
 | 1802 | [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/) | [无] | [C++](1501-2000/1802-Maximum-Value-at-a-Given-Index-in-a-Bounded-Array/cpp-1802/) | | |
+| 1803 | [Count Pairs With XOR in a Range](https://leetcode.com/problems/count-pairs-with-xor-in-a-range/) | [无] | [C++](1501-2000/1803-Count-Pairs-With-XOR-in-a-Range/cpp-1803/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
