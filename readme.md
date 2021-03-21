@@ -1445,6 +1445,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1796 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/) | [无] | [C++](1501-2000/1796-Second-Largest-Digit-in-a-String/cpp-1796/) | | |
 | 1797 | [Design Authentication Manager](https://leetcode.com/problems/design-authentication-manager/) | [无] | [C++](1501-2000/1797-Design-Authentication-Manager/cpp-1797/) | | |
 | 1798 | [Maximum Number of Consecutive Values You Can Make](https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/) | [无] | [C++](1501-2000/1798-Maximum-Number-of-Consecutive-Values-You-Can-Make/cpp-1798/) | | |
+| 1799 | [Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/) | [无] | [C++](1501-2000/1799-Maximize-Score-After-N-Operations/cpp-1799/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
