@@ -1440,7 +1440,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1791 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | [无] | [C++](1501-2000/1791-Find-Center-of-Star-Graph/cpp-1791/) | | |
 | 1792 | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/) | [无] | [C++](1501-2000/1792-Maximum-Average-Pass-Ratio/cpp-1792/) | | |
 | 1793 | [Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) | [无] | [C++](1501-2000/1793-Maximum-Score-of-a-Good-Subarray/cpp-1793/) | | |
-| | | | | | |
+| 1794 | [Count Pairs of Equal Substrings With Minimum Difference](https://leetcode.com/problems/count-pairs-of-equal-substrings-with-minimum-difference/) | [无] | [C++](1501-2000/1794-Count-Pairs-of-Equal-Substrings-With-Minimum-Difference/cpp-1794/) | | |
 | 1795 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1796 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/) | [无] | [C++](1501-2000/1796-Second-Largest-Digit-in-a-String/cpp-1796/) | | |
 | 1797 | [Design Authentication Manager](https://leetcode.com/problems/design-authentication-manager/) | [无] | [C++](1501-2000/1797-Design-Authentication-Manager/cpp-1797/) | | |
