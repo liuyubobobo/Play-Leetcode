@@ -534,6 +534,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 644 | [Maximum Average Subarray II](https://leetcode.com/problems/maximum-average-subarray-ii/) | [solution](https://leetcode.com/problems/maximum-average-subarray-ii/solution/) | [C++](0501-1000/0644-Maximum-Average-Subarray-II/cpp-0644/) | | |
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [solution](https://leetcode.com/problems/set-mismatch/solution/)<br/>[缺：空间 O(1) 解法] | [C++](0501-1000/0645-Set-Mismatch/cpp-0645/) | | |
 | | | | | | |
+| 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [solution](https://leetcode.com/problems/palindromic-substrings/solution/) | [C++](0501-1000/0647-Palindromic-Substrings/cpp-0647/) | | |
 | 648 | [Replace Words](https://leetcode.com/problems/replace-words/description/) | [无] | [C++](0501-1000/0648-Replace-Words/cpp-0648/) | | |
 | 649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | [solution](https://leetcode.com/problems/dota2-senate/solution/)<br/>[缺：队列] | [C++](0501-1000/0649-Dota2-Senate/cpp-0649/) | | |
 | | | | | | |
