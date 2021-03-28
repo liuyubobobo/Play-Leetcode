@@ -1453,6 +1453,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1802 | [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/) | [无] | [C++](1501-2000/1802-Maximum-Value-at-a-Given-Index-in-a-Bounded-Array/cpp-1802/) | | |
 | 1803 | [Count Pairs With XOR in a Range](https://leetcode.com/problems/count-pairs-with-xor-in-a-range/) | [无] | [C++](1501-2000/1803-Count-Pairs-With-XOR-in-a-Range/cpp-1803/) | | |
 | | | | | | |
+| 1805 | [Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/) | [无] | [C++](1501-2000/1805-Number-of-Different-Integers-in-a-String/cpp-1805/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
