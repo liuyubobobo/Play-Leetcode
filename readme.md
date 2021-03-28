@@ -1456,6 +1456,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1805 | [Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/) | [无] | [C++](1501-2000/1805-Number-of-Different-Integers-in-a-String/cpp-1805/) | | |
 | 1806 | [Minimum Number of Operations to Reinitialize a Permutation](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/) | [无]<br/>[缺：数学方法] | [C++](1501-2000/1806-Minimum-Number-of-Operations-to-Reinitialize-a-Permutation/cpp-1806/) | | |
 | 1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | [无] | [C++](1501-2000/1807-Evaluate-the-Bracket-Pairs-of-a-String/cpp-1807/) | | |
+| 1808 | [Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/) | [无] | [C++](1501-2000/1808-Maximize-Number-of-Nice-Divisors/cpp-1808/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
