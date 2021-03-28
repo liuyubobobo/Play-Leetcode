@@ -1454,6 +1454,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1803 | [Count Pairs With XOR in a Range](https://leetcode.com/problems/count-pairs-with-xor-in-a-range/) | [无] | [C++](1501-2000/1803-Count-Pairs-With-XOR-in-a-Range/cpp-1803/) | | |
 | | | | | | |
 | 1805 | [Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/) | [无] | [C++](1501-2000/1805-Number-of-Different-Integers-in-a-String/cpp-1805/) | | |
+| 1806 | [Minimum Number of Operations to Reinitialize a Permutation](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/) | [无]<br/>[缺：数学方法] | [C++](1501-2000/1806-Minimum-Number-of-Operations-to-Reinitialize-a-Permutation/cpp-1806/) | | |
+| 1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | [无] | [C++](1501-2000/1807-Evaluate-the-Bracket-Pairs-of-a-String/cpp-1807/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
