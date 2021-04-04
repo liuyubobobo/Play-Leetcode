@@ -14,7 +14,7 @@ using namespace std;
 /// Space Complexity: O(len(pairs))
 class Solution {
 public:
-    bool areSentencesSimilar(vector<string>& words1, vector<string>& words2, vector<pair<string, string>> pairs) {
+    bool areSentencesSimilar(vector<string>& words1, vector<string>& words2, vector<vector<string>> pairs) {
 
         if(words1.size() != words2.size())
             return false;
@@ -23,9 +23,9 @@ public:
             return true;
 
         set<pair<string, string>> similarity;
-        for(pair<string, string> p: pairs) {
-            similarity.insert(make_pair(p.first, p.second));
-            similarity.insert(make_pair(p.second, p.first));
+        for(const vector<string>& p: pairs) {
+            similarity.insert(make_pair(p[0], p[1]));
+            similarity.insert(make_pair(p[1], p[0]));
         }
 
         for(int i = 0 ; i < words1.size() ; i ++)
