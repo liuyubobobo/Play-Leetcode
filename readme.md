@@ -1459,6 +1459,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1808 | [Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/) | [无] | [C++](1501-2000/1808-Maximize-Number-of-Nice-Divisors/cpp-1808/) | | |
 | | | | | | |
 | 1812 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | [无] | [C++](1501-2000/1812-Determine-Color-of-a-Chessboard-Square/cpp-1812/) | | |
+| 1813 | [Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/) | [无] | [C++](1501-2000/1813-Sentence-Similarity-III/cpp-1813/) | | |
 | | | | | | |
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | [无] | [C++](1501-2000/1816-Truncate-Sentence/cpp-1816/) | | |
 | 1817 | [Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/) | [无] | [C++](1501-2000/1817-Finding-the-Users-Active-Minutes/cpp-1817/) | | |
