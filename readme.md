@@ -1460,6 +1460,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1812 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | [无] | [C++](1501-2000/1812-Determine-Color-of-a-Chessboard-Square/cpp-1812/) | | |
 | 1813 | [Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/) | [无] | [C++](1501-2000/1813-Sentence-Similarity-III/cpp-1813/) | | |
+| 1814 | [Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/) | [无] | [C++](1501-2000/1814-Count-Nice-Pairs-in-an-Array/cpp-1814/) | | |
 | | | | | | |
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | [无] | [C++](1501-2000/1816-Truncate-Sentence/cpp-1816/) | | |
 | 1817 | [Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/) | [无] | [C++](1501-2000/1817-Finding-the-Users-Active-Minutes/cpp-1817/) | | |
