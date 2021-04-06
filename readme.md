@@ -1498,3 +1498,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | LCP24 | [数字游戏](https://leetcode-cn.com/problems/5TxKeK/) | [无] | [C++](LCP/LCP24/cpp-LCP24/) | | |
 | LCP25 | [古董键盘](https://leetcode-cn.com/problems/Uh984O/) | [无] | [C++](LCP/LCP25/cpp-LCP25/) | | |
 | | | | | | |
+| LCP28 | [采购方案](https://leetcode-cn.com/problems/4xy4Wx/) | [无] | [C++](LCP/LCP28/cpp-LCP28/) | | |
+| | | | | | |
