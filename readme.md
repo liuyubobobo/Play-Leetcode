@@ -297,7 +297,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/description/) | [solution](https://leetcode.com/problems/expression-add-operators/solution/) | [C++](0001-0500/0282-Expression-Add-Operators/cpp-0282/) | | |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [solution](https://leetcode.com/problems/move-zeroes/solution/) | [C++](0001-0500/0283-Move-Zeroes/cpp-0283/) | [Java](0001-0500/0283-Move-Zeroes/java-0283/src/) | |
 | 284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | [solution](https://leetcode.com/problems/peeking-iterator/solution/) | [C++](0001-0500/0284-Peeking-Iterator/cpp-0284/) | | |
-| | | | | | |
+| 285 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | [无]<br/>[缺：空间O(h)] | [C++](0001-0500/0285-Inorder-Successor-in-BST/cpp-0285/) | | |
 | 286 | [Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/) | [solution](https://leetcode.com/problems/walls-and-gates/solution/) | [C++](0001-0500/0286-Walls-and-Gates/cpp-0286/) | | |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | | [C++](0001-0500/0287-Find-the-Duplicate-Number/cpp-0287/) | | |
 | 288 | [Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/description/) | [solution](https://leetcode.com/problems/unique-word-abbreviation/solution/) | [C++](0001-0500/0288-Unique-Word-Abbreviation/cpp-0288/) | | |
@@ -330,7 +330,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | [solution](https://leetcode.com/problems/odd-even-linked-list/solution/) | [C++](0001-0500/0328-Odd-Even-Linked-List/cpp-0328/) | | |
 | 329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [solution](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/solution/) | [C++](0001-0500/0329-Longest-Increasing-Path-in-a-Matrix/cpp-0329/) | | |
-| 330 | [Patching Array](https://leetcode.com/problems/patching-array/) | [C++](0001-0500/0330-Patching-Array/cpp-0330/) | | | |
+| 330 | [Patching Array](https://leetcode.com/problems/patching-array/) | [无] | [C++](0001-0500/0330-Patching-Array/cpp-0330/) | | |
 | 331 | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [solution](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/solution/) | [C++](0001-0500/0331-Verify-Preorder-Serialization-of-a-Binary-Tree/cpp-0331/) | | |
 | | | | | | |
 | 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [solution](https://leetcode.com/problems/increasing-triplet-subsequence/solution/) | [C++](0001-0500/0334-Increasing-Triplet-Subsequence/cpp-0334/) | | |
@@ -1499,4 +1499,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | LCP25 | [古董键盘](https://leetcode-cn.com/problems/Uh984O/) | [无] | [C++](LCP/LCP25/cpp-LCP25/) | | |
 | | | | | | |
 | LCP28 | [采购方案](https://leetcode-cn.com/problems/4xy4Wx/) | [无] | [C++](LCP/LCP28/cpp-LCP28/) | | |
+| LCP29 | [乐团站位](https://leetcode-cn.com/problems/SNJvJP/) | [无] | [C++](LCP/LCP29/cpp-LCP29/) | | |
 | | | | | | |
