@@ -887,6 +887,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1072 | [Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/) | [无] | [C++](1001-1500/1072-Flip-Columns-For-Maximum-Number-of-Equal-Rows/cpp-1072/) | | |
 | | | | | | |
+| 1074 | [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | [无] | [C++](1001-1500/1074-Number-of-Submatrices-That-Sum-to-Target/cpp-1074/) | | |
+| | | | | | |
 | 1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) | [无] | [C++](1001-1500/1078-Occurrences-After-Bigram/cpp-1078/) | | |
 | 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | [无] | [C++](1001-1500/1079-Letter-Tile-Possibilities/cpp-1079/) | | |
 | 1080 | [Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) | [无] | [C++](1001-1500/1080-Insufficient-Nodes-in-Root-to-Leaf-Paths/cpp-1080/) | | |
