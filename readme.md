@@ -1476,10 +1476,13 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1818 | [Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/) | [无] | [C++](1501-2000/1818-Minimum-Absolute-Sum-Difference/cpp-1818/) | | |
 | 1819 | [Number of Different Subsequences GCDs](https://leetcode.com/problems/number-of-different-subsequences-gcds/) | [无] | [C++](1501-2000/1819-Number-of-Different-Subsequences-GCDs/cpp-1819/) | | |
 | | | | | | |
+| 1827 | [Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) | [无] | [C++](1501-2000/1827-Minimum-Operations-to-Make-the-Array-Increasing/cpp-1827/) | | |
+| | | | | | |
+| 1831 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [无] | [C++](1501-2000/1832-Check-if-the-Sentence-Is-Pangram/cpp-1832/) | | |
 | 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | [无] | [C++](1501-2000/1833-Maximum-Ice-Cream-Bars/cpp-1833/) | | |
 | 1834 | [Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/) | [无] | [C++](1501-2000/1834-Single-Threaded-CPU/cpp-1834/) | | |
-| 1835 | [Find XOR Sum of All Pairs Bitwise AND](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/) | [无] | [C++](1501-2000/1835-Find-XOR-Sum-of-All-Pairs-Bitwise-AND/cpp-1835/) | | |
+| 1835 | [Find XOR Sum of All Pairs Bitwise AND](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/) | [无]<br/>[缺：数学方法] | [C++](1501-2000/1835-Find-XOR-Sum-of-All-Pairs-Bitwise-AND/cpp-1835/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
