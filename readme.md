@@ -1477,6 +1477,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1819 | [Number of Different Subsequences GCDs](https://leetcode.com/problems/number-of-different-subsequences-gcds/) | [无] | [C++](1501-2000/1819-Number-of-Different-Subsequences-GCDs/cpp-1819/) | | |
 | | | | | | |
 | 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [无] | [C++](1501-2000/1832-Check-if-the-Sentence-Is-Pangram/cpp-1832/) | | |
+| 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | [无] | [C++](1501-2000/1833-Maximum-Ice-Cream-Bars/cpp-1833/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
