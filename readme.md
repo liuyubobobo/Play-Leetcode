@@ -1478,6 +1478,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [无] | [C++](1501-2000/1832-Check-if-the-Sentence-Is-Pangram/cpp-1832/) | | |
 | 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | [无] | [C++](1501-2000/1833-Maximum-Ice-Cream-Bars/cpp-1833/) | | |
+| 1834 | [Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/) | [无] | [C++](1501-2000/1834-Single-Threaded-CPU/cpp-1834/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
