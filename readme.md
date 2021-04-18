@@ -1476,6 +1476,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1818 | [Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/) | [无] | [C++](1501-2000/1818-Minimum-Absolute-Sum-Difference/cpp-1818/) | | |
 | 1819 | [Number of Different Subsequences GCDs](https://leetcode.com/problems/number-of-different-subsequences-gcds/) | [无] | [C++](1501-2000/1819-Number-of-Different-Subsequences-GCDs/cpp-1819/) | | |
 | | | | | | |
+| 1826 | [Faulty Sensor](https://leetcode.com/problems/faulty-sensor/) | [无] | [C++](1501-2000/1826-Faulty-Sensor/cpp-1826/) | | |
 | 1827 | [Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) | [无] | [C++](1501-2000/1827-Minimum-Operations-to-Make-the-Array-Increasing/cpp-1827/) | | |
 | 1828 | [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/) | [无] | [C++](1501-2000/1828-Queries-on-Number-of-Points-Inside-a-Circle/cpp-1828/)| | |
 | 1829 | [Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/) | [无] | [C++](1501-2000/1829-Maximum-XOR-for-Each-Query/cpp-1829/) | | |
