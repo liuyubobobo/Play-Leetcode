@@ -1476,6 +1476,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1818 | [Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/) | [无] | [C++](1501-2000/1818-Minimum-Absolute-Sum-Difference/cpp-1818/) | | |
 | 1819 | [Number of Different Subsequences GCDs](https://leetcode.com/problems/number-of-different-subsequences-gcds/) | [无] | [C++](1501-2000/1819-Number-of-Different-Subsequences-GCDs/cpp-1819/) | | |
 | | | | | | |
+| 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [无] | [C++](1501-2000/1832-Check-if-the-Sentence-Is-Pangram/cpp-1832/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
