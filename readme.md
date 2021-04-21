@@ -360,6 +360,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/description/) | [无] | [C++](0001-0500/0359-Logger-Rate-Limiter/cpp-0359/) | | |
 | 360 | [Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/description/) | [无] | [C++](0001-0500/0360-Sort-Transformed-Array/cpp-0360/) | | |
 | | | | | | |
+| 363 | [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) | [无] | [C++](0001-0500/0363-Max-Sum-of-Rectangle-No-Larger-Than-K/cpp-0363/) | | |
 | 364 | [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/) | [无] | [C++](0001-0500/0364-Nested-List-Weight-Sum-II/cpp-0364/) | | |
 | 365 | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) | [题解](https://leetcode-cn.com/problems/water-and-jug-problem/solution/shui-hu-wen-ti-by-leetcode-solution/)<br/>[缺：数学解法] | [C++](0001-0500/0365-Water-and-Jug-Problem/cpp-0365/) | | |
 | | | | | | |
