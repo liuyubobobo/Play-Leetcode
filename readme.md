@@ -490,6 +490,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [solution](https://leetcode.com/problems/number-of-provinces/solution/) | [C++](0501-1000/0547-Number-of-Provinces/cpp-0547/) | | |
 | | | | | | |
+| 554 | [Brick Wall](https://leetcode.com/problems/brick-wall/) | [solution](https://leetcode.com/problems/brick-wall/solution/) | [C++](0501-1000/0554-Brick-Wall/cpp-0554/) | | |
+| | | | | | |
 | 556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [solution](https://leetcode.com/problems/next-greater-element-iii/solution/)<br/>[缺：底层实现] | [C++](0501-1000/0556-Next-Greater-Element-III/cpp-0556/) | | |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | [solution](https://leetcode.com/problems/reverse-words-in-a-string-iii/solution/) | [C++](0501-1000/0557-Reverse-Words-in-a-String-III/cpp-0557/) | | |
 | | | | | | |
