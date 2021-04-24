@@ -1490,6 +1490,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | [无] | [C++](1501-2000/1833-Maximum-Ice-Cream-Bars/cpp-1833/) | | |
 | 1834 | [Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/) | [无] | [C++](1501-2000/1834-Single-Threaded-CPU/cpp-1834/) | | |
 | 1835 | [Find XOR Sum of All Pairs Bitwise AND](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/) | [无]<br/>[缺：数学方法] | [C++](1501-2000/1835-Find-XOR-Sum-of-All-Pairs-Bitwise-AND/cpp-1835/) | | |
+| 1836 | [Remove Duplicates From an Unsorted Linked List](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/) | [无] | [C++](1501-2000/1836-Remove-Duplicates-From-an-Unsorted-Linked-List/cpp-1836/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
