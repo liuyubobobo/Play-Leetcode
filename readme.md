@@ -1491,6 +1491,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1834 | [Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/) | [无] | [C++](1501-2000/1834-Single-Threaded-CPU/cpp-1834/) | | |
 | 1835 | [Find XOR Sum of All Pairs Bitwise AND](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/) | [无]<br/>[缺：数学方法] | [C++](1501-2000/1835-Find-XOR-Sum-of-All-Pairs-Bitwise-AND/cpp-1835/) | | |
 | 1836 | [Remove Duplicates From an Unsorted Linked List](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/) | [无] | [C++](1501-2000/1836-Remove-Duplicates-From-an-Unsorted-Linked-List/cpp-1836/) | | |
+| 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/) | [无] | [C++](1501-2000/1837-Sum-of-Digits-in-Base-K/cpp-1837/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
