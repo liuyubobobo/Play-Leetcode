@@ -1493,6 +1493,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1836 | [Remove Duplicates From an Unsorted Linked List](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/) | [无] | [C++](1501-2000/1836-Remove-Duplicates-From-an-Unsorted-Linked-List/cpp-1836/) | | |
 | 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/) | [无] | [C++](1501-2000/1837-Sum-of-Digits-in-Base-K/cpp-1837/) | | |
 | 1838 | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | [无] | [C++](1501-2000/1838-Frequency-of-the-Most-Frequent-Element/cpp-1838/) | | |
+| 1839 | [Longest Substring Of All Vowels in Order](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/) | [无] | [C++](1501-2000/1839-Longest-Substring-Of-All-Vowels-in-Order/cpp-1839/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
