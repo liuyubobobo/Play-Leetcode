@@ -259,7 +259,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [solution](https://leetcode.com/problems/summary-ranges/solution/) | [C++](0001-0500/0228-Summary-Ranges/cpp-0228/) | | |
 | | | | | | |
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | [solution](https://leetcode.com/problems/kth-smallest-element-in-a-bst/solution/)<br/>[缺：非递归] | [C++](0001-0500/0230-Kth-Smallest-Element-in-a-BST/cpp-0230/) | | |
-| | | | | | |
+| 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [solution](https://leetcode.com/problems/power-of-two/solution/) | [C++](0001-0500/0231-Power-of-Two/cpp-0231/) | | |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | [solution](https://leetcode.com/problems/implement-queue-using-stacks/solution/) | [C++](0001-0500/0232-Implement-Queue-using-Stacks/cpp-0232/) | | |
 | 233 | [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/) | [solution](https://leetcode.com/problems/number-of-digit-one/solution/)<br/>[缺：数学方法] | [C++](0001-0500/0233-Number-of-Digit-One/cpp-0233/) | | |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [无] | [C++](0001-0500/0234-Palindrome-Linked-List/cpp-0234/) | | |
