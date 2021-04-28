@@ -537,6 +537,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [solution](https://leetcode.com/problems/maximum-product-of-three-numbers/solution/) | [C++](0501-1000/0628-Maximum-Product-of-Three-Numbers/cpp-0628/) | | |
 | | | | | | |
 | 632 | [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | [solution](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/solution/) | [C++](0501-1000/0632-Smallest-Range-Covering-Elements-from-K-Lists/cpp-0632/) | | |
+| 633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | [C++](0501-1000/0633-Sum-of-Square-Numbers/cpp-0633/) | | | |
 | | | | | | |
 | 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | [solution](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | [C++](0501-1000/0637-Average-of-Levels-in-Binary-Tree/cpp-0637/) | | |
 | | | | | | |
