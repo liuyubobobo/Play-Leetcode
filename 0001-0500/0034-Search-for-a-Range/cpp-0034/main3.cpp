@@ -1,6 +1,7 @@
 /// Source : https://leetcode.com/problems/search-for-a-range/description/
 /// Author : liuyubobobo
 /// Time   : 2017-11-16
+/// Updated: 2021-04-29
 
 #include <iostream>
 #include <vector>
@@ -20,18 +21,18 @@ public:
         int first = -1;
         if(lowerIndex != nums.size() && nums[lowerIndex] == target)
             first = lowerIndex;
+        else return {-1, -1};
         // cout << "first = " << first << endl;
 
         int upperIndex = lastOccurance(nums, target);
         int last = -1;
-        if(upperIndex == nums.size() && nums.size() > 0 && nums.back() == target)
-            last = nums.size() - 1;
-        else if(upperIndex != nums.size() && nums[upperIndex - 1] == target)
-            last = upperIndex - 1;
-        // cout << "last = " << last << endl;
+        if(upperIndex != 0){
+            upperIndex --;
+            last = upperIndex;
+        }
+        else return {-1, -1};
 
-        int res[2] = {first, last};
-        return vector<int>(res, res + 2);
+        return {first, last};
     }
 
 private:

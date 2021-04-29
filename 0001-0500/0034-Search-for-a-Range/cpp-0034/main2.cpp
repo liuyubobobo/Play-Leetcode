@@ -1,6 +1,7 @@
 /// Source : https://leetcode.com/problems/search-for-a-range/description/
 /// Author : liuyubobobo
 /// Time   : 2017-11-16
+/// Updated: 2021-04-29
 
 #include <iostream>
 #include <vector>
@@ -20,19 +21,17 @@ public:
         int first = -1;
         if(lowerIter != nums.end() && *lowerIter == target)
             first = lowerIter - nums.begin();
+        else return {-1, -1};
 
         vector<int>::iterator upperIter = upper_bound(nums.begin(), nums.end(), target);
         int last = -1;
-        if(upperIter == nums.end() && nums.size() > 0 && nums.back() == target)
-            last = nums.size() - 1;
-        else if(upperIter != nums.end() && *(upperIter - 1) == target)
-            last = upperIter - nums.begin() - 1;
+        if(upperIter != nums.begin()){
+            upperIter --;
+            last = upperIter - nums.begin();
+        }
+        else return {-1, -1};
 
-        if(first == -1)
-            assert(last == -1);
-
-        int res[2] = {first, last};
-        return vector<int>(res, res + 2);
+        return {first, last};
     }
 };
 

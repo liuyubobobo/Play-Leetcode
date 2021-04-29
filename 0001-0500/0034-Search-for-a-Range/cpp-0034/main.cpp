@@ -1,6 +1,7 @@
 /// Source : https://leetcode.com/problems/search-for-a-range/description/
 /// Author : liuyubobobo
 /// Time   : 2017-11-16
+/// Updated: 2021-04-29
 
 #include <iostream>
 #include <vector>
@@ -15,20 +16,17 @@ class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
 
-        int first = nums.size() + 1, last = -1;
+        bool ok = false;
+        int first = nums.size(), last = -1;
         for(int i = 0 ; i < nums.size() ; i ++)
             if(nums[i] == target){
                 first = min(first, i);
                 last = max(last, i);
+                ok = true;
             }
 
-        int res[2] = {first, last};
-        if(first == nums.size() + 1){
-            assert(last == -1);
-            res[0] = res[1] = -1;
-        }
-
-        return vector<int>(res, res + 2);
+        if(ok) return {first, last};
+        return {-1, -1};
     }
 };
 
