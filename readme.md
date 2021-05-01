@@ -1501,6 +1501,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1840 | [Maximum Building Height](https://leetcode.com/problems/maximum-building-height/) | [无] | [C++](1501-2000/1840-Maximum-Building-Height/cpp-1840/) | | |
 | | | | | | |
 | 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/) | [无] | [C++](1501-2000/1844-Replace-All-Digits-with-Characters/cpp-1844/) | | |
+| 1845 | [Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/) | [无] | [C++](1501-2000/1845-Seat-Reservation-Manager/cpp-1845/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
