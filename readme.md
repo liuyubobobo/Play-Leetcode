@@ -1503,6 +1503,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/) | [无] | [C++](1501-2000/1844-Replace-All-Digits-with-Characters/cpp-1844/) | | |
 | 1845 | [Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/) | [无] | [C++](1501-2000/1845-Seat-Reservation-Manager/cpp-1845/) | | |
 | 1846 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | [无] | [C++](1501-2000/1846-Maximum-Element-After-Decreasing-and-Rearranging/cpp-1846/) | | |
+| 1847 | [Closest Room](https://leetcode.com/problems/closest-room/) | [无] | [C++](1501-2000/1847-Closest-Room/cpp-1847/) | | |
 | | | | | | |
 
 
