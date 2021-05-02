@@ -1504,6 +1504,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1845 | [Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/) | [无] | [C++](1501-2000/1845-Seat-Reservation-Manager/cpp-1845/) | | |
 | 1846 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | [无] | [C++](1501-2000/1846-Maximum-Element-After-Decreasing-and-Rearranging/cpp-1846/) | | |
 | 1847 | [Closest Room](https://leetcode.com/problems/closest-room/) | [无] | [C++](1501-2000/1847-Closest-Room/cpp-1847/) | | |
+| 1848 | [Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | [无] | [C++](1501-2000/1848-Minimum-Distance-to-the-Target-Element/cpp-1848/) | | |
 | | | | | | |
 
 
