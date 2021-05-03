@@ -1501,7 +1501,9 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1838 | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | [无] | [C++](1501-2000/1838-Frequency-of-the-Most-Frequent-Element/cpp-1838/) | | |
 | 1839 | [Longest Substring Of All Vowels in Order](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/) | [无] | [C++](1501-2000/1839-Longest-Substring-Of-All-Vowels-in-Order/cpp-1839/) | | |
 | 1840 | [Maximum Building Height](https://leetcode.com/problems/maximum-building-height/) | [无] | [C++](1501-2000/1840-Maximum-Building-Height/cpp-1840/) | | |
-| | | | | | |
+| 1841 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1842 | [Next Palindrome Using Same Digits](https://leetcode.com/problems/next-palindrome-using-same-digits/) | [无] | [C++](1501-2000/1842-Next-Palindrome-Using-Same-Digits/cpp-1842/) | | |
+| 1843 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/) | [无] | [C++](1501-2000/1844-Replace-All-Digits-with-Characters/cpp-1844/) | | |
 | 1845 | [Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/) | [无] | [C++](1501-2000/1845-Seat-Reservation-Manager/cpp-1845/) | | |
 | 1846 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | [无] | [C++](1501-2000/1846-Maximum-Element-After-Decreasing-and-Rearranging/cpp-1846/) | | |
