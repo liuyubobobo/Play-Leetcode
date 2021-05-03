@@ -1509,8 +1509,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1846 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | [无] | [C++](1501-2000/1846-Maximum-Element-After-Decreasing-and-Rearranging/cpp-1846/) | | |
 | 1847 | [Closest Room](https://leetcode.com/problems/closest-room/) | [无] | [C++](1501-2000/1847-Closest-Room/cpp-1847/) | | |
 | 1848 | [Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | [无] | [C++](1501-2000/1848-Minimum-Distance-to-the-Target-Element/cpp-1848/) | | |
+| 1849 | [Splitting a String Into Descending Consecutive Values](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/) | [无] | [C++](1501-2000/1849-Splitting-a-String-Into-Descending-Consecutive-Values/cpp-1849/) | | |
 | | | | | | |
-
 
 ## 力扣中文站比赛
 
