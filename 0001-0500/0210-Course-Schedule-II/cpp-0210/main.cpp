@@ -1,6 +1,7 @@
 /// Source : https://leetcode.com/problems/course-schedule-ii/
 /// Author : liuyubobobo
 /// Time   : 2018-12-16
+/// Updated: 2021-05-03
 
 #include <iostream>
 #include <vector>
@@ -14,14 +15,14 @@ using namespace std;
 /// Space Complexity: O(V + E)
 class Solution {
 public:
-    vector<int> findOrder(int numCourses, vector<pair<int, int>>& prerequisites) {
+    vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
 
         priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
         vector<int> pre(numCourses, 0);
         vector<vector<int>> g(numCourses);
-        for(const pair<int, int>& p: prerequisites){
-            int from = p.second;
-            int to = p.first;
+        for(const vector<int>& p: prerequisites){
+            int from = p[1];
+            int to = p[0];
             g[from].push_back(to);
             pre[to] ++;
         }
