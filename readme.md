@@ -291,7 +291,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [无] | [C++](0001-0500/0263-Ugly-Number/cpp-0263/) | | |
 | 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [solution](https://leetcode.com/problems/ugly-number-ii/solution/) | [C++](0001-0500/0264-Ugly-Number-II/cpp-0264/) | | |
-| | | | | | |
+| 265 | [Paint House II](https://leetcode.com/problems/paint-house-ii/) | [C++](0001-0500/0265-Paint-House-II/cpp-0265/) | | | |
 | 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | [solution](https://leetcode.com/problems/palindrome-permutation/solution/) | [C++](0001-0500/0266-Palindrome-Permutation/cpp-0266/) | | |
 | 267 | [Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/) | [solution](https://leetcode.com/problems/palindrome-permutation-ii/solution/) | [C++](0001-0500/0267-Palindrome-Permutation-II/cpp-0267/) | | |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [solution](https://leetcode.com/problems/missing-number/solution/) | [C++](0001-0500/0268-Missing-Number/cpp-0268/) | | |
