@@ -284,6 +284,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/) | [solution](https://leetcode.com/problems/meeting-rooms-ii/solution/) | [C++](0001-0500/0253-Meeting-Rooms-II/cpp-0253/) | | |
 | 254 | [Factor Combinations](https://leetcode.com/problems/factor-combinations/description/) | [无] | [C++](0001-0500/0254-Factor-Combinations/cpp-0254/) | | |
 | | | | | | |
+| 256 | [Paint House](https://leetcode.com/problems/paint-house/) | [无] | [C++](0001-0500/0256-Paint-House/cpp-0256/) | | |
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | [solution](https://leetcode.com/problems/binary-tree-paths/solution/) | [C++](0001-0500/0257-Binary-Tree-Paths/cpp-0257/) | [Java](0001-0500/0257-Binary-Tree-Paths/java-0257/src/) | |
 | | | | | | |
 | 259 | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/description/) | [solution](https://leetcode.com/problems/3sum-smaller/solution/) | [C++](0001-0500/0259-3Sum-Smaller/cpp-0259/) | | |
