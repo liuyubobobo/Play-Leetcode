@@ -104,7 +104,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 052 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [solution](https://leetcode.com/problems/n-queens-ii/solution/)<br/>[缺：N皇后问题整理] | [C++](0001-0500/0052-N-Queens-II/cpp-0052/) | | |
 | 053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [solution](https://leetcode.com/problems/maximum-subarray/solution/) | [C++](0001-0500/0053-Maximum-Subarray/cpp-0053/) | | |
 | 054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [solution](https://leetcode.com/problems/spiral-matrix/solution/) | [C++](0001-0500/0054-Spiral-Matrix/cpp-0054/) | | |
-| | | | | | |
+| 055 | [Jump Game](https://leetcode.com/problems/jump-game/) | [solution](https://leetcode.com/problems/jump-game/solution/) | [C++](0001-0500/0055-Jump-Game/cpp-0055/) | | |
 | 056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [solution](https://leetcode.com/problems/merge-intervals/solution/) | [C++](0001-0500/0056-Merge-Intervals/cpp-0056/) | | |
 | | | | | | |
 | 059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) | [无] | [C++](0001-0500/0059-Spiral-Matrix-II/cpp-0059/) | | |
