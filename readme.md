@@ -1516,6 +1516,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1849 | [Splitting a String Into Descending Consecutive Values](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/) | [无] | [C++](1501-2000/1849-Splitting-a-String-Into-Descending-Consecutive-Values/cpp-1849/) | | |
 | 1850 | [Minimum Adjacent Swaps to Reach the Kth Smallest Number](https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | [无] | [C++](1501-2000/1850-Minimum-Adjacent-Swaps-to-Reach-the-Kth-Smallest-Number/cpp-1850/) | | |
 | 1851 | [Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/) | [无] | [C++](1501-2000/1851-Minimum-Interval-to-Include-Each-Query/cpp=1851/) | | |
+| 1852 | [Distinct Numbers in Each Subarray](https://leetcode.com/problems/distinct-numbers-in-each-subarray/) | [C++](1501-2000/1852-Distinct-Numbers-in-Each-Subarray/cpp-1852/) | | | |
 | | | | | | |
 
 ## 力扣中文站比赛
