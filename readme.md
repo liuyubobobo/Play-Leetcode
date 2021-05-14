@@ -162,7 +162,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [solution](https://leetcode.com/problems/minimum-depth-of-binary-tree/solution/) | [C++](0001-0500/0111-Minimum-Depth-of-Binary-Tree/cpp-0111/) | | |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/description/) | [solution](https://leetcode.com/problems/path-sum/solution/) | [C++](0001-0500/0112-Path-Sum/cpp-0112/) | [Java](0001-0500/0112-Path-Sum/cpp-0112/src/) | |
 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) | [无] | [C++](0001-0500/0113-Path-Sum-II/cpp-0113/) | | |
-| | | | | | |
+| 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [solution](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/solution/) | [C++](0001-0500/0114-Flatten-Binary-Tree-to-Linked-List/cpp-0114/) | | |
 | 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/) | [无] | [C++](0001-0500/0115/Distinct-Subsequences/cpp-0115/) | [Java](0001-0500/0115/Distinct-Subsequences/java-0115/) | |
 | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/) | [无] | [C++](0001-0500/0116-Populating-Next-Right-Pointers-in-Each-Node/cpp-0116/) | | |
 | 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [无] | [C++](0001-0500/0117-Populating-Next-Right-Pointers-in-Each-Node-II/cpp-0117/) | | |
