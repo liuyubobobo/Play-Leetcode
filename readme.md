@@ -1520,6 +1520,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1851 | [Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/) | [无] | [C++](1501-2000/1851-Minimum-Interval-to-Include-Each-Query/cpp=1851/) | | |
 | 1852 | [Distinct Numbers in Each Subarray](https://leetcode.com/problems/distinct-numbers-in-each-subarray/) | [C++](1501-2000/1852-Distinct-Numbers-in-Each-Subarray/cpp-1852/) | | | |
 | | | | | | |
+| 1858 | [Longest Word With All Prefixes](https://leetcode.com/problems/longest-word-with-all-prefixes/) | [无] | [C++](1501-2000/1858-Longest-Word-With-All-Prefixes/cpp-1858/) | | |
 | 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [无] | [C++](1501-2000/1859-Sorting-the-Sentence/cpp-1859/) | | |
 | 1860 | [Incremental Memory Leak](https://leetcode.com/problems/incremental-memory-leak/) | [无] | [C++](1501-2000/1860-Incremental-Memory-Leak/cpp-1860/) | | |
 | 1861 | [Rotating the Box](https://leetcode.com/problems/rotating-the-box/) | [无] | [C++](1501-2000/1861-Rotating-the-Box/cpp-1861/) | | |
