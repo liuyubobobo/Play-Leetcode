@@ -1520,6 +1520,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [无] | [C++](1501-2000/1859-Sorting-the-Sentence/cpp-1859/) | | |
 | 1860 | [Incremental Memory Leak](https://leetcode.com/problems/incremental-memory-leak/) | [无] | [C++](1501-2000/1860-Incremental-Memory-Leak/cpp-1860/) | | |
+| 1861 | [Rotating the Box](https://leetcode.com/problems/rotating-the-box/) | [无] | [C++](1501-2000/1861-Rotating-the-Box/cpp-1861/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
