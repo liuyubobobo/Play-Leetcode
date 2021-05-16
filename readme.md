@@ -1519,6 +1519,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1852 | [Distinct Numbers in Each Subarray](https://leetcode.com/problems/distinct-numbers-in-each-subarray/) | [C++](1501-2000/1852-Distinct-Numbers-in-Each-Subarray/cpp-1852/) | | | |
 | | | | | | |
 | 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [无] | [C++](1501-2000/1859-Sorting-the-Sentence/cpp-1859/) | | |
+| 1860 | [Incremental Memory Leak](https://leetcode.com/problems/incremental-memory-leak/) | [无] | [C++](1501-2000/1860-Incremental-Memory-Leak/cpp-1860/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
