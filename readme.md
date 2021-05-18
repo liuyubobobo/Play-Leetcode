@@ -1528,6 +1528,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1863 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | [无]<br/>[缺：数学解] | [C++](1501-2000/1863-Sum-of-All-Subset-XOR-Totals/cpp-1863/) | | |
 | 1864 | [Minimum Number of Swaps to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/) | [无] | [C++](1501-2000/1864-Minimum-Number-of-Swaps-to-Make-the-Binary-String-Alternating/cpp-1864/) | | |
 | 1865 | [Finding Pairs With a Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/) | [无] | [C++](1501-2000/1865-Finding-Pairs-With-a-Certain-Sum/cpp-1865/) | | |
+| 1866 | [Number of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | [无] | [C++](1501-2000/1866-Number-of-Ways-to-Rearrange-Sticks-With-K-Sticks-Visible/cpp-1866/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
