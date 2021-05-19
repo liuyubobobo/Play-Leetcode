@@ -537,6 +537,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [solution](https://leetcode.com/problems/can-place-flowers/solution/) | [C++](0501-1000/0605-Can-Place-Flowers/cpp-0605/) | | |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [solution](https://leetcode.com/problems/construct-string-from-binary-tree/solution/) | [C++](0501-1000/0606-Construct-String-from-Binary-Tree/cpp-0606/) | | |
 | | | | | | |
+| 609 | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) | [solution](https://leetcode.com/problems/find-duplicate-file-in-system/solution/) | [C++](0501-1000/0609-Find-Duplicate-File-in-System/cpp-0609/) | | |
+| | | | | | |
 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [solution](https://leetcode.com/problems/task-scheduler/solution/) | [C++](0501-1000/0621-Task-Scheduler/cpp-0621/) | | |
 | 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/) | [无] | [C++](0501-1000/0622-Design-Circular-Queue/cpp-0622/) | | |
 | 623 | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | [solution](https://leetcode.com/problems/add-one-row-to-tree/solution/) | [C++](0501-1000/0623-Add-One-Row-to-Tree/cpp-0623/) | | |
@@ -1518,7 +1520,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1849 | [Splitting a String Into Descending Consecutive Values](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/) | [无] | [C++](1501-2000/1849-Splitting-a-String-Into-Descending-Consecutive-Values/cpp-1849/) | | |
 | 1850 | [Minimum Adjacent Swaps to Reach the Kth Smallest Number](https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | [无] | [C++](1501-2000/1850-Minimum-Adjacent-Swaps-to-Reach-the-Kth-Smallest-Number/cpp-1850/) | | |
 | 1851 | [Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/) | [无] | [C++](1501-2000/1851-Minimum-Interval-to-Include-Each-Query/cpp=1851/) | | |
-| 1852 | [Distinct Numbers in Each Subarray](https://leetcode.com/problems/distinct-numbers-in-each-subarray/) | [C++](1501-2000/1852-Distinct-Numbers-in-Each-Subarray/cpp-1852/) | | | |
+| 1852 | [Distinct Numbers in Each Subarray](https://leetcode.com/problems/distinct-numbers-in-each-subarray/) | [无] | [C++](1501-2000/1852-Distinct-Numbers-in-Each-Subarray/cpp-1852/) | | |
+| 1853 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
 | 1858 | [Longest Word With All Prefixes](https://leetcode.com/problems/longest-word-with-all-prefixes/) | [无] | [C++](1501-2000/1858-Longest-Word-With-All-Prefixes/cpp-1858/) | | |
 | 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [无] | [C++](1501-2000/1859-Sorting-the-Sentence/cpp-1859/) | | |
@@ -1529,6 +1532,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1864 | [Minimum Number of Swaps to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/) | [无] | [C++](1501-2000/1864-Minimum-Number-of-Swaps-to-Make-the-Binary-String-Alternating/cpp-1864/) | | |
 | 1865 | [Finding Pairs With a Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/) | [无] | [C++](1501-2000/1865-Finding-Pairs-With-a-Certain-Sum/cpp-1865/) | | |
 | 1866 | [Number of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | [无] | [C++](1501-2000/1866-Number-of-Ways-to-Rearrange-Sticks-With-K-Sticks-Visible/cpp-1866/) | | |
+| 1867 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
 
 ## 力扣中文站比赛
