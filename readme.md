@@ -570,7 +570,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 664 | [Strange Printer](https://leetcode.com/problems/strange-printer/) | [solution](https://leetcode.com/problems/strange-printer/) | [C++](0501-1000/0664-Strange-Printer/cpp-0664/) | | |
 | 665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [solution](https://leetcode.com/problems/non-decreasing-array/solution/) | [C++](0501-1000/0665-Non-decreasing-Array/cpp-0665/) | | |
-| | | | | | |
+| 666 | [Path Sum IV](https://leetcode.com/problems/path-sum-iv/) | [solution](https://leetcode.com/problems/path-sum-iv/solution/) | [C++](0501-1000/0666-Path-Sum-IV/cpp-0666/) | | |
 | 667 | [Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/) | [solution](https://leetcode.com/problems/beautiful-arrangement-ii/solution/) | [C++](0501-1000/0667-Beautiful-Arrangement-II/ccp-0667/) | | |
 | 668 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [solution](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [C++](0501-1000/0668-Kth-Smallest-Number-in-Multiplication-Table/cpp-0668/) | | |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [solution](https://leetcode.com/problems/trim-a-binary-search-tree/solution/) | [C++](0501-1000/0669-Trim-a-Binary-Search-Tree/cpp-0669/) | | |
