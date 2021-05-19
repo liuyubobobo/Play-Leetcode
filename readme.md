@@ -442,6 +442,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [solution](https://leetcode.com/problems/delete-node-in-a-bst/solution/) | [C++](0001-0500/0450-Delete-Node-in-a-BST/cpp-0450/) | | |
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/) | [无] | [C++](0001-0500/0451-Sort-Characters-By-Frequency/cpp-0451/) | [Java](0001-0500/0451-Sort-Characters-By-Frequency/java-0451/) | |
 | | | | | | |
+| 453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [solution](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/solution/) | [C++](0001-0500/0453-Minimum-Moves-to-Equal-Array-Elements/cpp-0453/) | | |
 | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/description/) | [无] | [C++](0001-0500/0454-4Sum-II/cpp-0454/) | [Java](0001-0500/0454-4Sum-II/java-0454/src/) | |
 | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) | [无] | [C++](0001-0500/0455-Assign-Cookies/cpp-0455/) | [Java](0001-0500/0455-Assign-Cookies/java-0455/src/) | |
 | 456 | [132 Pattern](https://leetcode.com/problems/132-pattern/) | [solution](https://leetcode.com/problems/132-pattern/solution/) <br/> [缺：O(n), O(nlogn) 算法] | [C++](0001-0500/0456-132-Pattern/cpp-0456/) | | |
