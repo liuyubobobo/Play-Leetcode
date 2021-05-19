@@ -448,6 +448,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 458 | [Poor Pigs](https://leetcode.com/problems/poor-pigs/) | [solution](https://leetcode.com/problems/poor-pigs/solution/) | [C++](0001-0500/0458-Poor-Pigs/) | | |
 | | | | | | |
+| 462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [solution](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/solution/) | [C++](0001-0500/0462-Minimum-Moves-to-Equal-Array-Elements-II/cpp-0462/) | | |
+| | | | | | |
 | 470 | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/description/) | [solution](https://leetcode.com/problems/implement-rand10-using-rand7/solution/) | [C++](0001-0500/0470-Implement-Rand10-Using-Rand7/cpp-0470/) | | |
 | | | | | | |
 | 473 | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/description/) | [solution](https://leetcode.com/problems/matchsticks-to-square/solution/) | [C++](0001-0500/0473-Matchsticks-to-Square/cpp-0473/) | | |
