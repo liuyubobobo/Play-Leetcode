@@ -587,6 +587,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/description/) | [solution](https://leetcode.com/problems/redundant-connection/solution/) | [C++](0501-1000/0684-Redundant-Connection/cpp-0684/) | | |
 | 685 | [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/description/) | [solution](https://leetcode.com/problems/redundant-connection-ii/solution/) | [C++](0501-1000/0685-Redundant-Connection-II/cpp-0685/) | | |
 | | | | | | |
+| 687 | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | [solution](https://leetcode.com/problems/longest-univalue-path/solution/) | [C++](0501-1000/0687-Longest-Univalue-Path/cpp-0687/) | | |
+| | | | | | |
 | 690 | [Employee Importance](https://leetcode.com/problems/employee-importance/description/) | [solution](https://leetcode.com/problems/employee-importance/solution/) | [C++](0501-1000/0690-Employee-Importance/cpp-0690/) | | |
 | | | | | | |
 | 692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/) | [solution](https://leetcode.com/problems/top-k-frequent-words/solution/) | [C++](0501-1000/0692-Top-K-Frequent-Words/cpp-0692/) | | |
