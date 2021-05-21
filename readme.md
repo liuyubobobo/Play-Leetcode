@@ -688,7 +688,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/) | [solution](https://leetcode.com/problems/max-increase-to-keep-city-skyline/solution/) | [C++](0807-Max-Increase-to-Keep-City-Skyline/cpp-0807/) | | |
 | | | | | | |
 | 809 | [Expressive Words](https://leetcode.com/problems/expressive-words/description/) | [solution](https://leetcode.com/problems/expressive-words/solution/) | [C++](0501-1000/0809-Expressive-Words/cpp-0809/) | | |
-| | | | | | |
+| 810 | [Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/) | [solution](https://leetcode.com/problems/chalkboard-xor-game/solution/) | [C++](0501-1000/0810-Chalkboard-XOR-Game/cpp-0810/) | | |
 | 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) | [solution](https://leetcode.com/problems/subdomain-visit-count/solution/) | [C++](0501-1000/0811-Subdomain-Visit-Count/cpp-0811/) | | |
 | | | | | | |
 | 817 | [Linked List Components](https://leetcode.com/problems/linked-list-components/description/) | [solution](https://leetcode.com/problems/linked-list-components/solution/) | [C++](0501-1000/0817-Linked-List-Components/cpp-0817/) | | |
