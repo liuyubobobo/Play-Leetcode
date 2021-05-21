@@ -1527,6 +1527,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1853 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1854 | [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/) | [无] | [C++](1501-2000/1854-Maximum-Population-Year/cpp-1854/) | | |
 | 1855 | [Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | [无] | [C++](1501-2000/1855-Maximum-Distance-Between-a-Pair-of-Values/cpp-1855/) | | |
+| 1856 | [Maximum Subarray Min-Product](https://leetcode.com/problems/maximum-subarray-min-product/) | [无] | [C++](1501-2000/1856-Maximum-Subarray-Min-Product/cpp-1856/) | | |
 | | | | | | |
 | 1858 | [Longest Word With All Prefixes](https://leetcode.com/problems/longest-word-with-all-prefixes/) | [无] | [C++](1501-2000/1858-Longest-Word-With-All-Prefixes/cpp-1858/) | | |
 | 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [无] | [C++](1501-2000/1859-Sorting-the-Sentence/cpp-1859/) | | |
