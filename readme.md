@@ -1063,6 +1063,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1262 | [Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/) | [无] | [C++](1001-1500/1262-Greatest-Sum-Divisible-by-Three/cpp-1262/) | | |
 | 1263 | [Minimum Moves to Move a Box to Their Target Location](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/) | [无] | [C++](1001-1500/1263-Minimum-Moves-to-Move-a-Box-to-Their-Target-Location/cpp-1263/) | | |
 | | | | | | |
+| 1275 | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/) | [无] | [C++](1001-1500/1275-Find-Winner-on-a-Tic-Tac-Toe-Game/cpp-1275/) | | |
+| | | | | | |
 | 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [题解](https://leetcode-cn.com/problems/count-square-submatrices-with-all-ones/solution/tong-ji-quan-wei-1-de-zheng-fang-xing-zi-ju-zhen-2/) | [C++](1001-1500/1277-Count-Square-Submatrices-with-All-Ones/cpp-1277/) | | |
 | 1278 | [Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/) | [无] | [C++](1001-1500/1278-Palindrome-Partitioning-III/cpp-1278/) | | |
 | | | | | | |
