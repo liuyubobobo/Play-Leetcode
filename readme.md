@@ -1548,6 +1548,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1867 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1868 | [Product of Two Run-Length Encoded Arrays](https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/) | [无] | [C++](1501-2000/1868-Product-of-Two-Run-Length-Encoded-Arrays/cpp-1868/) | | |
 | 1869 | [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/) | [无] | [C++](1501-2000/1869-Longer-Contiguous-Segments-of-Ones-than-Zeros/cpp-1869/) | | |
+| 1870 | [Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/) | [无] | [C++](1501-2000/1870-Minimum-Speed-to-Arrive-on-Time/cpp-1870/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
