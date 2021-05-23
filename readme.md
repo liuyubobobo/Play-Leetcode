@@ -1547,6 +1547,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1866 | [Number of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | [无] | [C++](1501-2000/1866-Number-of-Ways-to-Rearrange-Sticks-With-K-Sticks-Visible/cpp-1866/) | | |
 | 1867 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1868 | [Product of Two Run-Length Encoded Arrays](https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/) | [无] | [C++](1501-2000/1868-Product-of-Two-Run-Length-Encoded-Arrays/cpp-1868/) | | |
+| 1869 | [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/) | [无] | [C++](1501-2000/1869-Longer-Contiguous-Segments-of-Ones-than-Zeros/cpp-1869/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
