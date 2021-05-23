@@ -1550,6 +1550,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1869 | [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/) | [无] | [C++](1501-2000/1869-Longer-Contiguous-Segments-of-Ones-than-Zeros/cpp-1869/) | | |
 | 1870 | [Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/) | [无] | [C++](1501-2000/1870-Minimum-Speed-to-Arrive-on-Time/cpp-1870/) | | |
 | 1871 | [Jump Game VII](https://leetcode.com/problems/jump-game-vii/) | [无] | [C++](1501-2000/1871-Jump-Game-VII/cpp-1871/) | | |
+| 1872 | [Stone Game VIII](https://leetcode.com/problems/stone-game-viii/) | [solution](1501-2000/1872-Stone-Game-VIII/cpp-1872/) | | | |
 | | | | | | |
 
 ## 力扣中文站比赛
