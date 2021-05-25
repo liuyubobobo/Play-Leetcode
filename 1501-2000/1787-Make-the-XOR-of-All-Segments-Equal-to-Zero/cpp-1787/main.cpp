@@ -18,7 +18,7 @@ public:
     int minChanges(vector<int>& nums, int k) {
 
         vector<int> pow2 = {1, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024};
-        int LIMIT = *lower_bound(pow2.begin(), pow2.end(), *max_element(nums.begin(), nums.end()));
+        int LIMIT = *lower_bound(pow2.begin(), pow2.end(), *max_element(nums.begin(), nums.end())) * 2;
 
         vector<map<int, int>> f(k);
         vector<int> total(k, 0);
