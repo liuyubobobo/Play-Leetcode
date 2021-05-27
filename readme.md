@@ -1553,6 +1553,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1870 | [Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/) | [无] | [C++](1501-2000/1870-Minimum-Speed-to-Arrive-on-Time/cpp-1870/) | | |
 | 1871 | [Jump Game VII](https://leetcode.com/problems/jump-game-vii/) | [无] | [C++](1501-2000/1871-Jump-Game-VII/cpp-1871/) | | |
 | 1872 | [Stone Game VIII](https://leetcode.com/problems/stone-game-viii/) | [solution](1501-2000/1872-Stone-Game-VIII/cpp-1872/) | | | |
+| 1873 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1874 | [Minimize Product Sum of Two Arrays](https://leetcode.com/problems/minimize-product-sum-of-two-arrays/) | [无] | [C++](1874-Minimize-Product-Sum-of-Two-Arrays/cpp-1874/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
