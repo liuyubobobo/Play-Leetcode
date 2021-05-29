@@ -1554,7 +1554,9 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1871 | [Jump Game VII](https://leetcode.com/problems/jump-game-vii/) | [无] | [C++](1501-2000/1871-Jump-Game-VII/cpp-1871/) | | |
 | 1872 | [Stone Game VIII](https://leetcode.com/problems/stone-game-viii/) | [solution](1501-2000/1872-Stone-Game-VIII/cpp-1872/) | | | |
 | 1873 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
-| 1874 | [Minimize Product Sum of Two Arrays](https://leetcode.com/problems/minimize-product-sum-of-two-arrays/) | [无] | [C++](1874-Minimize-Product-Sum-of-Two-Arrays/cpp-1874/) | | |
+| 1874 | [Minimize Product Sum of Two Arrays](https://leetcode.com/problems/minimize-product-sum-of-two-arrays/) | [无] | [C++](1501-2000/1874-Minimize-Product-Sum-of-Two-Arrays/cpp-1874/) | | |
+| 1875 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | [无] | [C++](1501-2000/1876-Substrings-of-Size-Three-with-Distinct-Characters/cpp-1876/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
