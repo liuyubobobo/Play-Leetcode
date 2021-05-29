@@ -1557,6 +1557,9 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1874 | [Minimize Product Sum of Two Arrays](https://leetcode.com/problems/minimize-product-sum-of-two-arrays/) | [无] | [C++](1501-2000/1874-Minimize-Product-Sum-of-Two-Arrays/cpp-1874/) | | |
 | 1875 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | [无] | [C++](1501-2000/1876-Substrings-of-Size-Three-with-Distinct-Characters/cpp-1876/) | | |
+| 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | [无] | [C++](1501-2000/1877-Minimize-Maximum-Pair-Sum-in-Array/cpp-1877/) | | |
+| | | | | | |
+| | | | | | |
 | | | | | | |
 
 ## 力扣中文站比赛
