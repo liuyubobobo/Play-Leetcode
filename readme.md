@@ -1562,6 +1562,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) | [无] | [C++](1501-2000/1880-Check-if-Word-Equals-Summation-of-Two-Words/cpp-1880/) | | |
 | 1881 | [Maximum Value after Insertion](https://leetcode.com/problems/maximum-value-after-insertion/) | [无] | [C++](1501-2000/1881-Maximum-Value-after-Insertion/cpp-1881/) | | |
+| 1882 | [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/) | [无] | [C++](1501-2000/1882-Process-Tasks-Using-Servers/cpp-1882/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
