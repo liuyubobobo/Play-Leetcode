@@ -1560,6 +1560,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | [无] | [C++](1501-2000/1877-Minimize-Maximum-Pair-Sum-in-Array/cpp-1877/) | | |
 | | | | | | |
 | | | | | | |
+| 1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) | [无] | [C++](1501-2000/1880-Check-if-Word-Equals-Summation-of-Two-Words/cpp-1880/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
