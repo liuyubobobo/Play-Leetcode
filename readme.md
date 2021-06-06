@@ -1566,6 +1566,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1882 | [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/) | [无] | [C++](1501-2000/1882-Process-Tasks-Using-Servers/cpp-1882/) | | |
 | 1883 | [Minimum Skips to Arrive at Meeting On Time](https://leetcode.com/problems/minimum-skips-to-arrive-at-meeting-on-time/) | [无]<br/>[缺：DP] | [C++](1501-2000/1883-Minimum-Skips-to-Arrive-at-Meeting-On-Time/cpp-1883/) | | |
 | | | | | | |
+| 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | [无] | [C++](1501-2000/1886-Determine-Whether-Matrix-Can-Be-Obtained-By-Rotation/cpp-1886/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
