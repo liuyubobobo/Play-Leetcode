@@ -907,6 +907,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [无] | [C++](1001-1500/1046-Last-Stone-Weight/cpp-1046/) | | |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [无] | [C++](1001-1500/1047-Remove-All-Adjacent-Duplicates-In-String/cpp-1047/) | | |
 | | | | | | |
+| 1049 | [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/) | [无] | [C++](1001-1500/1049-Last-Stone-Weight-II/cpp-1049/) | | |
+| | | | | | |
 | 1052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/) | [无] | [C++](1001-1500/1052-Grumpy-Bookstore-Owner/cpp-1052/) | | |
 | | | | | | |
 | 1062 | [Longest Repeating Substring](https://leetcode.com/problems/longest-repeating-substring/) | [无] | [C++](1001-1500/1062-Longest-Repeating-Substring/cpp-1062/) | | |
