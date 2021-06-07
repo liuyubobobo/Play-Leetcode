@@ -45,10 +45,5 @@ int main() {
     cout << Solution().lastStoneWeightII(stones1) << endl;
     // 5
 
-    // 26 - (40 - 21) - (33 - 31)
-    // = 26 - 40 + 21 - 33 + 31
-    // = (26 + 21 + 31) - (40 + 33)
-    // = 78 - 73
-
     return 0;
 }
