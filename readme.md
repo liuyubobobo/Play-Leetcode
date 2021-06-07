@@ -1569,6 +1569,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | [无] | [C++](1501-2000/1886-Determine-Whether-Matrix-Can-Be-Obtained-By-Rotation/cpp-1886/) | | |
 | 1887 | [Reduction Operations to Make the Array Elements Equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/) | [无] | [C++](1501-2000/1887-Reduction-Operations-to-Make-the-Array-Elements-Equal/cpp-1887/) | | |
 | 1888 | [Minimum Number of Flips to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/) | [无] | [C++](1501-2000/1888-Minimum-Number-of-Flips-to-Make-the-Binary-String-Alternating/cpp-1888/) | | |
+| 1889 | [Minimum Space Wasted From Packaging](https://leetcode.com/problems/minimum-space-wasted-from-packaging/) | [无] | [C++](1501-2000/1889-Minimum-Space-Wasted-From-Packaging/cpp-1889/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
