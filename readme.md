@@ -1569,7 +1569,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1881 | [Maximum Value after Insertion](https://leetcode.com/problems/maximum-value-after-insertion/) | [无] | [C++](1501-2000/1881-Maximum-Value-after-Insertion/cpp-1881/) | | |
 | 1882 | [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/) | [无] | [C++](1501-2000/1882-Process-Tasks-Using-Servers/cpp-1882/) | | |
 | 1883 | [Minimum Skips to Arrive at Meeting On Time](https://leetcode.com/problems/minimum-skips-to-arrive-at-meeting-on-time/) | [无]<br/>[缺：DP] | [C++](1501-2000/1883-Minimum-Skips-to-Arrive-at-Meeting-On-Time/cpp-1883/) | | |
-| | | | | | |
+| 1884 | [Egg Drop With 2 Eggs and N Floors](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/) | [无]<br/>[缺：O(1) 数学] | [C++](1501-2000/1884-Egg-Drop-With-2-Eggs-and-N-Floors/cpp-1884/) | | |
 | 1885 | [Count Pairs in Two Arrays](https://leetcode.com/problems/count-pairs-in-two-arrays/) | [无] | [C++](1501-2000/1885-Count-Pairs-in-Two-Arrays/cpp-1885/) | | |
 | 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | [无] | [C++](1501-2000/1886-Determine-Whether-Matrix-Can-Be-Obtained-By-Rotation/cpp-1886/) | | |
 | 1887 | [Reduction Operations to Make the Array Elements Equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/) | [无] | [C++](1501-2000/1887-Reduction-Operations-to-Make-the-Array-Elements-Equal/cpp-1887/) | | |
