@@ -9,7 +9,7 @@
 using namespace std;
 
 
-/// Sorting and Binary Search
+/// Sorting and Two Pointers
 /// Time Complexity: O(nlogn)
 /// Space Complexity: O(1)
 class Solution {
@@ -23,9 +23,9 @@ public:
 
         sort(nums1.begin(), nums1.end());
         long long res = 0ll;
-        for(int i = 1; i < n; i ++){
-            vector<int>::iterator iter = upper_bound(nums1.begin(), nums1.begin() + i, - nums1[i]);
-            res += (i - (iter - nums1.begin()));
+        for(int i = 0, j = n - 1; i < n; i ++){
+            while(j > i && nums1[i] + nums1[j] > 0) j --;
+            res += (long long)(n - max(j + 1, i + 1));
         }
         return res;
     }

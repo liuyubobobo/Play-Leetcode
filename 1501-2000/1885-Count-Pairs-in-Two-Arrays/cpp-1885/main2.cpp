@@ -48,12 +48,21 @@ public:
         return node->value;
     }
 
+    // 1-based rank
     int rank(int key){
 
         Node* node = getNode(root, key);
         assert(node);
 
-        return rank(root, key);
+        return size_less_than(key) + 1;
+    }
+
+    int size_less_than(int key){
+        return size_less_than(root, key);
+    }
+
+    int size_larger_than(int key){
+        return size_larger_than(root, key);
     }
 
 private:
@@ -69,14 +78,6 @@ private:
         return height(node->left) - height(node->right);
     }
 
-    // 对节点y进行向右旋转操作，返回旋转后新的根节点x
-    //        y                              x
-    //       / \                           /   \
-    //      x   T4     向右旋转 (y)        z     y
-    //     / \       - - - - - - - ->    / \   / \
-    //    z   T3                       T1  T2 T3 T4
-    //   / \
-    // T1   T2
     Node* rightRotate(Node* y) {
         Node* x = y->left;
         Node* T3 = x->right;
@@ -95,14 +96,6 @@ private:
         return x;
     }
 
-    // 对节点y进行向左旋转操作，返回旋转后新的根节点x
-    //    y                             x
-    //  /  \                          /   \
-    // T1   x      向左旋转 (y)       y     z
-    //     / \   - - - - - - - ->   / \   / \
-    //   T2  z                     T1 T2 T3 T4
-    //      / \
-    //     T3 T4
     Node* leftRotate(Node* y) {
         Node* x = y->right;
         Node* T2 = x->left;
@@ -181,10 +174,16 @@ private:
             return getNode(node->right, key);
     }
 
-    int rank(Node* node, int key){
-        if(key == node->key) return size(node->left) + 1;
-        if(key < node->key) return rank(node->left, key);
-        return size(node->left) + node->value + rank(node->right, key);
+    int size_less_than(Node* node, int key){
+        if(!node) return 0;
+        if(key <= node->key) return size_less_than(node->left, key);
+        return size(node->left) + node->value + size_less_than(node->right, key);
+    }
+
+    int size_larger_than(Node* node, int key){
+        if(!node) return 0;
+        if(key >= node->key) return size_larger_than(node->right, key);
+        return size(node->right) + node->value + size_larger_than(node->left, key);
     }
 };
 
@@ -197,11 +196,12 @@ public:
         for(int i = 0; i < n; i ++) nums1[i] -= nums2[i];
 //        for(int e: nums1) cout << e << " "; cout << endl;
 
-        sort(nums1.begin(), nums1.end());
+        AVLTree tree;
+
         long long res = 0ll;
-        for(int i = 0, j = n - 1; i < n; i ++){
-            while(j > i && nums1[i] + nums1[j] > 0) j --;
-            res += (long long)(n - max(j + 1, i + 1));
+        for(int e: nums1){
+            res += tree.size_larger_than(-e);
+            tree.add(e);
         }
         return res;
     }
@@ -210,9 +210,13 @@ public:
 
 int main() {
 
-    vector<int> nums1 = {2,1,2,1}, nums2 = {1,2,1,2};
-    cout << Solution().countPairs(nums1, nums2) << endl;
+    vector<int> nums11 = {2,1,2,1}, nums12 = {1,2,1,2};
+    cout << Solution().countPairs(nums11, nums12) << endl;
     // 1
+
+    vector<int> nums21 = {1,10,6,2}, nums22 = {1,4,1,5};
+    cout << Solution().countPairs(nums21, nums22) << endl;
+    // 5
 
     return 0;
 }
