@@ -1510,6 +1510,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [无] | [C++](1501-2000/1822-Sign-of-the-Product-of-an-Array/cpp-1822/) | | |
 | 1823 | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | [无] | [C++](1501-2000/1823-Find-the-Winner-of-the-Circular-Game/cpp-1823/) | | |
+| 1824 | [Minimum Sideway Jumps](https://leetcode.com/problems/minimum-sideway-jumps/) | [无]<br/>[缺：DP] | [C++](1501-2000/1824-Minimum-Sideway-Jumps/cpp-1824/) | | |
 | | | | | | |
 | 1826 | [Faulty Sensor](https://leetcode.com/problems/faulty-sensor/) | [无] | [C++](1501-2000/1826-Faulty-Sensor/cpp-1826/) | | |
 | 1827 | [Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) | [无] | [C++](1501-2000/1827-Minimum-Operations-to-Make-the-Array-Increasing/cpp-1827/) | | |
