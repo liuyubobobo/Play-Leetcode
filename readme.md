@@ -1563,7 +1563,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1875 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | [无] | [C++](1501-2000/1876-Substrings-of-Size-Three-with-Distinct-Characters/cpp-1876/) | | |
 | 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | [无] | [C++](1501-2000/1877-Minimize-Maximum-Pair-Sum-in-Array/cpp-1877/) | | |
-| | | | | | |
+| 1878 | [Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/) | [无] | [C++](1501-2000/1878-Get-Biggest-Three-Rhombus-Sums-in-a-Grid/cpp-1878/) | | |
 | | | | | | |
 | 1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) | [无] | [C++](1501-2000/1880-Check-if-Word-Equals-Summation-of-Two-Words/cpp-1880/) | | |
 | 1881 | [Maximum Value after Insertion](https://leetcode.com/problems/maximum-value-after-insertion/) | [无] | [C++](1501-2000/1881-Maximum-Value-after-Insertion/cpp-1881/) | | |
