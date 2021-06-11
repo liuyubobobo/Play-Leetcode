@@ -1507,7 +1507,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1817 | [Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/) | [无] | [C++](1501-2000/1817-Finding-the-Users-Active-Minutes/cpp-1817/) | | |
 | 1818 | [Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/) | [无] | [C++](1501-2000/1818-Minimum-Absolute-Sum-Difference/cpp-1818/) | | |
 | 1819 | [Number of Different Subsequences GCDs](https://leetcode.com/problems/number-of-different-subsequences-gcds/) | [无] | [C++](1501-2000/1819-Number-of-Different-Subsequences-GCDs/cpp-1819/) | | |
-| | | | | | |
+| 1820 | [Maximum Number of Accepted Invitations](https://leetcode.com/problems/maximum-number-of-accepted-invitations/) | [无] | [C++](1501-2000/1820-Maximum-Number-of-Accepted-Invitations/cpp-1820/) | | |
 | 1821 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [无] | [C++](1501-2000/1822-Sign-of-the-Product-of-an-Array/cpp-1822/) | | |
 | 1823 | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | [无] | [C++](1501-2000/1823-Find-the-Winner-of-the-Circular-Game/cpp-1823/) | | |
