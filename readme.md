@@ -300,7 +300,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [solution](https://leetcode.com/problems/missing-number/solution/) | [C++](0001-0500/0268-Missing-Number/cpp-0268/) | | |
 | | | | | | |
 | 277 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | [solution](https://leetcode.com/problems/find-the-celebrity/solution/) <br/> [缺：O(n) 解法] | [C++](0001-0500/0277-Find-the-Celebrity/cpp-0277/) | | |
-| | | | | | |
+| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [solution](https://leetcode.com/problems/first-bad-version/solution/) | [C++](0001-0500/0278-First-Bad-Version/cpp-0278/) | | |
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) | [无]<br/>四平方和数学解 | [C++](0001-0500/0279-Perfect-Squares/cpp-0279/) | [Java](0001-0500/0279-Perfect-Squares/java-0279/src/) | |
 | | | | | | |
 | 282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/description/) | [solution](https://leetcode.com/problems/expression-add-operators/solution/) | [C++](0001-0500/0282-Expression-Add-Operators/cpp-0282/) | | |
@@ -1498,7 +1498,9 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1806 | [Minimum Number of Operations to Reinitialize a Permutation](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/) | [无]<br/>[缺：数学方法] | [C++](1501-2000/1806-Minimum-Number-of-Operations-to-Reinitialize-a-Permutation/cpp-1806/) | | |
 | 1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | [无] | [C++](1501-2000/1807-Evaluate-the-Bracket-Pairs-of-a-String/cpp-1807/) | | |
 | 1808 | [Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/) | [无] | [C++](1501-2000/1808-Maximize-Number-of-Nice-Divisors/cpp-1808/) | | |
-| | | | | | |
+| 1809 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1810 | [Minimum Path Cost in a Hidden Grid](https://leetcode-cn.com/problems/minimum-path-cost-in-a-hidden-grid/) | [无] | [C++](1501-2000/1810-Minimum-Path-Cost-in-a-Hidden-Grid/cpp-1810/) | | |
+| 1811 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1812 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | [无] | [C++](1501-2000/1812-Determine-Color-of-a-Chessboard-Square/cpp-1812/) | | |
 | 1813 | [Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/) | [无] | [C++](1501-2000/1813-Sentence-Similarity-III/cpp-1813/) | | |
 | 1814 | [Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/) | [无] | [C++](1501-2000/1814-Count-Nice-Pairs-in-an-Array/cpp-1814/) | | |
