@@ -1585,6 +1585,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1893 | [Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/) | [无] | [C++](1501-2000/1893-Check-if-All-the-Integers-in-a-Range-Are-Covered/cpp-1893/) | | |
 | 1894 | [Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/) | [无] | [C++](1501-2000/1894-Find-the-Student-that-Will-Replace-the-Chalk/cpp-1894/) | | |
 | 1895 | [Largest Magic Square](https://leetcode.com/problems/largest-magic-square/) | [无] | [C++](1501-2000/1895-Largest-Magic-Square/cpp-1895/) | | |
+| 1896 | [Minimum Cost to Change the Final Value of Expression](https://leetcode.com/problems/minimum-cost-to-change-the-final-value-of-expression/) | [无] | [C++](1501-2000/1896-Minimum-Cost-to-Change-the-Final-Value-of-Expression/cpp-1896/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
