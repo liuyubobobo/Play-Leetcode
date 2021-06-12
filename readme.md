@@ -1581,6 +1581,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1889 | [Minimum Space Wasted From Packaging](https://leetcode.com/problems/minimum-space-wasted-from-packaging/) | [无] | [C++](1501-2000/1889-Minimum-Space-Wasted-From-Packaging/cpp-1889/) | | |
 | 1890 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1891 | [Cutting Ribbons](https://leetcode.com/problems/cutting-ribbons/) | [无] | [C++](1501-2000/1891-Cutting-Ribbons/cpp-1891/) | | |
+| 1892 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1893 | [Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/) | [无] | [C++](1501-2000/1893-Check-if-All-the-Integers-in-a-Range-Are-Covered/cpp-1893/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
