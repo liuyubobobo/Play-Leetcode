@@ -1583,6 +1583,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1891 | [Cutting Ribbons](https://leetcode.com/problems/cutting-ribbons/) | [无] | [C++](1501-2000/1891-Cutting-Ribbons/cpp-1891/) | | |
 | 1892 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1893 | [Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/) | [无] | [C++](1501-2000/1893-Check-if-All-the-Integers-in-a-Range-Are-Covered/cpp-1893/) | | |
+| 1894 | [Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/) | [无] | [C++](1501-2000/1894-Find-the-Student-that-Will-Replace-the-Chalk/cpp-1894/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
