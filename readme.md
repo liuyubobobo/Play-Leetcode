@@ -1584,6 +1584,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1892 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1893 | [Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/) | [无] | [C++](1501-2000/1893-Check-if-All-the-Integers-in-a-Range-Are-Covered/cpp-1893/) | | |
 | 1894 | [Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/) | [无] | [C++](1501-2000/1894-Find-the-Student-that-Will-Replace-the-Chalk/cpp-1894/) | | |
+| 1895 | [Largest Magic Square](https://leetcode.com/problems/largest-magic-square/) | [无] | [C++](1501-2000/1895-Largest-Magic-Square/cpp-1895/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
