@@ -1,3 +1,7 @@
+/// Source : https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/
+/// Author : liuyubobobo
+/// Time   : 2021-06-12
+
 #include <iostream>
 #include <vector>
 #include <set>
@@ -5,6 +9,9 @@
 using namespace std;
 
 
+/// Monte Carlo
+/// Time Complexity: O(T*nlogn)
+/// Space Complexity: O(n)
 class Solution {
 
 public:
