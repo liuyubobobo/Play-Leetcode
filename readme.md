@@ -1590,6 +1590,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1897 | [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) | [无] | [C++](1501-2000/1897-Redistribute-Characters-to-Make-All-Strings-Equal/cpp-1897/) | | |
 | 1898 | [Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/) | [无] | [C++](1501-2000/1898-Maximum-Number-of-Removable-Characters/cpp-1898/) | | |
 | 1899 | [Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/) | [无] | [C++](1501-2000/1899-Merge-Triplets-to-Form-Target-Triplet/cpp-1899/) | | |
+| 1900 | [The Earliest and Latest Rounds Where Players Compete](https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/) | [无] | [C++](1501-2000/1900-The-Earliest-and-Latest-Rounds-Where-Players-Compete/cpp-1900/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
