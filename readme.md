@@ -348,6 +348,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [solution](https://leetcode.com/problems/increasing-triplet-subsequence/solution/) | [C++](0001-0500/0334-Increasing-Triplet-Subsequence/cpp-0334/) | | |
 | | | | | | |
+| 336 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | [solution](https://leetcode.com/problems/palindrome-pairs/solution/) | [C++](0001-0500/0336-Palindrome-Pairs/cpp-0336/)| | |
 | 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/description/) | [无] | [C++](0001-0500/0337-House-Robber-III/cpp-0337/) | | |
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [solution](https://leetcode.com/problems/counting-bits/solution/) | [C++](0001-0500/0338-Counting-Bits/cpp-0338/) | | |
 | 339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) | [无] | [C++](0001-0500/0339-Nested-List-Weight-Sum/cpp-0339/) | | |
