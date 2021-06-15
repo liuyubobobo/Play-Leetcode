@@ -208,7 +208,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/) | [solution](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/solution/) | [C++](0001-0500/0159-Longest-Substring-with-At-Most-Two-Distinct-Characters/cpp-0159/) | | |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [solution](https://leetcode.com/problems/intersection-of-two-linked-lists/solution/) | [C++](0001-0500/0160-Intersection-of-Two-Linked-Lists/cpp-0160/) | | |
 | 161 | [One Edit Distance](https://leetcode.com/problems/one-edit-distance/) | [solution](https://leetcode.com/problems/one-edit-distance/solution/) | [C++](0001-0500/0161-One-Edit-Distance/cpp-0161/) | | |
-| | | | | | |
+| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [solution](https://leetcode.com/problems/find-peak-element/solution/) | [C++](0001-0500/0162-Find-Peak-Element/cpp-0162/) | | |
 | 163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges/) | [solution](https://leetcode.com/problems/missing-ranges/solution/) | [C++](0001-0500/0163-Missing-Ranges/cpp-0163/) | | |
 | 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | [solution](https://leetcode.com/problems/maximum-gap/solution/)<br/>[缺：桶排序] | [C++](0001-0500/0164-Maximum-Gap/cpp-0164/) | | |
 | | | | | | |
