@@ -465,6 +465,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 480 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | [无]<br/>[缺：双数据结构] | [C++](0001-0500/0480-Sliding-Window-Median/cpp-0480/) | | |
 | | | | | | |
+| 483 | [Smallest Good Base](https://leetcode.com/problems/smallest-good-base/) | [无] | [C++](0001-0500/0483-Smallest-Good-Base/cpp-0483/) | | |
+| | | | | | |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [无] | [C++](0001-0500/0485-Max-Consecutive-Ones/cpp-0485/) | | |
 | | | | | | |
 | 490 | [The Maze](https://leetcode.com/problems/the-maze/description/) | [solution](https://leetcode.com/problems/the-maze/solution/) | [C++](0001-0500/0490-The-Maze/cpp-0490/) | | |
