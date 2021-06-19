@@ -1602,22 +1602,22 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 
 | ID | Problem | Official<br/>Solution | C++ | Java | Python |
 | --- | --- | :---: | :---: | :---: | :---: |
-| LCP01 | [猜数字](https://leetcode-cn.com/problems/guess-numbers/) | [无] | [C++](LCP/LCP01-guess-numbers/cpp-LCP01/) | | |
-| LCP02 | [分式化简](https://leetcode-cn.com/problems/deep-dark-fraction/) | [无] | [C++](LCP/LCP02-deep-dark-fraction/cpp-LCP02/) | | |
-| LCP03 | [机器人大冒险](https://leetcode-cn.com/problems/programmable-robot/) | [无] | [C++](LCP/LCP03-programmable-robot/cpp-LCP03/) | | |
-| LCP04 | [覆盖](https://leetcode-cn.com/problems/broken-board-dominoes/) | [无] | [C++](LCP/LCP04-broken-board-dominoes/cpp-LCP04/) | | |
-| LCP05 | [发 LeetCoin](https://leetcode-cn.com/problems/coin-bonus/) | [无] | [C++](LCP/LCP05-coin-bonus/cpp-LCP05/) | | |
-| LCP06 | [拿硬币](https://leetcode-cn.com/problems/na-ying-bi/) | [题解](https://leetcode-cn.com/problems/na-ying-bi/solution/na-ying-bi-by-leetcode-solution/) | [C++](LCP/LCP06-na-ying-bi/cpp-LCP06/) |
-| LCP07 | [传递信息](https://leetcode-cn.com/problems/chuan-di-xin-xi/) | [题解](https://leetcode-cn.com/problems/chuan-di-xin-xi/solution/chuan-di-xin-xi-by-leetcode-solution/) | [C++](LCP/LCP07-chuan-di-xin-xi/cpp-LCP07/) | | |
-| LCP08 | [剧情触发时间](https://leetcode-cn.com/problems/ju-qing-hong-fa-shi-jian/) | [题解](https://leetcode-cn.com/problems/ju-qing-hong-fa-shi-jian/solution/ju-qing-hong-fa-shi-jian-by-leetcode-solution/) | [C++](LCP/LCP08-ju-qing-hong-fa-shi-jian/cpp-LCP08/) | | |
-| LCP09 | [最小跳跃次数](https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu/) | [题解](https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu/solution/zui-xiao-tiao-yue-ci-shu-by-leetcode-solution/) | [C++](LCP/LCP09-zui-xiao-tiao-yue-ci-shu/cpp-LCP09/) | | |
-| LCP10 | [二叉树任务调度](https://leetcode-cn.com/problems/er-cha-shu-ren-wu-diao-du/) | [题解](https://leetcode-cn.com/problems/er-cha-shu-ren-wu-diao-du/solution/dfs-si-lu-dai-ma-he-zheng-ming-by-leetcode-solutio/) | [C++](LCP/LCP10-er-cha-shu-ren-wu-diao-du/cpp-LCP10/) | | |
-| LCP11 | [期望个数统计](https://leetcode-cn.com/problems/qi-wang-ge-shu-tong-ji/) | [题解](https://leetcode-cn.com/problems/qi-wang-ge-shu-tong-ji/solution/qi-wang-ge-shu-tong-ji-qi-wang-ji-suan-yu-zheng-mi/) | [C++](LCP/LCP11-qi-wang-ge-shu-tong-ji/cpp-LCP11/) | | |
-| LCP12 | [小张刷题计划](https://leetcode-cn.com/problems/xiao-zhang-shua-ti-ji-hua/) | [题解](https://leetcode-cn.com/problems/xiao-zhang-shua-ti-ji-hua/solution/xiao-zhang-shua-ti-ji-hua-er-fen-cha-zhao-by-leetc/) | [C++](LCP/LCP12-xiao-zhang-shua-ti-ji-hua/cpp-LCP12/) | | |
-| LCP13 | [寻宝](https://leetcode-cn.com/problems/xun-bao/) | [题解](https://leetcode-cn.com/problems/xun-bao/solution/xun-bao-bfs-dp-by-leetcode-solution/) | [C++](LCP/LCP13-xun-bao/cpp-LCP13/) | | |
-| LCP14 | [切分数组](https://leetcode-cn.com/problems/qie-fen-shu-zu/) | [题解](https://leetcode-cn.com/problems/qie-fen-shu-zu/solution/qie-fen-shu-zu-zhi-shu-shai-dp-by-leetcode-solutio/) | [C++](LCP/LCP14-qie-fen-shu-zu/cpp-LCP14/) | | |
-| LCP15 | [游乐园的迷宫](https://leetcode-cn.com/problems/you-le-yuan-de-mi-gong/) | [题解](https://leetcode-cn.com/problems/you-le-yuan-de-mi-gong/solution/you-le-yuan-de-mi-gong-tan-xin-si-lu-by-leetcode-s/) | [C++](LCP/LCP15-you-le-yuan-de-mi-gong/cpp-LCP15/) | | |
-| LCP16 | [游乐园的游览计划](https://leetcode-cn.com/problems/you-le-yuan-de-you-lan-ji-hua/) | [题解](https://leetcode-cn.com/problems/you-le-yuan-de-you-lan-ji-hua/solution/you-le-yuan-de-you-lan-ji-hua-tu-lun-jie-xi-by-l-2/) | [C++](LCP/LCP16-you-le-yuan-de-you-lan-ji-hua/cpp-LCP16/) | | |
+| LCP01 | [猜数字](https://leetcode-cn.com/problems/guess-numbers/) | [无] | [C++](LCP/LCP01/cpp-LCP01/) | | |
+| LCP02 | [分式化简](https://leetcode-cn.com/problems/deep-dark-fraction/) | [无] | [C++](LCP/LCP02/cpp-LCP02/) | | |
+| LCP03 | [机器人大冒险](https://leetcode-cn.com/problems/programmable-robot/) | [无] | [C++](LCP/LCP03/cpp-LCP03/) | | |
+| LCP04 | [覆盖](https://leetcode-cn.com/problems/broken-board-dominoes/) | [无] | [C++](LCP/LCP04/cpp-LCP04/) | | |
+| LCP05 | [发 LeetCoin](https://leetcode-cn.com/problems/coin-bonus/) | [无] | [C++](LCP/LCP05/cpp-LCP05/) | | |
+| LCP06 | [拿硬币](https://leetcode-cn.com/problems/na-ying-bi/) | [题解](https://leetcode-cn.com/problems/na-ying-bi/solution/na-ying-bi-by-leetcode-solution/) | [C++](LCP/LCP06/cpp-LCP06/) |
+| LCP07 | [传递信息](https://leetcode-cn.com/problems/chuan-di-xin-xi/) | [题解](https://leetcode-cn.com/problems/chuan-di-xin-xi/solution/chuan-di-xin-xi-by-leetcode-solution/) | [C++](LCP/LCP07/cpp-LCP07/) | | |
+| LCP08 | [剧情触发时间](https://leetcode-cn.com/problems/ju-qing-hong-fa-shi-jian/) | [题解](https://leetcode-cn.com/problems/ju-qing-hong-fa-shi-jian/solution/ju-qing-hong-fa-shi-jian-by-leetcode-solution/) | [C++](LCP/LCP08/cpp-LCP08/) | | |
+| LCP09 | [最小跳跃次数](https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu/) | [题解](https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu/solution/zui-xiao-tiao-yue-ci-shu-by-leetcode-solution/) | [C++](LCP/LCP09/cpp-LCP09/) | | |
+| LCP10 | [二叉树任务调度](https://leetcode-cn.com/problems/er-cha-shu-ren-wu-diao-du/) | [题解](https://leetcode-cn.com/problems/er-cha-shu-ren-wu-diao-du/solution/dfs-si-lu-dai-ma-he-zheng-ming-by-leetcode-solutio/) | [C++](LCP/LCP10/cpp-LCP10/) | | |
+| LCP11 | [期望个数统计](https://leetcode-cn.com/problems/qi-wang-ge-shu-tong-ji/) | [题解](https://leetcode-cn.com/problems/qi-wang-ge-shu-tong-ji/solution/qi-wang-ge-shu-tong-ji-qi-wang-ji-suan-yu-zheng-mi/) | [C++](LCP/LCP11/cpp-LCP11/) | | |
+| LCP12 | [小张刷题计划](https://leetcode-cn.com/problems/xiao-zhang-shua-ti-ji-hua/) | [题解](https://leetcode-cn.com/problems/xiao-zhang-shua-ti-ji-hua/solution/xiao-zhang-shua-ti-ji-hua-er-fen-cha-zhao-by-leetc/) | [C++](LCP/LCP12/cpp-LCP12/) | | |
+| LCP13 | [寻宝](https://leetcode-cn.com/problems/xun-bao/) | [题解](https://leetcode-cn.com/problems/xun-bao/solution/xun-bao-bfs-dp-by-leetcode-solution/) | [C++](LCP/LCP13/cpp-LCP13/) | | |
+| LCP14 | [切分数组](https://leetcode-cn.com/problems/qie-fen-shu-zu/) | [题解](https://leetcode-cn.com/problems/qie-fen-shu-zu/solution/qie-fen-shu-zu-zhi-shu-shai-dp-by-leetcode-solutio/) | [C++](LCP/LCP14/cpp-LCP14/) | | |
+| LCP15 | [游乐园的迷宫](https://leetcode-cn.com/problems/you-le-yuan-de-mi-gong/) | [题解](https://leetcode-cn.com/problems/you-le-yuan-de-mi-gong/solution/you-le-yuan-de-mi-gong-tan-xin-si-lu-by-leetcode-s/) | [C++](LCP/LCP15/cpp-LCP15/) | | |
+| LCP16 | [游乐园的游览计划](https://leetcode-cn.com/problems/you-le-yuan-de-you-lan-ji-hua/) | [题解](https://leetcode-cn.com/problems/you-le-yuan-de-you-lan-ji-hua/solution/you-le-yuan-de-you-lan-ji-hua-tu-lun-jie-xi-by-l-2/) | [C++](LCP/LCP16/cpp-LCP16/) | | |
 | LCP17 | [速算机器人](https://leetcode-cn.com/problems/nGK0Fy/) | [无] | [C++](LCP/LCP17/cpp-LCP17/) | | |
 | LCP18 | [早餐组合](https://leetcode-cn.com/problems/2vYnGI/) | [无] | [C++](LCP/LCP18/cpp-LCP18/) | | |
 | LCP19 | [秋叶收藏集](https://leetcode-cn.com/problems/UlBDOe/) | [题解](https://leetcode-cn.com/problems/UlBDOe/solution/qiu-xie-shou-cang-ji-by-leetcode-solution/) | [C++](LCP/LCP19/cpp-LCP19/) | | |
