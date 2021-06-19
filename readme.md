@@ -1637,5 +1637,6 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | ID | Problem | Official<br/>Solution | C++ | Java | Python |
 | --- | --- | :---: | :---: | :---: | :---: |
 | LCS01 | [下载插件](https://leetcode-cn.com/problems/Ju9Xwi/) | [无] | [C++](LCP/LCS01/cpp-LCS01/) | | |
+| LCS02 | [完成一半题目](https://leetcode-cn.com/problems/WqXACV/) | [无] | [C++](LCP/LCS02/cpp-LCS02/) | | |
 | | | | | | |
 
