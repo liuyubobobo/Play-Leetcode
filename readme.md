@@ -1631,3 +1631,11 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | LCP28 | [采购方案](https://leetcode-cn.com/problems/4xy4Wx/) | [无] | [C++](LCP/LCP28/cpp-LCP28/) | | |
 | LCP29 | [乐团站位](https://leetcode-cn.com/problems/SNJvJP/) | [无] | [C++](LCP/LCP29/cpp-LCP29/) | | |
 | | | | | | |
+
+## 其他
+
+| ID | Problem | Official<br/>Solution | C++ | Java | Python |
+| --- | --- | :---: | :---: | :---: | :---: |
+| LCS01 | [下载插件](https://leetcode-cn.com/problems/Ju9Xwi/) | [无] | [C++](LCP/LCS01/cpp-LCS01/) | | |
+| | | | | | |
+
