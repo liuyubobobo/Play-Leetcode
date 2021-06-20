@@ -1599,6 +1599,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | [无] | [C++](1501-2000/1903-Largest-Odd-Number-in-String/cpp-1903/) | | |
 | 1904 | [The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/) | [无] | [C++](1501-2000/1904-The-Number-of-Full-Rounds-You-Have-Played/cpp-1904/) | | |
 | 1905 | [Count Sub Islands](https://leetcode.com/problems/count-sub-islands/) | [无] | [C++](1501-2000/1905-Count-Sub-Islands/cpp-1905/) | | |
+| 1906 | [Minimum Absolute Difference Queries](https://leetcode.com/problems/minimum-absolute-difference-queries/) | [无]<br/>[缺：二分] | [C++](1501-2000/1906-Minimum-Absolute-Difference-Queries/cpp-1906/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
