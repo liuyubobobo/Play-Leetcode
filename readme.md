@@ -1598,6 +1598,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1902 | [Depth of BST Given Insertion Order](https://leetcode.com/problems/depth-of-bst-given-insertion-order/) | [无] | [C++](1501-2000/1902-Depth-of-BST-Given-Insertion-Order/cpp-1902/) | | |
 | 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | [无] | [C++](1501-2000/1903-Largest-Odd-Number-in-String/cpp-1903/) | | |
 | 1904 | [The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/) | [无] | [C++](1501-2000/1904-The-Number-of-Full-Rounds-You-Have-Played/cpp-1904/) | | |
+| 1905 | [Count Sub Islands](https://leetcode.com/problems/count-sub-islands/) | [无] | [C++](1501-2000/1905-Count-Sub-Islands/cpp-1905/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
