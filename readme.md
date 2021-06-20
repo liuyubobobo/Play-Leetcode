@@ -556,7 +556,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 623 | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | [solution](https://leetcode.com/problems/add-one-row-to-tree/solution/) | [C++](0501-1000/0623-Add-One-Row-to-Tree/cpp-0623/) | | |
 | | | | | | |
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [solution](https://leetcode.com/problems/maximum-product-of-three-numbers/solution/) | [C++](0501-1000/0628-Maximum-Product-of-Three-Numbers/cpp-0628/) | | |
-| | | | | | |
+| 629 | [K-Inverse-Pairs-Array](https://leetcode.com/problems/k-inverse-pairs-array/) | [无] | [C++](0501-1000/0629-K-Inverse-Pairs-Array/cpp-0629/) | | |
 | 630 | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/) | [solution](https://leetcode.com/problems/course-schedule-iii/solution/) | [C++](0501-1000/0630-Course-Schedule-III/cpp-0630/) | | |
 | | | | | | |
 | 632 | [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | [solution](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/solution/) | [C++](0501-1000/0632-Smallest-Range-Covering-Elements-from-K-Lists/cpp-0632/) | | |
