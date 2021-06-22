@@ -917,6 +917,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/) | [无] | [C++](1001-1500/1052-Grumpy-Bookstore-Owner/cpp-1052/) | | |
 | | | | | | |
+| 1059 | [All Paths from Source Lead to Destination](https://leetcode.com/problems/all-paths-from-source-lead-to-destination/) | [solution](https://leetcode.com/problems/all-paths-from-source-lead-to-destination/solution/) | [C++](1001-1500/1059-All-Paths-from-Source-Lead-to-Destination/cpp-1059/) | | |
+| | | | | | |
 | 1062 | [Longest Repeating Substring](https://leetcode.com/problems/longest-repeating-substring/) | [无] | [C++](1001-1500/1062-Longest-Repeating-Substring/cpp-1062/) | | |
 | | | | | | |
 | 1072 | [Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/) | [无] | [C++](1001-1500/1072-Flip-Columns-For-Maximum-Number-of-Equal-Rows/cpp-1072/) | | |
