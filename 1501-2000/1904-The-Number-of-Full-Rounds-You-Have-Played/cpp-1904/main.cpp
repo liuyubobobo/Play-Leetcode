@@ -1,6 +1,7 @@
 /// Source : https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/
 /// Author : liuyubobobo
 /// Time   : 2021-06-19
+/// Updated: 2021-06-23
 
 #include <iostream>
 #include <vector>
@@ -42,7 +43,7 @@ public:
             m1 += 15;
             if(m1 == 60) h1 ++, m1 = 0;
         }
-        return res - 1;
+        return max(res - 1, 0);
     }
 
 private:

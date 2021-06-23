@@ -1,6 +1,7 @@
 /// Source : https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/
 /// Author : liuyubobobo
 /// Time   : 2021-06-20
+/// Updated: 2021-06-23
 
 #include <iostream>
 #include <vector>
@@ -23,7 +24,7 @@ public:
 
         int a = h1 * 4 + m1 / 15 + !!(m1 % 15);
         int b = h2 * 4 + m2 / 15;
-        return b - a;
+        return max(b - a, 0);
     }
 
 private:
@@ -47,6 +48,9 @@ int main() {
     // 95
 
     cout << Solution().numberOfRounds("23:55", "00:00") << endl;
+    // 0
+
+    cout << Solution().numberOfRounds("00:47", "00:57") << endl;
     // 0
 
     return 0;
