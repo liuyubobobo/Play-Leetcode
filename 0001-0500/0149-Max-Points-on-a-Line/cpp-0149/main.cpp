@@ -1,99 +1,82 @@
 /// Source : https://leetcode.com/problems/max-points-on-a-line/
 /// Author : liuyubobobo
 /// Time   : 2017-07-17
+/// Updated: 2021-06-23
 
 #include <iostream>
 #include <vector>
-#include <unordered_map>
+#include <map>
 
 using namespace std;
 
 
-/// Definition for a point.
-struct Point {
-    int x;
-    int y;
-    Point() : x(0), y(0) {}
-    Point(int a, int b) : x(a), y(b) {}
-};
-
-
 /// Using Hash Map
-/// Using string to record the slopes
+/// Using pair directly to record the slopes
 /// Time Complexity: O(n^2)
 /// Space Complexity: O(n)
 class Solution {
 public:
-    int maxPoints(vector<Point>& points) {
+    int maxPoints(vector<vector<int>>& points) {
 
-        if( points.size() <= 1 )
+        if(points.size() <= 1)
             return points.size();
 
         int res = 1;
         for( int i = 0 ; i < points.size() ; i ++ ){
 
-            unordered_map<string, int> record;
+            map<pair<int,int>, int> record;
             int samePoint = 0;
             for( int j = 0 ; j < points.size() ; j ++ ){
-
-                if( points[i].x == points[j].x && points[i].y == points[j].y )
+                if( points[i][0] == points[j][0] && points[i][1] == points[j][1])
                     samePoint ++;
                 else
-                    record[getPairStr(slope(points[j], points[i]))]++;
+                    record[slope(points[j], points[i])]++;
             }
 
             res = max(res, samePoint);    // In case the record is empty and all the points are in the same point.
-            for( unordered_map<string,int>::iterator iter = record.begin() ; iter != record.end() ; iter ++ )
-                res = max( res , iter->second + samePoint );
+            for(map<pair<int,int>,int>::iterator iter = record.begin() ; iter != record.end() ; iter ++)
+                res = max(res, iter->second + samePoint);
         }
 
         return res;
     }
 
 private:
-    pair<int,int> slope( const Point &pa, const Point &pb ){
+    pair<int,int> slope(const vector<int>& pa, const vector<int>& pb){
 
-        int dy = pa.y - pb.y;
-        int dx = pa.x - pb.x;
-        if( dx == 0 )
+        int dy = pa[1] - pb[1];
+        int dx = pa[0] - pb[0];
+        if(dx == 0)
             return make_pair(1,0);
-        if( dy == 0 )
+        if(dy == 0)
             return make_pair(0,1);
 
-        int g = gcd( abs(dy), abs(dx) );
+        int g = gcd(abs(dy), abs(dx));
         dy /= g;
         dx /= g;
-        if( dx < 0 ){
+        if(dx < 0){
             dy = -dy;
             dx = -dx;
         }
-        return make_pair( dy , dx );
+        return make_pair(dy, dx);
     }
 
-    int gcd( int a , int b ){
+    int gcd(int a, int b){
 
-        if( a < b )
-            swap( a , b );
+        if(a < b)
+            swap(a, b);
 
-        if( a % b == 0 )
+        if(a % b == 0)
             return b;
 
-        return gcd( b , a%b );
-    }
-
-    string getPairStr( const pair<int,int> p){
-        return to_string(p.first) + "/" + to_string(p.second);
+        return gcd(b, a%b );
     }
 };
 
+
 int main() {
 
-    vector<Point> pvec1;
-    pvec1.push_back( Point(1, 1) );
-    pvec1.push_back( Point(1, 1) );
-    //pvec1.push_back( Point(2, 3) );
-    //pvec1.push_back( Point(3, 3) );
-
+    vector<vector<int>> pvec1 = {{1, 1}, {1, 1}};
     cout<<Solution().maxPoints(pvec1)<<endl;
 
     return 0;
