@@ -530,6 +530,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 573 | [Squirrel Simulation](https://leetcode.com/problems/squirrel-simulation/) |[solution](https://leetcode.com/problems/squirrel-simulation/solution/) | [C++](0501-1000/0573-Squirrel-Simulation/cpp-0573/) | | |
 | | | | | | |
 | 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [solution](https://leetcode.com/problems/distribute-candies/solution/) | [C++](0501-1000/0575-Distribute-Candies/cpp-0575/) | | |
+| 576 | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | [solution](https://leetcode.com/problems/out-of-boundary-paths/solution/) | [C++](0501-1000/0576-Out-of-Boundary-Paths/cpp-0576/) | | |
 | | | | | | |
 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [solution](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/solution/)<br/>[缺：Stack] | [C++](0501-1000/0581-Shortest-Unsorted-Continuous-Subarray/cpp-0581/) | | |
 | 582 | [Kill Process](https://leetcode.com/problems/kill-process/) | [solution](https://leetcode.com/problems/kill-process/solution/) | [C++](0501-1000/0582-Kill-Process/cpp-0582/) | | |
