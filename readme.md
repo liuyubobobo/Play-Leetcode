@@ -1606,6 +1606,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1904 | [The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/) | [无] | [C++](1501-2000/1904-The-Number-of-Full-Rounds-You-Have-Played/cpp-1904/) | | |
 | 1905 | [Count Sub Islands](https://leetcode.com/problems/count-sub-islands/) | [无] | [C++](1501-2000/1905-Count-Sub-Islands/cpp-1905/) | | |
 | 1906 | [Minimum Absolute Difference Queries](https://leetcode.com/problems/minimum-absolute-difference-queries/) | [无]<br/>[缺：二分] | [C++](1501-2000/1906-Minimum-Absolute-Difference-Queries/cpp-1906/) | | |
+| 1907 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1908 | [Game of Nim](https://leetcode.com/problems/game-of-nim/) | [无]<br/>[缺：dp] | [C++](1501-2000/1908-Game-of-Nim/cpp-1908/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
