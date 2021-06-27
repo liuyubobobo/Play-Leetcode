@@ -1609,6 +1609,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1907 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1908 | [Game of Nim](https://leetcode.com/problems/game-of-nim/) | [无]<br/>[缺：dp] | [C++](1501-2000/1908-Game-of-Nim/cpp-1908/) | | |
 | | | | | | |
+| 1914 | [Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/) | [无] | [C++](1501-2000/1914-Cyclically-Rotating-a-Grid/cpp-1914/) | | |
 | 1915 | [Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/) | [无] | [C++](1501-2000/1915-Number-of-Wonderful-Substrings/cpp-1915/) | | |
 | 1916 | [Count Ways to Build Rooms in an Ant Colony](https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony/) | [无] | [C++](1501-2000/1916-Count-Ways-to-Build-Rooms-in-an-Ant-Colony/cpp-1916/) | | |
 | | | | | | |
