@@ -1611,7 +1611,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1909 | [Remove One Element to Make the Array Strictly Increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/) | [无] | [C++](1501-2000/1909-Remove-One-Element-to-Make-the-Array-Strictly-Increasing/cpp-1909/) | | |
 | 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | [无] | [C++](1501-2000/1910-Remove-All-Occurrences-of-a-Substring/cpp-1910/) | | |
 | 1911 | [Maximum Alternating Subsequence Sum](https://leetcode.com/problems/maximum-alternating-subsequence-sum/) | [无]<br/>[缺：dp] | [C++](1501-2000/1911-Maximum-Alternating-Subsequence-Sum/cpp-1911/) | | |
-| | | | | | |
+| 1912 | [Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/) | [无] | [C++](1501-2000/1912-Design-Movie-Rental-System/cpp-1912/) | | |
 | 1913 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | [无] | [C++](1501-2000/1913-Maximum-Product-Difference-Between-Two-Pairs/cpp-1913/) | | |
 | 1914 | [Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/) | [无] | [C++](1501-2000/1914-Cyclically-Rotating-a-Grid/cpp-1914/) | | |
 | 1915 | [Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/) | [无] | [C++](1501-2000/1915-Number-of-Wonderful-Substrings/cpp-1915/) | | |
