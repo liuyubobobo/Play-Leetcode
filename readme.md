@@ -701,6 +701,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 810 | [Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/) | [solution](https://leetcode.com/problems/chalkboard-xor-game/solution/) | [C++](0501-1000/0810-Chalkboard-XOR-Game/cpp-0810/) | | |
 | 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) | [solution](https://leetcode.com/problems/subdomain-visit-count/solution/) | [C++](0501-1000/0811-Subdomain-Visit-Count/cpp-0811/) | | |
 | | | | | | |
+| 815 | [Bus Routes](https://leetcode.com/problems/bus-routes/) | [solution](https://leetcode.com/problems/bus-routes/solution/) | [C++](0501-1000/0815-Bus-Routes/cpp-0815/) | | |
+| | | | | | |
 | 817 | [Linked List Components](https://leetcode.com/problems/linked-list-components/description/) | [solution](https://leetcode.com/problems/linked-list-components/solution/) | [C++](0501-1000/0817-Linked-List-Components/cpp-0817/) | | |
 | | | | | | |
 | 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/description/) | [solution](https://leetcode.com/problems/most-common-word/solution/) | [C++](0501-1000/0819-Most-Common-Word/cpp-0819/) | | |
