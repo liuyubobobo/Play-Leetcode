@@ -85,7 +85,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [solution](https://leetcode.com/problems/search-in-rotated-sorted-array/solution/) | [C++](0001-0500/0033-Search-in-Rotated-Sorted-Array/cpp-0033/) | | |
 | 034 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [solution](https://leetcode.com/problems/search-for-a-range/solution/) | [C++](0001-0500/0034-Search-for-a-Range/cpp-0034/) | | |
-| | | | | | |
+| 035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [solution](https://leetcode.com/problems/search-insert-position/solution/) | [C++](0001-0500/0035-Search-Insert-Position/cpp-0035/) | | |
 | 036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [solution](https://leetcode.com/problems/valid-sudoku/solution/) | [C++](0001-0500/0036-Valid-Sudoku/cpp-0036/) | | |
 | 037 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | [solution](https://leetcode.com/problems/sudoku-solver/)<br/>[缺：Dancing Links] | [C++](0001-0500/0037-Sudoku-Solver/cpp-0037/) | | |
 | 038 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | [无] | [C++](0001-0500/0038-Count-and-Say/cpp-0038/) | | |
@@ -1622,6 +1622,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1916 | [Count Ways to Build Rooms in an Ant Colony](https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony/) | [无] | [C++](1501-2000/1916-Count-Ways-to-Build-Rooms-in-an-Ant-Colony/cpp-1916/) | | |
 | 1917 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1918 | [Kth Smallest Subarray Sum](https://leetcode.com/problems/kth-smallest-subarray-sum/) | [无] | [C++](1501-2000/1918-Kth-Smallest-Subarray-Sum/cpp-1918/) | | |
+| 1919 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
 
 ## 力扣中文站比赛
