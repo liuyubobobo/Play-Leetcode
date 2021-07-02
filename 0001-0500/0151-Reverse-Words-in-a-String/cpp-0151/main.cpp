@@ -1,6 +1,7 @@
 /// Source : https://leetcode.com/problems/reverse-words-in-a-string/description/
 /// Author : liuyubobobo
 /// Time   : 2018-08-10
+/// Updated: 2021-07-02
 
 #include <iostream>
 #include <vector>
@@ -14,18 +15,20 @@ using namespace std;
 class Solution {
 
 public:
-    void reverseWords(string &s) {
+    string reverseWords(string &s) {
 
         vector<string> vec = split(s);
         if(vec.size() == 0){
             s = "";
-            return;
+            return s;
         }
 
         reverse(vec.begin(), vec.end());
         s = vec[0];
         for(int i = 1; i < vec.size() ; i ++)
             s += " " + vec[i];
+
+        return s;
     }
 
 private:
@@ -59,12 +62,10 @@ private:
 int main() {
 
     string s1 = "the sky is blue";
-    Solution().reverseWords(s1);
-    cout << s1 << endl;
+    cout << Solution().reverseWords(s1) << endl;
 
     string s2 = "";
-    Solution().reverseWords(s2);
-    cout << s2 << endl;
+    cout << Solution().reverseWords(s2) << endl;
 
     return 0;
 }
