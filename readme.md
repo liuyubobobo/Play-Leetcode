@@ -577,7 +577,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/description/) | [solution](https://leetcode.com/problems/find-duplicate-subtrees/solution/) | [C++](0501-1000/0652-Find-Duplicate-Subtrees/cpp-0652/) | | |
 | | | | | | |
-| 658 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | [solution](https://leetcode.com/problems/find-k-closest-elements/solution/) | [C++](0501-1000/0658-Find-K-Closest-Elements/cpp-0658/) | | |
+| 658 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | [solution](https://leetcode.com/problems/find-k-closest-elements/solution/)<br/>[缺：二分] | [C++](0501-1000/0658-Find-K-Closest-Elements/cpp-0658/) | | |
 | 659 | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | [solution](https://leetcode.com/problems/split-array-into-consecutive-subsequences/solution/) | [C++](0501-1000/0659-Split-Array-into-Consecutive-Subsequences/cpp-0659/) | | |
 | | | | | | |
 | 664 | [Strange Printer](https://leetcode.com/problems/strange-printer/) | [solution](https://leetcode.com/problems/strange-printer/) | [C++](0501-1000/0664-Strange-Printer/cpp-0664/) | | |
