@@ -372,6 +372,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 363 | [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) | [无] | [C++](0001-0500/0363-Max-Sum-of-Rectangle-No-Larger-Than-K/cpp-0363/) | | |
 | 364 | [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/) | [无] | [C++](0001-0500/0364-Nested-List-Weight-Sum-II/cpp-0364/) | | |
 | 365 | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) | [题解](https://leetcode-cn.com/problems/water-and-jug-problem/solution/shui-hu-wen-ti-by-leetcode-solution/)<br/>[缺：数学解法] | [C++](0001-0500/0365-Water-and-Jug-Problem/cpp-0365/) | | |
+| 366 | [Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/) | [solution](https://leetcode.com/problems/find-leaves-of-binary-tree/solution/) | [C++](0001-0500/0366-Find-Leaves-of-Binary-Tree/cpp-0366/) | | |
 | | | | | | |
 | 368 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | [solution](https://leetcode.com/problems/largest-divisible-subset/solution/) | [C++](0001-0500/0368-Largest-Divisible-Subset/cpp-0368/) | | |
 | 369 | [Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/) | [solution](https://leetcode.com/problems/plus-one-linked-list/solution/) | [C++](0001-0500/0369-Plus-One-Linked-List/cpp-0369/) | | |
