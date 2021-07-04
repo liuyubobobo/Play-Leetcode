@@ -1624,6 +1624,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1918 | [Kth Smallest Subarray Sum](https://leetcode.com/problems/kth-smallest-subarray-sum/) | [无] | [C++](1501-2000/1918-Kth-Smallest-Subarray-Sum/cpp-1918/) | | |
 | 1919 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [无] | [C++](1501-2000/1920-Build-Array-from-Permutation/cpp-1920/) | | |
+| 1921 | [Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/) | [无] | [C++](1501-2000/1921-Eliminate-Maximum-Number-of-Monsters/cpp-1921/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
