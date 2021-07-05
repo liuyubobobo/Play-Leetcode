@@ -1626,6 +1626,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [无] | [C++](1501-2000/1920-Build-Array-from-Permutation/cpp-1920/) | | |
 | 1921 | [Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/) | [无] | [C++](1501-2000/1921-Eliminate-Maximum-Number-of-Monsters/cpp-1921/) | | |
 | 1922 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | [无] | [C++](1501-2000/1922-Count-Good-Numbers/cpp-1922/) | | |
+| 1923 | [Longest Common Subpath](https://leetcode.com/problems/longest-common-subpath/) | [无]<br/>[缺：后缀树组+LCP<br/>滚动哈希两次碰撞] | [C++](1501-2000/1923-Longest-Common-Subpath/cpp-1923/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
