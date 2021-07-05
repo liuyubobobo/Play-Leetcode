@@ -637,7 +637,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 723 | [Candy Crush](https://leetcode.com/problems/candy-crush/description/) | [solution](https://leetcode.com/problems/candy-crush/solution/) | [C++](0501-1000/0723-Candy-Crush/cpp-0723/) | | |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | [solution](https://leetcode.com/problems/find-pivot-index/solution/) | [C++](0501-1000/0724-Find-Pivot-Index/cpp-0724/) | | |
 | 725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/) | [solution](https://leetcode.com/problems/split-linked-list-in-parts/solution/) | [C++](0501-1000/0725-Split-Linked-List-in-Parts/cpp-0725/) | | |
-| | | | | | |
+| 726 | [Number of Atoms](https://leetcode.com/problems/number-of-atoms/) | [C++](0501-1000/0726-Number-of-Atoms/cpp-0726/) | | | |
 | 727 | [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/description/) | [solution](https://leetcode.com/problems/minimum-window-subsequence/solution/) | [C++](0501-1000/cpp-Minimum-Window-Subsequence/cpp-0727/) | | |
 | 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) | [solution](https://leetcode.com/problems/self-dividing-numbers/solution/) | [C++](0501-1000/0728-Self-Dividing-Numbers/cpp-0728/) | | |
 | 729 | [My Calendar I](https://leetcode.com/problems/my-calendar-i/description/) | [solution](https://leetcode.com/problems/my-calendar-i/solution/) | [C++](0501-1000/0729-My-Calendar-I/cpp-0729/) | | |
