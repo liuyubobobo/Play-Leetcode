@@ -785,7 +785,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 909 | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/description/) | [solution](https://leetcode.com/problems/snakes-and-ladders/solution/) | [C++](0501-1000/0909-Snakes-and-Ladders/cpp-0909/) | | |
 | 910 | [Smallest Range II](https://leetcode.com/problems/smallest-range-ii/description/) | [solution](https://leetcode.com/problems/smallest-range-ii/solution/) | [C++](0501-1000/0910-Smallest-Range-II/cpp-0910/) | | |
 | 911 | [Online Election](https://leetcode.com/problems/online-election/description/) | [solution](https://leetcode.com/problems/online-election/solution/) | [C++](0501-1000/0911-Online-Election/cpp-0911/) | | |
-| | | | | | |
+| 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [无] | [C++](0501-1000/0912-Sort-an-Array/cpp-0912/) | | |
 | 913 | [Cat and Mouse Game](https://leetcode.com/problems/cat-and-mouse/) | [solution](https://leetcode.com/problems/cat-and-mouse/solution/)<br/>[缺：DFS拓扑排序；DP] | [C++](0501-1000/0913-Cat-and-Mouse-Game/cpp-0913/) | | |
 | 914 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/description/) | [solution](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/solution/) | [C++](0501-1000/0914-X-of-a-Kind-in-a-Deck-of-Cards/cpp-0914/) | | |
 | 915 | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/description/) | [solution](https://leetcode.com/problems/partition-array-into-disjoint-intervals/solution/) | [C++](0501-1000/0915-Partition-Array-into-Disjoint-Intervals/cpp-0915/) | | |
