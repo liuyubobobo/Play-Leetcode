@@ -299,7 +299,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 267 | [Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/) | [solution](https://leetcode.com/problems/palindrome-permutation-ii/solution/) | [C++](0001-0500/0267-Palindrome-Permutation-II/cpp-0267/) | | |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [solution](https://leetcode.com/problems/missing-number/solution/) | [C++](0001-0500/0268-Missing-Number/cpp-0268/) | | |
 | | | | | | |
-| 274 | [H-Index](https://leetcode.com/problems/h-index/) | [solution](https://leetcode.com/problems/h-index/solution/) | [C++](0001-0500/0274-H-Index/) | | |
+| 274 | [H-Index](https://leetcode.com/problems/h-index/) | [solution](https://leetcode.com/problems/h-index/solution/)<br/>[缺：非二分] | [C++](0001-0500/0274-H-Index/) | | |
 | | | | | | |
 | 277 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | [solution](https://leetcode.com/problems/find-the-celebrity/solution/) <br/> [缺：O(n) 解法] | [C++](0001-0500/0277-Find-the-Celebrity/cpp-0277/) | | |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [solution](https://leetcode.com/problems/first-bad-version/solution/) | [C++](0001-0500/0278-First-Bad-Version/cpp-0278/) | | |
@@ -569,6 +569,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | [C++](0501-1000/0633-Sum-of-Square-Numbers/cpp-0633/) | | | |
 | | | | | | |
 | 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | [solution](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | [C++](0501-1000/0637-Average-of-Levels-in-Binary-Tree/cpp-0637/) | | |
+| | | | | | |
+| 639 | [Decode Ways II](https://leetcode.com/problems/decode-ways-ii/) | [solution](https://leetcode.com/problems/decode-ways-ii/solution/)<br/>[缺：DP] | [C++](0501-1000/0639-Decode-Ways-II/cpp-0639/) | | |
 | | | | | | |
 | 642 | [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) | [无] | [C++](0501-1000/0642-Design-Search-Autocomplete-System/cpp-0642/) | | |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [solution](https://leetcode.com/problems/maximum-average-subarray-i/solution/) | [C++](0501-1000/0643-Maximum-Average-Subarray-I/cpp-0643/) | | |
