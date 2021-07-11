@@ -1635,6 +1635,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1923 | [Longest Common Subpath](https://leetcode.com/problems/longest-common-subpath/) | [无]<br/>[缺：后缀树组+LCP<br/>滚动哈希两次碰撞] | [C++](1501-2000/1923-Longest-Common-Subpath/cpp-1923/) | | |
 | | | | | | |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [无] | [C++](1501-2000/1929-Concatenation-of-Array/cpp-1929/) | | |
+| 1930 | [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | [无] | [C++](1501-2000/1930-Unique-Length-3-Palindromic-Subsequences/cpp-1930/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
