@@ -1636,6 +1636,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [无] | [C++](1501-2000/1929-Concatenation-of-Array/cpp-1929/) | | |
 | 1930 | [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | [无] | [C++](1501-2000/1930-Unique-Length-3-Palindromic-Subsequences/cpp-1930/) | | |
+| 1931 | [Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/) | [无] | [C++](1501-2000/1931-Painting-a-Grid-With-Three-Different-Colors/cpp-1931/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
