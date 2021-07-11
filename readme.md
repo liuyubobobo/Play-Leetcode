@@ -300,6 +300,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [solution](https://leetcode.com/problems/missing-number/solution/) | [C++](0001-0500/0268-Missing-Number/cpp-0268/) | | |
 | | | | | | |
 | 274 | [H-Index](https://leetcode.com/problems/h-index/) | [solution](https://leetcode.com/problems/h-index/solution/)<br/>[缺：非二分] | [C++](0001-0500/0274-H-Index/) | | |
+| 275 | [H-Index II](https://leetcode.com/problems/h-index-ii/) | [solution](https://leetcode.com/problems/h-index-ii/solution/) | [C++](0001-0500/0275-H-Index-II/) | | |
 | | | | | | |
 | 277 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | [solution](https://leetcode.com/problems/find-the-celebrity/solution/) <br/> [缺：O(n) 解法] | [C++](0001-0500/0277-Find-the-Celebrity/cpp-0277/) | | |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [solution](https://leetcode.com/problems/first-bad-version/solution/) | [C++](0001-0500/0278-First-Bad-Version/cpp-0278/) | | |
