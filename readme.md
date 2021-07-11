@@ -1635,6 +1635,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1923 | [Longest Common Subpath](https://leetcode.com/problems/longest-common-subpath/) | [无]<br/>[缺：后缀树组+LCP<br/>滚动哈希两次碰撞] | [C++](1501-2000/1923-Longest-Common-Subpath/cpp-1923/) | | |
 | | | | | | |
 | 1925 | [Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/) | [无] | [C++](1501-2000/1925-Count-Square-Sum-Triples/cpp-1925/) | | |
+| 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | [无] | [C++](1501-2000/1926-Nearest-Exit-from-Entrance-in-Maze/cpp-1926/) | | |
 | | | | | | |
 | 1928 | [Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/) | [无] | [C++](1501-2000/1928-Minimum-Cost-to-Reach-Destination-in-Time/cpp-1928/) | | |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [无] | [C++](1501-2000/1929-Concatenation-of-Array/cpp-1929/) | | |
