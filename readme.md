@@ -1634,7 +1634,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1921 | [Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/) | [无] | [C++](1501-2000/1921-Eliminate-Maximum-Number-of-Monsters/cpp-1921/) | | |
 | 1922 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | [无] | [C++](1501-2000/1922-Count-Good-Numbers/cpp-1922/) | | |
 | 1923 | [Longest Common Subpath](https://leetcode.com/problems/longest-common-subpath/) | [无]<br/>[缺：后缀树组+LCP<br/>滚动哈希两次碰撞] | [C++](1501-2000/1923-Longest-Common-Subpath/cpp-1923/) | | |
-| | | | | | |
+| 1924 | [Erect the Fence II](https://leetcode.com/problems/erect-the-fence-ii/) | [无] | [C++](1501-2000/1924-Erect-the-Fence-II/cpp-1924/)  | | |
 | 1925 | [Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/) | [无] | [C++](1501-2000/1925-Count-Square-Sum-Triples/cpp-1925/) | | |
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | [无] | [C++](1501-2000/1926-Nearest-Exit-from-Entrance-in-Maze/cpp-1926/) | | |
 | 1927 | [Sum Game](https://leetcode.com/problems/sum-game/) | [无] | [C++](1501-2000/1927-Sum-Game/cpp-1927/) | | |
