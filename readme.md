@@ -1637,7 +1637,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1925 | [Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/) | [无] | [C++](1501-2000/1925-Count-Square-Sum-Triples/cpp-1925/) | | |
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | [无] | [C++](1501-2000/1926-Nearest-Exit-from-Entrance-in-Maze/cpp-1926/) | | |
-| | | | | | |
+| 1927 | [Sum Game](https://leetcode.com/problems/sum-game/) | [无] | [C++](1501-2000/1927-Sum-Game/cpp-1927/) | | |
 | 1928 | [Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/) | [无] | [C++](1501-2000/1928-Minimum-Cost-to-Reach-Destination-in-Time/cpp-1928/) | | |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [无] | [C++](1501-2000/1929-Concatenation-of-Array/cpp-1929/) | | |
 | 1930 | [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | [无] | [C++](1501-2000/1930-Unique-Length-3-Palindromic-Subsequences/cpp-1930/) | | |
