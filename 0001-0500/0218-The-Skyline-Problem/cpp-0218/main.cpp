@@ -95,7 +95,7 @@ private:
 
 class Solution {
 public:
-    vector<pair<int, int>> getSkyline(vector<vector<int>>& buildings) {
+    vector<vector<int>> getSkyline(vector<vector<int>>& buildings) {
 
         // Coordinate compression
         set<int> unique_points;
@@ -118,7 +118,7 @@ public:
             stree.add(indexes[info[0]], indexes[info[1]-1], info[2]);
 
         // get results
-        vector<pair<int, int>> res;
+        vector<vector<int>> res;
         unique_points.clear();
         for(const vector<int>& info: buildings){
             unique_points.insert(info[0]);
@@ -129,7 +129,7 @@ public:
         for(int p: unique_points){
             int h = stree.query(indexes[p]);
             if(h != last)
-                res.push_back(make_pair(p, h));
+                res.push_back({p, h});
             last = h;
         }
 
