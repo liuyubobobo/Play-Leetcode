@@ -556,6 +556,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 609 | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) | [solution](https://leetcode.com/problems/find-duplicate-file-in-system/solution/) | [C++](0501-1000/0609-Find-Duplicate-File-in-System/cpp-0609/) | | |
 | | | | | | |
+| 611 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [solution](https://leetcode.com/problems/valid-triangle-number/solution/) | [C++](0501-1000/0611-Valid-Triangle-Number/cpp-0611/) | | |
+| | | | | | |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [C++](0501-1000/0617-Merge-Two-Binary-Trees/cpp-0617/) | | | |
 | | | | | | |
 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [solution](https://leetcode.com/problems/task-scheduler/solution/) | [C++](0501-1000/0621-Task-Scheduler/cpp-0621/) | | |
