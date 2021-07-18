@@ -1645,7 +1645,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1930 | [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | [无] | [C++](1501-2000/1930-Unique-Length-3-Palindromic-Subsequences/cpp-1930/) | | |
 | 1931 | [Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/) | [无] | [C++](1501-2000/1931-Painting-a-Grid-With-Three-Different-Colors/cpp-1931/) | | |
 | 1932 | [Merge BSTs to Create Single BST](https://leetcode.com/problems/merge-bsts-to-create-single-bst/) | [无] | [C++](1501-2000/1932-Merge-BSTs-to-Create-Single-BST/cpp-1932/) | | |
-| | | | | | |
+| 1933 | [Check if String Is Decomposable Into Value-Equal Substrings](https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings/) | [无] | [C++](1501-2000/1933-Check-if-String-Is-Decomposable-Into-Value-Equal-Substrings/cpp-1933/) | | |
+| 1934 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1935 | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) | [无] | [C++](1501-2000/1935-Maximum-Number-of-Words-You-Can-Type/cpp-1935/) | | |
 | 1936 | [Add Minimum Number of Rungs](https://leetcode.com/problems/add-minimum-number-of-rungs/) | [无] | [C++](1501-2000/1936-Add-Minimum-Number-of-Rungs/cpp-1936/) | | |
 | 1937 | [Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/) | [无] | [C++](1501-2000/1937-Maximum-Number-of-Points-with-Cost/cpp-1937/) | | |
