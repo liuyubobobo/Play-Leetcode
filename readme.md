@@ -1646,6 +1646,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1931 | [Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/) | [无] | [C++](1501-2000/1931-Painting-a-Grid-With-Three-Different-Colors/cpp-1931/) | | |
 | 1932 | [Merge BSTs to Create Single BST](https://leetcode.com/problems/merge-bsts-to-create-single-bst/) | [无] | [C++](1501-2000/1932-Merge-BSTs-to-Create-Single-BST/cpp-1932/) | | |
 | | | | | | |
+| 1938 | [Maximum Genetic Difference Query](https://leetcode.com/problems/maximum-genetic-difference-query/) | [无] | [C++](1501-2000/1938-Maximum-Genetic-Difference-Query/cpp-1938/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
