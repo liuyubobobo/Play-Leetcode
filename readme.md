@@ -298,6 +298,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | [solution](https://leetcode.com/problems/palindrome-permutation/solution/) | [C++](0001-0500/0266-Palindrome-Permutation/cpp-0266/) | | |
 | 267 | [Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/) | [solution](https://leetcode.com/problems/palindrome-permutation-ii/solution/) | [C++](0001-0500/0267-Palindrome-Permutation-II/cpp-0267/) | | |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [solution](https://leetcode.com/problems/missing-number/solution/) | [C++](0001-0500/0268-Missing-Number/cpp-0268/) | | |
+| 269 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | [solution](https://leetcode.com/problems/alien-dictionary/solution/) | [C++](0001-0500/0269-Alien-Dictionary/cpp-0269/) | | |
 | | | | | | |
 | 274 | [H-Index](https://leetcode.com/problems/h-index/) | [solution](https://leetcode.com/problems/h-index/solution/)<br/>[缺：非二分] | [C++](0001-0500/0274-H-Index/) | | |
 | 275 | [H-Index II](https://leetcode.com/problems/h-index-ii/) | [solution](https://leetcode.com/problems/h-index-ii/solution/) | [C++](0001-0500/0275-H-Index-II/) | | |
