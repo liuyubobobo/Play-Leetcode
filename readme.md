@@ -713,6 +713,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 810 | [Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/) | [solution](https://leetcode.com/problems/chalkboard-xor-game/solution/) | [C++](0501-1000/0810-Chalkboard-XOR-Game/cpp-0810/) | | |
 | 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) | [solution](https://leetcode.com/problems/subdomain-visit-count/solution/) | [C++](0501-1000/0811-Subdomain-Visit-Count/cpp-0811/) | | |
 | | | | | | |
+| 814 | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | [solution](https://leetcode.com/problems/binary-tree-pruning/solution/) | [C++](0501-1000/0814-Binary-Tree-Pruning/cpp-0814/) | | |
 | 815 | [Bus Routes](https://leetcode.com/problems/bus-routes/) | [solution](https://leetcode.com/problems/bus-routes/solution/) | [C++](0501-1000/0815-Bus-Routes/cpp-0815/) | | |
 | | | | | | |
 | 817 | [Linked List Components](https://leetcode.com/problems/linked-list-components/description/) | [solution](https://leetcode.com/problems/linked-list-components/solution/) | [C++](0501-1000/0817-Linked-List-Components/cpp-0817/) | | |
