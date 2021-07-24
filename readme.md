@@ -1658,6 +1658,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1938 | [Maximum Genetic Difference Query](https://leetcode.com/problems/maximum-genetic-difference-query/) | [无] | [C++](1501-2000/1938-Maximum-Genetic-Difference-Query/cpp-1938/) | | |
 | | | | | | |
 | 1941 | [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/) | [无] | [C++](1501-2000/1941-Check-if-All-Characters-Have-Equal-Number-of-Occurrences/cpp-1941/) | | |
+| 1942 | [The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) | [无] | [C++](1501-2000/1942-The-Number-of-the-Smallest-Unoccupied-Chair/cpp-1942/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
