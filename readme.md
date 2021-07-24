@@ -126,7 +126,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 075 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [solution](https://leetcode.com/problems/sort-colors/solution/) | [C++](0001-0500/0075-Sort-Colors/cpp-0075/) | [Java](0001-0500/0075-Sort-Colors/java-0075/src/) | [Python](0001-0500/0075-Sort-Colors/py-0075/) |
 | 076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | [solution](https://leetcode.com/problems/minimum-window-substring/solution/) | [C++](0001-0500/0076-Minimum-Window-Substring/cpp-0076/) | | |
 | 077 | [Combinations](https://leetcode.com/problems/combinations/description/) | [solution](https://leetcode.com/problems/combinations/solution/) | [C++](0001-0500/0077-Combinations/cpp-0077/) | [Java](0001-0500/0077-Combinations/java-0077/src/) | |
-| | | | | | |
+| 078 | [Subsets](https://leetcode.com/problems/subsets/) | [solution](https://leetcode.com/problems/subsets/solution/) | [C++](0001-0500/0078-Subsets/cpp-0078/) | | |
 | 079 | [Word Search](https://leetcode.com/problems/word-search/description/) | [无] | [C++](0001-0500/0079-Word-Search/cpp-0079/) | [Java](0001-0500/0079-Word-Search/java-0079/src/) | |
 | 080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) | [无] | [C++](0001-0500/0080-Remove-Duplicates-from-Sorted-Array-II/cpp-0080/) | | |
 | 081 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [solution](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/solution/) | [C++](0001-0500/0081-Search-in-Rotated-Sorted-Array-II/cpp-0081/) | | |
