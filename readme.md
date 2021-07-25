@@ -1660,6 +1660,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1941 | [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/) | [无] | [C++](1501-2000/1941-Check-if-All-Characters-Have-Equal-Number-of-Occurrences/cpp-1941/) | | |
 | 1942 | [The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) | [无] | [C++](1501-2000/1942-The-Number-of-the-Smallest-Unoccupied-Chair/cpp-1942/) | | |
 | 1943 | [Describe the Painting](https://leetcode.com/problems/describe-the-painting/) | [无] | [C++](1501-2000/1943-Describe-the-Painting/cpp-1943/) | | |
+| 1944 | [Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) | [无] | [C++](1501-2000/1944-Number-of-Visible-People-in-a-Queue/cpp-1944/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
