@@ -1662,7 +1662,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1942 | [The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) | [无] | [C++](1501-2000/1942-The-Number-of-the-Smallest-Unoccupied-Chair/cpp-1942/) | | |
 | 1943 | [Describe the Painting](https://leetcode.com/problems/describe-the-painting/) | [无] | [C++](1501-2000/1943-Describe-the-Painting/cpp-1943/) | | |
 | 1944 | [Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) | [无] | [C++](1501-2000/1944-Number-of-Visible-People-in-a-Queue/cpp-1944/) | | |
-| | | | | | |
+| 1945 | [Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | [无] | [C++](1501-2000/1945-Sum-of-Digits-of-String-After-Convert/cpp-1945/) | | |
 | 1946 | [Largest Number After Mutating Substring](https://leetcode.com/problems/largest-number-after-mutating-substring/) | [无] | [C++](1501-2000/1946-Largest-Number-After-Mutating-Substring/cpp-1946/) | | |
 | 1947 | [Maximum Compatibility Score Sum](https://leetcode.com/problems/maximum-compatibility-score-sum/) | [无] | [C++](1501-2000/1947-Maximum-Compatibility-Score-Sum/cpp-1947/) | | |
 | 1948 | [Delete Duplicate Folders in System](https://leetcode.com/problems/delete-duplicate-folders-in-system/) | [无] | [C++](1501-2000/1948-Delete-Duplicate-Folders-in-System/cpp-1948/) | | |
