@@ -1656,7 +1656,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1936 | [Add Minimum Number of Rungs](https://leetcode.com/problems/add-minimum-number-of-rungs/) | [无] | [C++](1501-2000/1936-Add-Minimum-Number-of-Rungs/cpp-1936/) | | |
 | 1937 | [Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/) | [无] | [C++](1501-2000/1937-Maximum-Number-of-Points-with-Cost/cpp-1937/) | | |
 | 1938 | [Maximum Genetic Difference Query](https://leetcode.com/problems/maximum-genetic-difference-query/) | [无] | [C++](1501-2000/1938-Maximum-Genetic-Difference-Query/cpp-1938/) | | |
-| | | | | | |
+| 1939 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1940 | [Longest Common Subsequence Between Sorted Arrays](https://leetcode.com/problems/longest-common-subsequence-between-sorted-arrays/) | [无] | [C++](1501-2000/1940-Longest-Common-Subsequence-Between-Sorted-Arrays/cpp-1940/) | | |
 | 1941 | [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/) | [无] | [C++](1501-2000/1941-Check-if-All-Characters-Have-Equal-Number-of-Occurrences/cpp-1941/) | | |
 | 1942 | [The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) | [无] | [C++](1501-2000/1942-The-Number-of-the-Smallest-Unoccupied-Chair/cpp-1942/) | | |
 | 1943 | [Describe the Painting](https://leetcode.com/problems/describe-the-painting/) | [无] | [C++](1501-2000/1943-Describe-the-Painting/cpp-1943/) | | |
