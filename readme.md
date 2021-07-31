@@ -1670,6 +1670,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1946 | [Largest Number After Mutating Substring](https://leetcode.com/problems/largest-number-after-mutating-substring/) | [无] | [C++](1501-2000/1946-Largest-Number-After-Mutating-Substring/cpp-1946/) | | |
 | 1947 | [Maximum Compatibility Score Sum](https://leetcode.com/problems/maximum-compatibility-score-sum/) | [无] | [C++](1501-2000/1947-Maximum-Compatibility-Score-Sum/cpp-1947/) | | |
 | 1948 | [Delete Duplicate Folders in System](https://leetcode.com/problems/delete-duplicate-folders-in-system/) | [无] | [C++](1501-2000/1948-Delete-Duplicate-Folders-in-System/cpp-1948/) | | |
+| 1949 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1950 | [Maximum of Minimum Values in All Subarrays](https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/) | [无] | [C++](1501-2000/1950-Maximum-of-Minimum-Values-in-All-Subarrays/cpp-1950/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
