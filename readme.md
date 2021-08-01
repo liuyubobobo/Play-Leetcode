@@ -1676,6 +1676,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1952 | [Three Divisors](https://leetcode.com/problems/three-divisors/) | [无] | [C++](1501-2000/1952-Three-Divisors/cpp-1952/) | | |
 | 1953 | [Maximum Number of Weeks for Which You Can Work](https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work/) | [无] | [C++](1501-2000/1953-Maximum-Number-of-Weeks-for-Which-You-Can-Work/cpp-1953/) | | |
 | 1954 | [Minimum Garden Perimeter to Collect Enough Apples](https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/) | [无] | [C++](1501-2000/1954-Minimum-Garden-Perimeter-to-Collect-Enough-Apples/cpp-1954/) | | |
+| 1955 | [Count Number of Special Subsequences](https://leetcode.com/problems/count-number-of-special-subsequences/) | [无] | [C++](1501-2000/1955-Count-Number-of-Special-Subsequences/cpp-1955/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
