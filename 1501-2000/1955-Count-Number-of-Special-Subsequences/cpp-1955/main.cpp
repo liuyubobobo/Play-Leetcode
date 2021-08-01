@@ -1,9 +1,16 @@
+/// Source : https://leetcode.com/problems/count-number-of-special-subsequences/
+/// Author : liuyubobobo
+/// Time   : 2021-07-31
+
 #include <iostream>
 #include <vector>
 
 using namespace std;
 
 
+/// DP
+/// Time Complexity: O(n)
+/// Space Complexity: O(n)
 class Solution {
 
 private:
@@ -13,36 +20,40 @@ public:
     int countSpecialSubsequences(vector<int>& nums) {
 
         int n = nums.size();
-        vector<vector<long long>> dp(4, vector<long long>(n, -1ll));
-        return dfs(nums, 0, 0, dp, n);
-    }
 
-private:
-    long long dfs(vector<int>& nums, int index, int v, vector<vector<long long>>& dp, int n){
-
-        if(v == 3) return 1ll;
-        if(index == n) return 0ll;
-        if(dp[v][index] != -1ll) return dp[v][index];
-
-        long long res = 0ll;
-        if(nums[index] == v){
-            res = dfs(nums, index + 1, v + 1, dp, n);
-            res += dfs(nums, index + 1, v, dp, n);
-            res %= MOD;
+        vector<vector<long long>> dp(3, vector<long long>(n, 0ll));
+        dp[0][0] = nums[0] == 0;
+        for(int i = 1; i < n; i ++){
+            dp[0][i] = dp[0][i - 1];
+            if(nums[i] == 0)
+                dp[0][i] = (1ll + dp[0][i - 1] * 2ll) % MOD;
         }
-        else{
-            res += dfs(nums, index + 1, v, dp, n);
-//            res %= MOD;
-        }
-        return dp[v][index] = res;
+
+        for(int v = 1; v <= 2; v ++)
+            for(int i = 1; i < n; i ++){
+                dp[v][i] = dp[v][i - 1];
+                if(nums[i] == v)
+                    dp[v][i] = (dp[v - 1][i - 1] + dp[v][i - 1] * 2ll) % MOD;
+            }
+
+        return dp[2][n - 1];
     }
 };
+
 
 int main() {
 
     vector<int> nums1 = {0, 1, 2, 2};
     cout << Solution().countSpecialSubsequences(nums1) << endl;
     // 3
+
+    vector<int> nums2 = {2, 2, 0, 0};
+    cout << Solution().countSpecialSubsequences(nums2) << endl;
+    // 0
+
+    vector<int> nums3 = {0, 1, 2, 0, 1, 2};
+    cout << Solution().countSpecialSubsequences(nums3) << endl;
+    // 7
 
     return 0;
 }
