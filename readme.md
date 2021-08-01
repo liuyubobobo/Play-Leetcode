@@ -1672,6 +1672,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1948 | [Delete Duplicate Folders in System](https://leetcode.com/problems/delete-duplicate-folders-in-system/) | [无] | [C++](1501-2000/1948-Delete-Duplicate-Folders-in-System/cpp-1948/) | | |
 | 1949 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1950 | [Maximum of Minimum Values in All Subarrays](https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/) | [无] | [C++](1501-2000/1950-Maximum-of-Minimum-Values-in-All-Subarrays/cpp-1950/) | | |
+| 1951 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1952 | [Three Divisors](https://leetcode.com/problems/three-divisors/) | [无] | [C++](1501-2000/1952-Three-Divisors/cpp-1952/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
