@@ -1674,6 +1674,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1950 | [Maximum of Minimum Values in All Subarrays](https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/) | [无] | [C++](1501-2000/1950-Maximum-of-Minimum-Values-in-All-Subarrays/cpp-1950/) | | |
 | 1951 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1952 | [Three Divisors](https://leetcode.com/problems/three-divisors/) | [无] | [C++](1501-2000/1952-Three-Divisors/cpp-1952/) | | |
+| 1953 | [Maximum Number of Weeks for Which You Can Work](https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work/) | [无] | [C++](1501-2000/1953-Maximum-Number-of-Weeks-for-Which-You-Can-Work/cpp-1953/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
