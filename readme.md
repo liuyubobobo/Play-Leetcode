@@ -708,6 +708,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/description/) | [solution](https://leetcode.com/problems/champagne-tower/solution/) | [C++](0501-1000/0799-Champagne-Tower/cpp-0799/) | | |
 | 800 | [Similar RGB Color](https://leetcode.com/problems/similar-rgb-color/description/) | [solution](https://leetcode.com/problems/similar-rgb-color/solution/) | [C++](0501-1000/0800-Similar-RGB-Color/cpp-0800/) | | |
 | | | | | | |
+| 802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | [solution](https://leetcode.com/problems/find-eventual-safe-states/solution/) | [C++](0501-1000/0802-Find-Eventual-Safe-States/cpp-0802/) | | |
 | 803 | [Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/) | [无] | [C++](0501-1000/0803-Bricks-Falling-When-Hit/cpp-0803/) | | |
 | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [solution](https://leetcode.com/problems/unique-morse-code-words/solution/) | [C++](0501-1000/0804-Unique-Morse-Code-Words/cpp-0804/) | | |
 | 805 | [Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/description/) | [solution](https://leetcode.com/problems/split-array-with-same-average/solution/) | [C++](0501-1000/0805-Split-Array-With-Same-Average/cpp-0805/) | | |
