@@ -1682,6 +1682,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1954 | [Minimum Garden Perimeter to Collect Enough Apples](https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/) | [无] | [C++](1501-2000/1954-Minimum-Garden-Perimeter-to-Collect-Enough-Apples/cpp-1954/) | | |
 | 1955 | [Count Number of Special Subsequences](https://leetcode.com/problems/count-number-of-special-subsequences/) | [无] | [C++](1501-2000/1955-Count-Number-of-Special-Subsequences/cpp-1955/) | | |
 | | | | | | |
+| 1957 | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [无] | [C++](1501-2000/1957-Delete-Characters-to-Make-Fancy-String/cpp-1957/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
