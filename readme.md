@@ -455,7 +455,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/description/) | [无] | [C++](0001-0500/0454-4Sum-II/cpp-0454/) | [Java](0001-0500/0454-4Sum-II/java-0454/src/) | |
 | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) | [无] | [C++](0001-0500/0455-Assign-Cookies/cpp-0455/) | [Java](0001-0500/0455-Assign-Cookies/java-0455/src/) | |
 | 456 | [132 Pattern](https://leetcode.com/problems/132-pattern/) | [solution](https://leetcode.com/problems/132-pattern/solution/) <br/> [缺：O(n), O(nlogn) 算法] | [C++](0001-0500/0456-132-Pattern/cpp-0456/) | | |
-| | | | | | |
+| 457 | [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/) | [无] | [C++](0001-0500/0457-Circular-Array-Loop/cpp-0457/) | | |
 | 458 | [Poor Pigs](https://leetcode.com/problems/poor-pigs/) | [solution](https://leetcode.com/problems/poor-pigs/solution/) | [C++](0001-0500/0458-Poor-Pigs/) | | |
 | | | | | | |
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [solution](https://leetcode.com/problems/hamming-distance/solution/) | [C++](0001-0500/0461-Hamming-Distance/cpp-0461/) | | |
