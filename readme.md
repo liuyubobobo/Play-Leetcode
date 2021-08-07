@@ -1683,6 +1683,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1955 | [Count Number of Special Subsequences](https://leetcode.com/problems/count-number-of-special-subsequences/) | [无] | [C++](1501-2000/1955-Count-Number-of-Special-Subsequences/cpp-1955/) | | |
 | | | | | | |
 | 1957 | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [无] | [C++](1501-2000/1957-Delete-Characters-to-Make-Fancy-String/cpp-1957/) | | |
+| 1958 | [Check if Move is Legal](https://leetcode.com/problems/check-if-move-is-legal/) | [无] | [C++](1501-2000/1958-Check-if-Move-is-Legal/cpp-1958/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
