@@ -31,7 +31,7 @@ public:
 };
 
 
-void printArr(const vector<int>& vec){
+void print_arr(const vector<int>& vec){
     for(int e: vec)
         cout << e << " ";
     cout << endl;
@@ -41,11 +41,11 @@ int main() {
 
     vector<int> vec1 = {2, 2, 2, 1, 1, 0};
     Solution().sortColors(vec1);
-    printArr(vec1);
+    print_arr(vec1);
 
     vector<int> vec2 = {2};
     Solution().sortColors(vec2);
-    printArr(vec2);
+    print_arr(vec2);
 
     return 0;
 }
