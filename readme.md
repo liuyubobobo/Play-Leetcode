@@ -1681,7 +1681,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1953 | [Maximum Number of Weeks for Which You Can Work](https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work/) | [无] | [C++](1501-2000/1953-Maximum-Number-of-Weeks-for-Which-You-Can-Work/cpp-1953/) | | |
 | 1954 | [Minimum Garden Perimeter to Collect Enough Apples](https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/) | [无] | [C++](1501-2000/1954-Minimum-Garden-Perimeter-to-Collect-Enough-Apples/cpp-1954/) | | |
 | 1955 | [Count Number of Special Subsequences](https://leetcode.com/problems/count-number-of-special-subsequences/) | [无] | [C++](1501-2000/1955-Count-Number-of-Special-Subsequences/cpp-1955/) | | |
-| | | | | | |
+| 1956 | [Minimum Time For K Virus Variants to Spread](https://leetcode.com/problems/minimum-time-for-k-virus-variants-to-spread/) | [无] | [C++](1501-2000/1956-Minimum-Time-For-K-Virus-Variants-to-Spread/cpp-1956/) | | |
 | 1957 | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [无] | [C++](1501-2000/1957-Delete-Characters-to-Make-Fancy-String/cpp-1957/) | | |
 | 1958 | [Check if Move is Legal](https://leetcode.com/problems/check-if-move-is-legal/) | [无] | [C++](1501-2000/1958-Check-if-Move-is-Legal/cpp-1958/) | | |
 | 1959 | [Minimum Total Space Wasted With K Resizing Operations](https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations/) | [无] | [C++](1501-2000/1959-Minimum-Total-Space-Wasted-With-K-Resizing-Operations/cpp-1959/) | | |
