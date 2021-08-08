@@ -1684,6 +1684,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1957 | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [无] | [C++](1501-2000/1957-Delete-Characters-to-Make-Fancy-String/cpp-1957/) | | |
 | 1958 | [Check if Move is Legal](https://leetcode.com/problems/check-if-move-is-legal/) | [无] | [C++](1501-2000/1958-Check-if-Move-is-Legal/cpp-1958/) | | |
+| 1959 | [Minimum Total Space Wasted With K Resizing Operations](https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations/) | [无] | [C++](1501-2000/1959-Minimum-Total-Space-Wasted-With-K-Resizing-Operations/cpp-1959/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
