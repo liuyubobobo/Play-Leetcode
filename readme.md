@@ -333,6 +333,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | [solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/solution/) | [C++](0001-0500/0309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown/cpp-0309/) | | |
 | | | | | | |
 | 312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [solution](https://leetcode.com/problems/burst-balloons/solution/) [题解](https://leetcode-cn.com/problems/burst-balloons/solution/chuo-qi-qiu-by-leetcode/) | [C++](0001-0500/0312-Burst-Balloons/cpp-0312/) | | |
+| 313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [无] | [C++](0001-0500/0313-Super-Ugly-Number/cpp-0313/) | | |
 | | | | | | |
 | 315 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [无] | [C++](0001-0500/0315-Count-of-Smaller-Numbers-After-Self/cpp-0315/) | | |
 | 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [solution](https://leetcode.com/problems/remove-duplicate-letters/solution/) | [C++](0001-0500/0316-Remove-Duplicate-Letters/cpp-0316/) | | |
