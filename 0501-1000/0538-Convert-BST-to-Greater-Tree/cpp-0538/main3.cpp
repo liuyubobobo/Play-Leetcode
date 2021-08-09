@@ -1,6 +1,5 @@
 /// Source : https://leetcode.com/problems/convert-bst-to-greater-tree/
 /// Author : liuyubobobo
-/// Time   : 2021-02-09
 /// Updated: 2021-08-09
 
 #include <iostream>
@@ -23,23 +22,28 @@ struct TreeNode {
 };
 
 class Solution {
+
+private:
+    int sum = 0;
+
 public:
     TreeNode* convertBST(TreeNode* root) {
 
-        dfs(root, 0);
-        return root;
+        sum = 0;
+        return dfs(root);
     }
 
 private:
-    int dfs(TreeNode* node, int t){
+    TreeNode* dfs(TreeNode* node){
 
-        if(!node) return 0;
+        if(!node) return node;
 
-        int rsum = dfs(node->right, t);
-        int lsum = dfs(node->left, node->val + rsum + t);
-        int ret = lsum + rsum + node->val;
-        node->val += rsum + t;
-        return ret;
+        node->right = dfs(node->right);
+        sum += node->val;
+        node->val = sum;
+        node->left = dfs(node->left);
+
+        return node;
     }
 };
 
