@@ -302,7 +302,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 274 | [H-Index](https://leetcode.com/problems/h-index/) | [solution](https://leetcode.com/problems/h-index/solution/)<br/>[缺：非二分] | [C++](0001-0500/0274-H-Index/) | | |
 | 275 | [H-Index II](https://leetcode.com/problems/h-index-ii/) | [solution](https://leetcode.com/problems/h-index-ii/solution/) | [C++](0001-0500/0275-H-Index-II/) | | |
-| | | | | | |
+| 276 | [Paint Fence](https://leetcode.com/problems/paint-fence/) | [solution](https://leetcode.com/problems/paint-fence/solution/) | [C++](0001-0500/0276-Paint-Fence/) | | |
 | 277 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | [solution](https://leetcode.com/problems/find-the-celebrity/solution/) <br/> [缺：O(n) 解法] | [C++](0001-0500/0277-Find-the-Celebrity/cpp-0277/) | | |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [solution](https://leetcode.com/problems/first-bad-version/solution/) | [C++](0001-0500/0278-First-Bad-Version/cpp-0278/) | | |
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) | [无]<br/>四平方和数学解 | [C++](0001-0500/0279-Perfect-Squares/cpp-0279/) | [Java](0001-0500/0279-Perfect-Squares/java-0279/src/) | |
