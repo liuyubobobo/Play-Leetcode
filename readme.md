@@ -1690,6 +1690,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1961 | [Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/) | [无] | [C++](1501-2000/1961-Check-If-String-Is-a-Prefix-of-Array/cpp-1961/) | | |
 | 1962 | [Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/) | [无] | [C++](1501-2000/1962-Remove-Stones-to-Minimize-the-Total/cpp-1962/) | | |
 | 1963 | [Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | [无] | [C++](1501-2000/1963-Minimum-Number-of-Swaps-to-Make-the-String-Balanced/cpp-1963/) | | |
+| 1964 | [Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/) | [无] | [C++](1501-2000/1964-Find-the-Longest-Valid-Obstacle-Course-at-Each-Position/cpp-1964/) | | |
+| 1965 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
 
 ## 力扣中文站比赛
