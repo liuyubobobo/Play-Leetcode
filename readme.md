@@ -1688,6 +1688,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1959 | [Minimum Total Space Wasted With K Resizing Operations](https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations/) | [无] | [C++](1501-2000/1959-Minimum-Total-Space-Wasted-With-K-Resizing-Operations/cpp-1959/) | | |
 | 1960 | [Maximum Product of the Length of Two Palindromic Substrings](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/) | [无] | [C++](1501-2000/1960-Maximum-Product-of-the-Length-of-Two-Palindromic-Substrings/cpp-1960/) | | |
 | 1961 | [Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/) | [无] | [C++](1501-2000/1961-Check-If-String-Is-a-Prefix-of-Array/cpp-1961/) | | |
+| 1962 | [Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/) | [无] | [C++](1501-2000/1962-Remove-Stones-to-Minimize-the-Total/cpp-1962/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
