@@ -1689,6 +1689,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1960 | [Maximum Product of the Length of Two Palindromic Substrings](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/) | [无] | [C++](1501-2000/1960-Maximum-Product-of-the-Length-of-Two-Palindromic-Substrings/cpp-1960/) | | |
 | 1961 | [Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/) | [无] | [C++](1501-2000/1961-Check-If-String-Is-a-Prefix-of-Array/cpp-1961/) | | |
 | 1962 | [Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/) | [无] | [C++](1501-2000/1962-Remove-Stones-to-Minimize-the-Total/cpp-1962/) | | |
+| 1963 | [Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | [无] | [C++](1501-2000/1963-Minimum-Number-of-Swaps-to-Make-the-String-Balanced/cpp-1963/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
