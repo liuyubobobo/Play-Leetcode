@@ -1693,6 +1693,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1964 | [Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/) | [无] | [C++](1501-2000/1964-Find-the-Longest-Valid-Obstacle-Course-at-Each-Position/cpp-1964/) | | |
 | 1965 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
+| 1970 | [Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/) | [无] | [C++](1501-2000/1970-Last-Day-Where-You-Can-Still-Cross/cpp-1970/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
