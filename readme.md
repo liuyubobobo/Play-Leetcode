@@ -518,6 +518,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/description/) | [solution](https://leetcode.com/problems/01-matrix/solution/) | [C++](0501-1000/0542-01-Matrix/cpp-0542/) | | |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [solution](https://leetcode.com/problems/diameter-of-binary-tree/solution/) | [C++](0501-1000/0543-Diameter-of-Binary-Tree/cpp-0543/) | | |
 | | | | | | |
+| 546 | [Remove Boxes](https://leetcode.com/problems/remove-boxes/) | [solution](https://leetcode.com/problems/remove-boxes/solution/) | [C++](0501-1000/0546-Remove-Boxes/cpp-0546/) | | |
 | 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [solution](https://leetcode.com/problems/number-of-provinces/solution/) | [C++](0501-1000/0547-Number-of-Provinces/cpp-0547/) | | |
 | | | | | | |
 | 549 | [Binary Tree Longest Consecutive Sequence II](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/) | [solution](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/solution/) | [C++](0501-1000/0549-Binary-Tree-Longest-Consecutive-Sequence-II/cpp-0549/) | | |
