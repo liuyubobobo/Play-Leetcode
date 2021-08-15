@@ -628,7 +628,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/) | | [C++](0501-1000/0697-Degree-of-an-Array/cpp-0697/) | | |
 | 698 | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/) | | [C++](0501-1000/0698-Partition-to-K-Equal-Sum-Subsets/cpp-0698/) | [Java](0501-1000/0698-Partition-to-K-Equal-Sum-Subsets/java-0698/src/) | |
 | 699 | [Falling Squares](https://leetcode.com/contest/leetcode-weekly-contest-54/problems/falling-squares/) | [缺：线段树；块状链表] | [C++](0501-1000/0699-Falling-Squares/cpp-0699/) | | |
-| | | | | | |
+| 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [solution](https://leetcode.com/problems/search-in-a-binary-search-tree/solution/) | [C++](0501-1000/0700-Search-in-a-Binary-Search-Tree/cpp-0700/) | | |
 | 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [solution](https://leetcode.com/problems/insert-into-a-binary-search-tree/solution/) | [C++](0501-1000/0701-Insert-into-a-Binary-Search-Tree/cpp-0701/) | | |
 | | | | | | |
 | 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [无] | [C++](0501-1000/0703-Kth-Largest-Element-in-a-Stream/cpp-0703/) | | |
