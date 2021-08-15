@@ -1692,7 +1692,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1963 | [Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | [无] | [C++](1501-2000/1963-Minimum-Number-of-Swaps-to-Make-the-String-Balanced/cpp-1963/) | | |
 | 1964 | [Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/) | [无] | [C++](1501-2000/1964-Find-the-Longest-Valid-Obstacle-Course-at-Each-Position/cpp-1964/) | | |
 | 1965 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
-| | | | | | |
+| 1966 | [Binary Searchable Numbers in an Unsorted Array](https://leetcode.com/problems/binary-searchable-numbers-in-an-unsorted-array/) | [无] | [C++](1501-2000/1966-Binary-Searchable-Numbers-in-an-Unsorted-Array/cpp-1966/) | | |
 | 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | [无] | [C++](1501-2000/1967-Number-of-Strings-That-Appear-as-Substrings-in-Word/cpp-1967/) | | |
 | 1968 | [Array With Elements Not Equal to Average of Neighbors](https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/) | [无] | [C++](1501-2000/1968-Array-With-Elements-Not-Equal-to-Average-of-Neighbors/cpp-1968/) | | |
 | 1969 | [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/) | [无] | [C++](1501-2000/1969-Minimum-Non-Zero-Product-of-the-Array-Elements/cpp-1969/) | | |
