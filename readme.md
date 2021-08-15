@@ -1693,6 +1693,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1964 | [Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/) | [无] | [C++](1501-2000/1964-Find-the-Longest-Valid-Obstacle-Course-at-Each-Position/cpp-1964/) | | |
 | 1965 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
+| 1968 | [Array With Elements Not Equal to Average of Neighbors](https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/) | [无] | [C++](1501-2000/1968-Array-With-Elements-Not-Equal-to-Average-of-Neighbors/cpp-1968/) | | |
 | 1969 | [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/) | [无] | [C++](1501-2000/1969-Minimum-Non-Zero-Product-of-the-Array-Elements/cpp-1969/) | | |
 | 1970 | [Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/) | [无] | [C++](1501-2000/1970-Last-Day-Where-You-Can-Still-Cross/cpp-1970/) | | |
 | | | | | | |
