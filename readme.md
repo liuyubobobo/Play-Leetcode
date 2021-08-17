@@ -523,6 +523,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 549 | [Binary Tree Longest Consecutive Sequence II](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/) | [solution](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/solution/) | [C++](0501-1000/0549-Binary-Tree-Longest-Consecutive-Sequence-II/cpp-0549/) | | |
 | | | | | | |
+| 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [无] | [C++](0501-1000/0551-Student-Attendance-Record-I/cpp-0551/) | | |
+| | | | | | |
 | 554 | [Brick Wall](https://leetcode.com/problems/brick-wall/) | [solution](https://leetcode.com/problems/brick-wall/solution/) | [C++](0501-1000/0554-Brick-Wall/cpp-0554/) | | |
 | | | | | | |
 | 556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [solution](https://leetcode.com/problems/next-greater-element-iii/solution/)<br/>[缺：底层实现] | [C++](0501-1000/0556-Next-Greater-Element-III/cpp-0556/) | | |
