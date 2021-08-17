@@ -523,7 +523,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 549 | [Binary Tree Longest Consecutive Sequence II](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/) | [solution](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/solution/) | [C++](0501-1000/0549-Binary-Tree-Longest-Consecutive-Sequence-II/cpp-0549/) | | |
 | | | | | | |
-| 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [无] | [C++](0501-1000/0551-Student-Attendance-Record-I/cpp-0551/) | | |
+| 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [solution](https://leetcode.com/problems/student-attendance-record-i/solution/) | [C++](0501-1000/0551-Student-Attendance-Record-I/cpp-0551/) | | |
+| 552 | [Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/) | [solution](https://leetcode.com/problems/student-attendance-record-ii/solution/) | [C++](0501-1000/0552-Student-Attendance-Record-II/cpp-0552/) | | |
 | | | | | | |
 | 554 | [Brick Wall](https://leetcode.com/problems/brick-wall/) | [solution](https://leetcode.com/problems/brick-wall/solution/) | [C++](0501-1000/0554-Brick-Wall/cpp-0554/) | | |
 | | | | | | |
