@@ -1702,6 +1702,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1969 | [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/) | [无] | [C++](1501-2000/1969-Minimum-Non-Zero-Product-of-the-Array-Elements/cpp-1969/) | | |
 | 1970 | [Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/) | [无] | [C++](1501-2000/1970-Last-Day-Where-You-Can-Still-Cross/cpp-1970/) | | |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [无] | [C++](1501-2000/1971-Find-if-Path-Exists-in-Graph/cpp-1971/) | | |
+| 1972 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1973 | [Count Nodes Equal to Sum of Descendants](https://leetcode.com/problems/count-nodes-equal-to-sum-of-descendants/) | [无] | [C++](1501-2000/1973-Count-Nodes-Equal-to-Sum-of-Descendants/cpp-1973/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
