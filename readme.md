@@ -1704,6 +1704,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [无] | [C++](1501-2000/1971-Find-if-Path-Exists-in-Graph/cpp-1971/) | | |
 | 1972 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1973 | [Count Nodes Equal to Sum of Descendants](https://leetcode.com/problems/count-nodes-equal-to-sum-of-descendants/) | [无] | [C++](1501-2000/1973-Count-Nodes-Equal-to-Sum-of-Descendants/cpp-1973/) | | |
+| 1974 | [Minimum Time to Type Word Using Special Typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/) | [无] | [C++](1501-2000/1974-Minimum-Time-to-Type-Word-Using-Special-Typewriter/cpp-1974/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
