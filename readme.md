@@ -292,6 +292,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 259 | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/description/) | [solution](https://leetcode.com/problems/3sum-smaller/solution/) | [C++](0001-0500/0259-3Sum-Smaller/cpp-0259/) | | |
 | | | | | | |
+| 261 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | [C++](0001-0500/0261-Graph-Valid-Tree/cpp-0261/) | | | |
+| | | | | | |
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [无] | [C++](0001-0500/0263-Ugly-Number/cpp-0263/) | | |
 | 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [solution](https://leetcode.com/problems/ugly-number-ii/solution/) | [C++](0001-0500/0264-Ugly-Number-II/cpp-0264/) | | |
 | 265 | [Paint House II](https://leetcode.com/problems/paint-house-ii/) | [C++](0001-0500/0265-Paint-House-II/cpp-0265/) | | | |
