@@ -1711,6 +1711,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1974 | [Minimum Time to Type Word Using Special Typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/) | [无] | [C++](1501-2000/1974-Minimum-Time-to-Type-Word-Using-Special-Typewriter/cpp-1974/) | | |
 | 1975 | [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/) | [无] | [C++](1501-2000/1975-Maximum-Matrix-Sum/cpp-1975/) | | |
 | 1976 | [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | [无] | [C++](1501-2000/1976-Number-of-Ways-to-Arrive-at-Destination/cpp-1976/) | | |
+| 1977 | [Number of Ways to Separate Numbers](https://leetcode.com/problems/number-of-ways-to-separate-numbers/) | [无] | [C++](1501-2000/1977-Number-of-Ways-to-Separate-Numbers/cpp-1977/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
