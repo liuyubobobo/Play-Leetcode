@@ -1713,7 +1713,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1976 | [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | [无] | [C++](1501-2000/1976-Number-of-Ways-to-Arrive-at-Destination/cpp-1976/) | | |
 | 1977 | [Number of Ways to Separate Numbers](https://leetcode.com/problems/number-of-ways-to-separate-numbers/) | [无] | [C++](1501-2000/1977-Number-of-Ways-to-Separate-Numbers/cpp-1977/) | | |
 | 1978 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
-| 1079 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | [无] | [C++](1501-2000/1979-Number-of-Ways-to-Separate-Numbers/cpp-1979/) | | |
+| 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | [无] | [C++](1501-2000/1979-Number-of-Ways-to-Separate-Numbers/cpp-1979/) | | |
+| 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | [无] | [C++](1501-2000/1980-Find-Unique-Binary-String/cpp-1980/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
