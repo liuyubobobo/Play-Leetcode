@@ -1715,6 +1715,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1978 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | [无] | [C++](1501-2000/1979-Number-of-Ways-to-Separate-Numbers/cpp-1979/) | | |
 | 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | [无] | [C++](1501-2000/1980-Find-Unique-Binary-String/cpp-1980/) | | |
+| 1981 | [Minimize the Difference Between Target and Chosen Elements](https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements/) | [无] | [C++](1501-2000/1981-Minimize-the-Difference-Between-Target-and-Chosen-Elements/cpp-1981/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
