@@ -1,18 +1,29 @@
+/// Source : https://leetcode.com/problems/find-greatest-common-divisor-of-array/
+/// Author : liuyubobobo
+/// Time   : 2021-08-21
+
 #include <iostream>
 #include <vector>
 
 using namespace std;
 
 
+/// GCD
+/// Time Complexity: O(nlogn)
+/// Space Complexity: O(logn)
 class Solution {
 public:
-    int minTimeToVisitAllPoints(vector<vector<int>>& points) {
+    int findGCD(vector<int>& nums) {
 
-        int res = 0, x = points[0][0], y = points[0][1];
-        for(int i = 1; i < points.size(); i ++)
-            res += max(abs(points[i][0] - x), abs(points[i][1] - y)),
-            x = points[i][0], y = points[i][1];
-        return res;
+        sort(nums.begin(), nums.end());
+        return gcd(nums[0], nums.back());
+    }
+
+private:
+    int gcd(int a, int b)
+    {
+        if (a == 0) return b;
+        return gcd(b % a, a);
     }
 };
 
