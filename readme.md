@@ -1719,6 +1719,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | [无] | [C++](1501-2000/1980-Find-Unique-Binary-String/cpp-1980/) | | |
 | 1981 | [Minimize the Difference Between Target and Chosen Elements](https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements/) | [无] | [C++](1501-2000/1981-Minimize-the-Difference-Between-Target-and-Chosen-Elements/cpp-1981/) | | |
 | 1982 | [Find Array Given Subset Sums](https://leetcode.com/problems/find-array-given-subset-sums/) | [无] | [C++](1501-2000/1982-Find-Array-Given-Subset-Sums/cpp-1982/) | | |
+| 1983 | [Widest Pair of Indices With Equal Range Sum](https://leetcode.com/problems/widest-pair-of-indices-with-equal-range-sum/) | [无] | [C++](1501-2000/1983-Widest-Pair-of-Indices-With-Equal-Range-Sum/cpp-1983/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
