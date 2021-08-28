@@ -500,7 +500,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 519 | [Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix/description/) | [solution](https://leetcode.com/problems/random-flip-matrix/solution/) | [C++](0501-1000/0519-Random-Flip-Matrix/cpp-0519/) | | |
 | | | | | | |
 | 521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [solution](https://leetcode.com/problems/longest-uncommon-subsequence-i/solution/) | [C++](0501-1000/0521-Longest-Uncommon-Subsequence-I/cpp-0521/) | | |
-| | | | | | |
+| 522 | [Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | [solution](https://leetcode.com/problems/longest-uncommon-subsequence-ii/solution/) | [C++](0501-1000/0522-Longest-Uncommon-Subsequence-II/cpp-0522/) | | |
 | 523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [无] | [C++](0501-1000/0523-Continuous-Subarray-Sum/cpp-0523/) | | |
 | 524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [solution](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/solution/) | [C++](0501-1000/0524-Longest-Word-in-Dictionary-through-Deleting/cpp-0524/) | | |
 | 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [solution](https://leetcode.com/problems/contiguous-array/solution/) [题解](https://leetcode-cn.com/problems/contiguous-array/solution/lian-xu-shu-zu-by-leetcode/) | [C++](0501-1000/0525-Contiguous-Array/cpp-0525/) | | |
