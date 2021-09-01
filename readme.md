@@ -1722,6 +1722,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1982 | [Find Array Given Subset Sums](https://leetcode.com/problems/find-array-given-subset-sums/) | [无] | [C++](1501-2000/1982-Find-Array-Given-Subset-Sums/cpp-1982/) | | |
 | 1983 | [Widest Pair of Indices With Equal Range Sum](https://leetcode.com/problems/widest-pair-of-indices-with-equal-range-sum/) | [无] | [C++](1501-2000/1983-Widest-Pair-of-Indices-With-Equal-Range-Sum/cpp-1983/) | | |
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | [无] | [C++](1501-2000/1984-Minimum-Difference-Between-Highest-and-Lowest-of-K-Scores/cpp-1984/) | | |
+| 1985 | [Find the Kth Largest Integer in the Array](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/) | [无] | [C++](1501-2000/1985-Find-the-Kth-Largest-Integer-in-the-Array/cpp-1985/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
