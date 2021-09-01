@@ -1724,6 +1724,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | [无] | [C++](1501-2000/1984-Minimum-Difference-Between-Highest-and-Lowest-of-K-Scores/cpp-1984/) | | |
 | 1985 | [Find the Kth Largest Integer in the Array](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/) | [无] | [C++](1501-2000/1985-Find-the-Kth-Largest-Integer-in-the-Array/cpp-1985/) | | |
 | 1986 | [Minimum Number of Work Sessions to Finish the Tasks](https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks/) | [无] | [C++](1501-2000/1986-Minimum-Number-of-Work-Sessions-to-Finish-the-Tasks/cpp-1986/) | | |
+| 1987 | [Number of Unique Good Subsequences](https://leetcode.com/problems/number-of-unique-good-subsequences/) | [无] | [C++](1501-2000/1987-Number-of-Unique-Good-Subsequences/cpp-1987/) | | |
+| 1988 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
 
 ## 力扣中文站比赛
