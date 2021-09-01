@@ -1,6 +1,6 @@
 /// Source : https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
 /// Author : liuyubobobo
-/// Time   : 2021-08-31
+/// Time   : 2021-08-28
 
 #include <iostream>
 #include <vector>
