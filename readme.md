@@ -1730,6 +1730,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1995 | [Count Special Quadruplets](https://leetcode.com/problems/count-special-quadruplets/) | [无] | [C++](1501-2000/1995-Count-Special-Quadruplets/cpp-1995/) | | |
 | 1996 | [The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/) | [无] | [C++](1501-2000/1996-The-Number-of-Weak-Characters-in-the-Game/cpp-1996/) | | |
+| 1997 | [First Day Where You Have Been in All the Rooms](https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/) | [无] | [C++](1501-2000/1997-First-Day-Where-You-Have-Been-in-All-the-Rooms/cpp-1997/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
