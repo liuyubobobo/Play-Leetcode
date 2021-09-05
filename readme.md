@@ -1731,6 +1731,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1990 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1991 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | [无] | [C++](1501-2000/1991-Find-the-Middle-Index-in-Array/cpp-1991/) | | |
 | 1992 | [Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/) | [无] | [C++](1501-2000/1992-Find-All-Groups-of-Farmland/cpp-1992/) | | |
+| 1993 | [Operations on Tree](https://leetcode.com/problems/operations-on-tree/) | [无] | [C++](1501-2000/1993-Operations-on-Tree/cpp-1993/) | | |
 | | | | | | |
 | 1995 | [Count Special Quadruplets](https://leetcode.com/problems/count-special-quadruplets/) | [无] | [C++](1501-2000/1995-Count-Special-Quadruplets/cpp-1995/) | | |
 | 1996 | [The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/) | [无] | [C++](1501-2000/1996-The-Number-of-Weak-Characters-in-the-Game/cpp-1996/) | | |
