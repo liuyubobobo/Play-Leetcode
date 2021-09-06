@@ -454,7 +454,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [solution](https://leetcode.com/problems/delete-node-in-a-bst/solution/) | [C++](0001-0500/0450-Delete-Node-in-a-BST/cpp-0450/) | | |
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/) | [无] | [C++](0001-0500/0451-Sort-Characters-By-Frequency/cpp-0451/) | [Java](0001-0500/0451-Sort-Characters-By-Frequency/java-0451/) | |
-| | | | | | |
+| 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [solution](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/solution/) | [C++](0001-0500/0452-Minimum-Number-of-Arrows-to-Burst-Balloons/cpp-0452/) | | |
 | 453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [solution](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/solution/) | [C++](0001-0500/0453-Minimum-Moves-to-Equal-Array-Elements/cpp-0453/) | | |
 | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/description/) | [无] | [C++](0001-0500/0454-4Sum-II/cpp-0454/) | [Java](0001-0500/0454-4Sum-II/java-0454/src/) | |
 | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) | [无] | [C++](0001-0500/0455-Assign-Cookies/cpp-0455/) | [Java](0001-0500/0455-Assign-Cookies/java-0455/src/) | |
