@@ -757,6 +757,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [solution](https://leetcode.com/problems/backspace-string-compare/solution/) | [C++](0501-1000/0844-Backspace-String-Compare/cpp-0844/) | | |
 | | | | | | |
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [无] | [C++](0501-1000/0847-Shortest-Path-Visiting-All-Nodes/cpp-0847/) | | |
+| 848 | [Shifting Letters](https://leetcode.com/problems/shifting-letters/) | [无] | [C++](0501-1000/0848-Shifting-Letters/cpp-0848/) | | |
 | | | | | | |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [solution](https://leetcode.com/problems/rectangle-area-ii/solution/) | [C++](0501-1000/0850-Rectangle-Area-II/cpp-0850/) | | |
 | | | | | | |
