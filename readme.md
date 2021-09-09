@@ -116,7 +116,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 065 | [Valid Number](https://leetcode.com/problems/valid-number/) | [solution](https://leetcode.com/problems/valid-number/solution/) | [C++](0001-0500/0065-Valid-Number/cpp-0065/) | | |
 | 066 | [Plus One](https://leetcode.com/problems/plus-one/description/) | [无] | [C++](0001-0500/0066-Plus-One/cpp-0066/) | | |
 | 067 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | [无] | [C++](0001-0500/0067-Add-Binary/cpp-0067/) | | |
-| | | | | | |
+| 068 | [Text Justification](https://leetcode.com/problems/text-justification/) | [无] | [C++](0001-0500/0068-Text-Justification/cpp-0068/) | | |
 | 069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)| [无] | [C++](0001-0500/0069-Sqrt-x/cpp-0069/) | | |
 | 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [solution](https://leetcode.com/problems/climbing-stairs/solution/) | [C++](0001-0500/0070-Climbing-Stairs/cpp-0070/) | [Java](0001-0500/0070-Climbing-Stairs/java-0070/src/) | |
 | 071 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [无] | [C++](0001-0500/0071-Simplify-Path/cpp-0071/) | | |
