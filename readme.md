@@ -689,6 +689,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 761 | [Special Binary String](https://leetcode.com/problems/special-binary-string/) | [solution](https://leetcode.com/problems/special-binary-string/solution/) |  [C++](0501-1000/0761-Special-Binary-String/cpp-0761/) | | |
 | | | | | | |
+| 764 | [Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/) | [C++](0501-1000/0764-Largest-Plus-Sign/cpp-0764/) | | | |
 | 765 | [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/description/) | [solution](https://leetcode.com/problems/couples-holding-hands/solution/) | [C++](0501-1000/0765-Couples-Holding-Hands/cpp-0765/) | | |
 | 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) | [solution](https://leetcode.com/problems/toeplitz-matrix/solution/) | [C++](0501-1000/0766-Toeplitz-Matrix/cpp-0766/) | | |
 | | | | | | |
