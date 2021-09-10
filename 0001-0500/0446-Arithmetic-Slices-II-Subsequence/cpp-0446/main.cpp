@@ -4,7 +4,7 @@
 
 #include <iostream>
 #include <vector>
-#include <unordered_map>
+#include <map>
 
 using namespace std;
 
@@ -19,11 +19,14 @@ public:
         int n = A.size();
         if(n < 3) return 0;
 
-        vector<unordered_map<long long, int>> dp(n);
+        vector<map<long long, int>> dp(n);
         for(int i = 1; i < n; i ++){
             for(int j = i - 1; j >= 0; j --){
                 long long d = (long long)A[i] - A[j];
-                dp[i][d] += dp[j][d] + 1;
+                if(dp[j].count(d))
+                    dp[i][d] += dp[j][d] + 1;
+                else
+                    dp[i][d] += 1;
 //                cout << i << " " << d << " : " << dp[i][d] << endl;
             }
         }
