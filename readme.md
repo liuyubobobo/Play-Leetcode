@@ -1777,6 +1777,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | LCP29 | [乐团站位](https://leetcode-cn.com/problems/SNJvJP/) | [无] | [C++](LC/LCP29/cpp-LCP29/) | | |
 | | | | | | |
 | LCP39 | [无人机方阵](https://leetcode-cn.com/problems/0jQkd0/) | [无] | [C++](LC/LCP39/cpp-LCP39/) | | |
+| LCP40 | [心算挑战](https://leetcode-cn.com/problems/uOAnQW/) | [无] | [C++](LC/LCP40/cpp-LCP40/) | | |
 | | | | | | |
 
 ## 其他
