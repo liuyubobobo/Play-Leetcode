@@ -1780,7 +1780,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | LCP40 | [心算挑战](https://leetcode-cn.com/problems/uOAnQW/) | [无] | [C++](LC/LCP40/cpp-LCP40/) | | |
 | LCP41 | [黑白翻转棋](https://leetcode-cn.com/problems/fHi6rV/) | [无] | [C++](LC/LCP41/cpp-LCP41/)| | |
 | LCP42 | [玩具套圈](https://leetcode-cn.com/problems/vFjcfV/) | [无] | [C++](LC/LCP42/cpp-LCP42/) | | |
-| | | | | | |
+| LCP43 | [十字路口的交通](https://leetcode-cn.com/problems/Y1VbOX/) | [无] | [C++](LC/LCP43/cpp-LCP43/) | | |
 | | | | | | |
 
 ## 其他
