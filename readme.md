@@ -1776,6 +1776,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | LCP28 | [采购方案](https://leetcode-cn.com/problems/4xy4Wx/) | [无] | [C++](LC/LCP28/cpp-LCP28/) | | |
 | LCP29 | [乐团站位](https://leetcode-cn.com/problems/SNJvJP/) | [无] | [C++](LC/LCP29/cpp-LCP29/) | | |
 | | | | | | |
+| LCP39 | [无人机方阵](https://leetcode-cn.com/problems/0jQkd0/) | [无] | [C++](LC/LCP39/cpp-LCP39/) | | |
+| | | | | | |
 
 ## 其他
 
