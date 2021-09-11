@@ -1779,6 +1779,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | LCP39 | [无人机方阵](https://leetcode-cn.com/problems/0jQkd0/) | [无] | [C++](LC/LCP39/cpp-LCP39/) | | |
 | LCP40 | [心算挑战](https://leetcode-cn.com/problems/uOAnQW/) | [无] | [C++](LC/LCP40/cpp-LCP40/) | | |
 | LCP41 | [黑白翻转棋](https://leetcode-cn.com/problems/fHi6rV/) | [无] | [C++](LC/LCP41/cpp-LCP41/)| | |
+| LCP42 | [玩具套圈](https://leetcode-cn.com/problems/vFjcfV/) | [无] | [C++](LC/LCP42/cpp-LCP42/) | | |
+| | | | | | |
 | | | | | | |
 
 ## 其他
