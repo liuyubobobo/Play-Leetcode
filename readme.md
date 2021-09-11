@@ -618,8 +618,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | | [C++](0501-1000/0674-Longest-Continuous-Increasing-Subsequence/cpp-0674/) | | |
 | 675 | [Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/description/) | [缺：A*；Hadlock's Algo] | [C++](0501-1000/0675-Cut-Off-Trees-for-Golf-Event/cpp-0675/) | | |
 | 676 | [Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/description/) | [solution](https://leetcode.com/problems/implement-magic-dictionary/solution/) | [C++](0501-1000/0676-Implement-Magic-Dictionary/cpp-0676/) | | |
-| 677 | [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/description/) | [solution](https://leetcode.com/problems/map-sum-pairs/solution/) | [C++](0501-1000/0677/Map-Sum-Pairs/cpp-0677/) | | |
-| | | | | | |
+| 677 | [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/description/) | [solution](https://leetcode.com/problems/map-sum-pairs/solution/) | [C++](0501-1000/0677-Map-Sum-Pairs/cpp-0677/) | | |
+| 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [solution](https://leetcode.com/problems/valid-parenthesis-string/solution/) | [C++](0501-1000/0678-Valid-Parenthesis-String/cpp-0678/) | | |
 | 679 | [24 Game](https://leetcode.com/problems/24-game/) | [solution](https://leetcode.com/problems/24-game/) | [C++](0501-1000/0679-24-Game/cpp-0679/) | | |
 | | | | | | |
 | 684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/description/) | [solution](https://leetcode.com/problems/redundant-connection/solution/) | [C++](0501-1000/0684-Redundant-Connection/cpp-0684/) | | |
