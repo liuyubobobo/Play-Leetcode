@@ -1741,6 +1741,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1996 | [The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/) | [无] | [C++](1501-2000/1996-The-Number-of-Weak-Characters-in-the-Game/cpp-1996/) | | |
 | 1997 | [First Day Where You Have Been in All the Rooms](https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/) | [无] | [C++](1501-2000/1997-First-Day-Where-You-Have-Been-in-All-the-Rooms/cpp-1997/) | | |
 | 1998 | [GCD Sort of an Array](https://leetcode.com/problems/gcd-sort-of-an-array/) | [无] | [C++](1501-2000/1998-GCD-Sort-of-an-Array/cpp-1998/) | | |
+| 1999 | [Smallest Greater Multiple Made of Two Digits](https://leetcode.com/problems/smallest-greater-multiple-made-of-two-digits/) | [无] | [C++](1501-2000/1999-Smallest-Greater-Multiple-Made-of-Two-Digits/cpp-1999/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
