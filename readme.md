@@ -1745,6 +1745,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | [无] | [C++](1501-2000/2000-Reverse-Prefix-of-Word/cpp-2000/) | | |
 | 2001 | [Number of Pairs of Interchangeable Rectangles](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/) | [无] | [C++](2001-2500/2001-Number-of-Pairs-of-Interchangeable-Rectangles/cpp-2001/) | | |
 | 2002 | [Maximum Product of the Length of Two Palindromic Subsequences](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/) | [无] | [C++](2001-2500/2002-Maximum-Product-of-the-Length-of-Two-Palindromic-Subsequences/cpp-2002/) | | |
+| 2003 | [Smallest Missing Genetic Value in Each Subtree](https://leetcode.com/problems/smallest-missing-genetic-value-in-each-subtree/) | [无] | [C++](2001-2500/2003-Smallest-Missing-Genetic-Value-in-Each-Subtree/cpp-2003/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
