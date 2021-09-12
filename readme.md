@@ -1742,6 +1742,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1997 | [First Day Where You Have Been in All the Rooms](https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/) | [无] | [C++](1501-2000/1997-First-Day-Where-You-Have-Been-in-All-the-Rooms/cpp-1997/) | | |
 | 1998 | [GCD Sort of an Array](https://leetcode.com/problems/gcd-sort-of-an-array/) | [无] | [C++](1501-2000/1998-GCD-Sort-of-an-Array/cpp-1998/) | | |
 | 1999 | [Smallest Greater Multiple Made of Two Digits](https://leetcode.com/problems/smallest-greater-multiple-made-of-two-digits/) | [无] | [C++](1501-2000/1999-Smallest-Greater-Multiple-Made-of-Two-Digits/cpp-1999/) | | |
+| 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | [无] | [C++](1501-2000/2000-Reverse-Prefix-of-Word/cpp-2000/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
