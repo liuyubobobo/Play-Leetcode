@@ -5,11 +5,12 @@
 #include <iostream>
 #include <vector>
 
+using namespace std;
+
 
 /// Simulation
 /// Time Complexity: O(n)
 /// Space Complexity: O(1)
-using namespace std;
 class Solution {
 public:
     string reversePrefix(string word, char ch) {
