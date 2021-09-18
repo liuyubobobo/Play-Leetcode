@@ -1751,6 +1751,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 2006 | [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) | [无] | [C++](2001-2500/2006-Count-Number-of-Pairs-With-Absolute-Difference-K/cpp-2006/) | | |
 | 2007 | [Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/) | [无] | [C++](2001-2500/2007-Find-Original-Array-From-Doubled-Array/cpp-2007/) | | |
+| 2008 | [Maximum Earnings From Taxi](https://leetcode.com/problems/maximum-earnings-from-taxi/) | [无] | [C++](2001-2500/2008-Maximum-Earnings-From-Taxi/cpp-2008/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
