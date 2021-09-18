@@ -601,6 +601,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [solution](https://leetcode.com/problems/palindromic-substrings/solution/) | [C++](0501-1000/0647-Palindromic-Substrings/cpp-0647/) | | |
 | 648 | [Replace Words](https://leetcode.com/problems/replace-words/description/) | [无] | [C++](0501-1000/0648-Replace-Words/cpp-0648/) | | |
 | 649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | [solution](https://leetcode.com/problems/dota2-senate/solution/)<br/>[缺：队列] | [C++](0501-1000/0649-Dota2-Senate/cpp-0649/) | | |
+| 650 | [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/) | [solution](https://leetcode.com/problems/2-keys-keyboard/solution/) | [C++](0501-1000/0650-2-Keys-Keyboard/cpp-0650/) | | |
 | | | | | | |
 | 652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/description/) | [solution](https://leetcode.com/problems/find-duplicate-subtrees/solution/) | [C++](0501-1000/0652-Find-Duplicate-Subtrees/cpp-0652/) | | |
 | | | | | | |
