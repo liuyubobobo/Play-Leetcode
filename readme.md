@@ -320,6 +320,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | [solution](https://leetcode.com/problems/game-of-life/solution/) | [C++](0001-0500/0289-Game-of-Life/cpp-0289/) | | |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/description/) | [无] | [C++](0001-0500/0290-Word-Pattern/cpp-0290/) | | |
 | | | | | | |
+| 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [solution](https://leetcode.com/problems/nim-game/solution/) | [C++](0001-0500/0292-Nim-Game/cpp-0292/) | | |
+| | | | | | |
 | 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [无] | [C++](0001-0500/0295-Find-Median-from-Data-Stream/cpp-0295/) | | |
 | 296 | [Best Meeting Point](https://leetcode.com/problems/best-meeting-point/) | [solution](https://leetcode.com/problems/best-meeting-point/solution/) | [C++](0001-0500/0296-Best-Meeting-Point/cpp-0296/) | | |
 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) | [solution](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/solution/) | [C++](0001-0500/0297-Serialize-and-Deserialize-Binary-Tree/cpp-0297/) | | |
@@ -1746,6 +1748,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2001 | [Number of Pairs of Interchangeable Rectangles](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/) | [无] | [C++](2001-2500/2001-Number-of-Pairs-of-Interchangeable-Rectangles/cpp-2001/) | | |
 | 2002 | [Maximum Product of the Length of Two Palindromic Subsequences](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/) | [无] | [C++](2001-2500/2002-Maximum-Product-of-the-Length-of-Two-Palindromic-Subsequences/cpp-2002/) | | |
 | 2003 | [Smallest Missing Genetic Value in Each Subtree](https://leetcode.com/problems/smallest-missing-genetic-value-in-each-subtree/) | [无] | [C++](2001-2500/2003-Smallest-Missing-Genetic-Value-in-Each-Subtree/cpp-2003/) | | |
+| | | | | | |
+| 2006 | [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) | [无] | [C++](2001-2500/2006-Count-Number-of-Pairs-With-Absolute-Difference-K/cpp-2006/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
