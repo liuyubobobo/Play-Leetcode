@@ -1,6 +1,7 @@
 /// Source : https://leetcode.com/problems/distinct-subsequences/description/
 /// Author : liuyubobobo
 /// Time   : 2018-04-23
+/// Updated: 2021-09-19
 
 #include <iostream>
 #include <string>
@@ -13,16 +14,20 @@ using namespace std;
 /// Time Complexity: O(s * t)
 /// Space Complexity: O(t)
 class Solution {
+
+private:
+    const long long MOD = (long long)INT_MAX + 1;
+
 public:
     int numDistinct(string s, string t) {
 
-        vector<int> dp(t.size() + 1, 0);
+        vector<long long> dp(t.size() + 1, 0);
         dp[0] = 1;
 
         for(int i = 1 ; i <= s.size() ; i ++)
             for(int j = t.size() ; j >= 1 ; j --)
                 if(s[i - 1] == t[j - 1])
-                    dp[j] += dp[j - 1];
+                    dp[j] = (dp[j] + dp[j - 1]) % MOD;
 
 
         return dp[t.size()];

@@ -24,14 +24,12 @@ public class Solution {
 
     public static void main(String[] args) {
 
-        String S1 = "rabbbit", T1 = "rabbit";
-        System.out.println((new Solution()).numDistinct(S1, T1));
+        String s1 = "rabbbit", t1 = "rabbit";
+        System.out.println((new Solution()).numDistinct(s1, t1));
         // 3
 
-        // ---
-
-        String S2 = "babgbag", T2 = "bag";
-        System.out.println((new Solution()).numDistinct(S2, T2));
+        String s2 = "babgbag", t2 = "bag";
+        System.out.println((new Solution()).numDistinct(s2, t2));
         // 5
     }
 }
