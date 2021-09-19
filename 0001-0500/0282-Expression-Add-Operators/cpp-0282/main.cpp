@@ -23,85 +23,65 @@ public:
         if(num == "")
             return {};
         vector<string> ret;
-        split(num, 0, target, "", ret);
+        split(num, 0, target, "", ' ', -1, 0ll, ret);
         return ret;
     }
 
 private:
     void split(const string& num, int index, int target, const string& expr,
-               vector<string>& res){
+               char lastop, long long pre, long long res, vector<string>& ret){
 
         if(index == num.size()){
-            if(calculate(expr) == target)
-                res.push_back(expr);
+            if(res == (long long)target)
+                ret.push_back(expr);
             return;
         }
 
         int end = num.size();
         if(num[index] == '0')
             end = index + 1;
-        for(int i = index; i < end; i ++){
-            int len = (i + 1 - index);
-            if(index + len == num.size())
-                split(num, index + len, target, expr + num.substr(index, len), res);
-            else{
-                split(num, index + len, target, expr + num.substr(index, len) + "+", res);
-                split(num, index + len, target, expr + num.substr(index, len) + "-", res);
-                split(num, index + len, target, expr + num.substr(index, len) + "*", res);
+
+        for(int i = index + 1; i <= end; i ++){
+            int len = i - index;
+            string cur_num_s = num.substr(index, len);
+            long long cur = atoll(cur_num_s.c_str());
+
+            char next_lastop = ' ';
+            long long next_pre = cur;
+            long long next_res = res;
+
+            if(expr != "" && expr[expr.size() - 1] == '*' && (lastop == '+' || lastop == '-')){
+                assert(pre != -1);
+                if(lastop == '+')
+                    next_res -= pre, next_res += pre * cur;
+                else
+                    next_res += pre, next_res -= pre * cur;
+                next_pre = pre * cur;
+                next_lastop = lastop;
             }
-        }
-    }
-
-    long long calculate(const string& s) {
-
-        vector<long long> nums;
-        vector<char> ops;
-        for(int i = 0; i < s.size() ; ){
-            if(isdigit(s[i])){
-                long long num = s[i] - '0';
-                int j;
-                for(j = i + 1; j < s.size() && isdigit(s[j]); j ++)
-                    num = num * 10 + (s[j] - '0');
-                i = j;
-
-                nums.push_back(num);
-                if(!ops.empty() && (ops.back() == '*' || ops.back() == '/'))
-                    calc(nums, ops);
-            }
-            else if(s[i] != ' '){
-                if((s[i] == '+' || s[i] == '-') && !ops.empty() && (ops.back() == '+' || ops.back() == '-'))
-                    calc(nums, ops);
-                ops.push_back(s[i++]);
+            else if(expr != ""){
+                switch(expr[expr.size() - 1]){
+                    case '+': next_res += cur; break;
+                    case '-': next_res -= cur; break;
+                    case '*': next_res *= cur; break;
+                    default:assert(false); break;
+                }
+                next_lastop = expr[expr.size() - 1];
             }
             else
-                i ++;
-        }
-        if(nums.size() != 1){
-            assert(nums.size() == 2);
-            calc(nums, ops);
-        }
+                next_res = cur;
 
-        return nums.back();
-    }
-
-    void calc(vector<long long>& nums, vector<char>& ops){
-
-        assert(nums.size() >= 2);
-        long long second = nums.back();
-        nums.pop_back();
-        long long first = nums.back();
-        nums.pop_back();
-
-        assert(!ops.empty());
-        char op = ops.back();
-        ops.pop_back();
-
-        switch(op){
-            case '+': nums.push_back(first + second); return;
-            case '-': nums.push_back(first - second); return;
-            case '*': nums.push_back(first * second); return;
-            case '/': nums.push_back(first / second); return;
-            default: assert(false); return;
+            if(index + len == num.size())
+                split(num, index + len, target, expr + cur_num_s,
+                      ' ', next_pre, next_res, ret);
+            else{
+                split(num, index + len, target, expr + cur_num_s + "*",
+                      next_lastop, next_pre, next_res, ret);
+                split(num, index + len, target, expr + cur_num_s + "+",
+                      next_lastop, next_pre, next_res, ret);
+                split(num, index + len, target, expr + cur_num_s + "-",
+                      next_lastop, next_pre, next_res, ret);
+            }
         }
     }
 };
