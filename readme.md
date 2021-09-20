@@ -1758,6 +1758,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2010 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | [无] | [C++](2001-2500/2011-Final-Value-of-Variable-After-Performing-Operations/cpp-2011/) | | |
 | 2012 | [Sum of Beauty in the Array](https://leetcode.com/problems/sum-of-beauty-in-the-array/) | [无] | [C++](2001-2500/2012-Sum-of-Beauty-in-the-Array/cpp-2012/) | | |
+| 2013 | [Detect Squares](https://leetcode.com/problems/detect-squares/) | [无] | [C++](2001-2500/2013-Detect-Squares/cpp-2013/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
