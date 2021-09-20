@@ -107,6 +107,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 055 | [Jump Game](https://leetcode.com/problems/jump-game/) | [solution](https://leetcode.com/problems/jump-game/solution/) | [C++](0001-0500/0055-Jump-Game/cpp-0055/) | | |
 | 056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [solution](https://leetcode.com/problems/merge-intervals/solution/) | [C++](0001-0500/0056-Merge-Intervals/cpp-0056/) | | |
 | | | | | | |
+| 058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [solution](https://leetcode.com/problems/length-of-last-word/solution/) | [C++](0001-0500/0058-Length-of-Last-Word/cpp-0058/) | | |
 | 059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) | [无] | [C++](0001-0500/0059-Spiral-Matrix-II/cpp-0059/) | | |
 | | | | | | |
 | 061 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [solution](https://leetcode.com/problems/rotate-list/solution/) | [C++](0001-0500/0061-Rotate-List/cpp-0061/) | | |
