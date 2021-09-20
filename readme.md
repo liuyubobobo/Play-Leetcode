@@ -1755,6 +1755,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2007 | [Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/) | [无] | [C++](2001-2500/2007-Find-Original-Array-From-Doubled-Array/cpp-2007/) | | |
 | 2008 | [Maximum Earnings From Taxi](https://leetcode.com/problems/maximum-earnings-from-taxi/) | [无] | [C++](2001-2500/2008-Maximum-Earnings-From-Taxi/cpp-2008/) | | |
 | 2009 | [Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/) | [无] | [C++](2001-2500/2009-Minimum-Number-of-Operations-to-Make-Array-Continuous/cpp-2009/) | | |
+| 2010 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | [无] | [C++](2001-2500/2011-Final-Value-of-Variable-After-Performing-Operations/cpp-2011/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
