@@ -1750,7 +1750,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2001 | [Number of Pairs of Interchangeable Rectangles](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/) | [无] | [C++](2001-2500/2001-Number-of-Pairs-of-Interchangeable-Rectangles/cpp-2001/) | | |
 | 2002 | [Maximum Product of the Length of Two Palindromic Subsequences](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/) | [无] | [C++](2001-2500/2002-Maximum-Product-of-the-Length-of-Two-Palindromic-Subsequences/cpp-2002/) | | |
 | 2003 | [Smallest Missing Genetic Value in Each Subtree](https://leetcode.com/problems/smallest-missing-genetic-value-in-each-subtree/) | [无] | [C++](2001-2500/2003-Smallest-Missing-Genetic-Value-in-Each-Subtree/cpp-2003/) | | |
-| | | | | | |
+| 2004 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 2005 | [Subtree Removal Game with Fibonacci Tree](https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree/) | [无] | [C++](2001-2500/2005-Subtree-Removal-Game-with-Fibonacci-Tree/cpp-2005/) | | |
 | 2006 | [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) | [无] | [C++](2001-2500/2006-Count-Number-of-Pairs-With-Absolute-Difference-K/cpp-2006/) | | |
 | 2007 | [Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/) | [无] | [C++](2001-2500/2007-Find-Original-Array-From-Doubled-Array/cpp-2007/) | | |
 | 2008 | [Maximum Earnings From Taxi](https://leetcode.com/problems/maximum-earnings-from-taxi/) | [无] | [C++](2001-2500/2008-Maximum-Earnings-From-Taxi/cpp-2008/) | | |
