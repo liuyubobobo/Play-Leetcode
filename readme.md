@@ -1764,6 +1764,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2012 | [Sum of Beauty in the Array](https://leetcode.com/problems/sum-of-beauty-in-the-array/) | [无] | [C++](2001-2500/2012-Sum-of-Beauty-in-the-Array/cpp-2012/) | | |
 | 2013 | [Detect Squares](https://leetcode.com/problems/detect-squares/) | [无] | [C++](2001-2500/2013-Detect-Squares/cpp-2013/) | | |
 | 2014 | [Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/) | [无] | [C++](2001-2500/2014-Longest-Subsequence-Repeated-k-Times/cpp-2014/) | | |
+| 2015 | [Average Height of Buildings in Each Segment](https://leetcode.com/problems/average-height-of-buildings-in-each-segment/) | [无] | [C++](2001-2500/2015-Average-Height-of-Buildings-in-Each-Segment/cpp-2015/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
