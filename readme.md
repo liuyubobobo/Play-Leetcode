@@ -1806,6 +1806,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | LCP42 | [玩具套圈](https://leetcode-cn.com/problems/vFjcfV/) | [无] | [C++](LC/LCP42/cpp-LCP42/) | | |
 | LCP43 | [十字路口的交通](https://leetcode-cn.com/problems/Y1VbOX/) | [无] | [C++](LC/LCP43/cpp-LCP43/) | | |
 | LCP44 | [开幕式焰火](https://leetcode-cn.com/problems/sZ59z6/) | [无] | [C++](LC/LCP44/cpp-LCP44/) | | |
+| LCP45 | [自行车炫技赛场](https://leetcode-cn.com/problems/kplEvH/) | [无] | [C++](LC/LCP45/cpp-LCP45/) | | |
 | | | | | | |
 
 ## 其他
