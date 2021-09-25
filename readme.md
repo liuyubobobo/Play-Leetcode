@@ -1809,6 +1809,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | LCP45 | [自行车炫技赛场](https://leetcode-cn.com/problems/kplEvH/) | [无] | [C++](LC/LCP45/cpp-LCP45/) | | |
 | LCP46 | [志愿者调配](https://leetcode-cn.com/problems/05ZEDJ/) | [无] | [C++](LC/LCP46/cpp-LCP46/) | | |
 | LCP47 | [入场安检](https://leetcode-cn.com/problems/oPs9Bm/) | [无] | [C++](LC/LCP47/cpp-LCP47/) | | |
+| LCP48 | [无限棋局](https://leetcode-cn.com/problems/fsa7oZ/) | [无] | [C++](LC/LCP48/cpp-LCP48/) | | |
 | | | | | | |
 
 ## 其他
