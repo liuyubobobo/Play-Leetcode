@@ -1767,6 +1767,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2015 | [Average Height of Buildings in Each Segment](https://leetcode.com/problems/average-height-of-buildings-in-each-segment/) | [无] | [C++](2001-2500/2015-Average-Height-of-Buildings-in-Each-Segment/cpp-2015/) | | |
 | 2016 | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | [无] | [C++](2001-2500/2016-Maximum-Difference-Between-Increasing-Elements/cpp-2016/) | | |
 | 2017 | [Grid Game](https://leetcode.com/problems/grid-game/) | [无] | [C++](2001-2500/2017-Grid-Game/cpp-2017/) | | |
+| 2018 | [Check if Word Can Be Placed In Crossword](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/) | [无] | [C++](2001-2500/2018-Check-if-Word-Can-Be-Placed-In-Crossword/cpp-2018/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
