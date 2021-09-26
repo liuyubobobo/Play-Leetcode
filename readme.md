@@ -1768,6 +1768,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2016 | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | [无] | [C++](2001-2500/2016-Maximum-Difference-Between-Increasing-Elements/cpp-2016/) | | |
 | 2017 | [Grid Game](https://leetcode.com/problems/grid-game/) | [无] | [C++](2001-2500/2017-Grid-Game/cpp-2017/) | | |
 | 2018 | [Check if Word Can Be Placed In Crossword](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/) | [无] | [C++](2001-2500/2018-Check-if-Word-Can-Be-Placed-In-Crossword/cpp-2018/) | | |
+| 2019 | [The Score of Students Solving Math Expression](https://leetcode.com/problems/the-score-of-students-solving-math-expression/) | [无] | [C++](2001-2500/2019-The-Score-of-Students-Solving-Math-Expression/cpp-2019/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
