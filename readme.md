@@ -1766,6 +1766,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2014 | [Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/) | [无] | [C++](2001-2500/2014-Longest-Subsequence-Repeated-k-Times/cpp-2014/) | | |
 | 2015 | [Average Height of Buildings in Each Segment](https://leetcode.com/problems/average-height-of-buildings-in-each-segment/) | [无] | [C++](2001-2500/2015-Average-Height-of-Buildings-in-Each-Segment/cpp-2015/) | | |
 | 2016 | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | [无] | [C++](2001-2500/2016-Maximum-Difference-Between-Increasing-Elements/cpp-2016/) | | |
+| 2017 | [Grid Game](https://leetcode.com/problems/grid-game/) | [无] | [C++](2001-2500/2017-Grid-Game/cpp-2017/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
