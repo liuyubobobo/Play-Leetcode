@@ -704,7 +704,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 780 | [Reaching Points](https://leetcode.com/problems/reaching-points/description/) | [solution](https://leetcode.com/problems/reaching-points/solution/) | [C++](0501-1000/0780-Reaching-Points/cpp-0780/) | | |
 | 781 | [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/description/) | [solution](https://leetcode.com/problems/rabbits-in-forest/solution/) | [C++](0501-1000/0781-Rabbits-in-Forest/cpp-0781/) | | |
-| | | | | | |
+| 782 | [Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/) | [solution](https://leetcode.com/problems/transform-to-chessboard/solution/) | [C++](0501-1000/0782-Transform-to-Chessboard/cpp-0782/) | | |
 | 783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) | [solution](https://leetcode.com/problems/minimum-distance-between-bst-nodes/solution/) | [C++](0501-1000/0783-Minimum-Distance-Between-BST-Nodes/cpp-0783/) | | |
 | 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | [solution](https://leetcode.com/problems/letter-case-permutation/solution/) | [C++](0501-1000/0784-Letter-Case-Permutation/cpp-0784/) | | |
 | 785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) | [solution](https://leetcode.com/problems/is-graph-bipartite/description/) | [C++](0501-1000/0785-Is-Graph-Bipartite/cpp-0785/) | | |
