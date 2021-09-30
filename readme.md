@@ -351,6 +351,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/description/) | [solution](https://leetcode.com/problems/coin-change/solution/) | [C++](0001-0500/0322-Coin-Change/cpp-0322/) | | |
 | 323 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | [solution](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/solution/) |  [C++](0001-0500/0323-Number-of-Connected-Components-in-an-Undirected-Graph/cpp-0323/) | | |
 | | | | | | |
+| 325 | [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) | [solution](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/solution/) | [C++](0001-0500/0325-Maximum-Size-Subarray-Sum-Equals-k/cpp-0325/) | | |
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [solution](https://leetcode.com/problems/power-of-three/solution/) | [C++](0001-0500/0326-Power-of-Three/cpp-0326/) | | |
 | | | | | | |
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | [solution](https://leetcode.com/problems/odd-even-linked-list/solution/) | [C++](0001-0500/0328-Odd-Even-Linked-List/cpp-0328/) | | |
