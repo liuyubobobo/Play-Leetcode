@@ -256,7 +256,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/) | [solution](https://leetcode.com/problems/contains-duplicate-iii/solution/) | [C++](0001-0500/0220-Contains-Duplicate-III/cpp-0220/) | [Java](0001-0500/0220-Contains-Duplicate-III/java-0220/) | |
 | 221 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [solution](https://leetcode.com/problems/maximal-square/solution/) | [C++](0001-0500/0221-Maximal-Square/cpp-0221) | | [Python](0001-0500/0221-Maximal-Square/py-0221) |
 | 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/) | [无] | [C++](0001-0500/0222-Count-Complete-Tree-Nodes/cpp-0222/) | | |
-| | | | | | |
+| 223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [无] | [C++](0001-0500/0223-Rectangle-Area/cpp-0223/) | | |
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/description/) | [无] | [C++](0001-0500/0224-Basic-Calculator/cpp-0224/) | | |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) | [solution](https://leetcode.com/problems/implement-stack-using-queues/solution/) | [C++](0001-0500/0225-Implement-Stack-using-Queues/cpp-0225/) | | |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [solution](https://leetcode.com/problems/invert-binary-tree/solution/) | [C++](0001-0500/0226-Invert-Binary-Tree/cpp-0226/) | [Java](0001-0500/0226-Invert-Binary-Tree/java-0226/src/) | [Python](0001-0500/0226-Invert-Binary-Tree/py-0226/) |
