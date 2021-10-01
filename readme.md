@@ -422,6 +422,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [solution](https://leetcode.com/problems/remove-k-digits/solution/) [题解](https://leetcode-cn.com/problems/remove-k-digits/solution/yi-diao-kwei-shu-zi-by-leetcode/) | [C++](0001-0500/0402-Remove-K-Digits/cpp-0402/) | | |
 | 403 | [Frog Jump](https://leetcode.com/problems/Frog-Jump/) | [solution](https://leetcode.com/problems/Frog-Jump/)<br/>[缺：dp] | [C++](0001-0500/0403-Frog-Jump/cpp-0403/) | | |
 | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [无] | [C++](0001-0500/0404-Sum-of-Left-Leaves/cpp-0404/) | | |
+| 405 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [无] | [C++](0001-0500/0405-Convert-a-Number-to-Hexadecimal/cpp-0405/) | | |
 | | | | | | |
 | 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [solution](https://leetcode.com/problems/split-array-largest-sum/solution/) [题解](https://leetcode-cn.com/problems/split-array-largest-sum/solution/fen-ge-shu-zu-de-zui-da-zhi-by-leetcode/) | [C++](0001-0500/410-Split-Array-Largest-Sum/cpp-410/) | | |
 | | | | | | |
