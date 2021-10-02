@@ -1772,6 +1772,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2017 | [Grid Game](https://leetcode.com/problems/grid-game/) | [无] | [C++](2001-2500/2017-Grid-Game/cpp-2017/) | | |
 | 2018 | [Check if Word Can Be Placed In Crossword](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/) | [无] | [C++](2001-2500/2018-Check-if-Word-Can-Be-Placed-In-Crossword/cpp-2018/) | | |
 | 2019 | [The Score of Students Solving Math Expression](https://leetcode.com/problems/the-score-of-students-solving-math-expression/) | [无] | [C++](2001-2500/2019-The-Score-of-Students-Solving-Math-Expression/cpp-2019/) | | |
+| 2020 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 2021 | [Brightest Position on Street](https://leetcode.com/problems/brightest-position-on-street/) | [无] | [C++](2001-2500/2021-Brightest-Position-on-Street/cpp-2021/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
