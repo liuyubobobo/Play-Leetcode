@@ -221,6 +221,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) | [无] | [C++](0001-0500/0171-Excel-Sheet-Column-Number/cpp-0171/) | | |
 | | | | | | |
 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) | [无]<br/>[缺：Morris遍历] | [C++](0001-0500/0173-Binary-Search-Tree-Iterator/cpp-0173/) | | |
+| 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [solution](https://leetcode.com/problems/dungeon-game/solution/) | [C++](0001-0500/0174-Dungeon-Game/cpp-0174/) | | |
 | | | | | | |
 | 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | [无] | [C++](0001-0500/0179-Largest-Number/cpp-0179/) | | |
 | | | | | | |
