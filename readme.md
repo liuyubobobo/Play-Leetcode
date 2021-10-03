@@ -1782,6 +1782,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2027 | [Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string/) | [无] | [C++](2001-2500/2027-Minimum-Moves-to-Convert-String/cpp-2027/) | | |
 | 2028 | [Find Missing Observations](https://leetcode.com/problems/find-missing-observations/) | [无] | [C++](2001-2500/2028-Find-Missing-Observations/cpp-2028/) | | |
 | 2029 | [Stone Game IX](https://leetcode.com/problems/stone-game-ix/) | [无] | [C++](2001-2500/2029-Stone-Game-IX/cpp-2029/) | | |
+| 2030 | [Smallest K-Length Subsequence With Occurrences of a Letter](https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/) | [无] | [C++](2001-2500/2030-Smallest-K-Length-Subsequence-With-Occurrences-of-a-Letter/cpp-2030/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
