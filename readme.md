@@ -1777,6 +1777,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2022 | [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/) | [无] | [C++](2001-2500/2022-Convert-1D-Array-Into-2D-Array/cpp-2022/) | | |
 | 2023 | [Number of Pairs of Strings With Concatenation Equal to Target](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/) | [无] | [C++](2001-2500/2023-Number-of-Pairs-of-Strings-With-Concatenation-Equal-to-Target/cpp-2023/) | | |
 | 2024 | [Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/) | [无] | [C++](2001-2500/2024-Maximize-the-Confusion-of-an-Exam/cpp-2024/) | | |
+| 2025 | [Maximum Number of Ways to Partition an Array](https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array/) | [无] | [C++](2001-2500/2025-Maximum-Number-of-Ways-to-Partition-an-Array/cpp-2025/) | | |
+| 2026 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
 
 ## 力扣中文站比赛
