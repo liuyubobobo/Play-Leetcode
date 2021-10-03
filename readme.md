@@ -1779,6 +1779,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2024 | [Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/) | [无] | [C++](2001-2500/2024-Maximize-the-Confusion-of-an-Exam/cpp-2024/) | | |
 | 2025 | [Maximum Number of Ways to Partition an Array](https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array/) | [无] | [C++](2001-2500/2025-Maximum-Number-of-Ways-to-Partition-an-Array/cpp-2025/) | | |
 | 2026 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 2027 | [Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string/) | [无] | [C++](2001-2500/2027-Minimum-Moves-to-Convert-String/cpp-2027/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
