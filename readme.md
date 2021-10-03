@@ -1780,6 +1780,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2025 | [Maximum Number of Ways to Partition an Array](https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array/) | [无] | [C++](2001-2500/2025-Maximum-Number-of-Ways-to-Partition-an-Array/cpp-2025/) | | |
 | 2026 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 2027 | [Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string/) | [无] | [C++](2001-2500/2027-Minimum-Moves-to-Convert-String/cpp-2027/) | | |
+| 2028 | [Find Missing Observations](https://leetcode.com/problems/find-missing-observations/) | [无] | [C++](2001-2500/2028-Find-Missing-Observations/cpp-2028/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
