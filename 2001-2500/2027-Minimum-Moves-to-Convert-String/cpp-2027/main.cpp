@@ -1,26 +1,35 @@
+/// Source : https://leetcode.com/problems/minimum-moves-to-convert-string/
+/// Author : liuyubobobo
+/// Time   : 2021-10-02
+
 #include <iostream>
 #include <vector>
 
 using namespace std;
 
 
+/// Greedy
+/// Time Complexity: O(n)
+/// Space Complexity: O(1)
 class Solution {
 public:
-    double getAdmissionLine(int k, vector<double>& scores) {
+    int minimumMoves(string s) {
 
-        sort(scores.begin(), scores.end(), greater<double>());
-        return scores[k - 1];
+        int n = s.size(), res = 0;
+        for(int i = 0; i < n; i ++){
+            if(s[i] == 'X'){
+                res ++;
+                s[i] = 'O';
+                if(i + 1 < n) s[i + 1] = 'O';
+                if(i + 2 < n) s[i + 2] = 'O';
+            }
+        }
+        return res;
     }
 };
 
+
 int main() {
 
-    vector<double> scores1 = {150,300,400,500,600,700,550,450,450,500,555.5};
-    cout << Solution().getAdmissionLine(5, scores1) << endl;
-    // 500
-
-    vector<double> scores2 = {723,699,510,488.5};
-    cout << Solution().getAdmissionLine(4, scores2) << endl;
-    // 488.5
     return 0;
 }
