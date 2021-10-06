@@ -451,6 +451,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) | [无] | [C++](0001-0500/0438-Find-All-Anagrams-in-a-String/cpp-0438/) | | |
 | 439 | [Ternary Expression Parser](https://leetcode.com/problems/ternary-expression-parser/) | [无] | [C++](0001-0500/0439-Ternary-Expression-Parser/cpp-0439/) | | |
 | | | | | | |
+| 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [solution](https://leetcode.com/problems/find-all-duplicates-in-an-array/solution/) | [C++](0001-0500/0442-Find-All-Duplicates-in-an-Array/cpp-0442/) | | |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/description/) | | [C++](0001-0500/0443-String-Compression/cpp-0443/) | | |
 | | | | | | |
 | 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [无] | [C++](0001-0500/0445-Add-Two-Numbers-II/cpp-0445/) | | |
