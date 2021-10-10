@@ -305,6 +305,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [solution](https://leetcode.com/problems/missing-number/solution/) | [C++](0001-0500/0268-Missing-Number/cpp-0268/) | | |
 | 269 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | [solution](https://leetcode.com/problems/alien-dictionary/solution/) | [C++](0001-0500/0269-Alien-Dictionary/cpp-0269/) | | |
 | | | | | | |
+| 273 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [solution](https://leetcode.com/problems/integer-to-english-words/solution/) | [C++](0001-0500/0273-Integer-to-English-Words/cpp-0273/) | | |
 | 274 | [H-Index](https://leetcode.com/problems/h-index/) | [solution](https://leetcode.com/problems/h-index/solution/)<br/>[缺：非二分] | [C++](0001-0500/0274-H-Index/) | | |
 | 275 | [H-Index II](https://leetcode.com/problems/h-index-ii/) | [solution](https://leetcode.com/problems/h-index-ii/solution/) | [C++](0001-0500/0275-H-Index-II/) | | |
 | 276 | [Paint Fence](https://leetcode.com/problems/paint-fence/) | [solution](https://leetcode.com/problems/paint-fence/solution/) | [C++](0001-0500/0276-Paint-Fence/) | | |
