@@ -1794,6 +1794,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2032 | [Two Out of Three](https://leetcode.com/problems/two-out-of-three/) | [无] | [C++](2001-2500/2032-Two-Out-of-Three/cpp-2032/) | | |
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | [无] | [C++](2001-2500/2033-Minimum-Operations-to-Make-a-Uni-Value-Grid/cpp-2033/) | | |
 | 2034 | [Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/) | [无] | [C++](2001-2500/2034-Stock-Price-Fluctuation/cpp-2034/) | | |
+| 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/) | [无] | [C++](2001-2500/2035-Partition-Array-Into-Two-Arrays-to-Minimize-Sum-Difference/cpp-2035/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
