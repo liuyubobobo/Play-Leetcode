@@ -1792,6 +1792,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2030 | [Smallest K-Length Subsequence With Occurrences of a Letter](https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/) | [无] | [C++](2001-2500/2030-Smallest-K-Length-Subsequence-With-Occurrences-of-a-Letter/cpp-2030/) | | |
 | 2031 | [Count Subarrays With More Ones Than Zeros](https://leetcode.com/problems/count-subarrays-with-more-ones-than-zeros/) | [缺：更简单的解法] | [C++](2001-2500/2031-Count-Subarrays-With-More-Ones-Than-Zeros/cpp-2031/) | | |
 | 2032 | [Two Out of Three](https://leetcode.com/problems/two-out-of-three/) | [无] | [C++](2001-2500/2032-Two-Out-of-Three/cpp-2032/) | | |
+| 2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | [无] | [C++](2001-2500/2032-Minimum-Operations-to-Make-a-Uni-Value-Grid/cpp-2032/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
