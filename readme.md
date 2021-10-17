@@ -1797,6 +1797,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2034 | [Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/) | [无] | [C++](2001-2500/2034-Stock-Price-Fluctuation/cpp-2034/) | | |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/) | [无] | [C++](2001-2500/2035-Partition-Array-Into-Two-Arrays-to-Minimize-Sum-Difference/cpp-2035/) | | |
 | | | | | | |
+| 2037 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | [无] | [C++](2001-2500/2037-Minimum-Number-of-Moves-to-Seat-Everyone/cpp-2037/) | | |
+| | | | | | |
 | 2042 | [Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/) | [无] | [C++](2001-2500/2042-Check-if-Numbers-Are-Ascending-in-a-Sentence/cpp-2042/) | | |
 | 2043 | [Simple Bank System](https://leetcode.com/problems/simple-bank-system/) | [无] | [C++](2001-2500/2043-Simple-Bank-System/cpp-02043/) | | |
 | 2044 | [Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | [无] | [C++](2001-2500/2044-Count-Number-of-Maximum-Bitwise-OR-Subsets/cpp-2044/) | | |
