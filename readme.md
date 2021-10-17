@@ -1799,6 +1799,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 2042 | [Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/) | [无] | [C++](2001-2500/2042-Check-if-Numbers-Are-Ascending-in-a-Sentence/cpp-2042/) | | |
 | 2043 | [Simple Bank System](https://leetcode.com/problems/simple-bank-system/) | [无] | [C++](2001-2500/2043-Simple-Bank-System/cpp-02043/) | | |
+| 2044 | [Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | [无] | [C++](2001-2500/2044-Count-Number-of-Maximum-Bitwise-OR-Subsets/cpp-2044/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
