@@ -482,6 +482,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 473 | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/description/) | [solution](https://leetcode.com/problems/matchsticks-to-square/solution/) | [C++](0001-0500/0473-Matchsticks-to-Square/cpp-0473/) | | |
 | 474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/) | [solution](https://leetcode.com/problems/ones-and-zeroes/solution/) | [C++](0001-0500/0474-Ones-and-Zeroes/cpp-0474/) | | |
 | | | | | | |
+| 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | [solution](https://leetcode.com/problems/number-complement/solution/) | [C++](0001-0500/0476-Number-Complement/cpp-0476/) | | |
 | 477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [solution](https://leetcode.com/problems/total-hamming-distance/solution/) [题解](https://leetcode-cn.com/problems/total-hamming-distance/solution/yi-ming-ju-chi-zong-he-by-leetcode/) | [C++](0001-0500/477-Total-Hamming-Distance/cpp-477/) | | |
 | 478 | [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/description/) | [solution](https://leetcode.com/problems/generate-random-point-in-a-circle/solution/) | [C++](0001-0500/0478-Generate-Random-Point-in-a-Circle/cpp-0478/) | | |
 | | | | | | |
@@ -1795,6 +1796,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | [无] | [C++](2001-2500/2033-Minimum-Operations-to-Make-a-Uni-Value-Grid/cpp-2033/) | | |
 | 2034 | [Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/) | [无] | [C++](2001-2500/2034-Stock-Price-Fluctuation/cpp-2034/) | | |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/) | [无] | [C++](2001-2500/2035-Partition-Array-Into-Two-Arrays-to-Minimize-Sum-Difference/cpp-2035/) | | |
+| | | | | | |
+| 2042 | [Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/) | [无] | [C++](2001-2500/2042-Check-if-Numbers-Are-Ascending-in-a-Sentence/cpp-2042/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
