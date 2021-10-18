@@ -1796,7 +1796,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | [无] | [C++](2001-2500/2033-Minimum-Operations-to-Make-a-Uni-Value-Grid/cpp-2033/) | | |
 | 2034 | [Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/) | [无] | [C++](2001-2500/2034-Stock-Price-Fluctuation/cpp-2034/) | | |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/) | [无] | [C++](2001-2500/2035-Partition-Array-Into-Two-Arrays-to-Minimize-Sum-Difference/cpp-2035/) | | |
-| | | | | | |
+| 2036 | [Maximum Alternating Subarray Sum](https://leetcode.com/problems/maximum-alternating-subarray-sum/) | [无] | [c++](2001-2500/2036-Maximum-Alternating-Subarray-Sum/cpp-2036/) | | |
 | 2037 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | [无] | [C++](2001-2500/2037-Minimum-Number-of-Moves-to-Seat-Everyone/cpp-2037/) | | |
 | 2038 | [Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | [无] | [C++](2001-2500/2038-Remove-Colored-Pieces-if-Both-Neighbors-are-the-Same-Color/cpp-2038/) | | |
 | 2039 | [The Time When the Network Becomes Idle](https://leetcode.com/problems/the-time-when-the-network-becomes-idle/) | [无] | [C++](2001-2500/2039-The-Time-When-the-Network-Becomes-Idle/cpp-2039/) | | |
