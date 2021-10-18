@@ -1798,6 +1798,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/) | [无] | [C++](2001-2500/2035-Partition-Array-Into-Two-Arrays-to-Minimize-Sum-Difference/cpp-2035/) | | |
 | | | | | | |
 | 2037 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | [无] | [C++](2001-2500/2037-Minimum-Number-of-Moves-to-Seat-Everyone/cpp-2037/) | | |
+| 2038 | [Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | [无] | [C++](2001-2500/2038-Remove-Colored-Pieces-if-Both-Neighbors-are-the-Same-Color/cpp-2038/) | | |
 | | | | | | |
 | 2042 | [Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/) | [无] | [C++](2001-2500/2042-Check-if-Numbers-Are-Ascending-in-a-Sentence/cpp-2042/) | | |
 | 2043 | [Simple Bank System](https://leetcode.com/problems/simple-bank-system/) | [无] | [C++](2001-2500/2043-Simple-Bank-System/cpp-02043/) | | |
