@@ -1806,7 +1806,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2043 | [Simple Bank System](https://leetcode.com/problems/simple-bank-system/) | [无] | [C++](2001-2500/2043-Simple-Bank-System/cpp-02043/) | | |
 | 2044 | [Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | [无] | [C++](2001-2500/2044-Count-Number-of-Maximum-Bitwise-OR-Subsets/cpp-2044/) | | |
 | 2045 | [Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/) | [无] | [C++](2001-2500/2045-Second-Minimum-Time-to-Reach-Destination/cpp-2045/) | | |
-| 2046 | [The Time When the Network Becomes Idle](https://leetcode.com/problems/the-time-when-the-network-becomes-idle/) | [无] | [C++](2001-2500/2046-The-Time-When-the-Network-Becomes-Idle/cpp-2046/) | | |
+| 2046 | [Sort Linked List Already Sorted Using Absolute Values](https://leetcode.com/problems/sort-linked-list-already-sorted-using-absolute-values/) | [无] | [C++](2001-2500/2046-Sort-Linked-List-Already-Sorted-Using-Absolute-Values/cpp-2046/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
