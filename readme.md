@@ -495,6 +495,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 490 | [The Maze](https://leetcode.com/problems/the-maze/description/) | [solution](https://leetcode.com/problems/the-maze/solution/) | [C++](0001-0500/0490-The-Maze/cpp-0490/) | | |
 | | | | | | |
+| 492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/) | [无] | [C++](0001-0500/0492-Construct-the-Rectangle/cpp-0492/) | | |
+| | | | | | |
 | 494 | [Target Sum](https://leetcode.com/problems/target-sum/description/) | [solution](https://leetcode.com/problems/target-sum/solution/) | [C++](0001-0500/0494-Target-Sum/cpp-0494/) | | |
 | | | | | | |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [solution](https://leetcode.com/problems/next-greater-element-i/solution/) | [C++](0001-0500/0496-Next-Greater-Element-I/cpp-0496/) | | |
