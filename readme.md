@@ -604,7 +604,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | [C++](0501-1000/0633-Sum-of-Square-Numbers/cpp-0633/) | | | |
 | | | | | | |
 | 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | [solution](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | [C++](0501-1000/0637-Average-of-Levels-in-Binary-Tree/cpp-0637/) | | |
-| | | | | | |
+| 638 | [Shopping Offers](https://leetcode.com/problems/shopping-offers/) | [solution](https://leetcode.com/problems/shopping-offers/solution/) | [C++](0501-1000/0638-Shopping-Offers/cpp-0638/) | | |
 | 639 | [Decode Ways II](https://leetcode.com/problems/decode-ways-ii/) | [solution](https://leetcode.com/problems/decode-ways-ii/solution/)<br/>[缺：DP] | [C++](0501-1000/0639-Decode-Ways-II/cpp-0639/) | | |
 | | | | | | |
 | 642 | [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) | [无] | [C++](0501-1000/0642-Design-Search-Autocomplete-System/cpp-0642/) | | |
