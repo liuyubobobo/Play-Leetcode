@@ -1812,6 +1812,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2047 | [Number of Valid Words in a Sentence](https://leetcode.com/problems/number-of-valid-words-in-a-sentence/) | [无] | [C++](2001-2500/2047-Number-of-Valid-Words-in-a-Sentence/cpp-2047/) | | |
 | 2048 | [Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/) | [无] | [C++](2001-2500/2048-Next-Greater-Numerically-Balanced-Number/cpp-2048/) | | |
 | 2049 | [Count Nodes With the Highest Score](https://leetcode.com/problems/count-nodes-with-the-highest-score/) | [无] | [C++](2001-2500/2049-Count-Nodes-With-the-Highest-Score/cpp-2049/) | | |
+| 2050 | [Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/) | [无] | [C++](2001-2500/2050-Parallel-Courses-III/cpp-2050/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
