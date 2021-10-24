@@ -1810,6 +1810,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2045 | [Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/) | [无] | [C++](2001-2500/2045-Second-Minimum-Time-to-Reach-Destination/cpp-2045/) | | |
 | 2046 | [Sort Linked List Already Sorted Using Absolute Values](https://leetcode.com/problems/sort-linked-list-already-sorted-using-absolute-values/) | [无] | [C++](2001-2500/2046-Sort-Linked-List-Already-Sorted-Using-Absolute-Values/cpp-2046/) | | |
 | 2047 | [Number of Valid Words in a Sentence](https://leetcode.com/problems/number-of-valid-words-in-a-sentence/) | [无] | [C++](2001-2500/2047-Number-of-Valid-Words-in-a-Sentence/cpp-2047/) | | |
+| 2048 | [Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/) | [无] | [C++](2001-2500/2048-Next-Greater-Numerically-Balanced-Number/cpp-2048/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
