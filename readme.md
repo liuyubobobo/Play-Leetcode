@@ -362,7 +362,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 331 | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [solution](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/solution/) | [C++](0001-0500/0331-Verify-Preorder-Serialization-of-a-Binary-Tree/cpp-0331/) | | |
 | | | | | | |
 | 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [solution](https://leetcode.com/problems/increasing-triplet-subsequence/solution/) | [C++](0001-0500/0334-Increasing-Triplet-Subsequence/cpp-0334/) | | |
-| | | | | | |
+| 335 | [Self Crossing](https://leetcode.com/problems/self-crossing/) | [无] | [C++](0001-0500/0335-Self-Crossing/cpp-0335/) | | |
 | 336 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | [solution](https://leetcode.com/problems/palindrome-pairs/solution/) | [C++](0001-0500/0336-Palindrome-Pairs/cpp-0336/)| | |
 | 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/description/) | [无] | [C++](0001-0500/0337-House-Robber-III/cpp-0337/) | | |
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [solution](https://leetcode.com/problems/counting-bits/solution/) | [C++](0001-0500/0338-Counting-Bits/cpp-0338/) | | |
