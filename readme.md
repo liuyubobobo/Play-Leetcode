@@ -294,7 +294,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | [solution](https://leetcode.com/problems/binary-tree-paths/solution/) | [C++](0001-0500/0257-Binary-Tree-Paths/cpp-0257/) | [Java](0001-0500/0257-Binary-Tree-Paths/java-0257/src/) | |
 | | | | | | |
 | 259 | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/description/) | [solution](https://leetcode.com/problems/3sum-smaller/solution/) | [C++](0001-0500/0259-3Sum-Smaller/cpp-0259/) | | |
-| | | | | | |
+| 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [solution](https://leetcode.com/problems/single-number-iii/solution/) | [C++](0001-0500/0260-Single-Number-III/cpp-0260/) | | |
 | 261 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | [C++](0001-0500/0261-Graph-Valid-Tree/cpp-0261/) | | | |
 | | | | | | |
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [无] | [C++](0001-0500/0263-Ugly-Number/cpp-0263/) | | |
