@@ -1816,6 +1816,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2050 | [Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/) | [无] | [C++](2001-2500/2050-Parallel-Courses-III/cpp-2050/) | | |
 | 2051 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 2052 | [Minimum Cost to Separate Sentence Into Rows](https://leetcode.com/problems/minimum-cost-to-separate-sentence-into-rows/) | [无] | [C++](2001-2500/2052-Minimum-Cost-to-Separate-Sentence-Into-Rows/cpp-2052/) | | |
+| 2053 | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/) | [无] | [C++](2001-2500/2053-Kth-Distinct-String-in-an-Array/cpp-2053/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
