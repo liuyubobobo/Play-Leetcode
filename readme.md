@@ -503,6 +503,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 497 | [Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/solution/) | [solution](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/solution/) | [C++](0001-0500/0497-Random-Point-in-Non-overlapping-Rectangles/cpp-0497/) | | |
 | 498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/) | [无] | [C++](0001-0500/0498-Diagonal-Traverse/cpp-0498/) | | |
 | | | | | | |
+| 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [无] | [C++](0001-0500/0500-Keyboard-Row/cpp-0500/) | | |
 | 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [无] | [C++](0501-1000/0501-Find-Mode-in-Binary-Search-Tree/cpp-0501/) | | |
 | 502 | [IPO](https://leetcode.com/problems/ipo/) | [solution](https://leetcode.com/problems/ipo/solution/) | [C++](0501-1000/0502-IPO/cpp-0502/) | | |
 | 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [solution](https://leetcode.com/problems/next-greater-element-ii/solution/) | [C++](0501-1000/0503-Next-Greater-Element-II/cpp-0503/) | | |
