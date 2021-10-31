@@ -1818,6 +1818,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2052 | [Minimum Cost to Separate Sentence Into Rows](https://leetcode.com/problems/minimum-cost-to-separate-sentence-into-rows/) | [无] | [C++](2001-2500/2052-Minimum-Cost-to-Separate-Sentence-Into-Rows/cpp-2052/) | | |
 | 2053 | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/) | [无] | [C++](2001-2500/2053-Kth-Distinct-String-in-an-Array/cpp-2053/) | | |
 | 2054 | [Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/) | [无] | [C++](2001-2500/2054-Two-Best-Non-Overlapping-Events/cpp-2054/) | | |
+| 2055 | [Plates Between Candles](https://leetcode.com/problems/plates-between-candles/) | [无] | [C++](2001-2500/2055-Plates-Between-Candles/cpp-2055/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
