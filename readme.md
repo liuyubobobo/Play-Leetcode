@@ -1820,6 +1820,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2054 | [Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/) | [无] | [C++](2001-2500/2054-Two-Best-Non-Overlapping-Events/cpp-2054/) | | |
 | 2055 | [Plates Between Candles](https://leetcode.com/problems/plates-between-candles/) | [无] | [C++](2001-2500/2055-Plates-Between-Candles/cpp-2055/) | | |
 | | | | | | |
+| 2057 | [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/) | [无] | [C++](2001-2500/2057-Smallest-Index-With-Equal-Value/cpp-2057/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
