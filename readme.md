@@ -1821,6 +1821,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2055 | [Plates Between Candles](https://leetcode.com/problems/plates-between-candles/) | [无] | [C++](2001-2500/2055-Plates-Between-Candles/cpp-2055/) | | |
 | | | | | | |
 | 2057 | [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/) | [无] | [C++](2001-2500/2057-Smallest-Index-With-Equal-Value/cpp-2057/) | | |
+| 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [无] | [C++](2001-2500/2058-Find-the-Minimum-and-Maximum-Number-of-Nodes-Between-Critical-Points/cpp-2058/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
