@@ -1823,6 +1823,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2057 | [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/) | [无] | [C++](2001-2500/2057-Smallest-Index-With-Equal-Value/cpp-2057/) | | |
 | 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [无] | [C++](2001-2500/2058-Find-the-Minimum-and-Maximum-Number-of-Nodes-Between-Critical-Points/cpp-2058/) | | |
 | 2059 | [Minimum Operations to Convert Number](https://leetcode.com/problems/minimum-operations-to-convert-number/) | [无] | [C++](2001-2500/2059-Minimum-Operations-to-Convert-Number/cpp-2059/) | | |
+| 2060 | [Check if an Original String Exists Given Two Encoded Strings](https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings/) | [无] | [C++](2001-2500/2060-Check-if-an-Original-String-Exists-Given-Two-Encoded-Strings/cpp-2060/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
