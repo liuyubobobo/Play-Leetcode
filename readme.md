@@ -1821,7 +1821,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2053 | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/) | [无] | [C++](2001-2500/2053-Kth-Distinct-String-in-an-Array/cpp-2053/) | | |
 | 2054 | [Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/) | [无] | [C++](2001-2500/2054-Two-Best-Non-Overlapping-Events/cpp-2054/) | | |
 | 2055 | [Plates Between Candles](https://leetcode.com/problems/plates-between-candles/) | [无] | [C++](2001-2500/2055-Plates-Between-Candles/cpp-2055/) | | |
-| | | | | | |
+| 2056 | [Number of Valid Move Combinations On Chessboard](https://leetcode.com/problems/number-of-valid-move-combinations-on-chessboard/) | [无] | [C++](2001-2500/2056-Number-of-Valid-Move-Combinations-On-Chessboard/cpp-2056/) | | |
 | 2057 | [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/) | [无] | [C++](2001-2500/2057-Smallest-Index-With-Equal-Value/cpp-2057/) | | |
 | 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [无] | [C++](2001-2500/2058-Find-the-Minimum-and-Maximum-Number-of-Nodes-Between-Critical-Points/cpp-2058/) | | |
 | 2059 | [Minimum Operations to Convert Number](https://leetcode.com/problems/minimum-operations-to-convert-number/) | [无] | [C++](2001-2500/2059-Minimum-Operations-to-Convert-Number/cpp-2059/) | | |
