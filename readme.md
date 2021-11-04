@@ -1826,6 +1826,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [无] | [C++](2001-2500/2058-Find-the-Minimum-and-Maximum-Number-of-Nodes-Between-Critical-Points/cpp-2058/) | | |
 | 2059 | [Minimum Operations to Convert Number](https://leetcode.com/problems/minimum-operations-to-convert-number/) | [无] | [C++](2001-2500/2059-Minimum-Operations-to-Convert-Number/cpp-2059/) | | |
 | 2060 | [Check if an Original String Exists Given Two Encoded Strings](https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings/) | [无] | [C++](2001-2500/2060-Check-if-an-Original-String-Exists-Given-Two-Encoded-Strings/cpp-2060/) | | |
+| 2061 | [Number of Spaces Cleaning Robot Cleaned](https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned/) | [无] | [C++](2001-2500/2061-Number-of-Spaces-Cleaning-Robot-Cleaned/cpp-2061/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
