@@ -1830,6 +1830,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2061 | [Number of Spaces Cleaning Robot Cleaned](https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned/) | [无] | [C++](2001-2500/2061-Number-of-Spaces-Cleaning-Robot-Cleaned/cpp-2061/) | | |
 | 2062 | [Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string/) | [无] | [C++](2001-2500/2062-Count-Vowel-Substrings-of-a-String/cpp-2062/) | | |
 | 2063 | [Vowels of All Substrings](https://leetcode.com/problems/vowels-of-all-substrings/) | [无] | [C++](2001-2500/2063-Vowels-of-All-Substrings/cpp-2063/) | | |
+| 2064 | [Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) | [无] | [C++](2001-2500/2064-Minimized-Maximum-of-Products-Distributed-to-Any-Store/cpp-2064/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
