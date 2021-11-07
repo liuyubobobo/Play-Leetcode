@@ -1831,6 +1831,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2062 | [Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string/) | [无] | [C++](2001-2500/2062-Count-Vowel-Substrings-of-a-String/cpp-2062/) | | |
 | 2063 | [Vowels of All Substrings](https://leetcode.com/problems/vowels-of-all-substrings/) | [无] | [C++](2001-2500/2063-Vowels-of-All-Substrings/cpp-2063/) | | |
 | 2064 | [Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) | [无] | [C++](2001-2500/2064-Minimized-Maximum-of-Products-Distributed-to-Any-Store/cpp-2064/) | | |
+| 2065 | [Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph/) | [无] | [C++](2001-2500/2065-Maximum-Path-Quality-of-a-Graph/cpp-2065/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
