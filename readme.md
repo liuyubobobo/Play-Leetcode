@@ -93,6 +93,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 040 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [无] | [C++](0001-0500/0040-Combination-Sum-II/cpp-0040/) | | |
 | 041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [solution](https://leetcode.com/problems/first-missing-positive/solution/) | [C++](0001-0500/0041-First-Missing-Positive/cpp-0041/) | | |
 | 042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [solution](https://leetcode.com/problems/trapping-rain-water/solution/) | [C++](0001-0500/0042-Trapping-Rain-Water/cpp-0042/) | | |
+| 043 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [solution](https://leetcode.com/problems/multiply-strings/solution/) | [C++](0001-0500/0043-Multiply-Strings/cpp-0043/) | | |
 | | | | | | |
 | 045 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [solution](https://leetcode.com/problems/jump-game-ii/solution/) | [C++](0001-0500/0045-Jump-Game-II/cpp-0045/) | | |
 | 046 | [Permutations](https://leetcode.com/problems/permutations/description/) | [solution](https://leetcode.com/problems/permutations/solution/)<br/>[缺：排列算法整理] | [C++](0001-0500/0046-Permutations/cpp-0046/) | [Java](0001-0500/0046-Permutations/java-0046/src/) | |
