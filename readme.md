@@ -330,7 +330,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 296 | [Best Meeting Point](https://leetcode.com/problems/best-meeting-point/) | [solution](https://leetcode.com/problems/best-meeting-point/solution/) | [C++](0001-0500/0296-Best-Meeting-Point/cpp-0296/) | | |
 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) | [solution](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/solution/) | [C++](0001-0500/0297-Serialize-and-Deserialize-Binary-Tree/cpp-0297/) | | |
 | 298 | [Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) | [solution](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/solution/) | [C++](0001-0500/0298-Binary-Tree-Longest-Consecutive-Sequence/cpp-0298/) | | |
-| | | | | | |
+| 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [solution](https://leetcode.com/problems/bulls-and-cows/solution/) | [C++](0001-0500/0299-Bulls-and-Cows/cpp-0299/) | | |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [solution](https://leetcode.com/problems/longest-increasing-subsequence/solution/) | [C++](0001-0500/0300-Longest-Increasing-Subsequence/cpp-0300/) | [Java](0001-0500/0300-Longest-Increasing-Subsequence/java-0300/src/) | |
 | 301 | [0301-Remove-Invalid-Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [solution](https://leetcode.com/problems/remove-invalid-parentheses/solution/)<br/>[缺：DP+构建] | [C++](0001-0500/0301-Remove-Invalid-Parentheses/cpp-0301/) | | |
 | | | | | | |
