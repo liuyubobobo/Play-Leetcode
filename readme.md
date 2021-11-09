@@ -503,7 +503,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/) | [无] | [C++](0001-0500/0492-Construct-the-Rectangle/cpp-0492/) | | |
 | | | | | | |
 | 494 | [Target Sum](https://leetcode.com/problems/target-sum/description/) | [solution](https://leetcode.com/problems/target-sum/solution/) | [C++](0001-0500/0494-Target-Sum/cpp-0494/) | | |
-| | | | | | |
+| 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/) | [solution](https://leetcode.com/problems/teemo-attacking/solution/) | [C++](0001-0500/0495-Teemo-Attacking/cpp-0495/) | | |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [solution](https://leetcode.com/problems/next-greater-element-i/solution/) | [C++](0001-0500/0496-Next-Greater-Element-I/cpp-0496/) | | |
 | 497 | [Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/solution/) | [solution](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/solution/) | [C++](0001-0500/0497-Random-Point-in-Non-overlapping-Rectangles/cpp-0497/) | | |
 | 498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/) | [无] | [C++](0001-0500/0498-Diagonal-Traverse/cpp-0498/) | | |
