@@ -496,6 +496,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [无] | [C++](0001-0500/0485-Max-Consecutive-Ones/cpp-0485/) | | |
 | | | | | | |
+| 488 | [Zuma Game](https://leetcode.com/problems/zuma-game/) | [无] | [C++](0001-0500/0488-Zuma-Game/cpp-0488/) | | |
+| | | | | | |
 | 490 | [The Maze](https://leetcode.com/problems/the-maze/description/) | [solution](https://leetcode.com/problems/the-maze/solution/) | [C++](0001-0500/0490-The-Maze/cpp-0490/) | | |
 | | | | | | |
 | 492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/) | [无] | [C++](0001-0500/0492-Construct-the-Rectangle/cpp-0492/) | | |
