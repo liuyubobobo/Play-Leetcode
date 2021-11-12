@@ -521,7 +521,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 517 | [Super Washing Machines](https://leetcode.com/problems/super-washing-machines/) | [solution](https://leetcode.com/problems/super-washing-machines/solution/) | [C++](0501-1000/0517-Super-Washing-Machines/cpp-0517/) | | |
 | 518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/description/) | [无] | [C++](0501-1000/0518-Coin-Change-2/cpp-0518/) | | |
 | 519 | [Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix/description/) | [solution](https://leetcode.com/problems/random-flip-matrix/solution/) | [C++](0501-1000/0519-Random-Flip-Matrix/cpp-0519/) | | |
-| | | | | | |
+| 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [solution](https://leetcode.com/problems/detect-capital/solution/) | [C++](0501-1000/0520-Detect-Capital/cpp-0520/) | | |
 | 521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [solution](https://leetcode.com/problems/longest-uncommon-subsequence-i/solution/) | [C++](0501-1000/0521-Longest-Uncommon-Subsequence-I/cpp-0521/) | | |
 | 522 | [Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | [solution](https://leetcode.com/problems/longest-uncommon-subsequence-ii/solution/) | [C++](0501-1000/0522-Longest-Uncommon-Subsequence-II/cpp-0522/) | | |
 | 523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [无] | [C++](0501-1000/0523-Continuous-Subarray-Sum/cpp-0523/) | | |
