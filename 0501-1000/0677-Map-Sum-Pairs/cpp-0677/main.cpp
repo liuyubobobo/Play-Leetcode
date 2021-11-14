@@ -7,6 +7,7 @@
 
 using namespace std;
 
+
 /// HashMap + Brute Force
 /// Time Complexity: insert: O(1)
 ///                  sum: O(n * len(prefix))
@@ -34,6 +35,7 @@ public:
         return ret;
     }
 };
+
 
 int main() {
 

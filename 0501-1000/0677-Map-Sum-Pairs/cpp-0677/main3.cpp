@@ -8,11 +8,11 @@
 
 using namespace std;
 
+
 /// Trie
 /// Time Complexity: insert: O(len(prefix))
 ///                  sum: O(sum(len(wi)))
 /// Space Complexity: O(sum(len(wi))) where wi is the length of the ith word.
-
 class Trie{
 
 private:
@@ -90,6 +90,7 @@ public:
         return trie.sum(prefix);
     }
 };
+
 
 int main() {
 

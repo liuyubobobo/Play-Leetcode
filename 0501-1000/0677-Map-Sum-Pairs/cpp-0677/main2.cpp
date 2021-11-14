@@ -16,6 +16,7 @@ class MapSum {
 private:
     unordered_map<string, int> prefixScore;
     unordered_map<string, int> summap;
+
 public:
     /** Initialize your data structure here. */
     MapSum() {
@@ -30,8 +31,9 @@ public:
                 prefixScore[key.substr(0, i)] += val;
         }
         else{
+            int old_value = summap[key];
             for(int i = 1 ; i <= key.size() ; i ++)
-                prefixScore[key.substr(0, i)] = val;
+                prefixScore[key.substr(0, i)] += val - old_value;
         }
 
         summap[key] = val;
@@ -41,6 +43,7 @@ public:
         return prefixScore[prefix];
     }
 };
+
 
 int main() {
 
