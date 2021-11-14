@@ -1839,6 +1839,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 2073 | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) | [无] | [C++](2001-2500/2073-Time-Needed-to-Buy-Tickets/cpp-2073/) | | |
 | 2074 | [Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/) | [无] | [C++](2001-2500/2074-Reverse-Nodes-in-Even-Length-Groups/cpp-2074/) | | |
+| 2075 | [Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | [无] | [C++](2001-2500/2075-Decode-the-Slanted-Ciphertext/cpp-2075/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
