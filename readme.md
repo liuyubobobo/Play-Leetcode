@@ -1837,6 +1837,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2064 | [Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) | [无] | [C++](2001-2500/2064-Minimized-Maximum-of-Products-Distributed-to-Any-Store/cpp-2064/) | | |
 | 2065 | [Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph/) | [无] | [C++](2001-2500/2065-Maximum-Path-Quality-of-a-Graph/cpp-2065/) | | |
 | | | | | | |
+| 2068 | [Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/) | [无] | [C++](2001-2500/2068-Check-Whether-Two-Strings-are-Almost-Equivalent/cpp-2068/) | | |
+| | | | | | |
 | 2073 | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) | [无] | [C++](2001-2500/2073-Time-Needed-to-Buy-Tickets/cpp-2073/) | | |
 | 2074 | [Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/) | [无] | [C++](2001-2500/2074-Reverse-Nodes-in-Even-Length-Groups/cpp-2074/) | | |
 | 2075 | [Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | [无] | [C++](2001-2500/2075-Decode-the-Slanted-Ciphertext/cpp-2075/) | | |
