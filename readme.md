@@ -1839,6 +1839,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 2068 | [Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/) | [无] | [C++](2001-2500/2068-Check-Whether-Two-Strings-are-Almost-Equivalent/cpp-2068/) | | |
 | 2069 | [Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/) | [无] | [C++](2001-2500/2069-Walking-Robot-Simulation-II/cpp-2069/) | | |
+| 2070 | [Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/) | [无] | [C++](2001-2500/2070-Most-Beautiful-Item-for-Each-Query/cpp-2070/) | | |
 | | | | | | |
 | 2073 | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) | [无] | [C++](2001-2500/2073-Time-Needed-to-Buy-Tickets/cpp-2073/) | | |
 | 2074 | [Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/) | [无] | [C++](2001-2500/2074-Reverse-Nodes-in-Even-Length-Groups/cpp-2074/) | | |
