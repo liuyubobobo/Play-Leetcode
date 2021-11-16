@@ -1836,12 +1836,13 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2063 | [Vowels of All Substrings](https://leetcode.com/problems/vowels-of-all-substrings/) | [无] | [C++](2001-2500/2063-Vowels-of-All-Substrings/cpp-2063/) | | |
 | 2064 | [Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) | [无] | [C++](2001-2500/2064-Minimized-Maximum-of-Products-Distributed-to-Any-Store/cpp-2064/) | | |
 | 2065 | [Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph/) | [无] | [C++](2001-2500/2065-Maximum-Path-Quality-of-a-Graph/cpp-2065/) | | |
-| | | | | | |
+| 2066 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 2067 | [Number of Equal Count Substrings](https://leetcode.com/problems/number-of-equal-count-substrings/) | [无] | [C++](2001-2500/2067-Number-of-Equal-Count-Substrings/cpp-2067/) | | |
 | 2068 | [Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/) | [无] | [C++](2001-2500/2068-Check-Whether-Two-Strings-are-Almost-Equivalent/cpp-2068/) | | |
 | 2069 | [Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/) | [无] | [C++](2001-2500/2069-Walking-Robot-Simulation-II/cpp-2069/) | | |
 | 2070 | [Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/) | [无] | [C++](2001-2500/2070-Most-Beautiful-Item-for-Each-Query/cpp-2070/) | | |
 | 2071 | [Maximum Number of Tasks You Can Assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/) | [无] | [C++](2001-2500/2071-Maximum-Number-of-Tasks-You-Can-Assign/cpp-2071/) | | |
-| | | | | | |
+| 2072 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 2073 | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) | [无] | [C++](2001-2500/2073-Time-Needed-to-Buy-Tickets/cpp-2073/) | | |
 | 2074 | [Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/) | [无] | [C++](2001-2500/2074-Reverse-Nodes-in-Even-Length-Groups/cpp-2074/) | | |
 | 2075 | [Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | [无] | [C++](2001-2500/2075-Decode-the-Slanted-Ciphertext/cpp-2075/) | | |
