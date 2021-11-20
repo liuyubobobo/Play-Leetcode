@@ -1847,6 +1847,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2074 | [Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/) | [无] | [C++](2001-2500/2074-Reverse-Nodes-in-Even-Length-Groups/cpp-2074/) | | |
 | 2075 | [Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | [无] | [C++](2001-2500/2075-Decode-the-Slanted-Ciphertext/cpp-2075/) | | |
 | 2076 | [Process Restricted Friend Requests](https://leetcode.com/problems/process-restricted-friend-requests/) | [无] | [C++](2001-2500/2076-Process-Restricted-Friend-Requests/cpp-2076/) | | |
+| 2077 | [Paths in Maze That Lead to Same Room](https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room/) | [无] | [C++](2001-2500/2077-Paths-in-Maze-That-Lead-to-Same-Room/cpp-2077/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
