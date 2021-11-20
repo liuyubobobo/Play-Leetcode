@@ -420,6 +420,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/description/) | [无] | [C++](0001-0500/0394-Decode-String/cpp-0394/) | | |
 | 395 | [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | [solution](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/solution/)<br/>[缺：滑动窗口] | [C++](0001-0500/0395-Longest-Substring-with-At-Least-K-Repeating-Characters/cpp-0395/) | | |
 | | | | | | |
+| 397 | [Integer Replacement](https://leetcode.com/problems/integer-replacement/) | [无] | [C++](0001-0500/0397-Integer-Replacement/cpp-0397/) | | |
 | 398 | [Random Pick Index](https://leetcode.com/problems/random-pick-index/description/) | [无] | [C++](0001-0500/0398-Random-Pick-Index/cpp-0398/) | | |
 | 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | [solution](https://leetcode.com/problems/evaluate-division/solution/)<br/>[缺：UF] | [C++](0001-0500/0399-Evaluate-Division/cpp-0399/) | | |
 | | | | | | |
