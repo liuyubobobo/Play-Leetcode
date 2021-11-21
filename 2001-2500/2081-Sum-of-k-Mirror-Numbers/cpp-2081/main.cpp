@@ -1,9 +1,16 @@
+/// Source : https://leetcode.com/problems/sum-of-k-mirror-numbers/
+/// Author : liuyubobobo
+/// Time   : 2021-11-20
+
 #include <iostream>
 #include <vector>
 
 using namespace std;
 
 
+/// DFS
+/// Time Complexity: O(sqrt(max_num) * logn)
+/// Space Complexity: O(log(max_num) + logn)
 class Solution {
 public:
     long long kMirror(int k, int n) {
@@ -47,6 +54,7 @@ private:
         return true;
     }
 };
+
 
 int main() {
 

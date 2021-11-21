@@ -1850,6 +1850,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2076 | [Process Restricted Friend Requests](https://leetcode.com/problems/process-restricted-friend-requests/) | [无] | [C++](2001-2500/2076-Process-Restricted-Friend-Requests/cpp-2076/) | | |
 | 2077 | [Paths in Maze That Lead to Same Room](https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room/) | [无] | [C++](2001-2500/2077-Paths-in-Maze-That-Lead-to-Same-Room/cpp-2077/) | | |
 | 2078 | [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | [无] | [C++](2001-2500/2078-Two-Furthest-Houses-With-Different-Colors/cpp-2078/) | | |
+| 2079 | [Watering Plants](https://leetcode.com/problems/watering-plants/) | [无] | [C++](2001-2500/2079-Watering-Plants/cpp-2079/) | | |
 | | | | | | |
 | 2081 | [Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers/) | [无] | [C++](2001-2500/2081-Sum-of-k-Mirror-Numbers/cpp-2081/) | | |
 | | | | | | |
