@@ -1851,6 +1851,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2077 | [Paths in Maze That Lead to Same Room](https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room/) | [无] | [C++](2001-2500/2077-Paths-in-Maze-That-Lead-to-Same-Room/cpp-2077/) | | |
 | 2078 | [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | [无] | [C++](2001-2500/2078-Two-Furthest-Houses-With-Different-Colors/cpp-2078/) | | |
 | | | | | | |
+| 2081 | [Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers/) | [无] | [C++](2001-2500/2081-Sum-of-k-Mirror-Numbers/cpp-2081/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
