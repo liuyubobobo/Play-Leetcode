@@ -1859,6 +1859,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2085 | [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/) | [无] | [C++](2001-2500/2085-Count-Common-Words-With-One-Occurrence/cpp-2085/) | | |
 | 2086 | [Minimum Number of Buckets Required to Collect Rainwater from Houses](https://leetcode.com/problems/minimum-number-of-buckets-required-to-collect-rainwater-from-houses/) | [无] | [C++](2001-2500/2086-Minimum-Number-of-Buckets-Required-to-Collect-Rainwater-from-Houses/cpp-2086/) | | |
 | | | | | | |
+| 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | [无] | [C++](2001-2500/2089-Find-Target-Indices-After-Sorting-Array/cpp-2089/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
