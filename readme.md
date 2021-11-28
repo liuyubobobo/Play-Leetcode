@@ -1853,6 +1853,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2079 | [Watering Plants](https://leetcode.com/problems/watering-plants/) | [无] | [C++](2001-2500/2079-Watering-Plants/cpp-2079/) | | |
 | 2080 | [Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/) | [无] | [C++](2001-2500/2080-Range-Frequency-Queries/cpp-2080/) | | |
 | 2081 | [Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers/) | [无] | [C++](2001-2500/2081-Sum-of-k-Mirror-Numbers/cpp-2081/) | | |
+| 2082 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 2083 | [Substrings That Begin and End With the Same Letter](https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter/) | [无] | [C++](2001-2500/2083-Substrings-That-Begin-and-End-With-the-Same-Letter/cpp-2083/) | | |
+| 2084 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 2085 | [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/) | [无] | [C++](2001-2500/2085-Count-Common-Words-With-One-Occurrence/cpp-2085/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
