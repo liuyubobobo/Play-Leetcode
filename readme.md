@@ -1858,6 +1858,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2084 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 2085 | [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/) | [无] | [C++](2001-2500/2085-Count-Common-Words-With-One-Occurrence/cpp-2085/) | | |
 | 2086 | [Minimum Number of Buckets Required to Collect Rainwater from Houses](https://leetcode.com/problems/minimum-number-of-buckets-required-to-collect-rainwater-from-houses/) | [无] | [C++](2001-2500/2086-Minimum-Number-of-Buckets-Required-to-Collect-Rainwater-from-Houses/cpp-2086/) | | |
+| 2087 | [Minimum Cost Homecoming of a Robot in a Grid](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/) | [无] | [C++](2001-2500/2087-Minimum-Cost-Homecoming-of-a-Robot-in-a-Grid/cpp-2087/) | | |
 | | | | | | |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | [无] | [C++](2001-2500/2089-Find-Target-Indices-After-Sorting-Array/cpp-2089/) | | |
 | 2090 | [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/) | [无] | [C++](2001-2500/2090-K-Radius-Subarray-Averages/cpp-2090/) | | |
