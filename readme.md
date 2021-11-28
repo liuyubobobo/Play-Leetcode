@@ -398,7 +398,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [无] | [C++](0001-0500/0373-Find-K-Pairs-with-Smallest-Sums/cpp-0373/) | | |
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [solution](https://leetcode.com/problems/guess-number-higher-or-lower/solution/) | [C++](0001-0500/0374-Guess-Number-Higher-or-Lower/cpp-0374/) | | |
-| | | | | | |
+| 375 | [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | [无] | [C++](0001-0500/0375-Guess-Number-Higher-or-Lower-II/cpp-0375/) | | |
 | 376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [solution](https://leetcode.com/problems/wiggle-subsequence/solution/) | [C++](0001-0500/0376-Wiggle-Subsequence/cpp-0376/)<br/>[缺：DP；O(1) 空间贪心] | | |
 | 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/) | [无] | [C++](0001-0500/0377-Combination-Sum-IV/cpp-0377/) | | |
 | 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [无] | [C++](0001-0500/0378-Kth-Smallest-Element-in-a-Sorted-Matrix/cpp-0378/) | | |
