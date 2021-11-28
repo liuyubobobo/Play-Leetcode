@@ -1862,6 +1862,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | [无] | [C++](2001-2500/2089-Find-Target-Indices-After-Sorting-Array/cpp-2089/) | | |
 | 2090 | [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/) | [无] | [C++](2001-2500/2090-K-Radius-Subarray-Averages/cpp-2090/) | | |
 | 2091 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | [无] | [C++](2001-2500/2091-Removing-Minimum-and-Maximum-From-Array/cpp-2091/) | | |
+| 2092 | [Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/) | [无] | [C++](2001-2500/2092-Find-All-People-With-Secret/cpp-2092/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
