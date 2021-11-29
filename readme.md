@@ -423,7 +423,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 397 | [Integer Replacement](https://leetcode.com/problems/integer-replacement/) | [无] | [C++](0001-0500/0397-Integer-Replacement/cpp-0397/) | | |
 | 398 | [Random Pick Index](https://leetcode.com/problems/random-pick-index/description/) | [无] | [C++](0001-0500/0398-Random-Pick-Index/cpp-0398/) | | |
 | 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | [solution](https://leetcode.com/problems/evaluate-division/solution/)<br/>[缺：UF] | [C++](0001-0500/0399-Evaluate-Division/cpp-0399/) | | |
-| | | | | | |
+| 400 | [Nth Digit](https://leetcode.com/problems/nth-digit/) | [无] | [C++](0001-0500/0400-Nth-Digit/cpp-0400/) | | |
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [无] | [C++](0001-0500/0401-Binary-Watch/cpp-0401/) | | |
 | 402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [solution](https://leetcode.com/problems/remove-k-digits/solution/) [题解](https://leetcode-cn.com/problems/remove-k-digits/solution/yi-diao-kwei-shu-zi-by-leetcode/) | [C++](0001-0500/0402-Remove-K-Digits/cpp-0402/) | | |
 | 403 | [Frog Jump](https://leetcode.com/problems/Frog-Jump/) | [solution](https://leetcode.com/problems/Frog-Jump/)<br/>[缺：dp] | [C++](0001-0500/0403-Frog-Jump/cpp-0403/) | | |
