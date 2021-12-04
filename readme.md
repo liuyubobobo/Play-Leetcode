@@ -396,6 +396,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 369 | [Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/) | [solution](https://leetcode.com/problems/plus-one-linked-list/solution/) | [C++](0001-0500/0369-Plus-One-Linked-List/cpp-0369/) | | |
 | 370 | [Range Addition](https://leetcode.com/problems/range-addition/description/) | | [C++](0001-0500/0370-Range-Addition/cpp-0370/) | | |
 | | | | | | |
+| 372 | [Super Pow](https://leetcode.com/problems/super-pow/) | [无] | [C++](0001-0500/0372-Super-Pow/cpp-0372/) | | |
 | 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [无] | [C++](0001-0500/0373-Find-K-Pairs-with-Smallest-Sums/cpp-0373/) | | |
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [solution](https://leetcode.com/problems/guess-number-higher-or-lower/solution/) | [C++](0001-0500/0374-Guess-Number-Higher-or-Lower/cpp-0374/) | | |
 | 375 | [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | [无] | [C++](0001-0500/0375-Guess-Number-Higher-or-Lower-II/cpp-0375/) | | |
