@@ -1867,6 +1867,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2091 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | [无] | [C++](2001-2500/2091-Removing-Minimum-and-Maximum-From-Array/cpp-2091/) | | |
 | 2092 | [Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/) | [无] | [C++](2001-2500/2092-Find-All-People-With-Secret/cpp-2092/) | | |
 | 2093 | [Minimum Cost to Reach City With Discounts](https://leetcode.com/problems/minimum-cost-to-reach-city-with-discounts/) | [无] | [C++](2001-2500/2093-Minimum-Cost-to-Reach-City-With-Discounts/cpp-2093/) | | |
+| 2094 | [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/) | [无] | [C++](2001-2500/2094-Finding-3-Digit-Even-Numbers/cpp-2094/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
