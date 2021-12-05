@@ -1869,6 +1869,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2093 | [Minimum Cost to Reach City With Discounts](https://leetcode.com/problems/minimum-cost-to-reach-city-with-discounts/) | [无] | [C++](2001-2500/2093-Minimum-Cost-to-Reach-City-With-Discounts/cpp-2093/) | | |
 | 2094 | [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/) | [无] | [C++](2001-2500/2094-Finding-3-Digit-Even-Numbers/cpp-2094/) | | |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [无] | [C++](2001-2500/2095-Delete-the-Middle-Node-of-a-Linked-List/cpp-2095/) | | |
+| 2096 | [Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) | [无] | [C++](2001-2500/2096-Step-By-Step-Directions-From-a-Binary-Tree-Node-to-Another/cpp-2096/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
