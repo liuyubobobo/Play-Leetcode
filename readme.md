@@ -1878,6 +1878,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2103 | [Rings and Rods](https://leetcode.com/problems/rings-and-rods/) | [无] | [C++](2001-2500/2103-Rings-and-Rods/cpp-2103/) | | |
 | 2104 | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/) | [无] | [C++](2001-2500/2104-Sum-of-Subarray-Ranges/cpp-2104/) | | |
 | 2105 | [Watering Plants II](https://leetcode.com/problems/watering-plants-ii/) | [无] | [C++](2001-2500/2105-Watering-Plants-II/cpp-2105/) | | |
+| 2106 | [Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/) | [无] | [C++](2001-2500/2106-Maximum-Fruits-Harvested-After-at-Most-K-Steps/cpp-2106/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
