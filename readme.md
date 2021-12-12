@@ -1876,6 +1876,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2097 | [Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/) | [无] | [C++](2001-2500/2097-Valid-Arrangement-of-Pairs/cpp-2097/) | | |
 | | | | | | |
 | 2103 | [Rings and Rods](https://leetcode.com/problems/rings-and-rods/) | [无] | [C++](2001-2500/2103-Rings-and-Rods/cpp-2103/) | | |
+| 2104 | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/) | [无] | [C++](2001-2500/2104-Sum-of-Subarray-Ranges/cpp-2104/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
