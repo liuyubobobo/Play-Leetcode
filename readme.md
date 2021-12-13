@@ -1878,7 +1878,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2099 | [Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) | [无] | [C++](2001-2500/2099-Find-Subsequence-of-Length-K-With-the-Largest-Sum/cpp-2099/) | | |
 | 2100 | [Find Good Days to Rob the Bank](https://leetcode.com/problems/find-good-days-to-rob-the-bank/) |  [无] | [C++](2001-2500/2100-Find-Good-Days-to-Rob-the-Bank/cpp-2100/) | | |
 | 2101 | [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/) | [无] | [C++](2001-2500/2101-Detonate-the-Maximum-Bombs/cpp-2101/) | | |
-| | | | | | |
+| 2102 | [Sequentially Ordinal Rank Tracker](https://leetcode.com/problems/sequentially-ordinal-rank-tracker/) | [无] | [C++](2001-2500/2102-Sequentially-Ordinal-Rank-Tracker/cpp-2102/) | | |
 | 2103 | [Rings and Rods](https://leetcode.com/problems/rings-and-rods/) | [无] | [C++](2001-2500/2103-Rings-and-Rods/cpp-2103/) | | |
 | 2104 | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/) | [无] | [C++](2001-2500/2104-Sum-of-Subarray-Ranges/cpp-2104/) | | |
 | 2105 | [Watering Plants II](https://leetcode.com/problems/watering-plants-ii/) | [无] | [C++](2001-2500/2105-Watering-Plants-II/cpp-2105/) | | |
