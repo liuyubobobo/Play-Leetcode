@@ -788,7 +788,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 848 | [Shifting Letters](https://leetcode.com/problems/shifting-letters/) | [无] | [C++](0501-1000/0848-Shifting-Letters/cpp-0848/) | | |
 | | | | | | |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [solution](https://leetcode.com/problems/rectangle-area-ii/solution/) | [C++](0501-1000/0850-Rectangle-Area-II/cpp-0850/) | | |
-| | | | | | |
+| 851 | [Loud and Rich](https://leetcode.com/problems/loud-and-rich/) | [solution](https://leetcode.com/problems/loud-and-rich/solution/) | [C++](0501-1000/0851-Loud-and-Rich/cpp-0851/) | | |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [solution](https://leetcode.com/problems/peak-index-in-a-mountain-array/solution/) | [C++](0501-1000/0852-Peak-Index-in-a-Mountain-Array/cpp-0852/) | | |
 | 853 | [Car Fleet](https://leetcode.com/problems/car-fleet/description/) | [solution](https://leetcode.com/problems/car-fleet/solution/) | [C++](0501-1000/0853-Car-Fleet/cpp-0853/) | | |
 | 854 | [K-Similar Strings](https://leetcode.com/problems/k-similar-strings/description/) | [solution](https://leetcode.com/problems/k-similar-strings/solution/) | [C++](0501-1000/0854-K-Similar-Strings/cpp-0854/) | | |
