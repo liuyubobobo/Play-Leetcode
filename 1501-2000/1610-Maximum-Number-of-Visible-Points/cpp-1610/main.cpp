@@ -1,6 +1,7 @@
 /// Source : https://leetcode.com/problems/maximum-number-of-visible-points/
 /// Author : liuyubobobo
 /// Time   : 2020-10-03
+/// Updated: 2021-11-15
 
 #include <iostream>
 #include <vector>
@@ -39,10 +40,10 @@ public:
 
         double a = angle * M_PI / (double)180.0;
         int res = 0;
-        for(int i = 0; i < n; i ++){
+        for(int i = 0; i < v.size(); i ++){
             vector<double>::iterator iter = upper_bound(v.begin(), v.end(), v[i] + a + 1e-6);
             int pos = (iter - v.begin());
-            int tres = base + pos - i;
+            int tres = pos - i;
             if(v[i] + a >= 2 * M_PI){
                 iter = upper_bound(v.begin(), v.end(), v[i] + a - 2 * M_PI+ 1e-6);
                 pos = (iter - v.begin());
@@ -50,7 +51,7 @@ public:
             }
             res = max(res, tres);
         }
-        return res;
+        return res + base;
     }
 };
 
@@ -71,6 +72,11 @@ int main() {
     vector<int> loc3 = {451961560,358354259};
     cout << Solution().visiblePoints(points3, 64, loc3) << endl;
     // 6
+
+    vector<vector<int>> points4 = {{1,1},{1,1},{1,1}};
+    vector<int> loc4 = {1,1};
+    cout << Solution().visiblePoints(points4, 1, loc4) << endl;
+    // 3
 
     return 0;
 }
