@@ -340,6 +340,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/description/) | [缺：BIT] | [C++](0001-0500/0307-Range-Sum-Query-Mutable/cpp-0307/) | | |
 | 308 | [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/description/) | | [C++](0001-0500/0308-Range-Sum-Query-2D-Mutable/cpp-0308/) | | |
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | [solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/solution/) | [C++](0001-0500/0309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown/cpp-0309/) | | |
+| 310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [solution](https://leetcode.com/problems/minimum-height-trees/solution/) | [C++](0001-0500/0310-Minimum-Height-Trees/cpp-0310/) | | |
 | | | | | | |
 | 312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [solution](https://leetcode.com/problems/burst-balloons/solution/) [题解](https://leetcode-cn.com/problems/burst-balloons/solution/chuo-qi-qiu-by-leetcode/) | [C++](0001-0500/0312-Burst-Balloons/cpp-0312/) | | |
 | 313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [无] | [C++](0001-0500/0313-Super-Ugly-Number/cpp-0313/) | | |
