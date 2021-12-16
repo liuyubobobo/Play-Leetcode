@@ -1884,6 +1884,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2104 | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/) | [无] | [C++](2001-2500/2104-Sum-of-Subarray-Ranges/cpp-2104/) | | |
 | 2105 | [Watering Plants II](https://leetcode.com/problems/watering-plants-ii/) | [无] | [C++](2001-2500/2105-Watering-Plants-II/cpp-2105/) | | |
 | 2106 | [Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/) | [无] | [C++](2001-2500/2106-Maximum-Fruits-Harvested-After-at-Most-K-Steps/cpp-2106/) | | |
+| 2107 | [Number of Unique Flavors After Sharing K Candies](https://leetcode.com/problems/number-of-unique-flavors-after-sharing-k-candies/) | [无] | [C++](2001-2500/2107-Number-of-Unique-Flavors-After-Sharing-K-Candies/cpp-2107/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
