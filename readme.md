@@ -443,6 +443,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [无] | [C++](0001-0500/0416-Partition-Equal-Subset-Sum/cpp-0416/) | [Java](0001-0500/0416-Partition-Equal-Subset-Sum/java-0416/src/) | |
 | 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/) | [无] | | [Java](0001-0500/0417-Pacific-Atlantic-Water-Flow/java-0417/src/) | |
 | | | | | | |
+| 419 | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | [无] | [C++](0001-0500/0419-Battleships-in-a-Board/cpp-0419/) | | |
+| | | | | | |
 | 421 | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [solution](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/solution/) | [C++](0001-0500/0421-Maximum-XOR-of-Two-Numbers-in-an-Array/cpp-0421/) | | |
 | | | | | | |
 | 423 | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | [solution](https://leetcode.com/problems/reconstruct-original-digits-from-english/solution/) | [C++](0001-0500/0423-Reconstruct-Original-Digits-from-English/cpp-0423/) | | |
