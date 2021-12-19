@@ -1889,6 +1889,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2107 | [Number of Unique Flavors After Sharing K Candies](https://leetcode.com/problems/number-of-unique-flavors-after-sharing-k-candies/) | [无] | [C++](2001-2500/2107-Number-of-Unique-Flavors-After-Sharing-K-Candies/cpp-2107/) | | |
 | 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | [无] | [C++](2001-2500/2108-Find-First-Palindromic-String-in-the-Array/cpp-2108/) | | |
 | 2109 | [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/) | [无] | [C++](2001-2500/2109-Adding-Spaces-to-a-String/cpp-2109/) | | |
+| 2110 | [Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/) | [无] | [C++](2001-2500/2110-Number-of-Smooth-Descent-Periods-of-a-Stock/cpp-2110/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
