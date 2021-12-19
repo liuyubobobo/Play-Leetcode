@@ -1,6 +1,6 @@
 /// Source : https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
 /// Author : liuyubobobo
-/// Time   : 2021-12-19
+/// Time   : 2021-12-18
 
 #include <iostream>
 #include <vector>
