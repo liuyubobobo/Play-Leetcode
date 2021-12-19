@@ -489,7 +489,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 473 | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/description/) | [solution](https://leetcode.com/problems/matchsticks-to-square/solution/) | [C++](0001-0500/0473-Matchsticks-to-Square/cpp-0473/) | | |
 | 474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/) | [solution](https://leetcode.com/problems/ones-and-zeroes/solution/) | [C++](0001-0500/0474-Ones-and-Zeroes/cpp-0474/) | | |
-| | | | | | |
+| 475 | [Heaters](https://leetcode.com/problems/heaters/) | [无] | [C++](0001-0500/0475-Heaters/cpp-0475/) | | |
 | 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | [solution](https://leetcode.com/problems/number-complement/solution/) | [C++](0001-0500/0476-Number-Complement/cpp-0476/) | | |
 | 477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [solution](https://leetcode.com/problems/total-hamming-distance/solution/) [题解](https://leetcode-cn.com/problems/total-hamming-distance/solution/yi-ming-ju-chi-zong-he-by-leetcode/) | [C++](0001-0500/477-Total-Hamming-Distance/cpp-477/) | | |
 | 478 | [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/description/) | [solution](https://leetcode.com/problems/generate-random-point-in-a-circle/solution/) | [C++](0001-0500/0478-Generate-Random-Point-in-a-Circle/cpp-0478/) | | |
