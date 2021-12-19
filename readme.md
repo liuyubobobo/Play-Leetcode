@@ -65,7 +65,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [无] | [C++](0001-0500/0012-Integer-to-Roman/cpp-0012/) | | |
 | 013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [无] | [C++](0001-0500/0013-Roman-to-Integer/cpp-0013/) | | |
 | 014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [无] | [C++](0001-0500/0014-Longest-Common-Prefix/cpp-0014/) | | |
-| 015 | [3Sum](https://leetcode.com/problems/3sum/description/) | [无] | [0001-0500/C++](0015-3Sum/cpp-0015/) | | |
+| 015 | [3Sum](https://leetcode.com/problems/3sum/description/) | [无] | [C++](0001-0500/0015-3Sum/cpp-0015/) | | |
 | 016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) | [无] | [C++](0001-0500/0016-3Sum-Closest/cpp-0016/) | | |
 | 017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [solution](https://leetcode.com/problems/letter-combinations-of-a-phone-number/solution/) | [C++](0001-0500/0017-Letter-Combinations-of-a-Phone-Number/cpp-0017/) | [Java](0001-0500/0017-Letter-Combinations-of-a-Phone-Number/java-0017/src/) | |
 | 018 | [4Sum](https://leetcode.com/problems/4sum/description/) | [无] | [C++](0001-0500/0018-4Sum/cpp-0018/) | | |
@@ -1887,6 +1887,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2105 | [Watering Plants II](https://leetcode.com/problems/watering-plants-ii/) | [无] | [C++](2001-2500/2105-Watering-Plants-II/cpp-2105/) | | |
 | 2106 | [Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/) | [无] | [C++](2001-2500/2106-Maximum-Fruits-Harvested-After-at-Most-K-Steps/cpp-2106/) | | |
 | 2107 | [Number of Unique Flavors After Sharing K Candies](https://leetcode.com/problems/number-of-unique-flavors-after-sharing-k-candies/) | [无] | [C++](2001-2500/2107-Number-of-Unique-Flavors-After-Sharing-K-Candies/cpp-2107/) | | |
+| 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | [无] | [C++](2001-2500/2108-Find-First-Palindromic-String-in-the-Array/cpp-2108/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
