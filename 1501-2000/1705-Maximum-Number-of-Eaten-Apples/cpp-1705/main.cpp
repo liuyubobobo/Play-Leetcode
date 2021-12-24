@@ -20,29 +20,20 @@ public:
 
         priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
 
-        int res = 0;
-        for(int i = 0; i < n; i ++){
-            pq.push({i + days[i], apples[i]});
-            while(!pq.empty() && pq.top().first <= i) pq.pop();
+        int res = 0, cur_day = 0;
+        while(cur_day < n || !pq.empty()){
+            if(cur_day < n && apples[cur_day]) pq.push({cur_day + days[cur_day], apples[cur_day]});
+            while(!pq.empty() && pq.top().first <= cur_day) pq.pop();
 
             if(!pq.empty()){
+                res ++;
+
                 pair<int, int> p = pq.top();
                 pq.pop();
                 p.second --;
-                res ++;
                 if(p.second) pq.push(p);
             }
-        }
-
-        int d = n;
-        while(!pq.empty()){
-            int endday = pq.top().first, cnt = pq.top().first;
-            pq.pop();
-            if(endday <= d) continue;
-
-            int c = min(cnt, endday - d);
-            res += c;
-            d += c;
+            cur_day ++;
         }
         return res;
     }
