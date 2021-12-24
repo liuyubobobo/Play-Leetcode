@@ -1891,6 +1891,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2109 | [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/) | [无] | [C++](2001-2500/2109-Adding-Spaces-to-a-String/cpp-2109/) | | |
 | 2110 | [Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/) | [无] | [C++](2001-2500/2110-Number-of-Smooth-Descent-Periods-of-a-Stock/cpp-2110/) | | |
 | 2111 | [Minimum Operations to Make the Array K-Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/) | [无] | [C++](2001-2500/2111-Minimum-Operations-to-Make-the-Array-K-Increasing/cpp-2111/) | | |
+| 2112 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 2113 | [Elements in Array After Removing and Replacing Elements](https://leetcode.com/problems/elements-in-array-after-removing-and-replacing-elements/) | [无] | [C++](2001-2500/2113-Elements-in-Array-After-Removing-and-Replacing-Elements/cpp-2113/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
