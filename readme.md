@@ -10,16 +10,9 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 
 大家好，欢迎大家来到我的 **Leetcode 算法题解**代码仓。在这个代码仓中，近乎每一个问题都会使用多种方式进行解决，同时标注了简明的算法思想，时间复杂度和空间复杂度。所有问题都会使用C++进行解决，各别问题支持Java语言和Python语言。
 
-由于 Leetcode 如今已经问题量巨大，所以很多同学可能会刷起来毫无头绪。推荐大家可以使用 Leetcode 在2017年底推出的 [**Leetcode Explore**](https://leetcode.com/explore/)，这个模块分门别类地整理了Leetcode上的问题，是一个很好的刷 Leetcode 的指引。Leetcode Explore模块上的题解，可以参考我的代码仓：[**Play Leetcode Explore**](https://github.com/liuyubobobo/Play-Leetcode-Explore)
-
-
 如果对代码仓有任何问题，欢迎联系我：）
 
-**个人网站**：[liuyubobobo.com](http://liuyubobobo.com) [废弃重整中...]
-
 **电子邮件**：[liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
-
-**微博**: [刘宇波bobo http://weibo.com/liuyubobobo](http://weibo.com/liuyubobobo)
 
 **知乎**: [刘宇波 http://www.zhihu.com/people/liuyubobobo](http://www.zhihu.com/people/liuyubobobo)
 
@@ -29,6 +22,11 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 
 ![QRCode](qrcode.png)
 
+**知识星球（免费）**
+
+![zsxq](zsxq.jpg)
+
+<br/>
 
 ## 其他相关代码仓
 
@@ -41,9 +39,6 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 * [**《玩转数据结构》课程**](https://coding.imooc.com/class/207.html), 代码仓: [Play-with-Data-Structures](https://github.com/liuyubobobo/Play-with-Data-Structures)
 
 * [**《玩转图论算法》课程**](https://coding.imooc.com/class/370.html), 代码仓: [Play-with-Graph-Algorithms](https://github.com/liuyubobobo/Play-with-Graph-Algorithms)
-
-* **LeetCode Explore 题解代码仓**：[Play Leetcode Explore](https://github.com/liuyubobobo/Play-Leetcode-Explore) （注：以C++实现为主）
-    * [Leetcode Explore](https://leetcode.com/explore/) 是 Leetcode 在2017年底上线的新模块，分门别类地整理了Leetcode上的问题。如果刷Leetcode一时不知从哪里下手，可以从Leetcode Explore为指引开始：）
 
 * **LeetCode Database 题解代码仓**：[Play Leetcode Database](https://github.com/liuyubobobo/Play-Leetcode-Database/)
 
@@ -223,8 +218,11 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) | [无]<br/>[缺：Morris遍历] | [C++](0001-0500/0173-Binary-Search-Tree-Iterator/cpp-0173/) | | |
 | 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [solution](https://leetcode.com/problems/dungeon-game/solution/) | [C++](0001-0500/0174-Dungeon-Game/cpp-0174/) | | |
+| 175 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
 | 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | [无] | [C++](0001-0500/0179-Largest-Number/cpp-0179/) | | |
+| | | | | | |
+| 181 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
 | 186 | [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/description/) | [无] | [C++](0001-0500/0186-Reverse-Words-in-a-String-II/cpp-0186/) | | |
 | | | | | | |
@@ -1893,6 +1891,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2111 | [Minimum Operations to Make the Array K-Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/) | [无] | [C++](2001-2500/2111-Minimum-Operations-to-Make-the-Array-K-Increasing/cpp-2111/) | | |
 | 2112 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 2113 | [Elements in Array After Removing and Replacing Elements](https://leetcode.com/problems/elements-in-array-after-removing-and-replacing-elements/) | [无] | [C++](2001-2500/2113-Elements-in-Array-After-Removing-and-Replacing-Elements/cpp-2113/) | | |
+| 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | [无] | [C++](2001-2500/2114-Maximum-Number-of-Words-Found-in-Sentences/cpp-2114/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
