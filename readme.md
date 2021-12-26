@@ -1894,6 +1894,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | [无] | [C++](2001-2500/2114-Maximum-Number-of-Words-Found-in-Sentences/cpp-2114/) | | |
 | | | | | | |
 | 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/) | [无] | [C++](2001-2500/2119-A-Number-After-a-Double-Reversal/cpp-2119/) | | |
+| 2120 | [Execution of All Suffix Instructions Staying in a Grid](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/) | [无] | [C
+++](2001-2500/2120-Execution-of-All-Suffix-Instructions-Staying-in-a-Grid/cpp-2120/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
