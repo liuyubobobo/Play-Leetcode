@@ -768,6 +768,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 823 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | [solution](https://leetcode.com/problems/binary-trees-with-factors/solution/) | [C++](0501-1000/0823-Binary-Trees-With-Factors/cpp-0823/) | | |
 | | | | | | |
+| 825 | [Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/) | [无] | [C++](0501-1000/0825-Friends-Of-Appropriate-Ages/cpp-0825/) | | |
+| | | | | | |
 | 827 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | [无] | [C++](0501-1000/0827-Making-A-Large-Island/cpp-0827/) | | |
 | | | | | | |
 | 830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/) | [solution](https://leetcode.com/problems/positions-of-large-groups/solution/) | [C++](0501-1000/0830-Positions-of-Large-Groups/cpp-0830/) | | |
