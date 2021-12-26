@@ -1897,6 +1897,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2120 | [Execution of All Suffix Instructions Staying in a Grid](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/) | [无] | [C
 ++](2001-2500/2120-Execution-of-All-Suffix-Instructions-Staying-in-a-Grid/cpp-2120/) | | |
 | 2121 | [Intervals Between Identical Elements](https://leetcode.com/problems/intervals-between-identical-elements/) | [无] | [C++](2001-2500/2121-Intervals-Between-Identical-Elements/cpp-2121/) | | |
+| 2122 | [Recover the Original Array](https://leetcode.com/problems/recover-the-original-array/) | [无] | [C++](2001-2500/2122-Recover-the-Original-Array/cpp-2122/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
