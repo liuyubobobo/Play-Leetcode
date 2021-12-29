@@ -219,6 +219,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) | [无]<br/>[缺：Morris遍历] | [C++](0001-0500/0173-Binary-Search-Tree-Iterator/cpp-0173/) | | |
 | 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [solution](https://leetcode.com/problems/dungeon-game/solution/) | [C++](0001-0500/0174-Dungeon-Game/cpp-0174/) | | |
 | 175 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 176 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
 | 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | [无] | [C++](0001-0500/0179-Largest-Number/cpp-0179/) | | |
 | | | | | | |
@@ -788,6 +789,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [solution](https://leetcode.com/problems/backspace-string-compare/solution/) | [C++](0501-1000/0844-Backspace-String-Compare/cpp-0844/) | | |
 | | | | | | |
+| 846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | [无] | [C++](0501-1000/0846-Hand-of-Straights/cpp-0846/) | | |
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [无] | [C++](0501-1000/0847-Shortest-Path-Visiting-All-Nodes/cpp-0847/) | | |
 | 848 | [Shifting Letters](https://leetcode.com/problems/shifting-letters/) | [无] | [C++](0501-1000/0848-Shifting-Letters/cpp-0848/) | | |
 | | | | | | |
