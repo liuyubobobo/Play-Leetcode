@@ -485,6 +485,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 470 | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/description/) | [solution](https://leetcode.com/problems/implement-rand10-using-rand7/solution/) | [C++](0001-0500/0470-Implement-Rand10-Using-Rand7/cpp-0470/) | | |
 | | | | | | |
+| 472 | [Concatenated Words](https://leetcode.com/problems/concatenated-words/) | [无] | [C++](0001-0500/0472-Matchsticks-to-Square/cpp-0472/) | | |
 | 473 | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/description/) | [solution](https://leetcode.com/problems/matchsticks-to-square/solution/) | [C++](0001-0500/0473-Matchsticks-to-Square/cpp-0473/) | | |
 | 474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/) | [solution](https://leetcode.com/problems/ones-and-zeroes/solution/) | [C++](0001-0500/0474-Ones-and-Zeroes/cpp-0474/) | | |
 | 475 | [Heaters](https://leetcode.com/problems/heaters/) | [无] | [C++](0001-0500/0475-Heaters/cpp-0475/) | | |
