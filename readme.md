@@ -1906,6 +1906,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2121 | [Intervals Between Identical Elements](https://leetcode.com/problems/intervals-between-identical-elements/) | [无] | [C++](2001-2500/2121-Intervals-Between-Identical-Elements/cpp-2121/) | | |
 | 2122 | [Recover the Original Array](https://leetcode.com/problems/recover-the-original-array/) | [无] | [C++](2001-2500/2122-Recover-the-Original-Array/cpp-2122/) | | |
 | | | | | | |
+| 2127 | [Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/) | [无] | [C++](2001-2500/2127-Maximum-Employees-to-Be-Invited-to-a-Meeting/cpp-2127/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
