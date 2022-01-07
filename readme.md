@@ -1905,7 +1905,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 ++](2001-2500/2120-Execution-of-All-Suffix-Instructions-Staying-in-a-Grid/cpp-2120/) | | |
 | 2121 | [Intervals Between Identical Elements](https://leetcode.com/problems/intervals-between-identical-elements/) | [无] | [C++](2001-2500/2121-Intervals-Between-Identical-Elements/cpp-2121/) | | |
 | 2122 | [Recover the Original Array](https://leetcode.com/problems/recover-the-original-array/) | [无] | [C++](2001-2500/2122-Recover-the-Original-Array/cpp-2122/) | | |
-| | | | | | |
+| 2123 | [Minimum Operations to Remove Adjacent Ones in Matrix](2001-2500/2123-Minimum-Operations-to-Remove-Adjacent-Ones-in-Matrix/cpp-2123/) | [无] | [C++](2001-2500/2123-Minimum-Operations-to-Remove-Adjacent-Ones-in-Matrix/cpp-2123/) | | |
 | 2124 | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) | [无] | [C++](2001-2500/2124-Check-if-All-As-Appears-Before-All-Bs/cpp-2124/) | | |
 | 2125 | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | [无] | [C++](2001-2500/2125-Number-of-Laser-Beams-in-a-Bank/cpp-2125/) | | |
 | 2126 | [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/) | [无] | [C++](2001-2500/2126-Destroying-Asteroids/cpp-2126/) | | |
