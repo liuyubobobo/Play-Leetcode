@@ -1913,6 +1913,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2128 | [Remove All Ones With Row and Column Flips](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips/) | [C++](2001-2500/2128-Remove-All-Ones-With-Row-and-Column-Flips/cpp-2128/) | | | |
 | 2129 | [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/) | [无] | [C++](2001-2500/2129-Capitalize-the-Title/cpp-2129/) | | |
 | 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [无] | [C++](2001-2500/2130-Maximum-Twin-Sum-of-a-Linked-List/cpp-2130/) | | |
+| 2131 | [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | [无] | [C++](2001-2500/2131-Longest-Palindrome-by-Concatenating-Two-Letter-Words/cpp-2131/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
