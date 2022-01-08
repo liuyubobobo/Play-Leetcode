@@ -1912,6 +1912,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2127 | [Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/) | [无] | [C++](2001-2500/2127-Maximum-Employees-to-Be-Invited-to-a-Meeting/cpp-2127/) | | |
 | 2128 | [Remove All Ones With Row and Column Flips](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips/) | [C++](2001-2500/2128-Remove-All-Ones-With-Row-and-Column-Flips/cpp-2128/) | | | |
 | 2129 | [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/) | [无] | [C++](2001-2500/2129-Capitalize-the-Title/cpp-2129/) | | |
+| 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [无] | [C++](2001-2500/2130-Maximum-Twin-Sum-of-a-Linked-List/cpp-2130/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
