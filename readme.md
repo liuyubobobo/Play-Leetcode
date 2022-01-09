@@ -1918,6 +1918,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2133 | [Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/) | [无] | [C++](2001-2500/2133-Check-if-Every-Row-and-Column-Contains-All-Numbers/cpp-2133/) | | |
 | 2134 | [Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/) | [无] | [C++](2001-2500/2134-Minimum-Swaps-to-Group-All-1s-Together-II/cpp-2134/) | | |
 | 2135 | [Count Words Obtained After Adding a Letter](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/) | [无] | [C++](2001-2500/2135-Count-Words-Obtained-After-Adding-a-Letter/cpp-2135/) | | |
+| 2136 | [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) | [无] | [C++](2001-2500/2136-Earliest-Possible-Day-of-Full-Bloom/cpp-2136/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
