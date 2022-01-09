@@ -1916,6 +1916,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2131 | [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | [无] | [C++](2001-2500/2131-Longest-Palindrome-by-Concatenating-Two-Letter-Words/cpp-2131/) | | |
 | 2132 | [Stamping the Grid](https://leetcode.com/problems/stamping-the-grid/) | [缺：二维差分数组] | [C++](2001-2500/2132-Stamping-the-Grid/cpp-2132/) | | |
 | 2133 | [Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/) | [无] | [C++](2001-2500/2133-Check-if-Every-Row-and-Column-Contains-All-Numbers/cpp-2133/) | | |
+| 2134 | [Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/) | [无] | [C++](2001-2500/2134-Minimum-Swaps-to-Group-All-1s-Together-II/cpp-2134/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
