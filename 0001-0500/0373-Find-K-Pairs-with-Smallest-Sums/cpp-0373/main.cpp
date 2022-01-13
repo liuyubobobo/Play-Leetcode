@@ -14,13 +14,12 @@ using namespace std;
 /// Space Complexity: O(len(nums1))
 class Solution {
 public:
-    vector<pair<int, int>> kSmallestPairs(
-            vector<int>& nums1, vector<int>& nums2, int k) {
+    vector<vector<int>> kSmallestPairs( vector<int>& nums1, vector<int>& nums2, int k) {
 
         if(!nums1.size() || !nums2.size())
             return {};
 
-        vector<pair<int, int>> res;
+        vector<vector<int>> res;
         priority_queue<pair<int, pair<int, int>>,
                        vector<pair<int, pair<int, int>>>,
                        greater<pair<int, pair<int, int>>>> pq;
@@ -30,7 +29,7 @@ public:
         while(k-- && !pq.empty()){
             pair<int, int> p = pq.top().second;
 
-            res.push_back(make_pair(nums1[p.first], nums2[p.second]));
+            res.push_back({nums1[p.first], nums2[p.second]});
             pq.pop();
 
             if(p.second + 1 < nums2.size()){
@@ -44,9 +43,9 @@ public:
 };
 
 
-void print_vec(const vector<pair<int, int>>& vec){
-    for(const pair<int, int>& p: vec)
-        cout << "(" << p.first << "," << p.second << ") ";
+void print_vec(const vector<vector<int>>& vec){
+    for(const vector<int>& p: vec)
+        cout << "(" << p[0] << "," << p[1] << ") ";
     cout << endl;
 }
 
