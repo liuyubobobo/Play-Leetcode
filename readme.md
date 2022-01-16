@@ -1923,6 +1923,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2136 | [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) | [无] | [C++](2001-2500/2136-Earliest-Possible-Day-of-Full-Bloom/cpp-2136/) | | |
 | 2137 | [Pour Water Between Buckets to Make Water Levels Equal](https://leetcode.com/problems/pour-water-between-buckets-to-make-water-levels-equal/) | [无] | [C++](2001-2500/2137-Pour-Water-Between-Buckets-to-Make-Water-Levels-Equal/cpp-2137/) | | |
 | 2138 | [Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/) | [无] | [C++](2001-2500/2138-Divide-a-String-Into-Groups-of-Size-k/cpp-2138/) | | |
+| 2139 | [Minimum Moves to Reach Target Score](https://leetcode.com/problems/minimum-moves-to-reach-target-score/) | [无] | [C++](2001-2500/2139-Minimum-Moves-to-Reach-Target-Score/cpp-2139/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
