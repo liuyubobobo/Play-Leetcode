@@ -1925,6 +1925,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2138 | [Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/) | [无] | [C++](2001-2500/2138-Divide-a-String-Into-Groups-of-Size-k/cpp-2138/) | | |
 | 2139 | [Minimum Moves to Reach Target Score](https://leetcode.com/problems/minimum-moves-to-reach-target-score/) | [无] | [C++](2001-2500/2139-Minimum-Moves-to-Reach-Target-Score/cpp-2139/) | | |
 | 2140 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) | [无] | [C++](2001-2500/2140-Solving-Questions-With-Brainpower/cpp-2140/) | | |
+| 2141 | [Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/) | [无] | [C++](2001-2500/2141-Maximum-Running-Time-of-N-Computers/cpp-2141/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
