@@ -795,7 +795,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | [无] | [C++](0501-1000/0846-Hand-of-Straights/cpp-0846/) | | |
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [无] | [C++](0501-1000/0847-Shortest-Path-Visiting-All-Nodes/cpp-0847/) | | |
 | 848 | [Shifting Letters](https://leetcode.com/problems/shifting-letters/) | [无] | [C++](0501-1000/0848-Shifting-Letters/cpp-0848/) | | |
-| | | | | | |
+| 849 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [无] | [C++](0501-1000/0849-Maximize-Distance-to-Closest-Person/cpp-0849/) | | |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [solution](https://leetcode.com/problems/rectangle-area-ii/solution/) | [C++](0501-1000/0850-Rectangle-Area-II/cpp-0850/) | | |
 | 851 | [Loud and Rich](https://leetcode.com/problems/loud-and-rich/) | [solution](https://leetcode.com/problems/loud-and-rich/solution/) | [C++](0501-1000/0851-Loud-and-Rich/cpp-0851/) | | |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [solution](https://leetcode.com/problems/peak-index-in-a-mountain-array/solution/) | [C++](0501-1000/0852-Peak-Index-in-a-Mountain-Array/cpp-0852/) | | |
