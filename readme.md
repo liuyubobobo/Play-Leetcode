@@ -548,7 +548,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 536 | [Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string/) | [solution](https://leetcode.com/problems/construct-binary-tree-from-string/solution/)<br/>[缺：stack] | [C++](0501-1000/0536-Construct-Binary-Tree-from-String/cpp-0536/) | | |
 | 537 | [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/) | [solution](https://leetcode.com/problems/complex-number-multiplication/solution/) | [C++](0501-1000/0537-Complex-Number-Multiplication/cpp-0537/) | | |
 | 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [solution](https://leetcode.com/problems/convert-bst-to-greater-tree/solution/) | [C++](0501-1000/0538-Convert-BST-to-Greater-Tree/cpp-0538/) | | |
-| | | | | | |
+| 539 | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | [无] | [C++](0501-1000/0539-Convert-BST-to-Greater-Tree/cpp-0539/) | | |
 | 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [solution](https://leetcode.com/problems/single-element-in-a-sorted-array/solution/) | [C++](0501-1000/0540-Single-Element-in-a-Sorted-Array/cpp-0540/) | | |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/) | [solution](https://leetcode.com/problems/reverse-string-ii/solution/) | [C++](0501-1000/0541-Reverse-String-II/cpp-0541/) | | |
 | 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/description/) | [solution](https://leetcode.com/problems/01-matrix/solution/) | [C++](0501-1000/0542-01-Matrix/cpp-0542/) | | |
