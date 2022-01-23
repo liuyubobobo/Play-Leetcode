@@ -1931,6 +1931,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | [无] | [C++](2001-2500/2144-Minimum-Cost-of-Buying-Candies-With-Discount/cpp-2144/) | | |
 | 2145 | [Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/) | [无] | [C++](2001-2500/2145-Count-the-Hidden-Sequences/cpp-2145/) | | |
 | 2146 | [K Highest Ranked Items Within a Price Range](https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range/) | [无] | [C++](2001-2500/2146-K-Highest-Ranked-Items-Within-a-Price-Range/cpp-2146/) | | |
+| 2147 | [Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/) | [无]<br/>[缺：数学更简单的写法；dp] | [C++](2001-2500/2147-Number-of-Ways-to-Divide-a-Long-Corridor/cpp-2147/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
