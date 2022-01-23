@@ -1929,6 +1929,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2141 | [Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/) | [无] | [C++](2001-2500/2141-Maximum-Running-Time-of-N-Computers/cpp-2141/) | | |
 | | | | | | |
 | 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | [无] | [C++](2001-2500/2144-Minimum-Cost-of-Buying-Candies-With-Discount/cpp-2144/) | | |
+| 2145 | [Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/) | [无] | [C++](2001-2500/2145-Count-the-Hidden-Sequences/cpp-2145/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
