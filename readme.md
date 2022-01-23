@@ -1928,6 +1928,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2140 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) | [无] | [C++](2001-2500/2140-Solving-Questions-With-Brainpower/cpp-2140/) | | |
 | 2141 | [Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/) | [无] | [C++](2001-2500/2141-Maximum-Running-Time-of-N-Computers/cpp-2141/) | | |
 | | | | | | |
+| 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | [无] | [C++](2001-2500/2144-Minimum-Cost-of-Buying-Candies-With-Discount/cpp-2144/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
