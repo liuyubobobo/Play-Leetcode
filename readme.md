@@ -1934,6 +1934,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2147 | [Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/) | [无]<br/>[缺：数学更简单的写法；dp] | [C++](2001-2500/2147-Number-of-Ways-to-Divide-a-Long-Corridor/cpp-2147/) | | |
 | 2148 | [Count Elements With Strictly Smaller and Greater Elements](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/) | [无] | [C++](2001-2500/2148-Count-Elements-With-Strictly-Smaller-and-Greater-Elements/cpp-2148/) | | |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [无] | [C++](2001-2500/2149-Rearrange-Array-Elements-by-Sign/cpp-2149/) | | |
+| 2150 | [Find All Lonely Numbers in the Array](https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/) | [无] | [C++](2001-2500/2150-Find-All-Lonely-Numbers-in-the-Array/cpp-2150/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
