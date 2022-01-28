@@ -363,6 +363,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [solution](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/solution/) | [C++](0001-0500/0329-Longest-Increasing-Path-in-a-Matrix/cpp-0329/) | | |
 | 330 | [Patching Array](https://leetcode.com/problems/patching-array/) | [无] | [C++](0001-0500/0330-Patching-Array/cpp-0330/) | | |
 | 331 | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [solution](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/solution/) | [C++](0001-0500/0331-Verify-Preorder-Serialization-of-a-Binary-Tree/cpp-0331/) | | |
+| 332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [solution](https://leetcode.com/problems/reconstruct-itinerary/solution/) | [C++](0001-0500/0332-Reconstruct-Itinerary/cpp-0332/) | | |
 | | | | | | |
 | 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [solution](https://leetcode.com/problems/increasing-triplet-subsequence/solution/) | [C++](0001-0500/0334-Increasing-Triplet-Subsequence/cpp-0334/) | | |
 | 335 | [Self Crossing](https://leetcode.com/problems/self-crossing/) | [无] | [C++](0001-0500/0335-Self-Crossing/cpp-0335/) | | |
@@ -1927,6 +1928,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2139 | [Minimum Moves to Reach Target Score](https://leetcode.com/problems/minimum-moves-to-reach-target-score/) | [无] | [C++](2001-2500/2139-Minimum-Moves-to-Reach-Target-Score/cpp-2139/) | | |
 | 2140 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) | [无] | [C++](2001-2500/2140-Solving-Questions-With-Brainpower/cpp-2140/) | | |
 | 2141 | [Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/) | [无] | [C++](2001-2500/2141-Maximum-Running-Time-of-N-Computers/cpp-2141/) | | |
+| 2142 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
 | 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | [无] | [C++](2001-2500/2144-Minimum-Cost-of-Buying-Candies-With-Discount/cpp-2144/) | | |
 | 2145 | [Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/) | [无] | [C++](2001-2500/2145-Count-the-Hidden-Sequences/cpp-2145/) | | |
