@@ -1938,6 +1938,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [无] | [C++](2001-2500/2149-Rearrange-Array-Elements-by-Sign/cpp-2149/) | | |
 | 2150 | [Find All Lonely Numbers in the Array](https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/) | [无] | [C++](2001-2500/2150-Find-All-Lonely-Numbers-in-the-Array/cpp-2150/) | | |
 | 2151 | [Maximum Good People Based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/) | [无] | [C++](2001-2500/2151-Maximum-Good-People-Based-on-Statements/cpp-2151/) | | |
+| 2152 | [Minimum Number of Lines to Cover Points](https://leetcode.com/problems/minimum-number-of-lines-to-cover-points/) | [无] | [C++](2001-2500/2152-Minimum-Number-of-Lines-to-Cover-Points/cpp-2152/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛

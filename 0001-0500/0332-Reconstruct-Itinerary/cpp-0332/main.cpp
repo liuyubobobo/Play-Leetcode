@@ -1,12 +1,18 @@
+/// Source : https://leetcode.com/problems/reconstruct-itinerary/
+/// Author : liuyubobobo
+/// Time   : 2022-01-27
+
 #include <iostream>
 #include <vector>
 #include <map>
-#include <set>
 #include <stack>
 
 using namespace std;
 
 
+/// Euler Path
+/// Time Complexity: O(V + E)
+/// Space Complexity: O(V + E)
 class Solution {
 public:
     vector<string> findItinerary(vector<vector<string>>& tickets) {
