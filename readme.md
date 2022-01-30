@@ -1941,6 +1941,9 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2151 | [Maximum Good People Based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/) | [无] | [C++](2001-2500/2151-Maximum-Good-People-Based-on-Statements/cpp-2151/) | | |
 | 2152 | [Minimum Number of Lines to Cover Points](https://leetcode.com/problems/minimum-number-of-lines-to-cover-points/) | [无] | [C++](2001-2500/2152-Minimum-Number-of-Lines-to-Cover-Points/cpp-2152/) | | |
 | | | | | | |
+| 2156 | [Find Substring With Given Hash Value](https://leetcode.com/problems/find-substring-with-given-hash-value/) | [无] | [C++](2001-2500/2156-Find-Substring-With-Given-Hash-Value/cpp-2156/) | | |
+| 2157 | [Groups of Strings](https://leetcode.com/problems/groups-of-strings/) | [无] | [C++](2001-2500/2157-Groups-of-Strings/cpp-2157/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
