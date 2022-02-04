@@ -1945,6 +1945,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2155 | [All Divisions With the Highest Score of a Binary Array](https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array/) | [无] | [C++](2001-2500/2155-All-Divisions-With-the-Highest-Score-of-a-Binary-Array/cpp-2155/) | | |
 | 2156 | [Find Substring With Given Hash Value](https://leetcode.com/problems/find-substring-with-given-hash-value/) | [无] | [C++](2001-2500/2156-Find-Substring-With-Given-Hash-Value/cpp-2156/) | | |
 | 2157 | [Groups of Strings](https://leetcode.com/problems/groups-of-strings/) | [无] | [C++](2001-2500/2157-Groups-of-Strings/cpp-2157/) | | |
+| 2158 | [Amount of New Area Painted Each Day](https://leetcode.com/problems/amount-of-new-area-painted-each-day/) | [无] | [C++](2001-2500/2158-Amount-of-New-Area-Painted-Each-Day/cpp-2158/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
