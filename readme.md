@@ -1951,6 +1951,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2164 | [Sort Even and Odd Indices Independently](https://leetcode.com/problems/sort-even-and-odd-indices-independently/) | [无] | [C++](2001-2500/2164-Sort-Even-and-Odd-Indices-Independently/cpp-2164/) | | |
 | 2165 | [Smallest Value of the Rearranged Number](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/) | [无] | [C++](2001-2500/2165-Smallest-Value-of-the-Rearranged-Number/cpp-2165/) | | |
 | 2166 | [Design Bitset](https://leetcode.com/problems/design-bitset/) | [无] | [C++](2001-2500/2166-Design-Bitset/cpp-2166/) | | |
+| 2167 | [Minimum Time to Remove All Cars Containing Illegal Goods](https://leetcode.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/) | [无] | [C++](2001-2500/2167-Minimum-Time-to-Remove-All-Cars-Containing-Illegal-Goods/cpp-2167/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
