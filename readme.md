@@ -1949,6 +1949,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2158 | [Amount of New Area Painted Each Day](https://leetcode.com/problems/amount-of-new-area-painted-each-day/) | [无] | [C++](2001-2500/2158-Amount-of-New-Area-Painted-Each-Day/cpp-2158/) | | |
 | | | | | | |
 | 2164 | [Sort Even and Odd Indices Independently](https://leetcode.com/problems/sort-even-and-odd-indices-independently/) | [无] | [C++](2001-2500/2164-Sort-Even-and-Odd-Indices-Independently/cpp-2164/) | | |
+| 2165 | [Smallest Value of the Rearranged Number](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/) | [无] | [C++](2001-2500/2165-Smallest-Value-of-the-Rearranged-Number/cpp-2165/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
