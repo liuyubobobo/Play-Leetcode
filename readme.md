@@ -1949,6 +1949,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2158 | [Amount of New Area Painted Each Day](https://leetcode.com/problems/amount-of-new-area-painted-each-day/) | [无] | [C++](2001-2500/2158-Amount-of-New-Area-Painted-Each-Day/cpp-2158/) | | |
 | 2159 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 2160 | [Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/) | [无] | [C++](2001-2500/2160-Minimum-Sum-of-Four-Digit-Number-After-Splitting-Digits/cpp-2160/) | | |
+| 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | [无] | [C++](2001-2500/2161-Partition-Array-According-to-Given-Pivot/cpp-2161/) | | |
 | | | | | | |
 | 2164 | [Sort Even and Odd Indices Independently](https://leetcode.com/problems/sort-even-and-odd-indices-independently/) | [无] | [C++](2001-2500/2164-Sort-Even-and-Odd-Indices-Independently/cpp-2164/) | | |
 | 2165 | [Smallest Value of the Rearranged Number](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/) | [无] | [C++](2001-2500/2165-Smallest-Value-of-the-Rearranged-Number/cpp-2165/) | | |
