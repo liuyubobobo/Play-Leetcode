@@ -18,15 +18,18 @@ public:
     vector<int> gridIllumination(int N, vector<vector<int>>& lamps, vector<vector<int>>& queries) {
 
         set<pair<int, int>> lamp_set;
-        unordered_map<int, int> row, col, dia1, dia2;
         for(const vector<int>& lamp: lamps){
             int x = lamp[0], y = lamp[1];
+            lamp_set.insert(make_pair(x, y));
+        }
+
+        unordered_map<int, int> row, col, dia1, dia2;
+        for(const pair<int, int>& lamp: lamp_set){
+            int x = lamp.first, y = lamp.second;
             row[x] ++;
             col[y] ++;
             dia1[x - y] ++;
             dia2[x + y] ++;
-
-            lamp_set.insert(make_pair(x, y));
         }
 
         vector<int> res;
@@ -64,6 +67,11 @@ int main() {
     vector<vector<int>> lamps1 = {{0, 0}, {4, 4}};
     vector<vector<int>> queries1 = {{1, 1}, {1, 0}};
     print_vec(Solution().gridIllumination(5, lamps1, queries1));
+
+    vector<vector<int>> lamps2 = {{2,5},{4,2},{0,3},{0,5},{1,4},{4,2},{3,3},{1,0}};
+    vector<vector<int>> queries2 = {{4,3},{3,1},{5,3},{0,5},{4,4},{3,3}};
+    print_vec(Solution().gridIllumination(6, lamps2, queries2));
+    // 1 0 1 1 0 1
 
     return 0;
 }
