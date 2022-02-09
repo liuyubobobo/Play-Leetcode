@@ -543,7 +543,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 529 | [Minesweeper](https://leetcode.com/problems/minesweeper/) | [无] | [C++](0501-1000/0529-Minesweeper/cpp-0529/) | | |
 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) | [无] | | [Java](0501-1000/0530-Minimum-Absolute-Difference-in-BST/java-0530/src/) | |
 | 531 | [Lonely Pixel I](https://leetcode.com/problems/lonely-pixel-i/) | [无] | [C++](0501-1000/0531-Lonely-Pixel-I/cpp-0531/) | | |
-| | | | | | |
+| 532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [solution](https://leetcode.com/problems/k-diff-pairs-in-an-array/solution/) | [C++](0501-1000/0532-K-diff-Pairs-in-an-Array/cpp-0532/) | | |
 | 533 | [Lonely Pixel II](https://leetcode.com/problems/lonely-pixel-ii/) | [无] | [C++](0501-1000/0533-Lonely-Pixel-II/cpp-0533/) | | |
 | | | | | | |
 | 536 | [Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string/) | [solution](https://leetcode.com/problems/construct-binary-tree-from-string/solution/)<br/>[缺：stack] | [C++](0501-1000/0536-Construct-Binary-Tree-from-String/cpp-0536/) | | |
