@@ -1957,6 +1957,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2166 | [Design Bitset](https://leetcode.com/problems/design-bitset/) | [无] | [C++](2001-2500/2166-Design-Bitset/cpp-2166/) | | |
 | 2167 | [Minimum Time to Remove All Cars Containing Illegal Goods](https://leetcode.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/) | [无] | [C++](2001-2500/2167-Minimum-Time-to-Remove-All-Cars-Containing-Illegal-Goods/cpp-2167/) | | |
 | | | | | | |
+| 2169 | [Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/) | [无] | [C++](2001-2500/2169-Count-Operations-to-Obtain-Zero/cpp-2169/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
