@@ -1960,6 +1960,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2169 | [Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/) | [无] | [C++](2001-2500/2169-Count-Operations-to-Obtain-Zero/cpp-2169/) | | |
 | 2170 | [Minimum Operations to Make the Array Alternating](https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/) | [无] | [C++](2001-2500/2170-Minimum-Operations-to-Make-the-Array-Alternating/cpp-2170/) | | |
 | 2171 | [Removing Minimum Number of Magic Beans](https://leetcode.com/problems/removing-minimum-number-of-magic-beans/) | [无] | [C++](2001-2500/2171-Removing-Minimum-Number-of-Magic-Beans/cpp-2171/) | | |
+| 2172 | [Maximum AND Sum of Array](https://leetcode.com/problems/maximum-and-sum-of-array/) | [无] | [C++](2001-2500/2172-Maximum-AND-Sum-of-Array/cpp-2172/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
