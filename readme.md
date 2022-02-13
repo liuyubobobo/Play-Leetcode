@@ -1956,7 +1956,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2165 | [Smallest Value of the Rearranged Number](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/) | [无] | [C++](2001-2500/2165-Smallest-Value-of-the-Rearranged-Number/cpp-2165/) | | |
 | 2166 | [Design Bitset](https://leetcode.com/problems/design-bitset/) | [无] | [C++](2001-2500/2166-Design-Bitset/cpp-2166/) | | |
 | 2167 | [Minimum Time to Remove All Cars Containing Illegal Goods](https://leetcode.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/) | [无] | [C++](2001-2500/2167-Minimum-Time-to-Remove-All-Cars-Containing-Illegal-Goods/cpp-2167/) | | |
-| | | | | | |
+| 2168 | [Unique Substrings With Equal Digit Frequency](https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency/) | [无] | [C++](2001-2500/2168-Unique-Substrings-With-Equal-Digit-Frequency/cpp-2168/) | | |
 | 2169 | [Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/) | [无] | [C++](2001-2500/2169-Count-Operations-to-Obtain-Zero/cpp-2169/) | | |
 | 2170 | [Minimum Operations to Make the Array Alternating](https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/) | [无] | [C++](2001-2500/2170-Minimum-Operations-to-Make-the-Array-Alternating/cpp-2170/) | | |
 | 2171 | [Removing Minimum Number of Magic Beans](https://leetcode.com/problems/removing-minimum-number-of-magic-beans/) | [无] | [C++](2001-2500/2171-Removing-Minimum-Number-of-Magic-Beans/cpp-2171/) | | |
