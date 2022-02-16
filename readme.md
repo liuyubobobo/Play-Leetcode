@@ -659,7 +659,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 685 | [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/description/) | [solution](https://leetcode.com/problems/redundant-connection-ii/solution/) | [C++](0501-1000/0685-Redundant-Connection-II/cpp-0685/) | | |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) |[无] | [C++](0501-1000/0686-Repeated-String-Match/cpp-0686/) | | |
 | 687 | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | [solution](https://leetcode.com/problems/longest-univalue-path/solution/) | [C++](0501-1000/0687-Longest-Univalue-Path/cpp-0687/) | | |
-| | | | | | |
+| 688 | [Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/) | [solution](https://leetcode.com/problems/knight-probability-in-chessboard/solution/) | [C++](0501-1000/0688-Knight-Probability-in-Chessboard/cpp-0688/) | | |
 | 689 | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | [solution](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/solution/) | [C++](0501-1000/0689-Maximum-Sum-of-3-Non-Overlapping-Subarrays/cpp-0689/)| | |
 | 690 | [Employee Importance](https://leetcode.com/problems/employee-importance/description/) | [solution](https://leetcode.com/problems/employee-importance/solution/) | [C++](0501-1000/0690-Employee-Importance/cpp-0690/) | | |
 | | | | | | |
