@@ -1,9 +1,16 @@
+/// Source : https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips-ii/
+/// Author : liuyubobobo
+/// Time   : 2022-02-18
+
 #include <iostream>
 #include <vector>
 
 using namespace std;
 
 
+/// State-Comppression Memoization
+/// Time Complexity: O(R * C * 2^(R * C))
+/// Space Complexity: O(2^(R * C))
 class Solution {
 
 public:
