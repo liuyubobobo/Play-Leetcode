@@ -1963,6 +1963,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2172 | [Maximum AND Sum of Array](https://leetcode.com/problems/maximum-and-sum-of-array/) | [无] | [C++](2001-2500/2172-Maximum-AND-Sum-of-Array/cpp-2172/) | | |
 | 2173 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 2174 | [Remove All Ones With Row and Column Flips II](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips-ii/) | [无] | [C++](2001-2500/2174-Remove-All-Ones-With-Row-and-Column-Flips-II/cpp-2174/) | | |
+| 2175 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 2176 | [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) | [无] | [C++](2001-2500/2176-Count-Equal-and-Divisible-Pairs-in-an-Array/cpp-2176/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
