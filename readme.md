@@ -1961,6 +1961,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2170 | [Minimum Operations to Make the Array Alternating](https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/) | [无] | [C++](2001-2500/2170-Minimum-Operations-to-Make-the-Array-Alternating/cpp-2170/) | | |
 | 2171 | [Removing Minimum Number of Magic Beans](https://leetcode.com/problems/removing-minimum-number-of-magic-beans/) | [无] | [C++](2001-2500/2171-Removing-Minimum-Number-of-Magic-Beans/cpp-2171/) | | |
 | 2172 | [Maximum AND Sum of Array](https://leetcode.com/problems/maximum-and-sum-of-array/) | [无] | [C++](2001-2500/2172-Maximum-AND-Sum-of-Array/cpp-2172/) | | |
+| 2173 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 2174 | [Remove All Ones With Row and Column Flips II](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips-ii/) | [无] | [C++](2001-2500/2174-Remove-All-Ones-With-Row-and-Column-Flips-II/cpp-2174/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
