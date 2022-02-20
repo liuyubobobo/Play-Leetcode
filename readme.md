@@ -1165,6 +1165,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1286 | [Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/) | [solution](https://leetcode.com/problems/iterator-for-combination/solution/) | [C++](1001-1500/1286-Iterator-for-Combination/cpp-1286/) | | |
 | | | | | | |
+| 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | [solution](https://leetcode.com/problems/remove-covered-intervals/solution/) | [C++](1001-1500/1288-Remove-Covered-Intervals/cpp-1288/) | | |
+| | | | | | |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [solution](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/solution/) | [C++](1001-1500/1290-Convert-Binary-Number-in-a-Linked-List-to-Integer/cpp-1290/) | | |
 | 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | [solution](https://leetcode.com/problems/sequential-digits/solution/) | [C++](1001-1500/1291-Sequential-Digits/cpp-1291/) | | |
 | | | | | | |
