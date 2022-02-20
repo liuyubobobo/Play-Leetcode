@@ -1971,6 +1971,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2178 | [Maximum Split of Positive Even Integers](https://leetcode.com/problems/maximum-split-of-positive-even-integers/) | [无] | [C++](2001-2500/2178-Maximum-Split-of-Positive-Even-Integers/cpp-2178/) | | |
 | 2179 | [Count Good Triplets in an Array](https://leetcode.com/problems/count-good-triplets-in-an-array/) | [无] | [C++](2001-2500/2179-Count-Good-Triplets-in-an-Array/cpp-2179/) | | |
 | 2180 | [Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum/) | [无] | [C++](2001-2500/2180-Count-Integers-With-Even-Digit-Sum/cpp-2180/) | | |
+| 2181 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | [无] | [C++](2001-2500/2181-Merge-Nodes-in-Between-Zeros/cpp-2181/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
