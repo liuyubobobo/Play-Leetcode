@@ -1975,6 +1975,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2182 | [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/) | [C++](2001-2500/2182-Construct-String-With-Repeat-Limit/cpp-2182/) | | | |
 | 2183 | [Count Array Pairs Divisible by K](https://leetcode.com/problems/count-array-pairs-divisible-by-k/) | [无] | [C++](2001-2500/2183-Count-Array-Pairs-Divisible/cpp-2183/) | | |
 | 2184 | [Number of Ways to Build Sturdy Brick Wall](https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall/) | [无] | [C++](2001-2500/2184-Number-of-Ways-to-Build-Sturdy-Brick-Wall/cpp-2184/) | | |
+| 2185 | [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | [无] | [C++](2001-2500/2185-Counting-Words-With-a-Given-Prefix/cpp-2185/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
