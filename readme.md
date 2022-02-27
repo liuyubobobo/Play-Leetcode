@@ -638,6 +638,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 658 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | [solution](https://leetcode.com/problems/find-k-closest-elements/solution/)<br/>[缺：二分] | [C++](0501-1000/0658-Find-K-Closest-Elements/cpp-0658/) | | |
 | 659 | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | [solution](https://leetcode.com/problems/split-array-into-consecutive-subsequences/solution/) | [C++](0501-1000/0659-Split-Array-into-Consecutive-Subsequences/cpp-0659/) | | |
 | | | | | | |
+| 662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [solution](https://leetcode.com/problems/maximum-width-of-binary-tree/solution/) | [C++](0501-1000/0662-Maximum-Width-of-Binary-Tree/cpp-0662/) | | |
+| | | | | | |
 | 664 | [Strange Printer](https://leetcode.com/problems/strange-printer/) | [solution](https://leetcode.com/problems/strange-printer/) | [C++](0501-1000/0664-Strange-Printer/cpp-0664/) | | |
 | 665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [solution](https://leetcode.com/problems/non-decreasing-array/solution/) | [C++](0501-1000/0665-Non-decreasing-Array/cpp-0665/) | | |
 | 666 | [Path Sum IV](https://leetcode.com/problems/path-sum-iv/) | [solution](https://leetcode.com/problems/path-sum-iv/solution/) | [C++](0501-1000/0666-Path-Sum-IV/cpp-0666/) | | |
