@@ -562,7 +562,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [solution](https://leetcode.com/problems/student-attendance-record-i/solution/) | [C++](0501-1000/0551-Student-Attendance-Record-I/cpp-0551/) | | |
 | 552 | [Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/) | [solution](https://leetcode.com/problems/student-attendance-record-ii/solution/) | [C++](0501-1000/0552-Student-Attendance-Record-II/cpp-0552/) | | |
-| | | | | | |
+| 553 | [Optimal Division](https://leetcode.com/problems/optimal-division/) | [solution](https://leetcode.com/problems/optimal-division/solution/)<br/>[缺：O(n) 解法] | [C++](0501-1000/0553-Optimal-Division/cpp-0553/) | | |
 | 554 | [Brick Wall](https://leetcode.com/problems/brick-wall/) | [solution](https://leetcode.com/problems/brick-wall/solution/) | [C++](0501-1000/0554-Brick-Wall/cpp-0554/) | | |
 | | | | | | |
 | 556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [solution](https://leetcode.com/problems/next-greater-element-iii/solution/)<br/>[缺：底层实现] | [C++](0501-1000/0556-Next-Greater-Element-III/cpp-0556/) | | |
