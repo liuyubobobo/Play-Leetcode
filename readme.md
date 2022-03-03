@@ -573,7 +573,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [solution](https://leetcode.com/problems/array-partition-i/solution/) | [C++](0501-1000/0561-Array-Partition-I/cpp-0561/) | | |
 | | | | | | |
 | 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [solution](https://leetcode.com/problems/binary-tree-tilt/solution/) | [C++](0501-1000/0563-Binary-Tree-Tilt/cpp-0563/) | | |
-| | | | | | |
+| 564 | [Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/) | [无] | [C++](0501-1000/0564-Find-the-Closest-Palindrome/cpp-0564/) | | |
 | 565 | [Array Nesting](https://leetcode.com/problems/array-nesting/) | [solution](https://leetcode.com/problems/array-nesting/solution/) | [C++](0501-1000/0565-Array-Nesting/cpp-0565/) | | |
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [solution](https://leetcode.com/problems/reshape-the-matrix/solution/) | [C++](0501-1000/0566-Reshape-the-Matrix/cpp-0566/) | | |
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [solution](https://leetcode.com/problems/permutation-in-string/solution/) [题解](https://leetcode-cn.com/problems/permutation-in-string/solution/zi-fu-chuan-de-pai-lie-by-leetcode/) | [C++](0501-1000/0567-Permutation-in-String/cpp-0567/) | | |
