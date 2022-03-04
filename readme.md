@@ -1981,6 +1981,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2186 | [Minimum Number of Steps to Make Two Strings Anagram II](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/) | [无] | [C++](2001-2500/2186-Minimum-Number-of-Steps-to-Make-Two-Strings-Anagram-II/cpp-2186/) | | |
 | 2187 | [Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/) | [无] | [C++](2001-2500/2187-Minimum-Time-to-Complete-Trips/cpp-2187/) | | |
 | 2188 | [Minimum Time to Finish the Race](https://leetcode.com/problems/minimum-time-to-finish-the-race/) | [无] | [C++](2001-2500/2188-Minimum-Time-to-Finish-the-Race/cpp-2188/) | | |
+| 2189 | [Number of Ways to Build House of Cards](https://leetcode.com/problems/number-of-ways-to-build-house-of-cards/) | [无] | [C++](2001-2500/2189-Number-of-Ways-to-Build-House-of-Cards/cpp-2189/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
