@@ -1985,7 +1985,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2190 | [Most Frequent Number Following Key In an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/) | [无] | [C++](2001-2500/2190-Most-Frequent-Number-Following-Key-In-an-Array/cpp-2190/) | | |
 | 2191 | [Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/) | [无] | [C++](2001-2500/2191-Sort-the-Jumbled-Numbers/cpp-2191/) | | |
 | 2192 | [All Ancestors of a Node in a Directed Acyclic Graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | [无] | [C++](2001-2500/2192-All-Ancestors-of-a-Node-in-a-Directed-Acyclic-Graph/cpp-2192/) | | |
-| | | | | | |
+| 2193 | [Minimum Number of Moves to Make Palindrome](https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/) | [无] | [C++](2001-2500/2193-Minimum-Number-of-Moves-to-Make-Palindrome/cpp-2193/) | | |
 | 2194 | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/) | [无] | [C++](2001-2500/2194-Cells-in-a-Range-on-an-Excel-Sheet/cpp-2194/) | | |
 | 2195 | [Append K Integers With Minimal Sum](https://leetcode.com/problems/append-k-integers-with-minimal-sum/) | [无] | [C++](2001-2500/2195-Append-K-Integers-With-Minimal-Sum/cpp-2195/) | | |
 | 2196 | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | [无] | [C++](2001-2500/2196-Create-Binary-Tree-From-Descriptions/cpp-2196/) | | |
