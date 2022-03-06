@@ -1,11 +1,15 @@
+/// Source : https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/
+/// Author : liuyubobobo
+/// Time   : 2022-03-06
+
 #include <iostream>
-#include <vector>
-#include <unordered_map>
-#include <climits>
 
 using namespace std;
 
 
+/// Greedy
+/// Time Complexity: O(n^2)
+/// Space Complexity: O(n)
 class Solution {
 public:
     int minMovesToMakePalindrome(string s) {
