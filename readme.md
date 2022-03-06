@@ -520,7 +520,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [无] | [C++](0501-1000/0501-Find-Mode-in-Binary-Search-Tree/cpp-0501/) | | |
 | 502 | [IPO](https://leetcode.com/problems/ipo/) | [solution](https://leetcode.com/problems/ipo/solution/) | [C++](0501-1000/0502-IPO/cpp-0502/) | | |
 | 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [solution](https://leetcode.com/problems/next-greater-element-ii/solution/) | [C++](0501-1000/0503-Next-Greater-Element-II/cpp-0503/) | | |
-| | | | | | |
+| 504 | [Base 7](https://leetcode.com/problems/base-7/) | [无] | [C++](0501-1000/0504-Base-7/cpp-0504/) | | |
 | 505 | [The Maze II](https://leetcode.com/problems/the-maze-ii/) | [solution](https://leetcode.com/problems/the-maze-ii/solution/) | [C++](0501-1000/0505-The-Maze-II/cpp-0505/) | | |
 | 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | [无] | [C++](0501-1000/0506-Relative-Ranks/cpp-0506/) | | |
 | 507 | [Perfect Number](https://leetcode.com/problems/perfect-number/) | [solution](https://leetcode.com/problems/perfect-number/solution/) | [C++](0501-1000/0507-Perfect-Number/cpp-0507/) | | |
