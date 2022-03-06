@@ -1984,6 +1984,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2189 | [Number of Ways to Build House of Cards](https://leetcode.com/problems/number-of-ways-to-build-house-of-cards/) | [无] | [C++](2001-2500/2189-Number-of-Ways-to-Build-House-of-Cards/cpp-2189/) | | |
 | | | | | | |
 | 2194 | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/) | [无] | [C++](2001-2500/2194-Cells-in-a-Range-on-an-Excel-Sheet/cpp-2194/) | | |
+| 2195 | [Append K Integers With Minimal Sum](https://leetcode.com/problems/append-k-integers-with-minimal-sum/) | [无] | [C++](2001-2500/2195-Append-K-Integers-With-Minimal-Sum/cpp-2195/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
