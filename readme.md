@@ -752,7 +752,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 795 | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/) | [solution](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/solution/) | [C++](0501-1000/0795-Number-of-Subarrays-with-Bounded-Maximum/cpp-0795/) | | |
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string/description/) | [solution](https://leetcode.com/problems/rotate-string/solution/)<br/>[缺：Rolling Hash] | [C++](0501-1000/0796-Rotate-String/cpp-0796/) | | |
 | 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/) | [solution](https://leetcode.com/problems/all-paths-from-source-to-target/solution/) | [C++](0501-1000/0797-All-Paths-From-Source-to-Target/cpp-0797/) | | |
-| | | | | | |
+| 798 | [Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/) | [solution](https://leetcode.com/problems/smallest-rotation-with-highest-score/solution/)<br/>[缺：O(n) 解法] | [C++](0501-1000/0798-Smallest-Rotation-with-Highest-Score/cpp-0798/) | | |
 | 799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/description/) | [solution](https://leetcode.com/problems/champagne-tower/solution/) | [C++](0501-1000/0799-Champagne-Tower/cpp-0799/) | | |
 | 800 | [Similar RGB Color](https://leetcode.com/problems/similar-rgb-color/description/) | [solution](https://leetcode.com/problems/similar-rgb-color/solution/) | [C++](0501-1000/0800-Similar-RGB-Color/cpp-0800/) | | |
 | | | | | | |
