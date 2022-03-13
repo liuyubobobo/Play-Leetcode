@@ -1995,6 +1995,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2200 | [Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/) | [无] | [C++](2001-2500/2200-Find-All-K-Distant-Indices-in-an-Array/cpp-2200/) | | |
 | 2201 | [Count Artifacts That Can Be Extracted](https://leetcode.com/problems/count-artifacts-that-can-be-extracted/) | [无] | [C++](2001-2500/2201-Count-Artifacts-That-Can-Be-Extracted/cpp-2201/) | | |
 | 2202 | [Maximize the Topmost Element After K Moves](https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/) | [无] | [C++](2001-2500/2202-Maximize-the-Topmost-Element-After-K-Moves/cpp-2202/) | | |
+| 2203 | [Minimum Weighted Subgraph With the Required Paths](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/) | [无] | [C++](2001-2500/2203-Minimum-Weighted-Subgraph-With-the-Required-Paths/cpp-2203/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
