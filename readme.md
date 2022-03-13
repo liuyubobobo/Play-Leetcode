@@ -1991,6 +1991,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2196 | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | [无] | [C++](2001-2500/2196-Create-Binary-Tree-From-Descriptions/cpp-2196/) | | |
 | 2197 | [Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/) | [无] | [C++](2001-2500/2197-Replace-Non-Coprime-Numbers-in-Array/cpp-2197/) | | |
 | 2198 | [Number of Single Divisor Triplets](https://leetcode.com/problems/number-of-single-divisor-triplets/) | [无] | [C++](2001-2500/2198-Number-of-Single-Divisor-Triplets/cpp-2198/) | | |
+| 2199 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 2200 | [Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/) | [无] | [C++](2001-2500/2200-Find-All-K-Distant-Indices-in-an-Array/cpp-2200/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
