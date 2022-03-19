@@ -1998,6 +1998,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2201 | [Count Artifacts That Can Be Extracted](https://leetcode.com/problems/count-artifacts-that-can-be-extracted/) | [无] | [C++](2001-2500/2201-Count-Artifacts-That-Can-Be-Extracted/cpp-2201/) | | |
 | 2202 | [Maximize the Topmost Element After K Moves](https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/) | [无] | [C++](2001-2500/2202-Maximize-the-Topmost-Element-After-K-Moves/cpp-2202/) | | |
 | 2203 | [Minimum Weighted Subgraph With the Required Paths](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/) | [无] | [C++](2001-2500/2203-Minimum-Weighted-Subgraph-With-the-Required-Paths/cpp-2203/) | | |
+| 2204 | [Distance to a Cycle in Undirected Graph](https://leetcode.com/problems/distance-to-a-cycle-in-undirected-graph/) | [无] | [C++](2001-2500/2204-Distance-to-a-Cycle-in-Undirected-Graph/cpp-2204/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
