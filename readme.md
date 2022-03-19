@@ -1999,6 +1999,11 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2202 | [Maximize the Topmost Element After K Moves](https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/) | [无] | [C++](2001-2500/2202-Maximize-the-Topmost-Element-After-K-Moves/cpp-2202/) | | |
 | 2203 | [Minimum Weighted Subgraph With the Required Paths](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/) | [无] | [C++](2001-2500/2203-Minimum-Weighted-Subgraph-With-the-Required-Paths/cpp-2203/) | | |
 | 2204 | [Distance to a Cycle in Undirected Graph](https://leetcode.com/problems/distance-to-a-cycle-in-undirected-graph/) | [无] | [C++](2001-2500/2204-Distance-to-a-Cycle-in-Undirected-Graph/cpp-2204/) | | |
+| 2205 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 2206 | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/) | [无] | [C++](2001-2500/2206-Divide-Array-Into-Equal-Pairs/cpp-2206/) | | |
+| 2207 | [Maximize Number of Subsequences in a String](https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/) | [无] | [C++](2001-2500/2207-Maximize-Number-of-Subsequences-in-a-String/cpp-2207/) | | |
+| 2208 | [Minimum Operations to Halve Array Sum](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/) | [无] | [C++](2001-2500/2208-Minimum-Operations-to-Halve-Array-Sum/cpp-2208/) | | |
+| 2209 | [Minimum White Tiles After Covering With Carpets](https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets/) | [无] | [C++](2001-2500/2209-Minimum-White-Tiles-After-Covering-With-Carpets/cpp-2209/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
