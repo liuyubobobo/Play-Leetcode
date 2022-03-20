@@ -2004,6 +2004,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2207 | [Maximize Number of Subsequences in a String](https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/) | [无] | [C++](2001-2500/2207-Maximize-Number-of-Subsequences-in-a-String/cpp-2207/) | | |
 | 2208 | [Minimum Operations to Halve Array Sum](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/) | [无] | [C++](2001-2500/2208-Minimum-Operations-to-Halve-Array-Sum/cpp-2208/) | | |
 | 2209 | [Minimum White Tiles After Covering With Carpets](https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets/) | [无] | [C++](2001-2500/2209-Minimum-White-Tiles-After-Covering-With-Carpets/cpp-2209/) | | |
+| 2210 | [Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/) | [无] | [C++](2001-2500/2210-Count-Hills-and-Valleys-in-an-Array/cpp-2210/) | | |
+| 2211 | [Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/) | [无] | [C++](2001-2500/2211-Count-Collisions-on-a-Road/cpp-2211/) | | |
+| 2212 | [Maximum Points in an Archery Competition](https://leetcode.com/problems/maximum-points-in-an-archery-competition/) | [无] | [C++](2001-2500/2212-Maximum-Points-in-an-Archery-Competition/cpp-2212/) | | |
+| 2213 | [Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/) | [无] | [C++](2001-2500/2213-Longest-Substring-of-One-Repeating-Character/cpp-2213/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
