@@ -641,6 +641,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 658 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | [solution](https://leetcode.com/problems/find-k-closest-elements/solution/)<br/>[缺：二分] | [C++](0501-1000/0658-Find-K-Closest-Elements/cpp-0658/) | | |
 | 659 | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | [solution](https://leetcode.com/problems/split-array-into-consecutive-subsequences/solution/) | [C++](0501-1000/0659-Split-Array-into-Consecutive-Subsequences/cpp-0659/) | | |
 | | | | | | |
+| 661 | [Image Smoother](https://leetcode.com/problems/image-smoother/) | [无] | [C++](0501-1000/0658-Image-Smoother/cpp-0658/) | | |
 | 662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [solution](https://leetcode.com/problems/maximum-width-of-binary-tree/solution/) | [C++](0501-1000/0662-Maximum-Width-of-Binary-Tree/cpp-0662/) | | |
 | | | | | | |
 | 664 | [Strange Printer](https://leetcode.com/problems/strange-printer/) | [solution](https://leetcode.com/problems/strange-printer/) | [C++](0501-1000/0664-Strange-Printer/cpp-0664/) | | |
