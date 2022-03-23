@@ -465,7 +465,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) | [无] | [C++](0001-0500/0437-Path-Sum-III/cpp-0437/) | [Java](0001-0500/0437-Path-Sum-III/java-0437/src/) | |
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) | [无] | [C++](0001-0500/0438-Find-All-Anagrams-in-a-String/cpp-0438/) | | |
 | 439 | [Ternary Expression Parser](https://leetcode.com/problems/ternary-expression-parser/) | [无] | [C++](0001-0500/0439-Ternary-Expression-Parser/cpp-0439/) | | |
-| | | | | | |
+| 440 | [K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | [无] | [C++](0001-0500/0440-K-th-Smallest-in-Lexicographical-Order/cpp-0440/) | | |
 | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [solution](https://leetcode.com/problems/arranging-coins/solution/) | [C++](0001-0500/0441-Arranging-Coins/cpp-0441/) | | |
 | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [solution](https://leetcode.com/problems/find-all-duplicates-in-an-array/solution/) | [C++](0001-0500/0442-Find-All-Duplicates-in-an-Array/cpp-0442/) | | |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/description/) | | [C++](0001-0500/0443-String-Compression/cpp-0443/) | | |
@@ -728,6 +728,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 761 | [Special Binary String](https://leetcode.com/problems/special-binary-string/) | [solution](https://leetcode.com/problems/special-binary-string/solution/) |  [C++](0501-1000/0761-Special-Binary-String/cpp-0761/) | | |
 | | | | | | |
+| 763 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | [无] | [C++](0501-1000/0763-Partition-Labels/cpp-0763/) | | |
 | 764 | [Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/) | [C++](0501-1000/0764-Largest-Plus-Sign/cpp-0764/) | | | |
 | 765 | [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/description/) | [solution](https://leetcode.com/problems/couples-holding-hands/solution/) | [C++](0501-1000/0765-Couples-Holding-Hands/cpp-0765/) | | |
 | 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) | [solution](https://leetcode.com/problems/toeplitz-matrix/solution/) | [C++](0501-1000/0766-Toeplitz-Matrix/cpp-0766/) | | |
