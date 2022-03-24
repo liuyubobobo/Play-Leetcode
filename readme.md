@@ -2011,6 +2011,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2211 | [Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/) | [无] | [C++](2001-2500/2211-Count-Collisions-on-a-Road/cpp-2211/) | | |
 | 2212 | [Maximum Points in an Archery Competition](https://leetcode.com/problems/maximum-points-in-an-archery-competition/) | [无] | [C++](2001-2500/2212-Maximum-Points-in-an-Archery-Competition/cpp-2212/) | | |
 | 2213 | [Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/) | [无] | [C++](2001-2500/2213-Longest-Substring-of-One-Repeating-Character/cpp-2213/) | | |
+| 2214 | [Minimum Health to Beat Game](https://leetcode.com/problems/minimum-health-to-beat-game/) | [无] | [C++](2001-2500/2214-Minimum-Health-to-Beat-Game/cpp-2214/)| | |
 | | | | | | |
 
 ## 力扣中文站比赛
