@@ -661,6 +661,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [solution](https://leetcode.com/problems/valid-parenthesis-string/solution/) | [C++](0501-1000/0678-Valid-Parenthesis-String/cpp-0678/) | | |
 | 679 | [24 Game](https://leetcode.com/problems/24-game/) | [solution](https://leetcode.com/problems/24-game/) | [C++](0501-1000/0679-24-Game/cpp-0679/) | | |
 | | | | | | |
+| 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | [solution](https://leetcode.com/problems/baseball-game/solution/) | [C++](0501-1000/0682-Baseball-Game/cpp-0682/) | | |
+| | | | | | |
 | 684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/description/) | [solution](https://leetcode.com/problems/redundant-connection/solution/) | [C++](0501-1000/0684-Redundant-Connection/cpp-0684/) | | |
 | 685 | [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/description/) | [solution](https://leetcode.com/problems/redundant-connection-ii/solution/) | [C++](0501-1000/0685-Redundant-Connection-II/cpp-0685/) | | |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) |[无] | [C++](0501-1000/0686-Repeated-String-Match/cpp-0686/) | | |
