@@ -1370,6 +1370,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [solution](https://leetcode.com/problems/kth-missing-positive-number/solution/) | [C++](1501-2000/1539-Kth-Missing-Positive-Number/cpp-1539/) | | |
 | | | | | | |
+| 1559 | [Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | [无] | [C++](1501-2000/1559-Detect-Cycles-in-2D-Grid/cpp-1559/) | | |
+| | | | | | |
 | 1564 | [Put Boxes Into the Warehouse I](https://leetcode.com/problems/put-boxes-into-the-warehouse-i/) |  [无] | [C++](1501-2000/1564-Put-Boxes-Into-the-Warehouse-I/cpp-1564/) | | |
 | | | | | | |
 | 1570 | [Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/) | [solution](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/) | [C++](1501-2000/1570-Dot-Product-of-Two-Sparse-Vectors/cpp-1570/) | | |
