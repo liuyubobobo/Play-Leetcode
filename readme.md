@@ -2016,6 +2016,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2212 | [Maximum Points in an Archery Competition](https://leetcode.com/problems/maximum-points-in-an-archery-competition/) | [无] | [C++](2001-2500/2212-Maximum-Points-in-an-Archery-Competition/cpp-2212/) | | |
 | 2213 | [Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/) | [无] | [C++](2001-2500/2213-Longest-Substring-of-One-Repeating-Character/cpp-2213/) | | |
 | 2214 | [Minimum Health to Beat Game](https://leetcode.com/problems/minimum-health-to-beat-game/) | [无] | [C++](2001-2500/2214-Minimum-Health-to-Beat-Game/cpp-2214/)| | |
+| 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [无] | [C++](2001-2500/2215-Find-the-Difference-of-Two-Arrays/cpp-2215/) | | |
+| 2216 | [Minimum Deletions to Make Array Beautiful](https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/) | [无] | [C++](2001-2500/2216-Minimum-Deletions-to-Make-Array-Beautiful/cpp-2216/) | | |
+| 2217 | [Find Palindrome With Fixed Length](https://leetcode.com/problems/find-palindrome-with-fixed-length/) | [无] | [C++](2001-2500/2217-Find-Palindrome-With-Fixed-Length/cpp-2217/) | | |
+| 2218 | [Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/) | [无] | [C++](2001-2500/2218-Maximum-Value-of-K-Coins-From-Piles/cpp-2218/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
