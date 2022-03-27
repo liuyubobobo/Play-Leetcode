@@ -672,7 +672,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 690 | [Employee Importance](https://leetcode.com/problems/employee-importance/description/) | [solution](https://leetcode.com/problems/employee-importance/solution/) | [C++](0501-1000/0690-Employee-Importance/cpp-0690/) | | |
 | | | | | | |
 | 692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/) | [solution](https://leetcode.com/problems/top-k-frequent-words/solution/) | [C++](0501-1000/0692-Top-K-Frequent-Words/cpp-0692/) | | |
-| | | | | | |
+| 693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [无] | [C++](0501-1000/0693-Binary-Number-with-Alternating-Bits/cpp-0693/) | | |
 | 694 | [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/description/) | [review: hash的方式] | [C++](0501-1000/0694-Number-of-Distinct-Islands/cpp-0694/) | | |
 | 695 | [Max-Area-of-Island](https://leetcode.com/problems/max-area-of-island/description/) | | [C++](0501-1000/0695-Max-Area-of-Island/cpp-0695) | | |
 | 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) | | [C++](0501-1000/0696-Count-Binary-Substrings/cpp-0696/) | | |
