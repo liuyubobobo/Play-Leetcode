@@ -1,14 +1,16 @@
 /// Source : https://leetcode.com/problems/longest-increasing-subsequence/description/
 /// Author : liuyubobobo
 /// Time   : 2017-11-18
+/// Updated: 2022-03-30
 
 #include <iostream>
 #include <vector>
 
 using namespace std;
 
-/// Ad-Hoc
-/// Time Complexity: O((right-left+1)*log10(right))
+
+/// Brute Force
+/// Time Complexity: O((right-left+1) * log(right))
 /// Space Complexity: O(1)
 class Solution {
 
@@ -17,13 +19,13 @@ public:
 
         vector<int> res;
         for(int i = left ; i <= right ; i ++)
-            if(selfDividing(i))
+            if(is_self_dividing(i))
                 res.push_back(i);
         return res;
     }
 
 private:
-    bool selfDividing(int num){
+    bool is_self_dividing(int num){
         int t = num;
         while(t){
             int x = t % 10;
@@ -36,15 +38,15 @@ private:
 };
 
 
-void printVec(const vector<int>& vec){
+void print_vec(const vector<int>& vec){
     for(int e: vec)
-        cout << e << " ";
+        cout << e << ' ';
     cout << endl;
 }
 
 int main() {
 
-    printVec(Solution().selfDividingNumbers(1, 22));
+    print_vec(Solution().selfDividingNumbers(1, 22));
 
     return 0;
 }
