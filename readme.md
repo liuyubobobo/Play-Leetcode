@@ -660,6 +660,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 677 | [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/description/) | [solution](https://leetcode.com/problems/map-sum-pairs/solution/) | [C++](0501-1000/0677-Map-Sum-Pairs/cpp-0677/) | | |
 | 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [solution](https://leetcode.com/problems/valid-parenthesis-string/solution/) | [C++](0501-1000/0678-Valid-Parenthesis-String/cpp-0678/) | | |
 | 679 | [24 Game](https://leetcode.com/problems/24-game/) | [solution](https://leetcode.com/problems/24-game/) | [C++](0501-1000/0679-24-Game/cpp-0679/) | | |
+| 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | [无] | [C++](0501-1000/0680-Valid-Palindrome-II/cpp-0680/) | | |
 | | | | | | |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | [solution](https://leetcode.com/problems/baseball-game/solution/) | [C++](0501-1000/0682-Baseball-Game/cpp-0682/) | | |
 | | | | | | |
