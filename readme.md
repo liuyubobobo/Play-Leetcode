@@ -2023,6 +2023,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2218 | [Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/) | [无] | [C++](2001-2500/2218-Maximum-Value-of-K-Coins-From-Piles/cpp-2218/) | | |
 | 2219 | [Maximum Sum Score of Array](https://leetcode.com/problems/maximum-sum-score-of-array/) | [无] | [C++](2001-2500/2219-Maximum-Sum-Score-of-Array/cpp-2219/) | | |
 | 2220 | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | [无] | [C++](2001-2500/2220-Minimum-Bit-Flips-to-Convert-Number/cpp-2220/) | | |
+| 2221 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | [无] | [C++](2001-2500/2221-Find-Triangular-Sum-of-an-Array/cpp-2221/) | | |
+| 2222 | [Number of Ways to Select Buildings](https://leetcode.com/problems/number-of-ways-to-select-buildings/) | [无] | [C++](2001-2500/2222-Number-of-Ways-to-Select-Buildings/cpp-2222/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
