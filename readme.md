@@ -2026,6 +2026,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2221 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | [无] | [C++](2001-2500/2221-Find-Triangular-Sum-of-an-Array/cpp-2221/) | | |
 | 2222 | [Number of Ways to Select Buildings](https://leetcode.com/problems/number-of-ways-to-select-buildings/) | [无] | [C++](2001-2500/2222-Number-of-Ways-to-Select-Buildings/cpp-2222/) | | |
 | 2223 | [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/) | [无] | [C++](2001-2500/2223-Sum-of-Scores-of-Built-Strings/cpp-2223/) | | |
+| 2224 | [Minimum Number of Operations to Convert Time](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/) | [无] | [C++](2001-2500/2224-Minimum-Number-of-Operations-to-Convert-Time/cpp-2224/) | | |
+| 2225 | [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | [无] | [C++](2001-2500/2225-Find-Players-With-Zero-or-One-Losses/cpp-2225/) | | |
+| 2226 | [Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/) | [无] | [C++](2001-2500/2226-Maximum-Candies-Allocated-to-K-Children/cpp-2226/) | | |
+| 2227 | [Encrypt and Decrypt Strings](https://leetcode.com/problems/encrypt-and-decrypt-strings/) | [无] | [C++](2001-2500/2227-Encrypt-and-Decrypt-Strings/cpp-2227/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
