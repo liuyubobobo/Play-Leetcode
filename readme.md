@@ -731,7 +731,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 754 | [Reach a Number](https://leetcode.com/problems/reach-a-number/) | [Solution](https://leetcode.com/problems/reach-a-number/solution/) | [C++](0501-1000/0754-Reach-a-Number/cpp-0754/) | | |
 | | | | | | |
 | 761 | [Special Binary String](https://leetcode.com/problems/special-binary-string/) | [solution](https://leetcode.com/problems/special-binary-string/solution/) |  [C++](0501-1000/0761-Special-Binary-String/cpp-0761/) | | |
-| | | | | | |
+| 762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [无] | [C++](0501-1000/0762-Prime-Number-of-Set-Bits-in-Binary-Representation/cpp-0762/) | | |
 | 763 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | [无] | [C++](0501-1000/0763-Partition-Labels/cpp-0763/) | | |
 | 764 | [Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/) | [C++](0501-1000/0764-Largest-Plus-Sign/cpp-0764/) | | | |
 | 765 | [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/description/) | [solution](https://leetcode.com/problems/couples-holding-hands/solution/) | [C++](0501-1000/0765-Couples-Holding-Hands/cpp-0765/) | | |
