@@ -2030,6 +2030,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2225 | [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | [无] | [C++](2001-2500/2225-Find-Players-With-Zero-or-One-Losses/cpp-2225/) | | |
 | 2226 | [Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/) | [无] | [C++](2001-2500/2226-Maximum-Candies-Allocated-to-K-Children/cpp-2226/) | | |
 | 2227 | [Encrypt and Decrypt Strings](https://leetcode.com/problems/encrypt-and-decrypt-strings/) | [无] | [C++](2001-2500/2227-Encrypt-and-Decrypt-Strings/cpp-2227/) | | |
+| 2228 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 2229 | [Check if an Array Is Consecutive](https://leetcode.com/problems/check-if-an-array-is-consecutive/) | [无] | [C++](2001-2500/2229-Check-if-an-Array-Is-Consecutive/cpp-2229/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
