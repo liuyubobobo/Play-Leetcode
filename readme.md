@@ -2033,6 +2033,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2228 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 2229 | [Check if an Array Is Consecutive](https://leetcode.com/problems/check-if-an-array-is-consecutive/) | [无] | [C++](2001-2500/2229-Check-if-an-Array-Is-Consecutive/cpp-2229/) | | |
 | | | | | | |
+| 2232 | [Minimize Result by Adding Parentheses to Expression](https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression/) | [无] | [C++](2001-2500/2232-Minimize-Result-by-Adding-Parentheses-to-Expression/cpp-2232/) | | |
 | 2233 | [Maximum Product After K Increments](https://leetcode.com/problems/maximum-product-after-k-increments/) | [无] | [C++](2001-2500/2233-Maximum-Product-After-K-Increments/cpp-2233/) | | |
 | 2234 | [Maximum Total Beauty of the Gardens](https://leetcode.com/problems/maximum-total-beauty-of-the-gardens/) | [无] | [C++](2001-2500/2234-Maximum-Total-Beauty-of-the-Gardens/cpp-2234/) | | |
 | | | | | | |
