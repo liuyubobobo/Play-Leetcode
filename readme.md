@@ -2033,6 +2033,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2228 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 2229 | [Check if an Array Is Consecutive](https://leetcode.com/problems/check-if-an-array-is-consecutive/) | [无] | [C++](2001-2500/2229-Check-if-an-Array-Is-Consecutive/cpp-2229/) | | |
 | | | | | | |
+| 2234 | [Maximum Total Beauty of the Gardens](https://leetcode.com/problems/maximum-total-beauty-of-the-gardens/) | [无] | [C++](2001-2500/2234-Maximum-Total-Beauty-of-the-Gardens/cpp-2234/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
