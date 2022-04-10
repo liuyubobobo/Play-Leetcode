@@ -1,7 +1,15 @@
+/// Source : https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression/
+/// Author : liuyubobobo
+/// Time   : 2022-04-10
+
 #include <iostream>
 
 using namespace std;
 
+
+/// Brute Force
+/// Time Complexity: O(|exp|^2)
+/// Space Complexity: O(|exp|)
 class Solution {
 public:
     string minimizeResult(string expression) {
@@ -36,6 +44,7 @@ public:
         return best_exp;
     }
 };
+
 
 int main() {
 

@@ -2032,7 +2032,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2227 | [Encrypt and Decrypt Strings](https://leetcode.com/problems/encrypt-and-decrypt-strings/) | [无] | [C++](2001-2500/2227-Encrypt-and-Decrypt-Strings/cpp-2227/) | | |
 | 2228 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 2229 | [Check if an Array Is Consecutive](https://leetcode.com/problems/check-if-an-array-is-consecutive/) | [无] | [C++](2001-2500/2229-Check-if-an-Array-Is-Consecutive/cpp-2229/) | | |
-| | | | | | |
+| 2230 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 2231 | [Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/) | [无] | [C++](2001-2500/2231-Largest-Number-After-Digit-Swaps-by-Parity/cpp-2231/) | | |
 | 2232 | [Minimize Result by Adding Parentheses to Expression](https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression/) | [无] | [C++](2001-2500/2232-Minimize-Result-by-Adding-Parentheses-to-Expression/cpp-2232/) | | |
 | 2233 | [Maximum Product After K Increments](https://leetcode.com/problems/maximum-product-after-k-increments/) | [无] | [C++](2001-2500/2233-Maximum-Product-After-K-Increments/cpp-2233/) | | |
