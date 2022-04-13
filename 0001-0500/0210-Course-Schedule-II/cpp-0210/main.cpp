@@ -1,7 +1,7 @@
 /// Source : https://leetcode.com/problems/course-schedule-ii/
 /// Author : liuyubobobo
 /// Time   : 2018-12-16
-/// Updated: 2021-05-03
+/// Updated: 2022-04-12
 
 #include <iostream>
 #include <vector>
@@ -10,14 +10,13 @@
 using namespace std;
 
 
-/// Using Priority Queue
-/// Time Complexity: O(ElogE)
+/// Topological Order
+/// Time Complexity: O(V + E)
 /// Space Complexity: O(V + E)
 class Solution {
 public:
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
 
-        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
         vector<int> pre(numCourses, 0);
         vector<vector<int>> g(numCourses);
         for(const vector<int>& p: prerequisites){
@@ -27,30 +26,27 @@ public:
             pre[to] ++;
         }
 
+        queue<int> q;
         for(int i = 0; i < numCourses; i ++)
-            pq.push(make_pair(pre[i], i));
+            if(pre[i] == 0)
+                q.push(i);
 
-        vector<bool> learnt(numCourses, false);
         vector<int> res;
-        while(!pq.empty()){
-            int x = pq.top().first;
-            int id = pq.top().second;
-            pq.pop();
+        while(!q.empty()){
+            int id = q.front();
+            q.pop();
 
-            if(!learnt[id]){
-                if(x) return {};
-
-                res.push_back(id);
-                learnt[id] = true;
-
-                for(int next: g[id]){
-                    pre[next] --;
-                    pq.push(make_pair(pre[next], next));
-                }
+            res.push_back(id);
+            for(int next: g[id]){
+                pre[next] --;
+                if(pre[next] == 0)
+                    q.push(next);
             }
         }
 
-        return res;
+        if(res.size() == numCourses)
+            return res;
+        return {};
     }
 };
 
@@ -63,11 +59,11 @@ void print_vec(const vector<int>& vec){
 
 int main() {
 
-    vector<pair<int, int>> pre1 = {{1,0}};
+    vector<vector<int>> pre1 = {{1,0}};
     print_vec(Solution().findOrder(2, pre1));
     // 0 1
 
-    vector<pair<int, int>> pre2 = {{1,0},{2,0},{3,1},{3,2}};
+    vector<vector<int>> pre2 = {{1,0},{2,0},{3,1},{3,2}};
     print_vec(Solution().findOrder(4, pre2));
     // 0 1 2 3
 
