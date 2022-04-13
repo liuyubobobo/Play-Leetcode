@@ -2039,6 +2039,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2232 | [Minimize Result by Adding Parentheses to Expression](https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression/) | [无] | [C++](2001-2500/2232-Minimize-Result-by-Adding-Parentheses-to-Expression/cpp-2232/) | | |
 | 2233 | [Maximum Product After K Increments](https://leetcode.com/problems/maximum-product-after-k-increments/) | [无] | [C++](2001-2500/2233-Maximum-Product-After-K-Increments/cpp-2233/) | | |
 | 2234 | [Maximum Total Beauty of the Gardens](https://leetcode.com/problems/maximum-total-beauty-of-the-gardens/) | [无] | [C++](2001-2500/2234-Maximum-Total-Beauty-of-the-Gardens/cpp-2234/) | | |
+| 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [无] | [C++](2001-2500/2235-Add-Two-Integers/cpp-2235/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
