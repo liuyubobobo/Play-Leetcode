@@ -2041,6 +2041,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2234 | [Maximum Total Beauty of the Gardens](https://leetcode.com/problems/maximum-total-beauty-of-the-gardens/) | [无] | [C++](2001-2500/2234-Maximum-Total-Beauty-of-the-Gardens/cpp-2234/) | | |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [无] | [C++](2001-2500/2235-Add-Two-Integers/cpp-2235/) | | |
 | 2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/) | [无] | [C++](2001-2500/2236-Root-Equals-Sum-of-Children/cpp-2236/) | | |
+| 2237 | [Count Positions on Street With Required Brightness](https://leetcode.com/problems/count-positions-on-street-with-required-brightness/) | [无] | [C++](2001-2500/2237-Count-Positions-on-Street-With-Required-Brightness/cpp-2237/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
