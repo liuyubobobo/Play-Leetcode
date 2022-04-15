@@ -500,7 +500,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | [solution](https://leetcode.com/problems/number-complement/solution/) | [C++](0001-0500/0476-Number-Complement/cpp-0476/) | | |
 | 477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [solution](https://leetcode.com/problems/total-hamming-distance/solution/) [题解](https://leetcode-cn.com/problems/total-hamming-distance/solution/yi-ming-ju-chi-zong-he-by-leetcode/) | [C++](0001-0500/477-Total-Hamming-Distance/cpp-477/) | | |
 | 478 | [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/description/) | [solution](https://leetcode.com/problems/generate-random-point-in-a-circle/solution/) | [C++](0001-0500/0478-Generate-Random-Point-in-a-Circle/cpp-0478/) | | |
-| | | | | | |
+| 479 | [Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/) | [无] | [C++](0001-0500/0479-Largest-Palindrome-Product/cpp-0479/) | | |
 | 480 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | [无]<br/>[缺：双数据结构] | [C++](0001-0500/0480-Sliding-Window-Median/cpp-0480/) | | |
 | | | | | | |
 | 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [无] | [C++](0001-0500/0482-License-Key-Formatting/cpp-0482/) | | |
@@ -591,6 +591,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [solution](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/solution/)<br/>[缺：Stack] | [C++](0501-1000/0581-Shortest-Unsorted-Continuous-Subarray/cpp-0581/) | | |
 | 582 | [Kill Process](https://leetcode.com/problems/kill-process/) | [solution](https://leetcode.com/problems/kill-process/solution/) | [C++](0501-1000/0582-Kill-Process/cpp-0582/) | | |
 | 583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/description/) | [solution](https://leetcode.com/problems/delete-operation-for-two-strings/solution/) | [C++](0501-1000/0583-Delete-Operation-for-Two-Strings/cpp-0583/) | | |
+| 584 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
 | 587 | [Erect the Fence](https://leetcode.com/problems/erect-the-fence/) | [solution](https://leetcode.com/problems/erect-the-fence/solution/) [题解](https://leetcode-cn.com/problems/erect-the-fence/solution/an-zhuang-zha-lan-by-leetcode/)<br/>[缺：凸包解法整理] | [C++](0501-1000/0587-Erect-the-Fence/cpp-0587/) | | |
 | | | | | | |
@@ -598,6 +599,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 590 | [N-ary Tree Postorder Transversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [solution](https://leetcode.com/problems/n-ary-tree-postorder-traversal/solution/) | [C++](0501-1000/0590-N-ary-Tree-Postorder-Transversal/cpp-0590/) | | |
 | | | | | | |
 | 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [solution](https://leetcode.com/problems/longest-harmonious-subsequence/solution/) | [C++](0501-1000/0594-Longest-Harmonious-Subsequence/cpp-0594/) | | |
+| 595 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
 | 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | | [C++](0501-1000/0598-Range-Addition-II/cpp-0598/) | | |
 | 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/explore/learn/card/hash-table/184/comparison-with-other-data-structures/1177/) | [solution](https://leetcode.com/problems/minimum-index-sum-of-two-lists/solution/) | [C++](0501-1000/0599-Minimum-Index-Sum-of-Two-Lists/cpp-0599/) | | |
