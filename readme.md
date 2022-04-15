@@ -414,7 +414,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/description/) | [无] | [C++](0001-0500/0382-Linked-List-Random-Node/cpp-0382/) | | |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [solution](https://leetcode.com/problems/ransom-note/solution/) | [C++](0001-0500/0383-Ransom-Note/cpp-0383/) | | |
 | 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/) | [solution](https://leetcode.com/problems/shuffle-an-array/solution/) | [C++](0001-0500/0384-Shuffle-an-Array/cpp-0384/) | | |
-| | | | | | |
+| 385 | [Mini Parser](https://leetcode.com/problems/mini-parser/) | [无] | [C++](0001-0500/0385-Mini-Parser/cpp-0385/) | | |
 | 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/) | | [C++](0001-0500/0386-Lexicographical-Numbers/cpp-0386/) | | |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | [solution](https://leetcode.com/problems/first-unique-character-in-a-string/solution/) | [C++](0001-0500/0387-First-Unique-Character-in-a-String/cpp-0387/) | [Java](0001-0500/0387-First-Unique-Character-in-a-String/java-0387/src/) | |
 | 388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/description/) | | [C++](0001-0500/0388-Longest-Absolute-File-Path/cpp-0388/) | | |
