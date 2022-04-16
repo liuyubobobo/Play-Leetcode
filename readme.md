@@ -2049,6 +2049,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2237 | [Count Positions on Street With Required Brightness](https://leetcode.com/problems/count-positions-on-street-with-required-brightness/) | [无] | [C++](2001-2500/2237-Count-Positions-on-Street-With-Required-Brightness/cpp-2237/) | | |
 | 2238 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 2239 | [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/) | [无] | [C++](2001-2500/2239-Find-Closest-Number-to-Zero/cpp-2239/) | | |
+| 2240 | [Number of Ways to Buy Pens and Pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/) | [无] | [C++](2001-2500/2240-Number-of-Ways-to-Buy-Pens-and-Pencils/cpp-2240/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
