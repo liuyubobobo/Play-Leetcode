@@ -233,6 +233,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [solution](https://leetcode.com/problems/reverse-bits/solution/) | [C++](0001-0500/0190-Reverse-Bits/cpp-0190/) | | |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [solution](https://leetcode.com/problems/number-of-1-bits/solution/) | [C++](0001-0500/0191-Number-of-1-Bits/cpp-0191/) | | |
 | | | | | | |
+| 196 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| | | | | | |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | [solution](https://leetcode.com/problems/house-robber/solution/) | [C++](0001-0500/0198-House-Robber/cpp-0198/) | [Java](0001-0500/0198-House-Robber/java-0198/src/) | |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [solution](https://leetcode.com/problems/binary-tree-right-side-view/solution/) | [C++](0001-0500/199-Binary-Tree-Right-Side-View/cpp-0199/) | | |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [solution](https://leetcode.com/problems/number-of-islands/solution/) | [C++](0001-0500/0200-Number-of-Islands/cpp-0200/) | [Java](0001-0500/0200-Number-of-Islands/java-0200/src/) | |
@@ -618,6 +620,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/) | [无] | [C++](0501-1000/0622-Design-Circular-Queue/cpp-0622/) | | |
 | 623 | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | [solution](https://leetcode.com/problems/add-one-row-to-tree/solution/) | [C++](0501-1000/0623-Add-One-Row-to-Tree/cpp-0623/) | | |
 | | | | | | |
+| 627 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [solution](https://leetcode.com/problems/maximum-product-of-three-numbers/solution/) | [C++](0501-1000/0628-Maximum-Product-of-Three-Numbers/cpp-0628/) | | |
 | 629 | [K-Inverse-Pairs-Array](https://leetcode.com/problems/k-inverse-pairs-array/) | [solution](https://leetcode.com/problems/k-inverse-pairs-array/solution/)<br/>[缺：其他 dp 优化思路] | [C++](0501-1000/0629-K-Inverse-Pairs-Array/cpp-0629/) | | |
 | 630 | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/) | [solution](https://leetcode.com/problems/course-schedule-iii/solution/) | [C++](0501-1000/0630-Course-Schedule-III/cpp-0630/) | | |
@@ -2044,6 +2047,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [无] | [C++](2001-2500/2235-Add-Two-Integers/cpp-2235/) | | |
 | 2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/) | [无] | [C++](2001-2500/2236-Root-Equals-Sum-of-Children/cpp-2236/) | | |
 | 2237 | [Count Positions on Street With Required Brightness](https://leetcode.com/problems/count-positions-on-street-with-required-brightness/) | [无] | [C++](2001-2500/2237-Count-Positions-on-Street-With-Required-Brightness/cpp-2237/) | | |
+| 2238 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 2239 | [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/) | [无] | [C++](2001-2500/2239-Find-Closest-Number-to-Zero/cpp-2239/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
