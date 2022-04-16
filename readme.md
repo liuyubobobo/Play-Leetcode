@@ -2050,6 +2050,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2238 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 2239 | [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/) | [无] | [C++](2001-2500/2239-Find-Closest-Number-to-Zero/cpp-2239/) | | |
 | 2240 | [Number of Ways to Buy Pens and Pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/) | [无] | [C++](2001-2500/2240-Number-of-Ways-to-Buy-Pens-and-Pencils/cpp-2240/) | | |
+| 2241 | [Design an ATM Machine](https://leetcode.com/problems/design-an-atm-machine/) | [无] | [C++](2001-2500/2241-Design-an-ATM-Machine/cpp-2241/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
