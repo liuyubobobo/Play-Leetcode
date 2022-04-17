@@ -2055,6 +2055,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [无] | [C++](2001-2500/2243-Calculate-Digit-Sum-of-a-String/cpp-2243/) | | |
 | 2244 | [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/) | [无] | [C++](2001-2500/2244-Minimum-Rounds-to-Complete-All-Tasks/cpp-2244/) | | |
 | 2245 | [Maximum Trailing Zeros in a Cornered Path](https://leetcode.com/problems/maximum-trailing-zeros-in-a-cornered-path/) | [无] | [C++](2001-2500/2245-Maximum-Trailing-Zeros-in-a-Cornered-Path/cpp-2245/) | | |
+| 2246 | [Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/) | [无] | [C++](2001-2500/2246-Longest-Path-With-Different-Adjacent-Characters/cpp-2246/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
