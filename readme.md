@@ -2104,6 +2104,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | LCP47 | [入场安检](https://leetcode-cn.com/problems/oPs9Bm/) | [无] | [C++](LC/LCP47/cpp-LCP47/) | | |
 | LCP48 | [无限棋局](https://leetcode-cn.com/problems/fsa7oZ/) | [无] | [C++](LC/LCP48/cpp-LCP48/) | | |
 | | | | | | |
+| LCP50 | [宝石补给](https://leetcode-cn.com/problems/WHnhjV/) | [无] | [C++](LC/LCP50/cpp-LCP50/) | | |
+| | | | | | |
 
 ## 其他
 
