@@ -2105,6 +2105,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | LCP48 | [无限棋局](https://leetcode-cn.com/problems/fsa7oZ/) | [无] | [C++](LC/LCP48/cpp-LCP48/) | | |
 | | | | | | |
 | LCP50 | [宝石补给](https://leetcode-cn.com/problems/WHnhjV/) | [无] | [C++](LC/LCP50/cpp-LCP50/) | | |
+| LCP51 | [烹饪料理](https://leetcode-cn.com/problems/UEcfPD/) | [无] | [C++](LC/LCP51/cpp-LCP51/) | | |
 | | | | | | |
 
 ## 其他
