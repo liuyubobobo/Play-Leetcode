@@ -1376,6 +1376,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1522 | [Diameter of N-Ary Tree](https://leetcode.com/problems/diameter-of-n-ary-tree/) | [无] | [C++](1501-2000/1522-Diameter-of-N-Ary-Tree/cpp-1522/) | | |
 | | | | | | |
+| 1527 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| | | | | | |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [solution](https://leetcode.com/problems/kth-missing-positive-number/solution/) | [C++](1501-2000/1539-Kth-Missing-Positive-Number/cpp-1539/) | | |
 | | | | | | |
 | 1559 | [Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | [无] | [C++](1501-2000/1559-Detect-Cycles-in-2D-Grid/cpp-1559/) | | |
@@ -2051,7 +2053,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2239 | [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/) | [无] | [C++](2001-2500/2239-Find-Closest-Number-to-Zero/cpp-2239/) | | |
 | 2240 | [Number of Ways to Buy Pens and Pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/) | [无] | [C++](2001-2500/2240-Number-of-Ways-to-Buy-Pens-and-Pencils/cpp-2240/) | | |
 | 2241 | [Design an ATM Machine](https://leetcode.com/problems/design-an-atm-machine/) | [无] | [C++](2001-2500/2241-Design-an-ATM-Machine/cpp-2241/) | | |
-| | | | | | |
+| 2242 | [Maximum Score of a Node Sequence](https://leetcode.com/problems/maximum-score-of-a-node-sequence/) | [无] | [C++](2001-2500/2242-Maximum-Score-of-a-Node-Sequence/cpp-2242/) | | |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [无] | [C++](2001-2500/2243-Calculate-Digit-Sum-of-a-String/cpp-2243/) | | |
 | 2244 | [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/) | [无] | [C++](2001-2500/2244-Minimum-Rounds-to-Complete-All-Tasks/cpp-2244/) | | |
 | 2245 | [Maximum Trailing Zeros in a Cornered Path](https://leetcode.com/problems/maximum-trailing-zeros-in-a-cornered-path/) | [无] | [C++](2001-2500/2245-Maximum-Trailing-Zeros-in-a-Cornered-Path/cpp-2245/) | | |
