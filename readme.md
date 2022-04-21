@@ -234,7 +234,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [solution](https://leetcode.com/problems/number-of-1-bits/solution/) | [C++](0001-0500/0191-Number-of-1-Bits/cpp-0191/) | | |
 | | | | | | |
 | 196 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
-| | | | | | |
+| 197 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | [solution](https://leetcode.com/problems/house-robber/solution/) | [C++](0001-0500/0198-House-Robber/cpp-0198/) | [Java](0001-0500/0198-House-Robber/java-0198/src/) | |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [solution](https://leetcode.com/problems/binary-tree-right-side-view/solution/) | [C++](0001-0500/199-Binary-Tree-Right-Side-View/cpp-0199/) | | |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [solution](https://leetcode.com/problems/number-of-islands/solution/) | [C++](0001-0500/0200-Number-of-Islands/cpp-0200/) | [Java](0001-0500/0200-Number-of-Islands/java-0200/src/) | |
@@ -609,7 +609,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [solution](https://leetcode.com/problems/can-place-flowers/solution/) | [C++](0501-1000/0605-Can-Place-Flowers/cpp-0605/) | | |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [solution](https://leetcode.com/problems/construct-string-from-binary-tree/solution/) | [C++](0501-1000/0606-Construct-String-from-Binary-Tree/cpp-0606/) | | |
-| | | | | | |
+| 607 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 608 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 609 | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) | [solution](https://leetcode.com/problems/find-duplicate-file-in-system/solution/) | [C++](0501-1000/0609-Find-Duplicate-File-in-System/cpp-0609/) | | |
 | | | | | | |
 | 611 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [solution](https://leetcode.com/problems/valid-triangle-number/solution/) | [C++](0501-1000/0611-Valid-Triangle-Number/cpp-0611/) | | |
@@ -790,7 +791,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/description/) | [solution](https://leetcode.com/problems/most-common-word/solution/) | [C++](0501-1000/0819-Most-Common-Word/cpp-0819/) | | |
 | | | | | | |
 | 823 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | [solution](https://leetcode.com/problems/binary-trees-with-factors/solution/) | [C++](0501-1000/0823-Binary-Trees-With-Factors/cpp-0823/) | | |
-| | | | | | |
+| 824 | [Goat Latin](https://leetcode.com/problems/goat-latin/) | [无] | [C++](0501-1000/0824-Goat-Latin/cpp-0824/) | | |
 | 825 | [Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/) | [无] | [C++](0501-1000/0825-Friends-Of-Appropriate-Ages/cpp-0825/) | | |
 | | | | | | |
 | 827 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | [无] | [C++](0501-1000/0827-Making-A-Large-Island/cpp-0827/) | | |
@@ -1079,6 +1080,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1145 | [Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/) | [无] | [C++](1001-1500/1145-Binary-Tree-Coloring-Game/cpp-1145/) | | |
 | 1146 | [Snapshot Array](https://leetcode.com/problems/snapshot-array/) | [无] | [C++](1001-1500/1146-Snapshot-Array/cpp-1146/) | | |
 | 1147 | [Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/) | [无] | [C++](1001-1500/1147-Longest-Chunked-Palindrome-Decomposition/cpp-1147/) | | |
+| 1148 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
 | 1150 | [Check If a Number Is Majority Element in a Sorted Array](https://leetcode.com/problems/is-a-a-majority-element/) | [无] | [C++](1001-1500/1150-Check-If-a-Number-Is-Majority-Element-in-a-Sorted-Array/cpp-1150/) | | |
 | 1151 | [Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/) | [无] | [C++](1001-1500/1151-Minimum-Swaps-to-Group-All-1s-Together/cpp-1151/) | | |
