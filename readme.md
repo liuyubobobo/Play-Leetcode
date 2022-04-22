@@ -533,6 +533,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [无] | [C++](0501-1000/0509-Fibonacci-Number/cpp-0509/) | | |
 | | | | | | |
+| 511 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| | | | | | |
 | 516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [无] | [C++](0501-1000/0516-Longest-Palindromic-Subsequence/cpp-0516/) | | |
 | 517 | [Super Washing Machines](https://leetcode.com/problems/super-washing-machines/) | [solution](https://leetcode.com/problems/super-washing-machines/solution/) | [C++](0501-1000/0517-Super-Washing-Machines/cpp-0517/) | | |
 | 518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/description/) | [无] | [C++](0501-1000/0518-Coin-Change-2/cpp-0518/) | | |
@@ -595,6 +597,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/description/) | [solution](https://leetcode.com/problems/delete-operation-for-two-strings/solution/) | [C++](0501-1000/0583-Delete-Operation-for-Two-Strings/cpp-0583/) | | |
 | 584 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
+| 586 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 587 | [Erect the Fence](https://leetcode.com/problems/erect-the-fence/) | [solution](https://leetcode.com/problems/erect-the-fence/solution/) [题解](https://leetcode-cn.com/problems/erect-the-fence/solution/an-zhuang-zha-lan-by-leetcode/)<br/>[缺：凸包解法整理] | [C++](0501-1000/0587-Erect-the-Fence/cpp-0587/) | | |
 | | | | | | |
 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [solution](https://leetcode.com/problems/n-ary-tree-preorder-traversal/solution/) | [C++](0501-1000/0589-N-ary-Tree-Preorder-Traversal/cpp-0589/) | | |
@@ -1074,6 +1077,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1138 | [Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/) | [无] | [C++](1001-1500/1138-Alphabet-Board-Path/cpp-1138/) | | |
 | 1139 | [Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/) | [无] | [C++](1001-1500/1139-Largest-1-Bordered-Square/cpp-1139/) | | |
 | 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | [无] | [C++](1001-1500/1140-Stone-Game-II/cpp-1140/) | | |
+| 1141 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [无] | [C++](1001-1500/1143-Longest-Common-Subsequence/cpp-1143/) | | |
 | 1144 | [Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/) | [无] | [C++](1001-1500/1144-Decrease-Elements-To-Make-Array-Zigzag/cpp-1144/) | | |
