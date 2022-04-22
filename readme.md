@@ -2064,6 +2064,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2244 | [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/) | [无] | [C++](2001-2500/2244-Minimum-Rounds-to-Complete-All-Tasks/cpp-2244/) | | |
 | 2245 | [Maximum Trailing Zeros in a Cornered Path](https://leetcode.com/problems/maximum-trailing-zeros-in-a-cornered-path/) | [无] | [C++](2001-2500/2245-Maximum-Trailing-Zeros-in-a-Cornered-Path/cpp-2245/) | | |
 | 2246 | [Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/) | [无] | [C++](2001-2500/2246-Longest-Path-With-Different-Adjacent-Characters/cpp-2246/) | | |
+| 2247 | [Maximum Cost of Trip With K Highways](https://leetcode.com/problems/maximum-cost-of-trip-with-k-highways/) | [无] | [C++](2001-2500/2247-Maximum-Cost-of-Trip-With-K-Highways/cpp-2247/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
