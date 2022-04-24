@@ -2124,6 +2124,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | LCP52 | [二叉搜索树染色](https://leetcode-cn.com/problems/QO5KpG/) | [无] [缺：非线段树做法] | [C++](LC/LCP52/cpp-LCP52/) | | |
 | | | | | | |
 | LCP55 | [采集果实](https://leetcode-cn.com/problems/PTXy4P/) | [无] | [C++](LC/LCP55/cpp-LCP55/) | | |
+| LCP56 | [信物传送](https://leetcode-cn.com/problems/6UEx57/) | [无] | [C++](LC/LCP56/cpp-LCP56/) | | |
 | | | | | | |
 
 ## 其他
