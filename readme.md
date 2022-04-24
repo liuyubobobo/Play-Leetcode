@@ -2123,6 +2123,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | LCP51 | [烹饪料理](https://leetcode-cn.com/problems/UEcfPD/) | [无] | [C++](LC/LCP51/cpp-LCP51/) | | |
 | LCP52 | [二叉搜索树染色](https://leetcode-cn.com/problems/QO5KpG/) | [无] [缺：非线段树做法] | [C++](LC/LCP52/cpp-LCP52/) | | |
 | | | | | | |
+| LCP55 | [采集果实](https://leetcode-cn.com/problems/PTXy4P/) | [无] | [C++](LC/LCP55/cpp-LCP55/) | | |
+| | | | | | |
 
 ## 其他
 
