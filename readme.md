@@ -1016,6 +1016,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [无] | [C++](1001-1500/1047-Remove-All-Adjacent-Duplicates-In-String/cpp-1047/) | | |
 | | | | | | |
 | 1049 | [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/) | [无] | [C++](1001-1500/1049-Last-Stone-Weight-II/cpp-1049/) | | |
+| 1050 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
 | 1052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/) | [无] | [C++](1001-1500/1052-Grumpy-Bookstore-Owner/cpp-1052/) | | |
 | | | | | | |
@@ -1031,6 +1032,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | [无] | [C++](1001-1500/1079-Letter-Tile-Possibilities/cpp-1079/) | | |
 | 1080 | [Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) | [无] | [C++](1001-1500/1080-Insufficient-Nodes-in-Root-to-Leaf-Paths/cpp-1080/) | | |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | [无] | [C++](1001-1500/1081-Smallest-Subsequence-of-Distinct-Characters/cpp-1081/) | | |
+| | | | | | |
+| 1084 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
 | 1087 | [Brace Expansion](https://leetcode.com/problems/brace-expansion/) | [无] | [C++](1001-1500/1087-Brace-Expansion/cpp-1087/) | | |
 | | | | | | |
@@ -1094,6 +1097,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1155 | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | [无]<br/>[缺：空间优化] | [C++](1001-1500/1155-Number-of-Dice-Rolls-With-Target-Sum/cpp-1155/) | | |
 | 1156 | [Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-maximum-repeated-substring/) | [无] | [C++](1001-1500/1156-Swap-For-Longest-Repeated-Character-Substring/cpp-1156/) | | |
 | 1157 | [Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/) | [无] | [C++](1001-1500/1157-Online-Majority-Element-In-Subarray/cpp-1157/) | | |
+| 1158 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
 | 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [无] | [C++](1001-1500/1160-Find-Words-That-Can-Be-Formed-by-Characters/cpp-1160/) | | |
 | 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [无] | [C++](1001-1500/1161-Maximum-Level-Sum-of-a-Binary-Tree/cpp-1161/) | | |
@@ -2065,6 +2069,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2245 | [Maximum Trailing Zeros in a Cornered Path](https://leetcode.com/problems/maximum-trailing-zeros-in-a-cornered-path/) | [无] | [C++](2001-2500/2245-Maximum-Trailing-Zeros-in-a-Cornered-Path/cpp-2245/) | | |
 | 2246 | [Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/) | [无] | [C++](2001-2500/2246-Longest-Path-With-Different-Adjacent-Characters/cpp-2246/) | | |
 | 2247 | [Maximum Cost of Trip With K Highways](https://leetcode.com/problems/maximum-cost-of-trip-with-k-highways/) | [无] | [C++](2001-2500/2247-Maximum-Cost-of-Trip-With-K-Highways/cpp-2247/) | | |
+| 2248 | [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/) | [无] | [C++](2001-2500/2248-Intersection-of-Multiple-Arrays/cpp-2248/) | | |
+| 2249 | [Count Lattice Points Inside a Circle](https://leetcode.com/problems/count-lattice-points-inside-a-circle/) | [无] | [C++](2001-2500/2249-Count-Lattice-Points-Inside-a-Circle/cpp-2249/) | | |
+| 2250 | [Count Number of Rectangles Containing Each Point](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/) | [无] | [C++](2001-2500/2250-Count-Number-of-Rectangles-Containing-Each-Point/cpp-2250/) | | |
+| 2251 | [Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) | [无] | [C++](2001-2500/2251-Number-of-Flowers-in-Full-Bloom/cpp-2251/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
