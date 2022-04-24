@@ -2125,6 +2125,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | LCP55 | [采集果实](https://leetcode-cn.com/problems/PTXy4P/) | [无] | [C++](LC/LCP55/cpp-LCP55/) | | |
 | LCP56 | [信物传送](https://leetcode-cn.com/problems/6UEx57/) | [无] | [C++](LC/LCP56/cpp-LCP56/) | | |
+| LCP57 | [打地鼠](https://leetcode-cn.com/problems/ZbAuEH/) | [无] | [C++](LC/LCP57/cpp-LCP57/) | | |
 | | | | | | |
 
 ## 其他
