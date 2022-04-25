@@ -1112,6 +1112,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | [无] | [C++](1001-1500/1170-Compare-Strings-by-Frequency-of-the-Smallest-Character/cpp-1170/) | | |
 | 1171 | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | [无] | [C++](1001-1500/1171-Remove-Zero-Sum-Consecutive-Nodes-from-Linked-List/cpp-1171/) | | |
 | 1172 | [Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/) | [无] | [C++](1001-1500/1172-Dinner-Plate-Stacks/cpp-1172/) | | |
+| 1173 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
 | 1175 | [Prime Arrangements](https://leetcode.com/problems/prime-arrangements/) | [无] | [C++](1001-1500/1175-Prime-Arrangements/) | | |
 | 1176 | [Diet Plan Performance](https://leetcode.com/problems/diet-plan-performance/) | [无] | [C++](1001-1500/1176-Diet-Plan-Performance/cpp-1176/) | | |
@@ -1145,6 +1146,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1208 | [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/) | [无] | [C++](1001-1500/1208-Get-Equal-Substrings-Within-Budget/cpp-1208/) | | |
 | 1209 | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | [无] | [C++](1001-1500/1209-Remove-All-Adjacent-Duplicates-in-String-II/cpp-1209/) | | |
 | 1210 | [Minimum Moves to Reach Target with Rotations](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/) | [无] | [C++](1001-1500/1210-Minimum-Moves-to-Reach-Target-with-Rotations/cpp-1210/) | | |
+| 1211 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
 | 1213 | [Intersection of Three Sorted Arrays](https://leetcode.com/problems/intersection-of-three-sorted-arrays/) | [无] | [C++](1001-1500/1213-Intersection-of-Three-Sorted-Arrays/cpp-1213/) | | |
 | 1214 | [Two Sum BSTs](https://leetcode.com/problems/two-sum-bsts/) | [无] | [C++](1001-1500/1214-Two-Sum-BSTs/cpp-1214/) | | |
@@ -1179,6 +1181,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | [无] | [C++](1001-1500/1248-Count-Number-of-Nice-Subarrays/cpp-1248/) | [Java](1001-1500/1248-Count-Number-of-Nice-Subarrays/java-1248/) | |
 | 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [solution](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/solution/) | [C++](1001-1500/1249-Minimum-Remove-to-Make-Valid-Parentheses/cpp-1249/) | | |
+| | | | | | |
+| 1251 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
 | 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | [solution](https://leetcode.com/problems/shift-2d-grid/solution/) | [C++](1001-1500/1260-Shift-2D-Grid/cpp-1260/) | | |
 | 1261 | [Find Elements in a Contaminated Binary Tree](https://leetcode.com/contest/weekly-contest-163/problems/find-elements-in-a-contaminated-binary-tree/) | [C++](1001-1500/1261-Find-Elements-in-a-Contaminated-Binary-Tree/cpp-1261/) | | | |
