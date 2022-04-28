@@ -457,6 +457,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [无] | [C++](0001-0500/0424-Longest-Repeating-Character-Replacement/cpp-0424/) | | |
 | | | | | | |
 | 426 | [Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) | [solution](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/solution/) | [C++](0001-0500/0426-Convert-Binary-Search-Tree-to-Sorted-Doubly-Linked-List/cpp-0426/) | | |
+| 427 | [Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/) | [无] | [C++](0001-0500/0427-Construct-Quad-Tree/cpp-0427/) | | |
 | | | | | | |
 | 429 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [无] | [C++](0001-0500/0429-N-ary-Tree-Level-Order-Traversal/cpp-0429/) | | |
 | 430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/description/) | [无] | [C++](0001-0500/0430-Flatten-a-Multilevel-Doubly-Linked-List/cpp-0430/) | | |
@@ -586,6 +587,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [solution](https://leetcode.com/problems/reshape-the-matrix/solution/) | [C++](0501-1000/0566-Reshape-the-Matrix/cpp-0566/) | | |
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [solution](https://leetcode.com/problems/permutation-in-string/solution/) [题解](https://leetcode-cn.com/problems/permutation-in-string/solution/zi-fu-chuan-de-pai-lie-by-leetcode/) | [C++](0501-1000/0567-Permutation-in-String/cpp-0567/) | | |
 | | | | | | |
+| 570 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| | | | | | |
 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | [solution](https://leetcode.com/problems/subtree-of-another-tree/solution/) | [C++](0501-1000/0572-Subtree-of-Another-Tree/cpp-0572/) | | |
 | 573 | [Squirrel Simulation](https://leetcode.com/problems/squirrel-simulation/) |[solution](https://leetcode.com/problems/squirrel-simulation/solution/) | [C++](0501-1000/0573-Squirrel-Simulation/cpp-0573/) | | |
 | | | | | | |
@@ -619,6 +622,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 611 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [solution](https://leetcode.com/problems/valid-triangle-number/solution/) | [C++](0501-1000/0611-Valid-Triangle-Number/cpp-0611/) | | |
 | | | | | | |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [C++](0501-1000/0617-Merge-Two-Binary-Trees/cpp-0617/) | | | |
+| | | | | | |
+| 619 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [solution](https://leetcode.com/problems/task-scheduler/solution/) | [C++](0501-1000/0621-Task-Scheduler/cpp-0621/) | | |
 | 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/) | [无] | [C++](0501-1000/0622-Design-Circular-Queue/cpp-0622/) | | |
@@ -1059,6 +1064,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1109 | [Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/) | [无] | [C++](1001-1500/1109-Corporate-Flight-Bookings/cpp-1009/) | | |
 | 1110 | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [无] | [C++](1001-1500/1110-Delete-Nodes-And-Return-Forest/cpp-1110/) | | |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | [无] | [C++](1001-1500/1111-Maximum-Nesting-Depth-of-Two-Valid-Parentheses-Strings/cpp-1111/) | | |
+| 1112 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
 | 1118 | [Number of Days in a Month](https://leetcode.com/problems/number-of-days-in-a-month/) | [无] | [C++](1001-1500/1118-Number-of-Days-in-a-Month/cpp-1118/) | | |
 | 1119 | [Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/) | [无] | [C++](1001-1500/1119-Remove-Vowels-from-a-String/cpp-1119/) | | |
@@ -1188,6 +1194,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1261 | [Find Elements in a Contaminated Binary Tree](https://leetcode.com/contest/weekly-contest-163/problems/find-elements-in-a-contaminated-binary-tree/) | [C++](1001-1500/1261-Find-Elements-in-a-Contaminated-Binary-Tree/cpp-1261/) | | | |
 | 1262 | [Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/) | [无] | [C++](1001-1500/1262-Greatest-Sum-Divisible-by-Three/cpp-1262/) | | |
 | 1263 | [Minimum Moves to Move a Box to Their Target Location](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/) | [无] | [C++](1001-1500/1263-Minimum-Moves-to-Move-a-Box-to-Their-Target-Location/cpp-1263/) | | |
+| 1264 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
 | 1275 | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/) | [无] | [C++](1001-1500/1275-Find-Winner-on-a-Tic-Tac-Toe-Game/cpp-1275/) | | |
 | | | | | | |
@@ -1204,7 +1211,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1293 | [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | [solution](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | [C++](1001-1500/1293-Shortest-Path-in-a-Grid-with-Obstacles-Elimination/cpp-1293/) | | |
 | | | | | | |
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [solution](https://leetcode.com/problems/deepest-leaves-sum/solution/) | [C++](1302-Deepest-Leaves-Sum/cpp-1302/) | | |
-| | | | | | |
+| 1303 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [无] | [C++](1001-1500/1304-Find-N-Unique-Integers-Sum-up-to-Zero/cpp-1304/) | | |
 | 1305 | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | [无] | [C++](1001-1500/1305-All-Elements-in-Two-Binary-Search-Trees/cpp-1305/) | | |
 | 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [无] | [C++](1001-1500/1306-Jump-Game-III/cpp-1306/) | | |
