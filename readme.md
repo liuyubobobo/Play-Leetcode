@@ -461,7 +461,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 429 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [无] | [C++](0001-0500/0429-N-ary-Tree-Level-Order-Traversal/cpp-0429/) | | |
 | 430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/description/) | [无] | [C++](0001-0500/0430-Flatten-a-Multilevel-Doubly-Linked-List/cpp-0430/) | | |
-| | | | | | |
+| 431 | [Encode N-ary Tree to Binary Tree](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/) | [solution](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/solution/) | [C++](0001-0500/0431-Encode-N-ary-Tree-to-Binary-Tree/cpp-0431/) | | |
 | 432 | [All O one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) | [无] [缺：O(1)] | [C++](0001-0500/0432-All-O-one-Data-Structure/cpp-0432/) | | |
 | | | | | | |
 | 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/) | | [C++](0001-0500/0434-Number-of-Segments-in-a-String/cpp-0434/) | | |
