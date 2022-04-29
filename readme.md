@@ -1201,6 +1201,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [题解](https://leetcode-cn.com/problems/count-square-submatrices-with-all-ones/solution/tong-ji-quan-wei-1-de-zheng-fang-xing-zi-ju-zhen-2/) | [C++](1001-1500/1277-Count-Square-Submatrices-with-All-Ones/cpp-1277/) | | |
 | 1278 | [Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/) | [无] | [C++](1001-1500/1278-Palindrome-Partitioning-III/cpp-1278/) | | |
 | | | | | | |
+| 1280 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| | | | | | |
 | 1286 | [Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/) | [solution](https://leetcode.com/problems/iterator-for-combination/solution/) | [C++](1001-1500/1286-Iterator-for-Combination/cpp-1286/) | | |
 | | | | | | |
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | [solution](https://leetcode.com/problems/remove-covered-intervals/solution/) | [C++](1001-1500/1288-Remove-Covered-Intervals/cpp-1288/) | | |
@@ -2084,6 +2086,9 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2249 | [Count Lattice Points Inside a Circle](https://leetcode.com/problems/count-lattice-points-inside-a-circle/) | [无] | [C++](2001-2500/2249-Count-Lattice-Points-Inside-a-Circle/cpp-2249/) | | |
 | 2250 | [Count Number of Rectangles Containing Each Point](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/) | [无] | [C++](2001-2500/2250-Count-Number-of-Rectangles-Containing-Each-Point/cpp-2250/) | | |
 | 2251 | [Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) | [无] | [C++](2001-2500/2251-Number-of-Flowers-in-Full-Bloom/cpp-2251/) | | |
+| 2252 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 2253 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 2254 | [Design Video Sharing Platform](https://leetcode.com/problems/design-video-sharing-platform/) | [无] | [C++](2001-2500/2254-Design-Video-Sharing-Platform/cpp-2254/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
