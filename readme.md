@@ -226,6 +226,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 181 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
+| 184 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| | | | | | |
 | 186 | [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/description/) | [无] | [C++](0001-0500/0186-Reverse-Words-in-a-String-II/cpp-0186/) | | |
 | | | | | | |
 | 188 | [Best-Time-to-Buy-and-Sell-Stock-IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | | [C++](0001-0500/0188-Best-Time-to-Buy-and-Sell-Stock-IV/cpp-0188/) | | |
@@ -595,6 +597,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [solution](https://leetcode.com/problems/distribute-candies/solution/) | [C++](0501-1000/0575-Distribute-Candies/cpp-0575/) | | |
 | 576 | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | [solution](https://leetcode.com/problems/out-of-boundary-paths/solution/) | [C++](0501-1000/0576-Out-of-Boundary-Paths/cpp-0576/) | | |
 | | | | | | |
+| 580 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [solution](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/solution/)<br/>[缺：Stack] | [C++](0501-1000/0581-Shortest-Unsorted-Continuous-Subarray/cpp-0581/) | | |
 | 582 | [Kill Process](https://leetcode.com/problems/kill-process/) | [solution](https://leetcode.com/problems/kill-process/solution/) | [C++](0501-1000/0582-Kill-Process/cpp-0582/) | | |
 | 583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/description/) | [solution](https://leetcode.com/problems/delete-operation-for-two-strings/solution/) | [C++](0501-1000/0583-Delete-Operation-for-Two-Strings/cpp-0583/) | | |
@@ -2089,6 +2092,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2252 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 2253 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 2254 | [Design Video Sharing Platform](https://leetcode.com/problems/design-video-sharing-platform/) | [无] | [C++](2001-2500/2254-Design-Video-Sharing-Platform/cpp-2254/) | | |
+| 2255 | [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/) | [无] | [C++](2001-2500/2255-Count-Prefixes-of-a-Given-String/cpp-2255/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
