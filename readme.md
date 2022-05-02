@@ -2096,6 +2096,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 2259 | [Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/) | [无] | [C++](2001-2500/2259-Remove-Digit-From-Number-to-Maximize-Result/cpp-2259/) | | |
 | 2260 | [Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) | [无] | [C++](2001-2500/2260-Minimum-Consecutive-Cards-to-Pick-Up/cpp-2260/) | | |
+| 2261 | [K Divisible Elements Subarrays](https://leetcode.com/problems/k-divisible-elements-subarrays/) | [无] | [C++](2001-2500/2261-K-Divisible-Elements-Subarrays/cpp-2261/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
