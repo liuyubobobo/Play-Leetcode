@@ -2094,6 +2094,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2254 | [Design Video Sharing Platform](https://leetcode.com/problems/design-video-sharing-platform/) | [无] | [C++](2001-2500/2254-Design-Video-Sharing-Platform/cpp-2254/) | | |
 | 2255 | [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/) | [无] | [C++](2001-2500/2255-Count-Prefixes-of-a-Given-String/cpp-2255/) | | |
 | | | | | | |
+| 2259 | [Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/) | [无] | [C++](2001-2500/2259-Remove-Digit-From-Number-to-Maximize-Result/cpp-2259/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
