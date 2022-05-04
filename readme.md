@@ -2096,7 +2096,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2255 | [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/) | [无] | [C++](2001-2500/2255-Count-Prefixes-of-a-Given-String/cpp-2255/) | | |
 | 2256 | [Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/) | [无] | [C++](2001-2500/2256-Minimum-Average-Difference/cpp-2256/) | | |
 | 2257 | [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) | [无] | [C++](2001-2500/2257-Count-Unguarded-Cells-in-the-Grid/cpp-2257/) | | |
-| | | | | | |
+| 2258 | [Escape the Spreading Fire](https://leetcode.com/problems/escape-the-spreading-fire/) | [无] | [C++](2001-2500/2258-Escape-the-Spreading-Fire/cpp-2258/) | | |
 | 2259 | [Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/) | [无] | [C++](2001-2500/2259-Remove-Digit-From-Number-to-Maximize-Result/cpp-2259/) | | |
 | 2260 | [Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) | [无] | [C++](2001-2500/2260-Minimum-Consecutive-Cards-to-Pick-Up/cpp-2260/) | | |
 | 2261 | [K Divisible Elements Subarrays](https://leetcode.com/problems/k-divisible-elements-subarrays/) | [无] | [C++](2001-2500/2261-K-Divisible-Elements-Subarrays/cpp-2261/) | | |
