@@ -465,8 +465,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/description/) | [无] | [C++](0001-0500/0430-Flatten-a-Multilevel-Doubly-Linked-List/cpp-0430/) | | |
 | 431 | [Encode N-ary Tree to Binary Tree](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/) | [solution](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/solution/) | [C++](0001-0500/0431-Encode-N-ary-Tree-to-Binary-Tree/cpp-0431/) | | |
 | 432 | [All O one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) | [无] [缺：O(1)] | [C++](0001-0500/0432-All-O-one-Data-Structure/cpp-0432/) | | |
-| | | | | | |
-| 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/) | | [C++](0001-0500/0434-Number-of-Segments-in-a-String/cpp-0434/) | | |
+| 433 | [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | [无] | [C++](0001-0500/0433-Minimum-Genetic-Mutation/cpp-0433/) | | |
+| 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/) | [无] | [C++](0001-0500/0434-Number-of-Segments-in-a-String/cpp-0434/) | | |
 | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) | [solution](https://leetcode.com/problems/non-overlapping-intervals/solution/) | [C++](0001-0500/0435-Non-overlapping-Intervals/cpp-0435/) | [Java](0001-0500/0435-Non-overlapping-Intervals/java-0435/src/) | |
 | | | | | | |
 | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) | [无] | [C++](0001-0500/0437-Path-Sum-III/cpp-0437/) | [Java](0001-0500/0437-Path-Sum-III/java-0437/src/) | |
