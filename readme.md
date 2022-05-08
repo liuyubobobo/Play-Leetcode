@@ -2104,6 +2104,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | [无] | [C++](2001-2500/2264-Largest-3-Same-Digit-Number-in-String/cpp-2264/) | | |
 | 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | [无] | [C++](2001-2500/2265-Count-Nodes-Equal-to-Average-of-Subtree/cpp-2265/) | | |
+| 2266 | [Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/) | [无] | [C++](2001-2500/2266-Count-Number-of-Texts/cpp-2266/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
