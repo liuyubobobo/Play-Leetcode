@@ -2102,6 +2102,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2261 | [K Divisible Elements Subarrays](https://leetcode.com/problems/k-divisible-elements-subarrays/) | [无] | [C++](2001-2500/2261-K-Divisible-Elements-Subarrays/cpp-2261/) | | |
 | 2262 | [Total Appeal of A String](https://leetcode.com/problems/total-appeal-of-a-string/) | [无] | [C++](2001-2500/2262-Total-Appeal-of-A-String/cpp-2262/) | | |
 | | | | | | |
+| 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | [无] | [C++](2001-2500/2264-Largest-3-Same-Digit-Number-in-String/cpp-2264/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
