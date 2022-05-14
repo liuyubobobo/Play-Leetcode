@@ -2109,6 +2109,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2268 | [Minimum Number of Keypresses](https://leetcode.com/problems/minimum-number-of-keypresses/) | [无] | [C++](2001-2500/2268-Minimum-Number-of-Keypresses/cpp-2268/) | | |
 | 2269 | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/) | [无] | [C++](2001-2500/2269-Find-the-K-Beauty-of-a-Number/cpp-2269/) | | |
 | 2270 | [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/) | [无] | [C++](2001-2500/2270-Number-of-Ways-to-Split-Array/cpp-2270/) | | |
+| 2271 | [Maximum White Tiles Covered by a Carpet](https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/) | [无] | [C++](2001-2500/2271-Maximum-White-Tiles-Covered-by-a-Carpet/cpp-2271/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
