@@ -468,7 +468,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 433 | [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | [无] | [C++](0001-0500/0433-Minimum-Genetic-Mutation/cpp-0433/) | | |
 | 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/) | [无] | [C++](0001-0500/0434-Number-of-Segments-in-a-String/cpp-0434/) | | |
 | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) | [solution](https://leetcode.com/problems/non-overlapping-intervals/solution/) | [C++](0001-0500/0435-Non-overlapping-Intervals/cpp-0435/) | [Java](0001-0500/0435-Non-overlapping-Intervals/java-0435/src/) | |
-| | | | | | |
+| 436 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/) | [无] | [C++](0001-0500/0436-Find-Right-Interval/cpp-0436/) | | |
 | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) | [无] | [C++](0001-0500/0437-Path-Sum-III/cpp-0437/) | [Java](0001-0500/0437-Path-Sum-III/java-0437/src/) | |
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) | [无] | [C++](0001-0500/0438-Find-All-Anagrams-in-a-String/cpp-0438/) | | |
 | 439 | [Ternary Expression Parser](https://leetcode.com/problems/ternary-expression-parser/) | [无] | [C++](0001-0500/0439-Ternary-Expression-Parser/cpp-0439/) | | |
