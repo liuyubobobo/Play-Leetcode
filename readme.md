@@ -2115,6 +2115,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2274 | [Maximum Consecutive Floors Without Special Floors](https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/) | [无] | [C++](2001-2500/2274-Maximum-Consecutive-Floors-Without-Special-Floors/cpp-2274/) | | |
 | 2275 | [Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/) | [无] | [C++](2001-2500/2275-Largest-Combination-With-Bitwise-AND-Greater-Than-Zero/cpp-2275/) | | |
 | 2276 | [Count Integers in Intervals](https://leetcode.com/problems/count-integers-in-intervals/) | [无] | [C++](2001-2500/2276-Count-Integers-in-Intervals/cpp-2276/) | | |
+| 2277 | [Closest Node to Path in Tree](https://leetcode.com/problems/closest-node-to-path-in-tree/) | [无] | [C++](2001-2500/2277-Closest-Node-to-Path-in-Tree/cpp-2277/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
