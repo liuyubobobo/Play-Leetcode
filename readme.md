@@ -2116,6 +2116,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2275 | [Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/) | [无] | [C++](2001-2500/2275-Largest-Combination-With-Bitwise-AND-Greater-Than-Zero/cpp-2275/) | | |
 | 2276 | [Count Integers in Intervals](https://leetcode.com/problems/count-integers-in-intervals/) | [无] | [C++](2001-2500/2276-Count-Integers-in-Intervals/cpp-2276/) | | |
 | 2277 | [Closest Node to Path in Tree](https://leetcode.com/problems/closest-node-to-path-in-tree/) | [无] | [C++](2001-2500/2277-Closest-Node-to-Path-in-Tree/cpp-2277/) | | |
+| 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | [无] | [C++](2001-2500/2278-Percentage-of-Letter-in-String/cpp-2278/) | | |
+| 2279 | [Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/) | [无] | [C++](2001-2500/2279-Maximum-Bags-With-Full-Capacity-of-Rocks/cpp-2279/) | | |
+| 2280 | [Minimum Lines to Represent a Line Chart](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/) | [无] | [C++](2001-2500/2280-Minimum-Lines-to-Represent-a-Line-Chart/cpp-2280/) | | |
+| 2281 | [Sum of Total Strength of Wizards](https://leetcode.com/problems/sum-of-total-strength-of-wizards/) | [无] | [C++](2001-2500/2281-Sum-of-Total-Strength-of-Wizards/cpp-2281/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
