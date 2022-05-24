@@ -496,6 +496,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [solution](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/solution/) | [C++](0001-0500/0462-Minimum-Moves-to-Equal-Array-Elements-II/cpp-0462/) | | |
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [solution](https://leetcode.com/problems/island-perimeter/solution/) | [C++](0001-0500/0463-Island-Perimeter/cpp-0463/) | | |
 | | | | | | |
+| 467 | [Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/) | [无] | [C++](0001-0500/0467-Unique-Substrings-in-Wraparound-String/cpp-0467/) | | |
+| | | | | | |
 | 470 | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/description/) | [solution](https://leetcode.com/problems/implement-rand10-using-rand7/solution/) | [C++](0001-0500/0470-Implement-Rand10-Using-Rand7/cpp-0470/) | | |
 | | | | | | |
 | 472 | [Concatenated Words](https://leetcode.com/problems/concatenated-words/) | [无] | [C++](0001-0500/0472-Matchsticks-to-Square/cpp-0472/) | | |
@@ -691,7 +693,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 688 | [Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/) | [solution](https://leetcode.com/problems/knight-probability-in-chessboard/solution/) | [C++](0501-1000/0688-Knight-Probability-in-Chessboard/cpp-0688/) | | |
 | 689 | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | [solution](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/solution/) | [C++](0501-1000/0689-Maximum-Sum-of-3-Non-Overlapping-Subarrays/cpp-0689/)| | |
 | 690 | [Employee Importance](https://leetcode.com/problems/employee-importance/description/) | [solution](https://leetcode.com/problems/employee-importance/solution/) | [C++](0501-1000/0690-Employee-Importance/cpp-0690/) | | |
-| | | | | | |
+| 691 | [Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/) | [无] | [C++](0501-1000/0691-Stickers-to-Spell-Word/cpp-0691/) | | |
 | 692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/) | [solution](https://leetcode.com/problems/top-k-frequent-words/solution/) | [C++](0501-1000/0692-Top-K-Frequent-Words/cpp-0692/) | | |
 | 693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [无] | [C++](0501-1000/0693-Binary-Number-with-Alternating-Bits/cpp-0693/) | | |
 | 694 | [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/description/) | [review: hash的方式] | [C++](0501-1000/0694-Number-of-Distinct-Islands/cpp-0694/) | | |
