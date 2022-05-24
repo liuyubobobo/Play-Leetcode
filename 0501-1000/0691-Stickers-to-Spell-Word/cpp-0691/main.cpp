@@ -1,3 +1,7 @@
+/// Source : https://leetcode.com/problems/stickers-to-spell-word/
+/// Author : liuyubobobo
+/// Time   : 2022-05-24
+
 #include <iostream>
 #include <vector>
 #include <map>
@@ -7,6 +11,9 @@
 using namespace std;
 
 
+/// Memoization
+/// Time Complexity: O(C(26, 15)?)
+/// Space Complexity: O(C(26, 15)?)
 class Solution {
 public:
     int minStickers(vector<string>& stickers, string target) {
@@ -20,35 +27,33 @@ public:
         vector<int> tf(26, 0);
         for(char c: target) tf[c - 'a'] ++;
 
-        map<pair<int, vector<int>>, int> dp;
-        int res = dfs(n, f, 0, tf, dp);
+        map<vector<int>, int> dp;
+        int res = dfs(n, f, tf, dp);
         return res >= INT_MAX / 2 ? -1 : res;
     }
 
 private:
-    int dfs(int n, const vector<vector<int>>& f, int index, vector<int> tf,
-            map<pair<int, vector<int>>, int>& dp){
+    int dfs(int n, const vector<vector<int>>& f, const vector<int>& tf,
+            map<vector<int>, int>& dp){
 
-        if(index == n)
-            return accumulate(tf.begin(), tf.end(), 0) == 0 ? 0 : INT_MAX / 2;
+        if(accumulate(tf.begin(), tf.end(), 0) == 0)
+            return 0;
 
-        pair<int, vector<int>> state = {index, tf};
-        auto iter = dp.find(state);
+        auto iter = dp.find(tf);
         if(iter != dp.end()) return iter->second;
 
-        int res = dfs(n, f, index + 1, tf, dp);
+        int first_need = 0;
+        for(;first_need < 26 && tf[first_need] == 0; first_need ++);
 
-        int max_need = 0;
-        for(int i = 0; i < 26; i ++)
-            if(tf[i] && f[index][i])
-                max_need = max(max_need, tf[i] / f[index][i] + !!(tf[i] % f[index][i]));
-
-        for(int k = 1; k <= max_need; k ++){
-            for(int i = 0; i < 26; i ++)
-                tf[i] = max(0, tf[i] - f[index][i]);
-            res = min(res, k + dfs(n, f, index + 1, tf, dp));
-        }
-        return dp[state] = res;
+        int res = INT_MAX / 2;
+        for(int index = 0; index < n; index ++)
+            if(f[index][first_need]){
+                vector<int> next_f = tf;
+                for(int i = 0; i < 26; i ++)
+                    next_f[i] = max(next_f[i] - f[index][i], 0);
+                res = min(res, 1 + dfs(n, f, next_f, dp));
+            }
+        return dp[tf] = res;
     }
 };
 
