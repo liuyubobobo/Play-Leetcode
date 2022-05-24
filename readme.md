@@ -495,6 +495,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [solution](https://leetcode.com/problems/hamming-distance/solution/) | [C++](0001-0500/0461-Hamming-Distance/cpp-0461/) | | |
 | 462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [solution](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/solution/) | [C++](0001-0500/0462-Minimum-Moves-to-Equal-Array-Elements-II/cpp-0462/) | | |
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [solution](https://leetcode.com/problems/island-perimeter/solution/) | [C++](0001-0500/0463-Island-Perimeter/cpp-0463/) | | |
+| 464 | [Can I Win](https://leetcode.com/problems/can-i-win/) | [无] | [C++](0001-0500/0464-Can-I-Win/cpp-0464/) | | |
 | | | | | | |
 | 467 | [Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/) | [无] | [C++](0001-0500/0467-Unique-Substrings-in-Wraparound-String/cpp-0467/) | | |
 | | | | | | |
