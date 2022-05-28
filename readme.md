@@ -498,6 +498,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 464 | [Can I Win](https://leetcode.com/problems/can-i-win/) | [无] | [C++](0001-0500/0464-Can-I-Win/cpp-0464/) | | |
 | | | | | | |
 | 467 | [Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/) | [无] | [C++](0001-0500/0467-Unique-Substrings-in-Wraparound-String/cpp-0467/) | | |
+| 468 | [Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [无] | [C++](0001-0500/0468-Validate-IP-Address/cpp-0468/) | | |
 | | | | | | |
 | 470 | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/description/) | [solution](https://leetcode.com/problems/implement-rand10-using-rand7/solution/) | [C++](0001-0500/0470-Implement-Rand10-Using-Rand7/cpp-0470/) | | |
 | | | | | | |
