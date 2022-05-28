@@ -2128,7 +2128,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2283 | [Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/) | [无] | [C++](2001-2500/2283-Check-if-Number-Has-Equal-Digit-Count-and-Digit-Value/cpp-2283/) | | |
 | 2284 | [Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/) | [无] | [C++](2001-2500/2284-Sender-With-Largest-Word-Count/cpp-2284/) | | |
 | 2285 | [Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/) | [无] | [C++](2001-2500/2285-Maximum-Total-Importance-of-Roads/cpp-2285/) | | |
-| | | | | | |
+| 2286 | [Booking Concert Tickets in Groups](https://leetcode.com/problems/booking-concert-tickets-in-groups/) | [无] | [C++](2001-2500/2286-Booking-Concert-Tickets-in-Groups/cpp-2286/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
