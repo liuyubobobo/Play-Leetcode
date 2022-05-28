@@ -1,9 +1,16 @@
+/// Source : https://leetcode.com/problems/validate-ip-address/
+/// Author : liuyubobobo
+/// Time   : 2021-05-28
+
 #include <iostream>
 #include <vector>
 
 using namespace std;
 
 
+/// Simulation
+/// Time Complexity: O(n)
+/// Space Complexity: O(1)
 class Solution {
 public:
     string validIPAddress(string queryIP) {
