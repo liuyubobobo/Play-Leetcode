@@ -2126,6 +2126,9 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2281 | [Sum of Total Strength of Wizards](https://leetcode.com/problems/sum-of-total-strength-of-wizards/) | [无] | [C++](2001-2500/2281-Sum-of-Total-Strength-of-Wizards/cpp-2281/) | | |
 | | | | | | |
 | 2283 | [Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/) | [无] | [C++](2001-2500/2283-Check-if-Number-Has-Equal-Digit-Count-and-Digit-Value/cpp-2283/) | | |
+| 2284 | [Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/) | [无] | [C++](2001-2500/2284-Sender-With-Largest-Word-Count/cpp-2284/) | | |
+| | | | | | |
+| | | | | | |
 | | | | | | |
 
 ## 力扣中文站比赛
