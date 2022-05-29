@@ -4,6 +4,7 @@
 
 #include <iostream>
 #include <vector>
+#include <list>
 #include <deque>
 
 using namespace std;
@@ -23,22 +24,6 @@ public:
 
         R = grid.size(), C = grid[0].size();
 
-        vector<vector<pair<int, int>>> g(R * C);
-        for(int x = 0; x < R; x ++)
-            for(int y = 0; y < C; y ++){
-                int u = x * C + y;
-                for(int d = 0; d < 4; d ++){
-                    int nx = x + dirs[d][0], ny = y + dirs[d][1];
-                    if(in_area(nx, ny)){
-                        int v = nx * C + ny;
-                        if(grid[nx][ny])
-                            g[u].push_back({v, 1});
-                        else
-                            g[u].push_back({v, 0});
-                    }
-                }
-            }
-
         vector<int> dis(R * C, INT_MAX / 2);
         vector<bool> visited(R * C, false);
         deque<int> q;
@@ -49,8 +34,14 @@ public:
             if(visited[u]) continue;
 
             visited[u] = true;
-            for(const pair<int, int>& p: g[u]){
-                int v = p.first, w = p.second;
+            if(u == R * C - 1) break;
+
+            int cx = u / C, cy = u % C;
+            for(int d = 0; d < 4; d ++){
+                int nx = cx + dirs[d][0], ny = cy + dirs[d][1];
+                if(!in_area(nx, ny)) continue;
+
+                int v = nx * C + ny, w = grid[nx][ny];
                 if(!visited[v] && dis[u] + w < dis[v]){
                     dis[v] = dis[u] + w;
                     if(w) q.push_back(v);
