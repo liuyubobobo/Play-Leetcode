@@ -2130,6 +2130,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2285 | [Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/) | [无] | [C++](2001-2500/2285-Maximum-Total-Importance-of-Roads/cpp-2285/) | | |
 | 2286 | [Booking Concert Tickets in Groups](https://leetcode.com/problems/booking-concert-tickets-in-groups/) | [无] | [C++](2001-2500/2286-Booking-Concert-Tickets-in-Groups/cpp-2286/) | | |
 | 2287 | [Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/) | [无] | [C++](2001-2500/2287-Rearrange-Characters-to-Make-Target-String/cpp-2287/) | | |
+| 2288 | [Apply Discount to Prices](https://leetcode.com/problems/apply-discount-to-prices/) | [无] | [C++](2001-2500/2288-Apply-Discount-to-Prices/cpp-2288/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
