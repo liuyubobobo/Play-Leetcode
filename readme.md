@@ -514,7 +514,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [无] | [C++](0001-0500/0482-License-Key-Formatting/cpp-0482/) | | |
 | 483 | [Smallest Good Base](https://leetcode.com/problems/smallest-good-base/) | [无] | [C++](0001-0500/0483-Smallest-Good-Base/cpp-0483/) | | |
-| | | | | | |
+| 484 | [Find Permutation](https://leetcode.com/problems/find-permutation/) | [solution](https://leetcode.com/problems/find-permutation/solution/) | [C++](0001-0500/0484-Find-Permutation/cpp-0484/) | | |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [无] | [C++](0001-0500/0485-Max-Consecutive-Ones/cpp-0485/) | | |
 | | | | | | |
 | 488 | [Zuma Game](https://leetcode.com/problems/zuma-game/) | [无] | [C++](0001-0500/0488-Zuma-Game/cpp-0488/) | | |
