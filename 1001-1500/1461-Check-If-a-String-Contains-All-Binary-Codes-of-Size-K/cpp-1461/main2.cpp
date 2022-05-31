@@ -1,6 +1,7 @@
 /// Source : https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
 /// Author : liuyubobobo
 /// Time   : 2020-05-30
+/// Updated: 2022-05-30
 
 #include <iostream>
 #include <unordered_set>
@@ -15,12 +16,14 @@ class Solution {
 public:
     bool hasAllCodes(string s, int k) {
 
+        if(k >= s.size()) return false;
+
         int cur = 0;
         for(int i = 0; i < k - 1; i ++)
             cur = 2 * cur + (s[i] == '1');
 
         unordered_set<int> set;
-        for(int i = k - 1; i < s.size(); i ++){
+        for(int i = k - 1; i < (int)s.size(); i ++){
             cur = cur * 2 + (s[i] == '1');
             set.insert(cur);
             cur &= ~(1 << (k - 1));
@@ -45,6 +48,9 @@ int main() {
     // 0
 
     cout << Solution().hasAllCodes("0000000001011100", 4) << endl;
+    // 0
+
+    cout << Solution().hasAllCodes("0", 20) << endl;
     // 0
 
     return 0;
