@@ -2133,6 +2133,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2288 | [Apply Discount to Prices](https://leetcode.com/problems/apply-discount-to-prices/) | [无] | [C++](2001-2500/2288-Apply-Discount-to-Prices/cpp-2288/) | | |
 | | | | | | |
 | 2290 | [Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/) | [无] | [C++](2001-2500/2290-Minimum-Obstacle-Removal-to-Reach-Corner/cpp-2290/) | | |
+| 2291 | [Maximum Profit From Trading Stocks](https://leetcode.com/problems/maximum-profit-from-trading-stocks/) | [无] | [C++](2001-2500/2291-Maximum-Profit-From-Trading-Stocks/cpp-2291/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
