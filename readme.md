@@ -812,6 +812,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 827 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | [无] | [C++](0501-1000/0827-Making-A-Large-Island/cpp-0827/) | | |
 | | | | | | |
+| 829 | [Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/) | [无] | [C++](0501-1000/0829-Consecutive-Numbers-Sum/cpp-0829/) | | |
 | 830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/) | [solution](https://leetcode.com/problems/positions-of-large-groups/solution/) | [C++](0501-1000/0830-Positions-of-Large-Groups/cpp-0830/) | | |
 | | | | | | |
 | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [solution](https://leetcode.com/problems/flipping-an-image/solution/) | [C++](0501-1000/0832-Flipping-an-Image/cpp-0832/) | | |
