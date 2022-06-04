@@ -2132,7 +2132,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2286 | [Booking Concert Tickets in Groups](https://leetcode.com/problems/booking-concert-tickets-in-groups/) | [无] | [C++](2001-2500/2286-Booking-Concert-Tickets-in-Groups/cpp-2286/) | | |
 | 2287 | [Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/) | [无] | [C++](2001-2500/2287-Rearrange-Characters-to-Make-Target-String/cpp-2287/) | | |
 | 2288 | [Apply Discount to Prices](https://leetcode.com/problems/apply-discount-to-prices/) | [无] | [C++](2001-2500/2288-Apply-Discount-to-Prices/cpp-2288/) | | |
-| | | | | | |
+| 2289 | [Steps to Make Array Non-decreasing](https://leetcode.com/problems/steps-to-make-array-non-decreasing/) | [无] | [C++](2001-2500/2289-Steps-to-Make-Array-Non-decreasing/cpp-2289/) | | |
 | 2290 | [Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/) | [无] | [C++](2001-2500/2290-Minimum-Obstacle-Removal-to-Reach-Corner/cpp-2290/) | | |
 | 2291 | [Maximum Profit From Trading Stocks](https://leetcode.com/problems/maximum-profit-from-trading-stocks/) | [无] | [C++](2001-2500/2291-Maximum-Profit-From-Trading-Stocks/cpp-2291/) | | |
 | | | | | | |
