@@ -2135,6 +2135,11 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2289 | [Steps to Make Array Non-decreasing](https://leetcode.com/problems/steps-to-make-array-non-decreasing/) | [无] | [C++](2001-2500/2289-Steps-to-Make-Array-Non-decreasing/cpp-2289/) | | |
 | 2290 | [Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/) | [无] | [C++](2001-2500/2290-Minimum-Obstacle-Removal-to-Reach-Corner/cpp-2290/) | | |
 | 2291 | [Maximum Profit From Trading Stocks](https://leetcode.com/problems/maximum-profit-from-trading-stocks/) | [无] | [C++](2001-2500/2291-Maximum-Profit-From-Trading-Stocks/cpp-2291/) | | |
+| 2292 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 2293 | [Min Max Game](https://leetcode.com/problems/min-max-game/) | [无] | [C++](2001-2500/2293-Min-Max-Game/cpp-2293/) | | |
+| 2294 | [Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/) | [无] | [C++](2001-2500/2294-Partition-Array-Such-That-Maximum-Difference-Is-K/cpp-2294/) | | |
+| 2295 | [Replace Elements in an Array](https://leetcode.com/problems/replace-elements-in-an-array/) | [无] | [C++](2001-2500/2295-Replace-Elements-in-an-Array/cpp-2295/) | | |
+| 2296 | [Design a Text Editor](https://leetcode.com/problems/design-a-text-editor/) | [无] | [C++](2001-2500/2296-Design-a-Text-Editor/cpp-2296/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
