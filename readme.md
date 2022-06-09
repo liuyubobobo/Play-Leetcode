@@ -2106,7 +2106,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2260 | [Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) | [无] | [C++](2001-2500/2260-Minimum-Consecutive-Cards-to-Pick-Up/cpp-2260/) | | |
 | 2261 | [K Divisible Elements Subarrays](https://leetcode.com/problems/k-divisible-elements-subarrays/) | [无] | [C++](2001-2500/2261-K-Divisible-Elements-Subarrays/cpp-2261/) | | |
 | 2262 | [Total Appeal of A String](https://leetcode.com/problems/total-appeal-of-a-string/) | [无] | [C++](2001-2500/2262-Total-Appeal-of-A-String/cpp-2262/) | | |
-| | | | | | |
+| 2263 | [Make Array Non-decreasing or Non-increasing](https://leetcode.com/problems/make-array-non-decreasing-or-non-increasing/) | [无] | [C++](2001-2500/2263-Make-Array-Non-decreasing-or-Non-increasing/cpp-2263/) | | |
 | 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | [无] | [C++](2001-2500/2264-Largest-3-Same-Digit-Number-in-String/cpp-2264/) | | |
 | 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | [无] | [C++](2001-2500/2265-Count-Nodes-Equal-to-Average-of-Subtree/cpp-2265/) | | |
 | 2266 | [Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/) | [无] | [C++](2001-2500/2266-Count-Number-of-Texts/cpp-2266/) | | |
