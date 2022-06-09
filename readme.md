@@ -734,7 +734,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 727 | [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/description/) | [solution](https://leetcode.com/problems/minimum-window-subsequence/solution/) | [C++](0501-1000/cpp-Minimum-Window-Subsequence/cpp-0727/) | | |
 | 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) | [solution](https://leetcode.com/problems/self-dividing-numbers/solution/) | [C++](0501-1000/0728-Self-Dividing-Numbers/cpp-0728/) | | |
 | 729 | [My Calendar I](https://leetcode.com/problems/my-calendar-i/description/) | [solution](https://leetcode.com/problems/my-calendar-i/solution/) | [C++](0501-1000/0729-My-Calendar-I/cpp-0729/) | | |
-| | | | | | |
+| 730 | [Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/) | [无] | [C++](0501-1000/0730-Count-Different-Palindromic-Subsequences/cpp-0730/) | | |
 | 731 | [My Calendar II](https://leetcode.com/problems/my-calendar-ii/description/) | [solution](https://leetcode.com/problems/my-calendar-ii/solution/) | [C++](0501-1000/0731-My-Calendar-II/cpp-0731/) | | |
 | 732 | [My Calendar III](https://leetcode.com/problems/my-calendar-iii/description/) | [solution](https://leetcode.com/problems/my-calendar-iii/solution/) | [C++](0501-1000/0732-My-Calendar-III/cpp-0732/) | | |
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/description/) | [solution](https://leetcode.com/problems/flood-fill/solution/) | [C++](0501-1000/0733-Flood-Fill/cpp-0733/) | | |
@@ -2132,7 +2132,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2286 | [Booking Concert Tickets in Groups](https://leetcode.com/problems/booking-concert-tickets-in-groups/) | [无] | [C++](2001-2500/2286-Booking-Concert-Tickets-in-Groups/cpp-2286/) | | |
 | 2287 | [Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/) | [无] | [C++](2001-2500/2287-Rearrange-Characters-to-Make-Target-String/cpp-2287/) | | |
 | 2288 | [Apply Discount to Prices](https://leetcode.com/problems/apply-discount-to-prices/) | [无] | [C++](2001-2500/2288-Apply-Discount-to-Prices/cpp-2288/) | | |
-| 2289 | [Steps to Make Array Non-decreasing](https://leetcode.com/problems/steps-to-make-array-non-decreasing/) | [无] | [C++](2001-2500/2289-Steps-to-Make-Array-Non-decreasing/cpp-2289/) | | |
+| 2289 | [Steps to Make Array Non-decreasing](https://leetcode.com/problems/steps-to-make-array-non-decreasing/) | [无]<br/>[缺：用 C++ STL list] | [C++](2001-2500/2289-Steps-to-Make-Array-Non-decreasing/cpp-2289/) | | |
 | 2290 | [Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/) | [无] | [C++](2001-2500/2290-Minimum-Obstacle-Removal-to-Reach-Corner/cpp-2290/) | | |
 | 2291 | [Maximum Profit From Trading Stocks](https://leetcode.com/problems/maximum-profit-from-trading-stocks/) | [无] | [C++](2001-2500/2291-Maximum-Profit-From-Trading-Stocks/cpp-2291/) | | |
 | 2292 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
