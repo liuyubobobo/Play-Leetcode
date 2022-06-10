@@ -2140,6 +2140,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2294 | [Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/) | [无] | [C++](2001-2500/2294-Partition-Array-Such-That-Maximum-Difference-Is-K/cpp-2294/) | | |
 | 2295 | [Replace Elements in an Array](https://leetcode.com/problems/replace-elements-in-an-array/) | [无] | [C++](2001-2500/2295-Replace-Elements-in-an-Array/cpp-2295/) | | |
 | 2296 | [Design a Text Editor](https://leetcode.com/problems/design-a-text-editor/) | [无] | [C++](2001-2500/2296-Design-a-Text-Editor/cpp-2296/) | | |
+| 2297 | [Jump Game IX](https://leetcode.com/problems/jump-game-ix/) | [无] | [C++](2001-2500/2297-Jump-Game-IX/cpp-2297/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
