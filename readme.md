@@ -2142,6 +2142,11 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2296 | [Design a Text Editor](https://leetcode.com/problems/design-a-text-editor/) | [无] | [C++](2001-2500/2296-Design-a-Text-Editor/cpp-2296/) | | |
 | 2297 | [Jump Game IX](https://leetcode.com/problems/jump-game-ix/) | [无] | [C++](2001-2500/2297-Jump-Game-IX/cpp-2297/) | | |
 | | | | | | |
+| 2299 | [Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii/) | [无] | [C++](2001-2500/2299-Strong-Password-Checker-II/cpp-2299/) | | |
+| 2300 | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | [无] | [C++](2001-2500/2300-Successful-Pairs-of-Spells-and-Potions/cpp-2300/) | | |
+| 2301 | [Match Substring After Replacement](https://leetcode.com/problems/match-substring-after-replacement/) | [无] | [C++](2001-2500/2301-Match-Substring-After-Replacement/cpp-2301/) | | |
+| 2302 | [Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/) | [无] | [C++](2001-2500/2302-Count-Subarrays-With-Score-Less-Than-K/cpp-2302/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
