@@ -2141,11 +2141,15 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2295 | [Replace Elements in an Array](https://leetcode.com/problems/replace-elements-in-an-array/) | [无] | [C++](2001-2500/2295-Replace-Elements-in-an-Array/cpp-2295/) | | |
 | 2296 | [Design a Text Editor](https://leetcode.com/problems/design-a-text-editor/) | [无] | [C++](2001-2500/2296-Design-a-Text-Editor/cpp-2296/) | | |
 | 2297 | [Jump Game IX](https://leetcode.com/problems/jump-game-ix/) | [无] | [C++](2001-2500/2297-Jump-Game-IX/cpp-2297/) | | |
-| | | | | | |
+| 2298 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 2299 | [Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii/) | [无] | [C++](2001-2500/2299-Strong-Password-Checker-II/cpp-2299/) | | |
 | 2300 | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | [无] | [C++](2001-2500/2300-Successful-Pairs-of-Spells-and-Potions/cpp-2300/) | | |
 | 2301 | [Match Substring After Replacement](https://leetcode.com/problems/match-substring-after-replacement/) | [无] | [C++](2001-2500/2301-Match-Substring-After-Replacement/cpp-2301/) | | |
 | 2302 | [Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/) | [无] | [C++](2001-2500/2302-Count-Subarrays-With-Score-Less-Than-K/cpp-2302/) | | |
+| 2303 | [Calculate Amount Paid in Taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes/) | [无] | [C++](2001-2500/2303-Calculate-Amount-Paid-in-Taxes/cpp-2303/) | | |
+| 2304 | [Minimum Path Cost in a Grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid/) | [无] | [C++](2001-2500/2304-Minimum-Path-Cost-in-a-Grid/cpp-2304/) | | |
+| 2305 | [Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/) | [无] | [C++](2001-2500/2305-Fair-Distribution-of-Cookies/cpp-2305/) | | |
+| 2306 | [Naming a Company](https://leetcode.com/problems/naming-a-company/) | [无] | [C++](2001-2500/2306-Naming-a-Company/cpp-2306/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
