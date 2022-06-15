@@ -553,7 +553,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [solution](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/solution/) | [C++](0501-1000/0524-Longest-Word-in-Dictionary-through-Deleting/cpp-0524/) | | |
 | 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [solution](https://leetcode.com/problems/contiguous-array/solution/) [题解](https://leetcode-cn.com/problems/contiguous-array/solution/lian-xu-shu-zu-by-leetcode/) | [C++](0501-1000/0525-Contiguous-Array/cpp-0525/) | | |
 | 526 | [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | [solution](https://leetcode.com/problems/beautiful-arrangement/solution/) | [C++](0501-1000/0526-Beautiful-Arrangement/cpp-0526/) | | |
-| | | | | | |
+| 527 | [Word Abbreviation](https://leetcode.com/problems/word-abbreviation/) | [solution](https://leetcode.com/problems/word-abbreviation/solution/) | [C++](0501-1000/0527-Word-Abbreviation/cpp-0527/) | | |
 | 528 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/description/) | [solution](https://leetcode.com/problems/random-pick-with-weight/solution/) | [C++](0501-1000/0528-Random-Pick-with-Weight/cpp-0528/) | | |
 | 529 | [Minesweeper](https://leetcode.com/problems/minesweeper/) | [无] | [C++](0501-1000/0529-Minesweeper/cpp-0529/) | | |
 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) | [无] | | [Java](0501-1000/0530-Minimum-Absolute-Difference-in-BST/java-0530/src/) | |
