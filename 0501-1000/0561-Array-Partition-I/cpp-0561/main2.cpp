@@ -1,36 +1,41 @@
 /// Source : https://leetcode.com/problems/array-partition-i/solution/
 /// Author : liuyubobobo
 /// Time   : 2018-06-04
+/// Updated: 2022-06-15
 
 #include <iostream>
 #include <vector>
 
 using namespace std;
 
-/// Using HashMap
-/// Time Complexity: O(n)
-/// Space Complexity: O(n)
+
+/// Counting Sort based
+/// Time Complexity: O(n + (maxv - minv))
+/// Space Complexity: O(maxv - minv)
 class Solution {
 public:
     int arrayPairSum(vector<int>& nums) {
 
-        int hash[20001];
-        memset(hash, 0, sizeof(hash));
+        int maxv = *max_element(nums.begin(), nums.end());
+        int minv = *min_element(nums.begin(), nums.end());
+
+        vector<int> cnt(maxv - minv + 2, 0);
+        int offset = -minv;
 
         for(int num: nums)
-            hash[num + 10000] ++;
+            cnt[num + offset] ++;
 
         int sum = 0;
         bool minus = false;
-        for(int i = 0 ; i <= 20000 ; i ++)
-            if(hash[i]){
+        for(int i = 0 ; i < cnt.size(); i ++)
+            if(cnt[i]){
                 if(minus){
-                    hash[i] --;
+                    cnt[i] --;
                     minus = false;
                 }
-                sum += hash[i] / 2 * (i - 10000);
-                if(hash[i] % 2){
-                    sum += (i - 10000);
+                sum += cnt[i] / 2 * (i - offset);
+                if(cnt[i] % 2){
+                    sum += (i - offset);
                     minus = true;
                 }
             }
