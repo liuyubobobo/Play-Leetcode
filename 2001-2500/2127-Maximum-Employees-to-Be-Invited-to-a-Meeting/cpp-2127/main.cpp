@@ -8,7 +8,8 @@
 using namespace std;
 
 
-/// Graph
+/// Successor Graph
+/// This problem is not a very standard Successor Graph Problem, a little bit harder and Ad-Hoc
 /// Time Complexity: O(n)
 /// Space Complexity: O(n)
 class Solution {
