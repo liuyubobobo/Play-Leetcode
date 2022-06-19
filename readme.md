@@ -2151,6 +2151,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2305 | [Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/) | [无] | [C++](2001-2500/2305-Fair-Distribution-of-Cookies/cpp-2305/) | | |
 | 2306 | [Naming a Company](https://leetcode.com/problems/naming-a-company/) | [无] | [C++](2001-2500/2306-Naming-a-Company/cpp-2306/) | | |
 | | | | | | |
+| 2308 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| | | | | | |
+| 2312 | [Selling Pieces of Wood](https://leetcode.com/problems/selling-pieces-of-wood/) | [无] | [C++](2001-2500/2312-Selling-Pieces-of-Wood/cpp-2312/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
