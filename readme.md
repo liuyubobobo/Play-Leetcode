@@ -76,7 +76,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 027 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [solution](https://leetcode.com/problems/remove-element/solution/) | [C++](0001-0500/0027-Remove-Element/cpp-0027/) | | |
 | 028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [无]<br/>[缺：完整BM算法, 其他模式匹配算法] | [C++](0001-0500/0028-Implement-strStr/cpp-0028/) | | |
 | 029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [solution](https://leetcode.com/problems/divide-two-integers/solution/)<br/>[缺：不使用乘法加法除法] | [C++](0001-0500/0029-Divide-Two-Integers/cpp-0029/) | | |
-| | | | | | |
+| 030 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [solution](https://leetcode.com/problems/substring-with-concatenation-of-all-words/solution/) | [C++](0001-0500/0030-Substring-with-Concatenation-of-All-Words/cpp-0030/) | | |
 | 031 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [solution](https://leetcode.com/problems/next-permutation/solution/) | [C++](0001-0500/0031-Next-Permutation/cpp-0031/) | | |
 | | | | | | |
 | 033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [solution](https://leetcode.com/problems/search-in-rotated-sorted-array/solution/) | [C++](0001-0500/0033-Search-in-Rotated-Sorted-Array/cpp-0033/) | | |
