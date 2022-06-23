@@ -544,6 +544,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [无] | [C++](0501-1000/0513-Find-Bottom-Left-Tree-Value/cpp-0513/) | | |
 | | | | | | |
+| 515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [无] | [C++](0501-1000/0515-Find-Largest-Value-in-Each-Tree-Row/cpp-0515/) | | |
 | 516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [无] | [C++](0501-1000/0516-Longest-Palindromic-Subsequence/cpp-0516/) | | |
 | 517 | [Super Washing Machines](https://leetcode.com/problems/super-washing-machines/) | [solution](https://leetcode.com/problems/super-washing-machines/solution/) | [C++](0501-1000/0517-Super-Washing-Machines/cpp-0517/) | | |
 | 518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/description/) | [无] | [C++](0501-1000/0518-Coin-Change-2/cpp-0518/) | | |
