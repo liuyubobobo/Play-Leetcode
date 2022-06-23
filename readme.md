@@ -2220,10 +2220,17 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | ID | Problem | Official<br/>Solution | C++ | Java | Python |
 | --- | --- | :---: | :---: | :---: | :---: |
 | | | | | | |
+| 22 顺丰01 | [顺丰鄂州枢纽运转中心环线检测](https://leetcode.cn/contest/sf-tech/problems/EUpcmh/) | [无] | [C++](Others/2022-sf-tech/A/) | | |
+| 22 顺丰02 | [小哥派件装载问题](https://leetcode.cn/contest/sf-tech/problems/cINqyA/) | [无] | [C++](Others/2022-sf-tech/B/) | | |
+| 22 顺丰03 | [收件节节高](https://leetcode.cn/contest/sf-tech/problems/8oimK4/) | [无] | [C++](Others/2022-sf-tech/C/) | | |
+| 22 顺丰04 | [顺丰中转场车辆入场识别-电子围栏](https://leetcode.cn/contest/sf-tech/problems/uWWzsv/) | [无] | [C++](Others/2022-sf-tech/D/) | | |
+| 22 顺丰05 | [慧眼神瞳](https://leetcode.cn/contest/sf-tech/problems/BN8jAm/) | [无] | [C++](Others/2022-sf-tech/E/) | | |
+| | | | | | |
 | 22春 招商银行-01 | [文本编辑程序设计](https://leetcode-cn.com/contest/cmbchina-2022spring/problems/fWcPGC/) | [无] | [C++](Others/2022spring-cmbchina/A/) | | |
 | 22春 招商银行-02 | [公园规划](https://leetcode-cn.com/contest/cmbchina-2022spring/problems/ReWLAw/) | [无] | [C++](Others/2022spring-cmbchina/B/) | | |
 | 22春 招商银行-03 | [点燃木棒](https://leetcode-cn.com/contest/cmbchina-2022spring/problems/Dk2Ytp/) | [无] | [C++](Others/2022spring-cmbchina/C/) | | |
 | 22春 招商银行-04 | [商店促销活动](https://leetcode-cn.com/contest/cmbchina-2022spring/problems/OK3hsO/) | [无] | [C++](Others/2022spring-cmbchina/D/) | | |
+| | | | | | |
 | 22春 银联-01 | [回文链表](https://leetcode-cn.com/contest/cnunionpay-2022spring/problems/D7rekZ/) | [无] | [C++](Others/2022spring-cnunionpay/A/) | | |
 | 22春 银联-02 | [优惠活动系统](https://leetcode-cn.com/contest/cnunionpay-2022spring/problems/kDPV0f/) | [无] | [C++](Others/2022spring-cnunionpay/B/) | | |
 | 22春 银联-03 | [理财产品](https://leetcode-cn.com/contest/cnunionpay-2022spring/problems/I4mOGz/) | [无] | [C++](Others/2022spring-cnunionpay/C/) | | |
