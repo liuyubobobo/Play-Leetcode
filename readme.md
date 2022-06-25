@@ -2161,6 +2161,11 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2312 | [Selling Pieces of Wood](https://leetcode.com/problems/selling-pieces-of-wood/) | [无] | [C++](2001-2500/2312-Selling-Pieces-of-Wood/cpp-2312/) | | |
 | 2313 | [Minimum Flips in Binary Tree to Get Result](https://leetcode.com/problems/minimum-flips-in-binary-tree-to-get-result/) | [无] | [C++](2001-2500/2313-Minimum-Flips-in-Binary-Tree-to-Get-Result/cpp-2313/) | | |
 | | | | | | |
+| 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks/) | [无] | [C++](2001-2500/2315-Count-Asterisks/cpp-2315/) | | |
+| 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | [无] | [C++](2001-2500/2316-Count-Unreachable-Pairs-of-Nodes-in-an-Undirected-Graph/cpp-2316/) | | |
+| 2317 | [Maximum XOR After Operations](https://leetcode.com/problems/maximum-xor-after-operations/) | [无] | [C++](2001-2500/2317-Maximum-XOR-After-Operations/cpp-2317/) | | |
+| 2318 | [Number of Distinct Roll Sequences](https://leetcode.com/problems/number-of-distinct-roll-sequences/) | [无] | [C++](2001-2500/2318-Number-of-Distinct-Roll-Sequences/cpp-2318/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
