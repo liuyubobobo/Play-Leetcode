@@ -2165,6 +2165,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | [无] | [C++](2001-2500/2316-Count-Unreachable-Pairs-of-Nodes-in-an-Undirected-Graph/cpp-2316/) | | |
 | 2317 | [Maximum XOR After Operations](https://leetcode.com/problems/maximum-xor-after-operations/) | [无] | [C++](2001-2500/2317-Maximum-XOR-After-Operations/cpp-2317/) | | |
 | 2318 | [Number of Distinct Roll Sequences](https://leetcode.com/problems/number-of-distinct-roll-sequences/) | [无] | [C++](2001-2500/2318-Number-of-Distinct-Roll-Sequences/cpp-2318/) | | |
+| 2319 | [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/) | [无] | [C++](2001-2500/2319-Check-if-Matrix-Is-X-Matrix/cpp-2319/) | | |
+| 2320 | [Count Number of Ways to Place Houses](https://leetcode.com/problems/count-number-of-ways-to-place-houses/) | [无] | [C++](2001-2500/2320-Count-Number-of-Ways-to-Place-Houses/cpp-2320/) | | |
+| 2321 | [Maximum Score Of Spliced Array](https://leetcode.com/problems/maximum-score-of-spliced-array/) | [无] | [C++](2001-2500/2321-Maximum-Score-Of-Spliced-Array/cpp-2321/) | | |
+| 2322 | [Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/) | [无] | [C++](2001-2500/2322-Minimum-Score-After-Removals-on-a-Tree/cpp-2322/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
