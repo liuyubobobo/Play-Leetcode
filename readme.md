@@ -280,7 +280,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [solution](https://leetcode.com/problems/product-of-array-except-self/solution/) | [C++](0001-0500/0238-Product-of-Array-Except-Self/cpp-0238/) | | [Python](0001-0500/0238-Product-of-Array-Except-Self/py-0238/) |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) | [solution](https://leetcode.com/problems/sliding-window-maximum/solution/) | [C++](0001-0500/0239-Sliding-Window-Maximum/cpp-0239/) | | |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [solution](https://leetcode.com/problems/search-a-2d-matrix-ii/solution/) <br/> [缺：分治] | [C++](0001-0500/240-Search-a-2D-Matrix-II/cpp-240/) | | |
-| | | | | | |
+| 241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [无] | [C++](0001-0500/241-Different-Ways-to-Add-Parentheses/cpp-241/) | | |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [solution](https://leetcode.com/problems/valid-anagram/solution/) | [C++](0001-0500/0242-Valid-Anagram/cpp-0242/) | | |
 | 243 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) | [solution](https://leetcode.com/problems/shortest-word-distance/solution/) | [C++](0001-0500/0243-Shortest-Word-Distance/cpp-0243/) | | |
 | 244 | [Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/) | [solution](https://leetcode.com/problems/shortest-word-distance-ii/solution/) | [C++](0001-0500/0244-Shortest-Word-Distance-II/cpp-0244/) | | |
