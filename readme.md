@@ -2169,6 +2169,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2320 | [Count Number of Ways to Place Houses](https://leetcode.com/problems/count-number-of-ways-to-place-houses/) | [无] | [C++](2001-2500/2320-Count-Number-of-Ways-to-Place-Houses/cpp-2320/) | | |
 | 2321 | [Maximum Score Of Spliced Array](https://leetcode.com/problems/maximum-score-of-spliced-array/) | [无] | [C++](2001-2500/2321-Maximum-Score-Of-Spliced-Array/cpp-2321/) | | |
 | 2322 | [Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/) | [无] | [C++](2001-2500/2322-Minimum-Score-After-Removals-on-a-Tree/cpp-2322/) | | |
+| 2323 | [Find Minimum Time to Finish All Jobs II](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs-ii/) | [无] | [C++](2001-2500/2323-Find-Minimum-Time-to-Finish-All-Jobs-II/cpp-2323/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
