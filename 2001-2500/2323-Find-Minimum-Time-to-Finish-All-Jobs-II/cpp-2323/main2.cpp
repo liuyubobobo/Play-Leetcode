@@ -1,6 +1,6 @@
 /// Source : https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs-ii/
 /// Author : liuyubobobo
-/// Time   : 2022-06-30
+/// Time   : 2022-07-01
 
 #include <iostream>
 #include <vector>
@@ -9,8 +9,8 @@
 using namespace std;
 
 
-/// Binary Search + Greedy
-/// Time Complexity: O(nlogn + nlog(max_jobs))
+/// Greedy
+/// Time Complexity: O(nlogn)
 /// Space Complexity: O(1)
 class Solution {
 public:
@@ -19,21 +19,10 @@ public:
         sort(jobs.begin(), jobs.end());
         sort(workers.begin(), workers.end());
 
-        int l = 1, r = 1e5;
-        while(l < r){
-            int mid = (l + r) / 2;
-            if(ok(jobs, workers, mid)) r = mid;
-            else l = mid + 1;
-        }
-        return l;
-    }
-
-private:
-    bool ok(const vector<int>& jobs, const vector<int>& workers, int d){
-
-        for(int i = 0; i < workers.size(); i ++)
-            if(1ll * workers[i] * d < 1ll * jobs[i]) return false;
-        return true;
+        int res = 0;
+        for(int i = 0; i < jobs.size(); i ++)
+            res = max(res, jobs[i] / workers[i] + !!(jobs[i] % workers[i]));
+        return res;
     }
 };
 
