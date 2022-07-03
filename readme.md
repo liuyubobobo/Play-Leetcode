@@ -2160,7 +2160,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 2312 | [Selling Pieces of Wood](https://leetcode.com/problems/selling-pieces-of-wood/) | [无] | [C++](2001-2500/2312-Selling-Pieces-of-Wood/cpp-2312/) | | |
 | 2313 | [Minimum Flips in Binary Tree to Get Result](https://leetcode.com/problems/minimum-flips-in-binary-tree-to-get-result/) | [无] | [C++](2001-2500/2313-Minimum-Flips-in-Binary-Tree-to-Get-Result/cpp-2313/) | | |
-| | | | | | |
+| 2314 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks/) | [无] | [C++](2001-2500/2315-Count-Asterisks/cpp-2315/) | | |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | [无] | [C++](2001-2500/2316-Count-Unreachable-Pairs-of-Nodes-in-an-Undirected-Graph/cpp-2316/) | | |
 | 2317 | [Maximum XOR After Operations](https://leetcode.com/problems/maximum-xor-after-operations/) | [无] | [C++](2001-2500/2317-Maximum-XOR-After-Operations/cpp-2317/) | | |
@@ -2170,6 +2170,11 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2321 | [Maximum Score Of Spliced Array](https://leetcode.com/problems/maximum-score-of-spliced-array/) | [无] | [C++](2001-2500/2321-Maximum-Score-Of-Spliced-Array/cpp-2321/) | | |
 | 2322 | [Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/) | [无] | [C++](2001-2500/2322-Minimum-Score-After-Removals-on-a-Tree/cpp-2322/) | | |
 | 2323 | [Find Minimum Time to Finish All Jobs II](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs-ii/) | [无] | [C++](2001-2500/2323-Find-Minimum-Time-to-Finish-All-Jobs-II/cpp-2323/) | | |
+| 2324 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message/) | [无] | [C++](2001-2500/2325-Decode-the-Message/cpp-2325/) | | |
+| 2326 | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/) | [无] | [C++](2001-2500/2326-Spiral-Matrix-IV/cpp-2326/) | | |
+| 2327 | [Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) | [无] | [C++](2001-2500/2327-Number-of-People-Aware-of-a-Secret/cpp-2327/) | | |
+| 2328 | [Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/) | [无] | [C++](2001-2500/2328-Number-of-Increasing-Paths-in-a-Grid/cpp-2328/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
