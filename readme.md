@@ -1201,6 +1201,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [solution](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/solution/) | [C++](1001-1500/1249-Minimum-Remove-to-Make-Valid-Parentheses/cpp-1249/) | | |
 | | | | | | |
 | 1251 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1252 | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | [无] | [C++](1001-1500/1252-Cells-with-Odd-Values-in-a-Matrix/cpp-1252/) | | |
 | | | | | | |
 | 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | [solution](https://leetcode.com/problems/shift-2d-grid/solution/) | [C++](1001-1500/1260-Shift-2D-Grid/cpp-1260/) | | |
 | 1261 | [Find Elements in a Contaminated Binary Tree](https://leetcode.com/contest/weekly-contest-163/problems/find-elements-in-a-contaminated-binary-tree/) | [C++](1001-1500/1261-Find-Elements-in-a-Contaminated-Binary-Tree/cpp-1261/) | | | |
