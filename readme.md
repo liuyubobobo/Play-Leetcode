@@ -2179,7 +2179,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2329 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 2330 | [Valid Palindrome IV](https://leetcode.com/problems/valid-palindrome-iv/) | [无] | [C++](2001-2500/2330-Valid-Palindrome-IV/cpp-2330/) | | |
 | 2331 | [Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/) | [无] | [C++](2001-2500/2331-Evaluate-Boolean-Binary-Tree/cpp-2331/) | | |
-| | | | | | |
+| 2332 | [The Latest Time to Catch a Bus](https://leetcode.com/problems/the-latest-time-to-catch-a-bus/) | [无] | [C++](2001-2500/2332-The-Latest-Time-to-Catch-a-Bus/cpp-2332/) | | |
 | 2333 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | [无] | [C++](2001-2500/2333-Minimum-Sum-of-Squared-Difference/cpp-2333/) | | |
 | 2334 | [Subarray With Elements Greater Than Varying Threshold](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/) | [无] | [C++](2001-2500/2334-Subarray-With-Elements-Greater-Than-Varying-Threshold/cpp-2334/) | | |
 | 2335 | [Minimum Amount of Time to Fill Cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/) | [无] | [C++](2001-2500/2335-Minimum-Amount-of-Time-to-Fill-Cups/cpp-2335/) | | |
