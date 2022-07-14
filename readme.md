@@ -585,7 +585,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [solution](https://leetcode.com/problems/next-greater-element-iii/solution/)<br/>[缺：底层实现] | [C++](0501-1000/0556-Next-Greater-Element-III/cpp-0556/) | | |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | [solution](https://leetcode.com/problems/reverse-words-in-a-string-iii/solution/) | [C++](0501-1000/0557-Reverse-Words-in-a-String-III/cpp-0557/) | | |
-| | | | | | |
+| 558 | [Logical OR of Two Binary Grids Represented as Quad-Trees](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/) | [无] | [C++](0501-1000/0558-Logical-OR-of-Two-Binary-Grids-Represented-as-Quad-Trees/cpp-0558/) | | |
 | 559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/) | [solution](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/solution/) | [C++](0501-1000/0559-Maximum-Depth-of-N-ary-Tree/cpp-0559/) | | |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [solution](https://leetcode.com/problems/subarray-sum-equals-k/solution/) | [C++](0501-1000/0560-Subarray-Sum-Equals-K/cpp-0560/) | | |
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [solution](https://leetcode.com/problems/array-partition-i/solution/) | [C++](0501-1000/0561-Array-Partition-I/cpp-0561/) | | |
