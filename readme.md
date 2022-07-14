@@ -2187,6 +2187,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2336 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) | [无] | [C++](2001-2500/2336-Smallest-Number-in-Infinite-Set/cpp-2336/) | | |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/) | [无] | [C++](2001-2500/2337-Move-Pieces-to-Obtain-a-String/cpp-2337/) | | |
 | 2338 | [Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays/) | [无] | [C++](2001-2500/2338-Count-the-Number-of-Ideal-Arrays/cpp-2338/) | | |
+| 2339 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 2340 | [Minimum Adjacent Swaps to Make a Valid Array](https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array/) | [无] | [C++](2001-2500/2340-Minimum-Adjacent-Swaps-to-Make-a-Valid-Array/cpp-2340/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
