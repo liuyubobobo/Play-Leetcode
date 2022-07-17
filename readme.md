@@ -2189,6 +2189,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2338 | [Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays/) | [无] | [C++](2001-2500/2338-Count-the-Number-of-Ideal-Arrays/cpp-2338/) | | |
 | 2339 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 2340 | [Minimum Adjacent Swaps to Make a Valid Array](https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array/) | [无] | [C++](2001-2500/2340-Minimum-Adjacent-Swaps-to-Make-a-Valid-Array/cpp-2340/) | | |
+| 2341 | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/) | [无] | [C++](2001-2500/2341-Maximum-Number-of-Pairs-in-Array/cpp-2341/) | | |
+| 2342 | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/) | [无] | [C++](2001-2500/2342-Max-Sum-of-a-Pair-With-Equal-Sum-of-Digits/cpp-2342/) | | |
+| 2343 | [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) | [无] | [C++](2001-2500/2343-Query-Kth-Smallest-Trimmed-Number/cpp-2343/) | | |
+| 2344 | [Minimum Deletions to Make Array Divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/) | [无] | [C++](2001-2500/2344-Minimum-Deletions-to-Make-Array-Divisible/cpp-2344/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
