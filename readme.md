@@ -754,6 +754,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [solution](https://leetcode.com/problems/min-cost-climbing-stairs/solution/) | [C++](0501-1000/0746-Min-Cost-Climbing-Stairs/cpp-0746/) | | |
 | 747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | [solution](https://leetcode.com/problems/largest-number-at-least-twice-of-others/solution/) | [C++](0501-1000/0747-Largest-Number-At-Least-Twice-of-Others/cpp-0747/) | | |
 | | | | | | |
+| 749 | [Contain Virus](https://leetcode.com/problems/contain-virus/) | [无] | [C++](0501-1000/0749-Contain-Virus/cpp-0749/)| | |
+| | | | | | |
 | 752 | [Open the Lock](https://leetcode.com/problems/open-the-lock/description/) | [solution](https://leetcode.com/problems/open-the-lock/solution/) | [C++](0501-1000/0752-Open-the-Lock/cpp-0752/) | | |
 | 753 | [Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/) | [无] | [C++](0501-1000/0753-Cracking-the-Safe/cpp-0753/) | | |
 | 754 | [Reach a Number](https://leetcode.com/problems/reach-a-number/) | [Solution](https://leetcode.com/problems/reach-a-number/solution/) | [C++](0501-1000/0754-Reach-a-Number/cpp-0754/) | | |
