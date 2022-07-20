@@ -2255,6 +2255,11 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | ID | Problem | Official<br/>Solution | C++ | Java | Python |
 | --- | --- | :---: | :---: | :---: | :---: |
 | | | | | | |
+| 22 zj-future01 | [信号接收](https://leetcode.cn/contest/zj-future2022/problems/WYKGLO/) | [无] | [C++](Others/2022-zj-future/A/) | | |
+| 22 zj-future02 | [黑白棋游戏](https://leetcode.cn/contest/zj-future2022/problems/GVbKaI/) | [无] | [C++](Others/2022-zj-future/B/) | | |
+| 22 zj-future03 | [快递中转站选址](https://leetcode.cn/contest/zj-future2022/problems/kflZMc/) | [无] | [C++](Others/2022-zj-future/C/) | | |
+| 22 zj-future04 | [门店商品调配](https://leetcode.cn/contest/zj-future2022/problems/NBCXIp/) | [无] | [C++](Others/2022-zj-future/D/) | | |
+| | | | | | |
 | 22 顺丰01 | [顺丰鄂州枢纽运转中心环线检测](https://leetcode.cn/contest/sf-tech/problems/EUpcmh/) | [无] | [C++](Others/2022-sf-tech/A/) | | |
 | 22 顺丰02 | [小哥派件装载问题](https://leetcode.cn/contest/sf-tech/problems/cINqyA/) | [无] | [C++](Others/2022-sf-tech/B/) | | |
 | 22 顺丰03 | [收件节节高](https://leetcode.cn/contest/sf-tech/problems/8oimK4/) | [无] | [C++](Others/2022-sf-tech/C/) | | |
