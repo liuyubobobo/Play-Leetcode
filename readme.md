@@ -2195,6 +2195,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2342 | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/) | [无] | [C++](2001-2500/2342-Max-Sum-of-a-Pair-With-Equal-Sum-of-Digits/cpp-2342/) | | |
 | 2343 | [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) | [无] | [C++](2001-2500/2343-Query-Kth-Smallest-Trimmed-Number/cpp-2343/) | | |
 | 2344 | [Minimum Deletions to Make Array Divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/) | [无] | [C++](2001-2500/2344-Minimum-Deletions-to-Make-Array-Divisible/cpp-2344/) | | |
+| 2345 | [Finding the Number of Visible Mountains](https://leetcode.com/problems/finding-the-number-of-visible-mountains/) | [无] | [C++](2001-2500/2345-Finding-the-Number-of-Visible-Mountains/cpp-2345/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
