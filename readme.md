@@ -2196,6 +2196,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2343 | [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) | [无] | [C++](2001-2500/2343-Query-Kth-Smallest-Trimmed-Number/cpp-2343/) | | |
 | 2344 | [Minimum Deletions to Make Array Divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/) | [无] | [C++](2001-2500/2344-Minimum-Deletions-to-Make-Array-Divisible/cpp-2344/) | | |
 | 2345 | [Finding the Number of Visible Mountains](https://leetcode.com/problems/finding-the-number-of-visible-mountains/) | [无] | [C++](2001-2500/2345-Finding-the-Number-of-Visible-Mountains/cpp-2345/) | | |
+| 2346 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 2347 | [Best Poker Hand](https://leetcode.com/problems/best-poker-hand/) | [无] | [C++](2001-2500/2347-Best-Poker-Hand/cpp-2347/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
