@@ -10,6 +10,8 @@ using namespace std;
 
 
 /// Using Map
+/// Time Complecity: O(logn) for every operation
+/// Space Compelxity: O(n)
 class NumberContainers {
 
 private:

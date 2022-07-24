@@ -2203,6 +2203,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2348 | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | [无] | [C++](2001-2500/2348-Number-of-Zero-Filled-Subarrays/cpp-2348/) | | |
 | 2349 | [Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system/) | [无] | [C++](2001-2500/2349-Design-a-Number-Container-System/cpp-2349/) | | |
 | 2350 | [Shortest Impossible Sequence of Rolls](https://leetcode.com/problems/shortest-impossible-sequence-of-rolls/) | [无] | [C++](2001-2500/2350-Shortest-Impossible-Sequence-of-Rolls/cpp-2350/) | | |
+| 2351 | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/) | [无] | [C++](2001-2500/2351-First-Letter-to-Appear-Twice/cpp-2351/) | | |
+| 2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | [无] | [C++](2001-2500/2352-Equal-Row-and-Column-Pairs/cpp-2352/) | | |
+| 2353 | [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) | [无] | [C++](2001-2500/2353-Design-a-Food-Rating-System/cpp-2353/) | | |
+| 2354 | [Number of Excellent Pairs](https://leetcode.com/problems/number-of-excellent-pairs/) | [无] | [C++](2001-2500/2354-Number-of-Excellent-Pairs/cpp-2354/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
