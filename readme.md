@@ -2200,6 +2200,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2347 | [Best Poker Hand](https://leetcode.com/problems/best-poker-hand/) | [无] | [C++](2001-2500/2347-Best-Poker-Hand/cpp-2347/) | | |
 | 2348 | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | [无] | [C++](2001-2500/2348-Number-of-Zero-Filled-Subarrays/cpp-2348/) | | |
 | 2349 | [Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system/) | [无] | [C++](2001-2500/2349-Design-a-Number-Container-System/cpp-2349/) | | |
+| 2350 | [Shortest Impossible Sequence of Rolls](https://leetcode.com/problems/shortest-impossible-sequence-of-rolls/) | [无] | [C++](2001-2500/2350-Shortest-Impossible-Sequence-of-Rolls/cpp-2350/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
