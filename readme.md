@@ -617,7 +617,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 590 | [N-ary Tree Postorder Transversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [solution](https://leetcode.com/problems/n-ary-tree-postorder-traversal/solution/) | [C++](0501-1000/0590-N-ary-Tree-Postorder-Transversal/cpp-0590/) | | |
 | 591 | [Tag Validator](https://leetcode.com/problems/tag-validator/) | [solution](https://leetcode.com/problems/tag-validator/solution/) | [C++](0501-1000/0591-Tag-Validator/cpp-0591/) | | |
 | 592 | [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/) | [无] | [C++](0501-1000/0592-Fraction-Addition-and-Subtraction/cpp-0592/) | | |
-| | | | | | |
+| 593 | [Valid Square](https://leetcode.com/problems/valid-square/) | [solution](https://leetcode.com/problems/valid-square/solution/) | [C++](0501-1000/0593-Valid-Square/cpp-0593/) | | |
 | 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [solution](https://leetcode.com/problems/longest-harmonious-subsequence/solution/) | [C++](0501-1000/0594-Longest-Harmonious-Subsequence/cpp-0594/) | | |
 | 595 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
