@@ -290,7 +290,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 248 | [Strobogrammatic Number III](https://leetcode.com/problems/strobogrammatic-number-iii/) | [无] | [C++](0001-0500/0248-Strobogrammatic-Number-III/cpp-0248/) | | |
 | 249 | [Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/description/) | [无] | [C++](0001-0500/0249-Group-Shifted-Strings/cpp-0249/) | | |
 | 250 | [Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/description/) | [solution](https://leetcode.com/problems/count-univalue-subtrees/solution/) | [C++](0001-0500/0250-Count-Univalue-Subtrees/cpp-0250/) | | |
-| | | | | | |
+| 251 | [Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/) | [solution](https://leetcode.com/problems/flatten-2d-vector/solution/) | [C++](0001-0500/0251-Flatten-2D-Vector/cpp-0251/) | | |
 | 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/) | [solution](https://leetcode.com/problems/meeting-rooms/solution/) | [C++](0001-0500/0252-Meeting-Rooms/cpp-0252/) | | |
 | 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/) | [solution](https://leetcode.com/problems/meeting-rooms-ii/solution/) | [C++](0001-0500/0253-Meeting-Rooms-II/cpp-0253/) | | |
 | 254 | [Factor Combinations](https://leetcode.com/problems/factor-combinations/description/) | [无] | [C++](0001-0500/0254-Factor-Combinations/cpp-0254/) | | |
