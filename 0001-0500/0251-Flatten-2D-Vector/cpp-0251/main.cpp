@@ -1,9 +1,17 @@
+/// Source : https://leetcode.com/problems/flatten-2d-vector/
+/// Author : liuyubobobo
+/// Time   : 2022-07-30
+
 #include <iostream>
 #include <vector>
 
 using namespace std;
 
 
+/// Simulation
+/// Time Complexity: init: O(n)
+///                  query: O(1)
+/// Space Complexity: O(n)
 class Vector2D {
 
 private:
@@ -25,6 +33,7 @@ public:
         return cur + 1 < data.size();
     }
 };
+
 
 int main() {
 
