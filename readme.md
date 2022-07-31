@@ -2210,6 +2210,12 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2353 | [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) | [无] | [C++](2001-2500/2353-Design-a-Food-Rating-System/cpp-2353/) | | |
 | 2354 | [Number of Excellent Pairs](https://leetcode.com/problems/number-of-excellent-pairs/) | [无] | [C++](2001-2500/2354-Number-of-Excellent-Pairs/cpp-2354/) | | |
 | | | | | | |
+| 2356 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 2357 | [Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/) | [无] | [C++](2001-2500/2357-Make-Array-Zero-by-Subtracting-Equal-Amounts/cpp-2357/) | | |
+| 2358 | [Maximum Number of Groups Entering a Competition](https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/) | [无] | [C++](2001-2500/2358-Maximum-Number-of-Groups-Entering-a-Competition/cpp-2358/) | | |
+| 2359 | [Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/) | [无] | [C++](2001-2500/2359-Find-Closest-Node-to-Given-Two-Nodes/cpp-2359/) | | |
+| 2360 | [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/) | [无] | [C++](2001-2500/2360-Longest-Cycle-in-a-Graph/cpp-2360/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
