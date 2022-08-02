@@ -1,6 +1,7 @@
 /// Source : https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
 /// Author : liuyubobobo
 /// Time   : 2018-11-13
+/// Updated: 2022-08-02
 
 #include <iostream>
 #include <vector>
@@ -11,6 +12,11 @@ using namespace std;
 
 
 /// Using Binary Search
+/// pay attention to the edge case when l + h is negative,
+/// normally in binary search, we are searching for index, so l and h are both non-negative
+/// but when l and h can be negative, we need to do a special discuss
+/// See line 36 and test case 5 for details
+///
 /// Time Complexity: O(m * n * log(max - min))
 /// Space Complexity: O(1)
 class Solution {
@@ -26,7 +32,9 @@ public:
 
         int l = matrix[0][0], h = matrix[m - 1][n - 1];
         while(l < h){
-            int mid = (l + h) / 2;
+            int sum = l + h, mid = sum / 2;
+            if(sum < 0 && sum % 2) mid --;
+
             int rank = get_rank(matrix, mid);
             if(rank >= k)
                 h = mid;
@@ -78,6 +86,21 @@ int main() {
     };
     cout << Solution().kthSmallest(matrix4, 6) << endl;
     // 11
+
+    vector<vector<int>> matrix5 = {
+            {-5, -4},
+            {-5, -4}
+    };
+    cout << Solution().kthSmallest(matrix5, 2) << endl;
+    // -5
+
+    vector<vector<int>> matrix6 = {
+            {1, 5, 9},
+            {10, 11, 13},
+            {12, 13, 15}
+    };
+    cout << Solution().kthSmallest(matrix6, 8) << endl;
+    // 13
 
     return 0;
 }
