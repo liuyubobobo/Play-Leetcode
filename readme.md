@@ -349,7 +349,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [solution](https://leetcode.com/problems/burst-balloons/solution/) [题解](https://leetcode-cn.com/problems/burst-balloons/solution/chuo-qi-qiu-by-leetcode/) | [C++](0001-0500/0312-Burst-Balloons/cpp-0312/) | | |
 | 313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [无] | [C++](0001-0500/0313-Super-Ugly-Number/cpp-0313/) | | |
-| | | | | | |
+| 314 | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) | [无] | [C++](0001-0500/0314-Binary-Tree-Vertical-Order-Traversal/cpp-0314/) | | |
 | 315 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [无] | [C++](0001-0500/0315-Count-of-Smaller-Numbers-After-Self/cpp-0315/) | | |
 | 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [solution](https://leetcode.com/problems/remove-duplicate-letters/solution/) | [C++](0001-0500/0316-Remove-Duplicate-Letters/cpp-0316/) | | |
 | 317 | [Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/) | [solution](https://leetcode.com/problems/shortest-distance-from-all-buildings/solution/) | [C++](0001-0500/0317-Shortest-Distance-from-All-Buildings/cpp-0317/) | | |
