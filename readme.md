@@ -649,6 +649,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 632 | [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | [solution](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/solution/) | [C++](0501-1000/0632-Smallest-Range-Covering-Elements-from-K-Lists/cpp-0632/) | | |
 | 633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | [C++](0501-1000/0633-Sum-of-Square-Numbers/cpp-0633/) | | | |
 | | | | | | |
+| 636 | [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/) | [无] | [C++](0501-1000/0636-Exclusive-Time-of-Functions/cpp-0636/) | | |
 | 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | [solution](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | [C++](0501-1000/0637-Average-of-Levels-in-Binary-Tree/cpp-0637/) | | |
 | 638 | [Shopping Offers](https://leetcode.com/problems/shopping-offers/) | [solution](https://leetcode.com/problems/shopping-offers/solution/) | [C++](0501-1000/0638-Shopping-Offers/cpp-0638/) | | |
 | 639 | [Decode Ways II](https://leetcode.com/problems/decode-ways-ii/) | [solution](https://leetcode.com/problems/decode-ways-ii/solution/)<br/>[缺：DP] | [C++](0501-1000/0639-Decode-Ways-II/cpp-0639/) | | |
