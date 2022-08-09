@@ -2217,6 +2217,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2360 | [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/) | [无] | [C++](2001-2500/2360-Longest-Cycle-in-a-Graph/cpp-2360/) | | |
 | 2361 | [Minimum Costs Using the Train Line](https://leetcode.com/problems/minimum-costs-using-the-train-line/) | [无] | [C++](2001-2500/2361-Minimum-Costs-Using-the-Train-Line/cpp-2361/) | | |
 | | | | | | |
+| 2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/) | [无] | [C++](2001-2500/2367-Number-of-Arithmetic-Triplets/cpp-2367/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
