@@ -2222,6 +2222,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/) | [无] | [C++](2001-2500/2367-Number-of-Arithmetic-Triplets/cpp-2367/) | | |
 | 2368 | [Reachable Nodes With Restrictions](https://leetcode.com/problems/reachable-nodes-with-restrictions/) | [无] | [C++](2001-2500/2368-Reachable-Nodes-With-Restrictions/cpp-2368/) | | |
 | 2369 | [Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/) | [无] | [C++](2001-2500/2369-Check-if-There-is-a-Valid-Partition-For-The-Array/cpp-2369/) | | |
+| 2370 | [Longest Ideal Subsequence](https://leetcode.com/problems/longest-ideal-subsequence/) | [无] | [C++](2001-2500/2370-Longest-Ideal-Subsequence/cpp-2370/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
