@@ -2222,7 +2222,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2363 | [Merge Similar Items](https://leetcode.com/problems/merge-similar-items/) | [无] | [C++](2001-2500/2363-Merge-Similar-Items/cpp-2363/) | | |
 | 2364 | [Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/) | [无] | [C++](2001-2500/2364-Count-Number-of-Bad-Pairs/cpp-2364/) | | |
 | 2365 | [Task Scheduler II](https://leetcode.com/problems/task-scheduler-ii/) | [无] | [C++](2001-2500/2365-Task-Scheduler-II/cpp-2365/) | | |
-| | | | | | |
+| 2366 | [Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/) | [无] | [C++](2001-2500/2366-Minimum-Replacements-to-Sort-the-Array/cpp-2366/) | | |
 | 2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/) | [无] | [C++](2001-2500/2367-Number-of-Arithmetic-Triplets/cpp-2367/) | | |
 | 2368 | [Reachable Nodes With Restrictions](https://leetcode.com/problems/reachable-nodes-with-restrictions/) | [无] | [C++](2001-2500/2368-Reachable-Nodes-With-Restrictions/cpp-2368/) | | |
 | 2369 | [Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/) | [无] | [C++](2001-2500/2369-Check-if-There-is-a-Valid-Partition-For-The-Array/cpp-2369/) | | |
