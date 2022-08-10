@@ -1,18 +1,22 @@
 /// Source : https://leetcode.com/problems/word-ladder-ii/description/
 /// Author : liuyubobobo
 /// Time   : 2018-04-23
+/// Updated: 2022-08-10
 
 #include <iostream>
 #include <vector>
-#include <cassert>
+#include <list>
 #include <queue>
-#include <unordered_map>
 
 using namespace std;
 
-/// BFS
-/// Time Complexity: O(n*n)
-/// Space Complexity: O(n)
+
+/// BFS + Backtrack
+/// Attention: backtrack from begin to end will get TLE
+/// The following solution will backtrack result in reverse (from end to begin)
+///
+/// Time Complexity: O(?)
+/// Space Complexity: O(?)
 class Solution {
 
 public:
@@ -29,7 +33,7 @@ public:
         int n = wordList.size();
 
         // Create Graph
-        vector<vector<int>> g(n, vector<int>());
+        vector<list<int>> g(n);
         for(int i = 0 ; i < wordList.size() ; i ++)
             for(int j = i + 1 ; j < wordList.size() ; j ++)
                 if(similar(wordList[i], wordList[j])){
@@ -37,63 +41,57 @@ public:
                     g[j].push_back(i);
                 }
 
-        unordered_map<int, int> distance;
-        bfs(g, begin, end, distance);
+        vector<int> distance = bfs(n, g, begin);
+        if(distance[end] == -1) return {};
 
         vector<vector<string>> res;
-        vector<int> tres = {begin};
-        getRes(g, begin, end, distance, wordList, tres, res);
+        vector<string> tres = {wordList[end]};
+        get_res(g, end, begin, distance, wordList, tres, res);
 
         return res;
     }
 
 private:
-    void bfs(const vector<vector<int>>& g, int begin, int end,
-             unordered_map<int, int>& distance){
+    vector<int> bfs(int n, const vector<list<int>>& g, int begin){
+
+        vector<int> distance(n, -1);
 
         queue<int> q;
         q.push(begin);
         distance[begin] = 0;
 
         while(!q.empty()){
-            int cur = q.front();
-            q.pop();
-            // assert(distance.find(cur) != distance.end());
+            int cur = q.front(); q.pop();
 
             for(int j: g[cur])
-                if(distance.find(j) == distance.end()){
+                if(distance[j] == -1){
                     distance[j] = distance[cur] + 1;
                     q.push(j);
                 }
         }
+
+        return distance;
     }
 
-    void getRes(vector<vector<int>>& g, int cur, int end,
-                unordered_map<int, int>& distance,
-                const vector<string>& wordList,
-                vector<int>& tres, vector<vector<string>>& res){
+    void get_res(vector<list<int>>& g, int cur, int end,
+                 const vector<int>& distance,
+                 const vector<string>& wordList,
+                 vector<string>& tres, vector<vector<string>>& res){
 
-        if(tres.size() > 0 && tres[tres.size() - 1] == end){
-            res.push_back(getPath(tres, wordList));
+        if(tres.size() > 0 && tres[tres.size() - 1] == wordList[end]){
+            res.push_back(tres);
+            reverse(res.back().begin(), res.back().end());
             return;
         }
 
         for(int i: g[cur])
-            if(distance[i] == distance[cur] + 1){
-                tres.push_back(i);
-                getRes(g, i, end, distance, wordList, tres, res);
+            if(distance[i] == distance[cur] - 1){
+                tres.push_back(wordList[i]);
+                get_res(g, i, end, distance, wordList, tres, res);
                 tres.pop_back();
             }
 
         return;
-    }
-
-    vector<string> getPath(const vector<int>& path,
-                           const vector<string>& wordList){
-        vector<string> ret;
-        for(const int e: path)
-            ret.push_back(wordList[e]);
-        return ret;
     }
 
     bool similar(const string& word1, const string& word2){
@@ -112,7 +110,7 @@ private:
 };
 
 
-void print_vector_vector(const vector<vector<string>>& res){
+void print_vector(const vector<vector<string>>& res){
     for(const vector<string>& v: res){
         for(const string& e: v)
             cout << e << " ";
@@ -127,15 +125,13 @@ int main() {
     string beginWord1 = "hit";
     string endWord1 = "cog";
     vector<vector<string>> res1 = Solution().findLadders(beginWord1, endWord1, vec1);
-    print_vector_vector(res1);
-
-    // ---
+    print_vector(res1);
 
     vector<string> vec2 = {"a","b","c"};
     string beginWord2 = "a";
     string endWord2 = "c";
     vector<vector<string>> res2 = Solution().findLadders(beginWord2, endWord2, vec2);
-    print_vector_vector(res2);
+    print_vector(res2);
 
     return 0;
 }
