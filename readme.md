@@ -1224,6 +1224,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1280 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
+| 1282 | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | [无] | [C++](1001-1500/1282-Group-the-People-Given-the-Group-Size-They-Belong-To/cpp-1282/) | | |
+| | | | | | |
 | 1286 | [Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/) | [solution](https://leetcode.com/problems/iterator-for-combination/solution/) | [C++](1001-1500/1286-Iterator-for-Combination/cpp-1286/) | | |
 | | | | | | |
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | [solution](https://leetcode.com/problems/remove-covered-intervals/solution/) | [C++](1001-1500/1288-Remove-Covered-Intervals/cpp-1288/) | | |
