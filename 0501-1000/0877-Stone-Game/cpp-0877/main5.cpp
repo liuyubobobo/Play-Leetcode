@@ -1,6 +1,6 @@
 /// Source : https://leetcode.com/problems/stone-game/description/
 /// Author : liuyubobobo
-/// Time   : 2018-08-03
+/// Time   : 2022-08-14
 
 #include <iostream>
 #include <vector>
@@ -8,17 +8,31 @@
 using namespace std;
 
 
-/// Mathematic, the answer will always be true!
-/// Since the player can technically take all the stones from even-index piles,
-/// or take all the stones from odd-index piles
-/// One of the two strategy must win:)
-///
-/// Time Complexity: O(1)
-/// Space Complexity: O(1)
+/// Memory Search - No need to have player state
+/// Time Complexity: O(n^2)
+/// Space Complexity: O(n^2)
 class Solution {
 public:
     bool stoneGame(vector<int>& piles) {
-        return true;
+
+        int n = piles.size();
+        vector<vector<int>> dp(n, vector<int>(n, INT_MIN));
+
+        return play(piles, 0, n-1, dp) > 0;
+    }
+
+private:
+    int play(const vector<int>& piles, int l, int r,
+             vector<vector<int>>& dp){
+
+        if(l == r) return piles[l];
+
+        if(dp[l][r] != INT_MIN)
+            return dp[l][r];
+
+        int res = max(piles[l] - play(piles, l + 1, r, dp),
+                      piles[r] - play(piles, l, r - 1, dp));
+        return dp[l][r] = res;
     }
 };
 
