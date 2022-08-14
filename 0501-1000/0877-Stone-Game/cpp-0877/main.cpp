@@ -1,6 +1,6 @@
 /// Source : https://leetcode.com/problems/stone-game/description/
 /// Author : liuyubobobo
-/// Time   : 2018-07-28
+/// Time   : 2022-08-14
 
 #include <iostream>
 #include <vector>
@@ -8,7 +8,7 @@
 using namespace std;
 
 
-/// Memory Search
+/// Memoization
 /// Time Complexity: O(n^2)
 /// Space Complexity: O(n^2)
 class Solution {
@@ -16,33 +16,23 @@ public:
     bool stoneGame(vector<int>& piles) {
 
         int n = piles.size();
-        vector<vector<vector<int>>> dp(2, vector<vector<int>>(n, vector<int>(n, INT_MIN)));
+        vector<vector<int>> dp(n, vector<int>(n, INT_MIN));
 
-        return play(0, piles, 0, n-1, dp) > 0;
+        return play(piles, 0, n-1, dp) > 0;
     }
 
 private:
-    int play(int player, const vector<int>& piles, int l, int r,
-                vector<vector<vector<int>>>& dp){
+    int play(const vector<int>& piles, int l, int r,
+             vector<vector<int>>& dp){
 
-        if(l == r){
-            if(player == 0)
-                return dp[player][l][r] = piles[l];
-            else
-                return dp[player][l][r] = -piles[l];
-        }
+        if(l == r) return piles[l];
 
-        if(dp[player][l][r] != INT_MIN)
-            return dp[player][l][r];
+        if(dp[l][r] != INT_MIN)
+            return dp[l][r];
 
-        int res = 0;
-        if(player == 0)
-            res = max(piles[l] + play(1 - player, piles, l + 1, r, dp),
-                      piles[r] + play(1 - player, piles, l, r - 1, dp));
-        else
-            res = max(-piles[l] + play(1 - player, piles, l + 1, r, dp),
-                      -piles[r] + play(1 - player, piles, l, r - 1, dp));
-        return dp[player][l][r] = res;
+        int res = max(piles[l] - play(piles, l + 1, r, dp),
+                      piles[r] - play(piles, l, r - 1, dp));
+        return dp[l][r] = res;
     }
 };
 

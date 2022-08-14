@@ -1,6 +1,7 @@
 /// Source : https://leetcode.com/problems/stone-game/description/
 /// Author : liuyubobobo
-/// Time   : 2018-08-02
+/// Time   : 2018-07-28
+/// Updated: 2022-08-14
 
 #include <iostream>
 #include <vector>
@@ -8,7 +9,8 @@
 using namespace std;
 
 
-/// Dynamic Programming
+/// Memoization - using player as a state
+/// The code and logic is more complex(, but might be educational)
 /// Time Complexity: O(n^2)
 /// Space Complexity: O(n^2)
 class Solution {
@@ -16,22 +18,33 @@ public:
     bool stoneGame(vector<int>& piles) {
 
         int n = piles.size();
-        vector<vector<vector<int>>> dp(2, vector<vector<int>>(n, vector<int>(n, -1)));
+        vector<vector<vector<int>>> dp(2, vector<vector<int>>(n, vector<int>(n, INT_MIN)));
 
-        for(int i = 0 ; i < n ; i ++){
-            dp[0][i][i] = piles[i];
-            dp[1][i][i] = -piles[i];
+        return play(0, piles, 0, n-1, dp) > 0;
+    }
+
+private:
+    int play(int player, const vector<int>& piles, int l, int r,
+             vector<vector<vector<int>>>& dp){
+
+        if(l == r){
+            if(player == 0)
+                return dp[player][l][r] = piles[l];
+            else
+                return dp[player][l][r] = -piles[l];
         }
 
-        for(int sz = 2 ; sz <= n ; sz ++)
-            for(int i = 0; i + sz - 1 < n ; i ++){
-                dp[0][i][i + sz - 1] = max(piles[i] + dp[1][i + 1][i + sz - 1],
-                                           piles[i + sz - 1] + dp[1][i][i + sz - 2]);
-                dp[1][i][i + sz - 1] = max(-piles[i] + dp[0][i + 1][i + sz - 1],
-                                           -piles[i + sz - 1] + dp[0][i][i + sz - 2]);
-            }
+        if(dp[player][l][r] != INT_MIN)
+            return dp[player][l][r];
 
-        return dp[0][0][n - 1];
+        int res = 0;
+        if(player == 0)
+            res = max(piles[l] + play(1 - player, piles, l + 1, r, dp),
+                      piles[r] + play(1 - player, piles, l, r - 1, dp));
+        else
+            res = min(-piles[l] + play(1 - player, piles, l + 1, r, dp),
+                      -piles[r] + play(1 - player, piles, l, r - 1, dp));
+        return dp[player][l][r] = res;
     }
 };
 
