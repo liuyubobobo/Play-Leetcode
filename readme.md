@@ -2235,6 +2235,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2374 | [Node With Highest Edge Score](https://leetcode.com/problems/node-with-highest-edge-score/) | [无] | [C++](2001-2500/2374-Node-With-Highest-Edge-Score/cpp-2374/) | | |
 | 2375 | [Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/) | [无] | [C++](2001-2500/2375-Construct-Smallest-Number-From-DI-String/cpp-2375/) | | |
 | 2376 | [Count Special Integers](https://leetcode.com/problems/count-special-integers/) | [无] | [C++](2001-2500/2376-Count-Special-Integers/cpp-2376/) | | |
+| 2377 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 2378 | [Choose Edges to Maximize Score in a Tree](https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree/) | [无] | [C++](2001-2500/2378-Choose-Edges-to-Maximize-Score-in-a-Tree/cpp-2378/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
