@@ -2238,6 +2238,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2376 | [Count Special Integers](https://leetcode.com/problems/count-special-integers/) | [无] | [C++](2001-2500/2376-Count-Special-Integers/cpp-2376/) | | |
 | 2377 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 2378 | [Choose Edges to Maximize Score in a Tree](https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree/) | [无] | [C++](2001-2500/2378-Choose-Edges-to-Maximize-Score-in-a-Tree/cpp-2378/) | | |
+| 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) | [无] | [C++](2001-2500/2379-Minimum-Recolors-to-Get-K-Consecutive-Black-Blocks/cpp-2379/) | | |
+| 2380 | [Time Needed to Rearrange a Binary String](https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/) | [无] | [C++](2001-2500/2380-Time-Needed-to-Rearrange-a-Binary-String/cpp-2380/) | | |
+| 2381 | [Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/) | [无] | [C++](2001-2500/2381-Shifting-Letters-II/cpp-2381/) | | |
+| 2382 | [Maximum Segment Sum After Removals](https://leetcode.com/problems/maximum-segment-sum-after-removals/) | [无] | [C++](2001-2500/2382-Maximum-Segment-Sum-After-Removals/cpp-2382/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
