@@ -2243,6 +2243,9 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2380 | [Time Needed to Rearrange a Binary String](https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/) | [无] | [C++](2001-2500/2380-Time-Needed-to-Rearrange-a-Binary-String/cpp-2380/) | | |
 | 2381 | [Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/) | [无] | [C++](2001-2500/2381-Shifting-Letters-II/cpp-2381/) | | |
 | 2382 | [Maximum Segment Sum After Removals](https://leetcode.com/problems/maximum-segment-sum-after-removals/) | [无] | [C++](2001-2500/2382-Maximum-Segment-Sum-After-Removals/cpp-2382/) | | |
+| 2383 | [Minimum Hours of Training to Win a Competition](https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition/) | [无] | [C++](2001-2500/2383-Minimum-Hours-of-Training-to-Win-a-Competition/cpp-2383/) | | |
+| 2384 | [Largest Palindromic Number](https://leetcode.com/problems/largest-palindromic-number/) | [无] | [C++](2001-2500/2384-Largest-Palindromic-Number/cpp-2384/) | | |
+| 2385 | [Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | [无] | [C++](2001-2500/2385-Amount-of-Time-for-Binary-Tree-to-Be-Infected/cpp-2385/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
