@@ -2306,6 +2306,11 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | ID | Problem | Official<br/>Solution | C++ | Java | Python |
 | --- | --- | :---: | :---: | :---: | :---: |
 | | | | | | |
+| 22 九坤-04 | [筹码游戏](https://leetcode.cn/contest/ubiquant2022/problems/I3Gm2h/) | [无] | | | |
+| 22 九坤-03 | [数字默契考验](https://leetcode.cn/contest/ubiquant2022/problems/uGuf0v/) | [无] | [C++](Others/2022-xdxykd/C/) | | |
+| 22 九坤-02 | [池塘计数](https://leetcode.cn/contest/ubiquant2022/problems/3PHTGp/) | [无] | [C++](Others/2022-xdxykd/B/) | | |
+| 22 九坤-01 | [可以读通讯稿的组数](https://leetcode.cn/contest/ubiquant2022/problems/xdxykd/) | [无] | [C++](Others/2022-xdxykd/A/) | | |
+| | | | | | |
 | 22 zj-future01 | [信号接收](https://leetcode.cn/contest/zj-future2022/problems/WYKGLO/) | [无] | [C++](Others/2022-zj-future/A/) | | |
 | 22 zj-future02 | [黑白棋游戏](https://leetcode.cn/contest/zj-future2022/problems/GVbKaI/) | [无] | [C++](Others/2022-zj-future/B/) | | |
 | 22 zj-future03 | [快递中转站选址](https://leetcode.cn/contest/zj-future2022/problems/kflZMc/) | [无] | [C++](Others/2022-zj-future/C/) | | |
