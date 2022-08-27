@@ -3,4 +3,4 @@ project(cpp_0662)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(cpp_0662 main.cpp)
+add_executable(cpp_0662 main2.cpp)
