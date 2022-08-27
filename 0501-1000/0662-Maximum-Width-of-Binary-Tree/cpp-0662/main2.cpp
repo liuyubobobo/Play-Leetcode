@@ -1,7 +1,6 @@
 /// Source : https://leetcode.com/problems/maximum-width-of-binary-tree/
 /// Author : liuyubobobo
 /// Time   : 2022-08-26
-/// Time   : 2022-08-26
 
 #include <iostream>
 #include <vector>
