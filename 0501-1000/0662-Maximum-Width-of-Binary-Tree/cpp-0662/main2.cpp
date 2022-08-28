@@ -28,35 +28,35 @@ class Solution {
 public:
     int widthOfBinaryTree(TreeNode* root) {
 
-        queue<tuple<TreeNode*, unsigned long long, int>> q;
-        q.push({root, 0, 0});
+        queue<pair<TreeNode*, unsigned long long>> q;
+        q.push({root, 0});
         vector<unsigned long long> list;
 
-        long long res = 0;
-        int now_depth = 0;
+        unsigned long long res = 0;
         while(!q.empty()){
-            TreeNode* node = get<0>(q.front());
-            unsigned long long seq = get<1>(q.front());
-            int d = get<2>(q.front());
-            q.pop();
 
-            if( d != now_depth ){
-                now_depth = d;
-                res = max(res, list.back() - list[0] + 1);
-                list.clear();
-            }
-            list.push_back(seq);
-
-            if(node->left){
-                q.push({node->left, seq * 2 + 1, d + 1});
+            vector<pair<TreeNode*, unsigned long long>> v;
+            while(!q.empty()){
+                TreeNode* node = q.front().first;
+                unsigned long long seq = q.front().second;
+                q.pop();
+                v.push_back({node, seq});
             }
 
-            if(node->right){
-                q.push({node->right, seq * 2 + 2, d + 1});
+            res = max(res, v.back().second - v.begin()->second + 1);
+
+            for(const pair<TreeNode*, unsigned long long>& p: v){
+                TreeNode* node = p.first;
+                unsigned long long seq = p.second;
+
+                if(node->left)
+                    q.push({node->left, seq * 2});
+
+                if(node->right)
+                    q.push({node->right, seq * 2 + 1});
             }
+
         }
-
-        res = max(res, list.back() - list[0] + 1);
         return res;
     }
 };
