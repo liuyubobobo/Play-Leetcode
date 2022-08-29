@@ -2311,6 +2311,11 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | ID | Problem | Official<br/>Solution | C++ | Java | Python |
 | --- | --- | :---: | :---: | :---: | :---: |
 | | | | | | |
+| 22 AutoX-4 | [蚂蚁爬行](https://leetcode.cn/contest/autox2023/problems/TcdlJS/) | [无] | [C++](Others/2022-autox2023/D/) | | |
+| 22 AutoX-3 | [出行的最少购票费用](https://leetcode.cn/contest/autox2023/problems/BjAFy9/) | [无] | [C++](Others/2022-autox2023/C/) | | |
+| 22 AutoX-2 | [蚂蚁王国的蜂蜜](https://leetcode.cn/contest/autox2023/problems/8p6t8R/) | [无] | [C++](Others/2022-autox2023/B/) | | |
+| 22 AutoX-1 | [网页瀑布流](https://leetcode.cn/contest/autox2023/problems/l9HbCJ/) | [无] | [C++](Others/2022-autox2023/A/) | | |
+| | | | | | |
 | 22 九坤-04 | [筹码游戏](https://leetcode.cn/contest/ubiquant2022/problems/I3Gm2h/) | [无] | | | |
 | 22 九坤-03 | [数字默契考验](https://leetcode.cn/contest/ubiquant2022/problems/uGuf0v/) | [无] | [C++](Others/2022-xdxykd/C/) | | |
 | 22 九坤-02 | [池塘计数](https://leetcode.cn/contest/ubiquant2022/problems/3PHTGp/) | [无] | [C++](Others/2022-xdxykd/B/) | | |
