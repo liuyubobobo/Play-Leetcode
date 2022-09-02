@@ -659,7 +659,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [solution](https://leetcode.com/problems/maximum-average-subarray-i/solution/) | [C++](0501-1000/0643-Maximum-Average-Subarray-I/cpp-0643/) | | |
 | 644 | [Maximum Average Subarray II](https://leetcode.com/problems/maximum-average-subarray-ii/) | [solution](https://leetcode.com/problems/maximum-average-subarray-ii/solution/) | [C++](0501-1000/0644-Maximum-Average-Subarray-II/cpp-0644/) | | |
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [solution](https://leetcode.com/problems/set-mismatch/solution/)<br/>[缺：空间 O(1) 解法] | [C++](0501-1000/0645-Set-Mismatch/cpp-0645/) | | |
-| | | | | | |
+| 646 | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) | [solution](https://leetcode.com/problems/maximum-length-of-pair-chain/solution/) | [C++](0501-1000/0646-Maximum-Length-of-Pair-Chain/cpp-0646/) | | |
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [solution](https://leetcode.com/problems/palindromic-substrings/solution/) | [C++](0501-1000/0647-Palindromic-Substrings/cpp-0647/) | | |
 | 648 | [Replace Words](https://leetcode.com/problems/replace-words/description/) | [无] | [C++](0501-1000/0648-Replace-Words/cpp-0648/) | | |
 | 649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | [solution](https://leetcode.com/problems/dota2-senate/solution/)<br/>[缺：队列] | [C++](0501-1000/0649-Dota2-Senate/cpp-0649/) | | |
@@ -738,7 +738,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 723 | [Candy Crush](https://leetcode.com/problems/candy-crush/description/) | [solution](https://leetcode.com/problems/candy-crush/solution/) | [C++](0501-1000/0723-Candy-Crush/cpp-0723/) | | |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | [solution](https://leetcode.com/problems/find-pivot-index/solution/) | [C++](0501-1000/0724-Find-Pivot-Index/cpp-0724/) | | |
 | 725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/) | [solution](https://leetcode.com/problems/split-linked-list-in-parts/solution/) | [C++](0501-1000/0725-Split-Linked-List-in-Parts/cpp-0725/) | | |
-| 726 | [Number of Atoms](https://leetcode.com/problems/number-of-atoms/) | [C++](0501-1000/0726-Number-of-Atoms/cpp-0726/) | | | |
+| 726 | [Number of Atoms](https://leetcode.com/problems/number-of-atoms/) | [solution](https://leetcode.com/problems/number-of-atoms/solution/) | [C++](0501-1000/0726-Number-of-Atoms/cpp-0726/) | | |
 | 727 | [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/description/) | [solution](https://leetcode.com/problems/minimum-window-subsequence/solution/) | [C++](0501-1000/cpp-Minimum-Window-Subsequence/cpp-0727/) | | |
 | 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) | [solution](https://leetcode.com/problems/self-dividing-numbers/solution/) | [C++](0501-1000/0728-Self-Dividing-Numbers/cpp-0728/) | | |
 | 729 | [My Calendar I](https://leetcode.com/problems/my-calendar-i/description/) | [solution](https://leetcode.com/problems/my-calendar-i/solution/) | [C++](0501-1000/0729-My-Calendar-I/cpp-0729/) | | |
