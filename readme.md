@@ -2252,6 +2252,12 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2391 | [Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/) | [无] | [C++](2001-2500/2391-Minimum-Amount-of-Time-to-Collect-Garbage/cpp-2391/) | | |
 | 2392 | [Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/) | [无] | [C++](2001-2500/2392-Build-a-Matrix-With-Conditions/cpp-2392/) | | |
 | | | | | | |
+| 2394 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 2395 | [Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/) | [无] | [C++](2001-2500/2395-Find-Subarrays-With-Equal-Sum/cpp-2395/) | | |
+| 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | [无] | [C++](2001-2500/2396-Strictly-Palindromic-Number/cpp-2396/) | | |
+| 2397 | [Maximum Rows Covered by Columns](https://leetcode.com/problems/maximum-rows-covered-by-columns/) | [无] | [C++](2001-2500/2397-Maximum-Rows-Covered-by-Columns/cpp-2397/) | | |
+| 2398 | [Maximum Number of Robots Within Budget](https://leetcode.com/problems/maximum-number-of-robots-within-budget/) | [无][缺：滑动窗口] | [C++](2001-2500/2398-Maximum-Number-of-Robots-Within-Budget/cpp-2398/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
