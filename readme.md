@@ -2251,7 +2251,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | [无] | [C++](2001-2500/2390-Removing-Stars-From-a-String/cpp-2390/) | | |
 | 2391 | [Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/) | [无] | [C++](2001-2500/2391-Minimum-Amount-of-Time-to-Collect-Garbage/cpp-2391/) | | |
 | 2392 | [Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/) | [无] | [C++](2001-2500/2392-Build-a-Matrix-With-Conditions/cpp-2392/) | | |
-| | | | | | |
+| 2393 | [Count Strictly Increasing Subarrays](https://leetcode.com/problems/count-strictly-increasing-subarrays/) | [无] | [C++](2001-2500/2393-Count-Strictly-Increasing-Subarrays/cpp-2393/) | | |
 | 2394 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 2395 | [Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/) | [无] | [C++](2001-2500/2395-Find-Subarrays-With-Equal-Sum/cpp-2395/) | | |
 | 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | [无] | [C++](2001-2500/2396-Strictly-Palindromic-Number/cpp-2396/) | | |
