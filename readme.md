@@ -2257,6 +2257,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | [无] | [C++](2001-2500/2396-Strictly-Palindromic-Number/cpp-2396/) | | |
 | 2397 | [Maximum Rows Covered by Columns](https://leetcode.com/problems/maximum-rows-covered-by-columns/) | [无] | [C++](2001-2500/2397-Maximum-Rows-Covered-by-Columns/cpp-2397/) | | |
 | 2398 | [Maximum Number of Robots Within Budget](https://leetcode.com/problems/maximum-number-of-robots-within-budget/) | [无][缺：滑动窗口] | [C++](2001-2500/2398-Maximum-Number-of-Robots-Within-Budget/cpp-2398/) | | |
+| 2399 | [Check Distances Between Same Letters](https://leetcode.com/problems/check-distances-between-same-letters/) | [无] | [C++](2001-2500/2399-Check-Distances-Between-Same-Letters/cpp-2399/) | | |
+| 2400 | [Number of Ways to Reach a Position After Exactly k Steps](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/) | [无][缺：数学解] | [C++](2001-2500/2400-Number-of-Ways-to-Reach-a-Position-After-Exactly-k-Steps/cpp-2400/) | | |
+| 2401 | [Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/) | [无] | [C++](2001-2500/2401-Longest-Nice-Subarray/cpp-2401/) | | |
+| 2402 | [Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/) | [无] | [C++](2001-2500/2402-Meeting-Rooms-III/cpp-2402/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
