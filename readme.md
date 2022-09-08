@@ -2264,6 +2264,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2400 | [Number of Ways to Reach a Position After Exactly k Steps](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/) | [无][缺：数学解] | [C++](2001-2500/2400-Number-of-Ways-to-Reach-a-Position-After-Exactly-k-Steps/cpp-2400/) | | |
 | 2401 | [Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/) | [无] | [C++](2001-2500/2401-Longest-Nice-Subarray/cpp-2401/) | | |
 | 2402 | [Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/) | [无] | [C++](2001-2500/2402-Meeting-Rooms-III/cpp-2402/) | | |
+| 2403 | [Minimum Time to Kill All Monsters](https://leetcode.com/problems/minimum-time-to-kill-all-monsters/) | [无] | [C++](2001-2500/2403-Minimum-Time-to-Kill-All-Monsters/cpp-2403/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
