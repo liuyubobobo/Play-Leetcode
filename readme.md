@@ -683,7 +683,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 667 | [Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/) | [solution](https://leetcode.com/problems/beautiful-arrangement-ii/solution/) | [C++](0501-1000/0667-Beautiful-Arrangement-II/ccp-0667/) | | |
 | 668 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [solution](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [C++](0501-1000/0668-Kth-Smallest-Number-in-Multiplication-Table/cpp-0668/) | | |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [solution](https://leetcode.com/problems/trim-a-binary-search-tree/solution/) | [C++](0501-1000/0669-Trim-a-Binary-Search-Tree/cpp-0669/) | | |
-| | | | | | |
+| 670 | [Maximum Swap](https://leetcode.com/problems/maximum-swap/) | [无] | [C++](0501-1000/0670-Maximum-Swap/cpp-0670/) | | |
 | 671 | [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | [solution](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/solution/) | [C++](0501-1000/0671-Second-Minimum-Node-In-a-Binary-Tree/cpp-0671/) | | |
 | 672 | [Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/description/) | [solution](https://leetcode.com/problems/bulb-switcher-ii/solution/) | [C++](0501-1000/0672-Bulb-Switcher-II/cpp-0672/) | | |
 | 673 | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/) | [缺：BIT；线段树] | [C++](0501-1000/0673-Number-of-Longest-Increasing-Subsequence/cpp-0673/) | | |
