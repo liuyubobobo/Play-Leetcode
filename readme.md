@@ -2265,6 +2265,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2401 | [Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/) | [无] | [C++](2001-2500/2401-Longest-Nice-Subarray/cpp-2401/) | | |
 | 2402 | [Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/) | [无] | [C++](2001-2500/2402-Meeting-Rooms-III/cpp-2402/) | | |
 | 2403 | [Minimum Time to Kill All Monsters](https://leetcode.com/problems/minimum-time-to-kill-all-monsters/) | [无] | [C++](2001-2500/2403-Minimum-Time-to-Kill-All-Monsters/cpp-2403/) | | |
+| 2404 | [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/) | [无] | [C++](2001-2500/2404-Most-Frequent-Even-Element/cpp-2404/) | | |
+| 2405 | [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/) | [无] | [C++](2001-2500/2405-Optimal-Partition-of-String/cpp-2405/) | | |
+| 2406 | [Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/) | [无] | [C++](2001-2500/2406-Divide-Intervals-Into-Minimum-Number-of-Groups/cpp-2406/) | | |
+| 2407 | [Longest Increasing Subsequence II](https://leetcode.com/problems/longest-increasing-subsequence-ii/) | [无] | [C++](2001-2500/2407-Longest-Increasing-Subsequence-II/cpp2407/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
