@@ -2275,6 +2275,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2411 | [Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/) | [无][缺：O(n) 算法] | [C++](2001-2500/2411-Smallest-Subarrays-With-Maximum-Bitwise-OR/cpp2411/) | | |
 | | | | | | |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | [无] | [C++](2001-2500/2413-Smallest-Even-Multiple/cpp-2413/) | | |
+| 2414 | [Length of the Longest Alphabetical Continuous Substring](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/) | [无] | [C++](2001-2500/2414-Length-of-the-Longest-Alphabetical-Continuous-Substring/cpp-2414/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
