@@ -1,8 +1,15 @@
+/// Source : https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/
+/// Author : liuyubobobo
+/// Time   : 2022-09-20
+
 #include <iostream>
 
 using namespace std;
 
 
+/// String Split
+/// Time Complexity: O(n)
+/// Space Complexity: O(1)
 class Solution {
 public:
     int longestContinuousSubstring(string s) {
