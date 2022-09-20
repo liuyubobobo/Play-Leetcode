@@ -2274,6 +2274,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2410 | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | [无] | [C++](2001-2500/2410-Maximum-Matching-of-Players-With-Trainers/cpp2410/) | | |
 | 2411 | [Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/) | [无][缺：O(n) 算法] | [C++](2001-2500/2411-Smallest-Subarrays-With-Maximum-Bitwise-OR/cpp2411/) | | |
 | | | | | | |
+| 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | [无] | [C++](2001-2500/2413-Smallest-Even-Multiple/cpp-2413/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
