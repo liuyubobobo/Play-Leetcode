@@ -2269,7 +2269,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2405 | [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/) | [无] | [C++](2001-2500/2405-Optimal-Partition-of-String/cpp-2405/) | | |
 | 2406 | [Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/) | [无] | [C++](2001-2500/2406-Divide-Intervals-Into-Minimum-Number-of-Groups/cpp-2406/) | | |
 | 2407 | [Longest Increasing Subsequence II](https://leetcode.com/problems/longest-increasing-subsequence-ii/) | [无] | [C++](2001-2500/2407-Longest-Increasing-Subsequence-II/cpp2407/) | | |
-| | | | | | |
+| 2408 | [Design SQL](https://leetcode.com/problems/design-sql/) | [无] | [C++](2001-2500/2408-Design-SQL/cpp2408/) | | |
 | 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | [无] | [C++](2001-2500/2409-Count-Days-Spent-Together/cpp2409/) | | |
 | 2410 | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | [无] | [C++](2001-2500/2410-Maximum-Matching-of-Players-With-Trainers/cpp2410/) | | |
 | 2411 | [Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/) | [无][缺：O(n) 算法] | [C++](2001-2500/2411-Smallest-Subarrays-With-Maximum-Bitwise-OR/cpp2411/) | | |
