@@ -2340,6 +2340,11 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | ID | Problem | Official<br/>Solution | C++ | Java | Python |
 | --- | --- | :---: | :---: | :---: | :---: |
 | | | | | | |
+| 22秋 银联-4 | [设计自动售货机](https://leetcode.cn/contest/cnunionpay2022/problems/NyZD2B/) | [无] | [C++](Others/2022fall-cnunionpay/D/) | | |
+| 22秋 银联-3 | [风能发电](https://leetcode.cn/contest/cnunionpay2022/problems/wMGN0t/) | [无] | [C++](Others/2022fall-cnunionpay/C/) | | |
+| 22秋 银联-2 | [勘探补给](https://leetcode.cn/contest/cnunionpay2022/problems/6olJmJ/) | [无] | [C++](Others/2022fall-cnunionpay/B/) | | |
+| 22秋 银联-1 | [重构链表](https://leetcode.cn/contest/cnunionpay2022/problems/VLNEbD/) | [无] | [C++](Others/2022fall-cnunionpay/A/) | | |
+| | | | | | |
 | 22 AutoX-4 | [蚂蚁爬行](https://leetcode.cn/contest/autox2023/problems/TcdlJS/) | [无] | [C++](Others/2022-autox2023/D/) | | |
 | 22 AutoX-3 | [出行的最少购票费用](https://leetcode.cn/contest/autox2023/problems/BjAFy9/) | [无] | [C++](Others/2022-autox2023/C/) | | |
 | 22 AutoX-2 | [蚂蚁王国的蜂蜜](https://leetcode.cn/contest/autox2023/problems/8p6t8R/) | [无] | [C++](Others/2022-autox2023/B/) | | |
