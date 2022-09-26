@@ -2281,6 +2281,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2415 | [Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/) | [无] | [C++](2001-2500/2415-Reverse-Odd-Levels-of-Binary-Tree/cpp-2415/) | | |
 | 2416 | [Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/) | [无] | [C++](2001-2500/2416-Sum-of-Prefix-Scores-of-Strings/cpp-2416/) | | |
 | | | | | | |
+| 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people/) | [无] | [C++](2001-2500/2418-Sort-the-People/cpp-2418/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
