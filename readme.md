@@ -2283,6 +2283,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people/) | [无] | [C++](2001-2500/2418-Sort-the-People/cpp-2418/) | | |
 | 2419 | [Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) | [无] | [C++](2001-2500/2419-Longest-Subarray-With-Maximum-Bitwise-AND/cpp-2419/) | | |
+| 2420 | [Find All Good Indices](https://leetcode.com/problems/find-all-good-indices/) | [无] | [C++](2001-2500/2420-Find-All-Good-Indices/cpp-2420/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛

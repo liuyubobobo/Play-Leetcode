@@ -1,3 +1,7 @@
+/// Source : https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/
+/// Author : liuyubobobo
+/// Time   : 2022-09-26
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -5,6 +9,9 @@
 using namespace std;
 
 
+/// Split
+/// Time Complexity: O(n)
+/// Space Complexity: O(1)
 class Solution {
 public:
     int longestSubarray(vector<int>& nums) {
@@ -21,6 +28,7 @@ public:
         return res;
     }
 };
+
 
 int main() {
 
