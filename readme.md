@@ -2282,6 +2282,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2416 | [Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/) | [无] | [C++](2001-2500/2416-Sum-of-Prefix-Scores-of-Strings/cpp-2416/) | | |
 | | | | | | |
 | 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people/) | [无] | [C++](2001-2500/2418-Sort-the-People/cpp-2418/) | | |
+| 2419 | [Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) | [无] | [C++](2001-2500/2419-Longest-Subarray-With-Maximum-Bitwise-AND/cpp-2419/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
