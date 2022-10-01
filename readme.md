@@ -2285,6 +2285,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2419 | [Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) | [无] | [C++](2001-2500/2419-Longest-Subarray-With-Maximum-Bitwise-AND/cpp-2419/) | | |
 | 2420 | [Find All Good Indices](https://leetcode.com/problems/find-all-good-indices/) | [无] | [C++](2001-2500/2420-Find-All-Good-Indices/cpp-2420/) | | |
 | | | | | | |
+| 2422 | [Merge Operations to Turn Array Into a Palindrome](https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome/) | [无] | [C++](2001-2500/2422-Merge-Operations-to-Turn-Array-Into-a-Palindrome/cpp-2422/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
