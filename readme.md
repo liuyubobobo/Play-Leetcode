@@ -2287,6 +2287,11 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 2422 | [Merge Operations to Turn Array Into a Palindrome](https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome/) | [无] | [C++](2001-2500/2422-Merge-Operations-to-Turn-Array-Into-a-Palindrome/cpp-2422/) | | |
 | | | | | | |
+| 2427 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/) | [无] | [C++](2001-2500/2427-Number-of-Common-Factors/cpp-2427/) | | |
+| 2428 | [Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/) | [无] | [C++](2001-2500/2428-Maximum-Sum-of-an-Hourglass/cpp-2428/) | | |
+| 2429 | [Minimize XOR](https://leetcode.com/problems/minimize-xor/) | [无] | [C++](2001-2500/2429-Minimize-XOR/cpp-2429/) | | |
+| 2430 | [Maximum Deletions on a String](https://leetcode.com/problems/maximum-deletions-on-a-string/) | [无] | [C++](2001-2500/2430-Maximum-Deletions-on-a-String/cpp-2430/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
