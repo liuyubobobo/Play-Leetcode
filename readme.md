@@ -2286,6 +2286,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2420 | [Find All Good Indices](https://leetcode.com/problems/find-all-good-indices/) | [无] | [C++](2001-2500/2420-Find-All-Good-Indices/cpp-2420/) | | |
 | | | | | | |
 | 2422 | [Merge Operations to Turn Array Into a Palindrome](https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome/) | [无] | [C++](2001-2500/2422-Merge-Operations-to-Turn-Array-Into-a-Palindrome/cpp-2422/) | | |
+| 2423 | [Remove Letter To Equalize Frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency/) | [无] | [C++](2001-2500/2423-Remove-Letter-To-Equalize-Frequency/cpp-2423/) | | |
 | | | | | | |
 | 2427 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/) | [无] | [C++](2001-2500/2427-Number-of-Common-Factors/cpp-2427/) | | |
 | 2428 | [Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/) | [无] | [C++](2001-2500/2428-Maximum-Sum-of-an-Hourglass/cpp-2428/) | | |
