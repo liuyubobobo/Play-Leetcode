@@ -2294,6 +2294,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2428 | [Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/) | [无] | [C++](2001-2500/2428-Maximum-Sum-of-an-Hourglass/cpp-2428/) | | |
 | 2429 | [Minimize XOR](https://leetcode.com/problems/minimize-xor/) | [无] | [C++](2001-2500/2429-Minimize-XOR/cpp-2429/) | | |
 | 2430 | [Maximum Deletions on a String](https://leetcode.com/problems/maximum-deletions-on-a-string/) | [无] | [C++](2001-2500/2430-Maximum-Deletions-on-a-String/cpp-2430/) | | |
+| 2431 | [Maximize Total Tastiness of Purchased Fruits](https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits/) | [无] | [C++](2001-2500/2431-Maximize-Total-Tastiness-of-Purchased-Fruits/cpp-2431/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
