@@ -2349,6 +2349,12 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | LCP056 | [信物传送](https://leetcode-cn.com/problems/6UEx57/) | [无] | [C++](LC/LCP056/cpp-LCP056/) | | |
 | LCP057 | [打地鼠](https://leetcode-cn.com/problems/ZbAuEH/) | [无] | [C++](LC/LCP057/cpp-LCP057/) | | |
 | | | | | | |
+| LCP066 | [最小展台数量](https://leetcode.cn/problems/600YaG/) | [无] | [C++](LC/LCP0066/cpp-LCP066/) | | |
+| LCP067 | [装饰树](https://leetcode.cn/problems/KnLfVT/) | [无] | [C++](LC/LCP0067/cpp-LCP067/) | | |
+| LCP068 | [美观的花束](https://leetcode.cn/problems/1GxJYY/) | [无] | [C++](LC/LCP0068/cpp-LCP068/) | | |
+| LCP069 | [Hello LeetCode!](https://leetcode.cn/problems/rMeRt2/) | [无] | [C++](LC/LCP0069/cpp-LCP069/) | | |
+| LCP070 | [沙地治理](https://leetcode.cn/problems/XxZZjK/) | [无] | [C++](LC/LCP0070/cpp-LCP070/) | | |
+| | | | | | |
 
 ## 其他
 
