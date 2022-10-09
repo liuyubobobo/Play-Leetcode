@@ -2295,6 +2295,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2429 | [Minimize XOR](https://leetcode.com/problems/minimize-xor/) | [无] | [C++](2001-2500/2429-Minimize-XOR/cpp-2429/) | | |
 | 2430 | [Maximum Deletions on a String](https://leetcode.com/problems/maximum-deletions-on-a-string/) | [无] | [C++](2001-2500/2430-Maximum-Deletions-on-a-String/cpp-2430/) | | |
 | 2431 | [Maximize Total Tastiness of Purchased Fruits](https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits/) | [无] | [C++](2001-2500/2431-Maximize-Total-Tastiness-of-Purchased-Fruits/cpp-2431/) | | |
+| 2432 | [The Employee That Worked on the Longest Task](https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/) | [无] | [C++](2001-2500/2432-The-Employee-That-Worked-on-the-Longest-Task/cpp-2432/) | | |
+| 2433 | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | [无] | [C++](2001-2500/2433-Find-The-Original-Array-of-Prefix-Xor/cpp-2433/) | | |
+| 2434 | [Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) | [无] | [C++](2001-2500/2434-Using-a-Robot-to-Print-the-Lexicographically-Smallest-String/cpp-2434/) | | |
+| 2435 | [Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/) | [无] | [C++](2001-2500/2435-Paths-in-Matrix-Whose-Sum-Is-Divisible-by-K/cpp-2435/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
