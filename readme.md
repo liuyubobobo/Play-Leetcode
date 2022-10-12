@@ -2299,6 +2299,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2433 | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | [无] | [C++](2001-2500/2433-Find-The-Original-Array-of-Prefix-Xor/cpp-2433/) | | |
 | 2434 | [Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) | [无] | [C++](2001-2500/2434-Using-a-Robot-to-Print-the-Lexicographically-Smallest-String/cpp-2434/) | | |
 | 2435 | [Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/) | [无] | [C++](2001-2500/2435-Paths-in-Matrix-Whose-Sum-Is-Divisible-by-K/cpp-2435/) | | |
+| 2436 | [Minimum Split Into Subarrays With GCD Greater Than One](https://leetcode.com/problems/minimum-split-into-subarrays-with-gcd-greater-than-one/) | [无] | [C++](2001-2500/2436-Minimum-Split-Into-Subarrays-With-GCD-Greater-Than-One/cpp-2436/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
