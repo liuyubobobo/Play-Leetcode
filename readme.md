@@ -2284,7 +2284,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people/) | [无] | [C++](2001-2500/2418-Sort-the-People/cpp-2418/) | | |
 | 2419 | [Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) | [无] | [C++](2001-2500/2419-Longest-Subarray-With-Maximum-Bitwise-AND/cpp-2419/) | | |
 | 2420 | [Find All Good Indices](https://leetcode.com/problems/find-all-good-indices/) | [无] | [C++](2001-2500/2420-Find-All-Good-Indices/cpp-2420/) | | |
-| | | | | | |
+| 2421 | [Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/) | [无] | [C++](2001-2500/2421-Number-of-Good-Paths/cpp-2421/) | | |
 | 2422 | [Merge Operations to Turn Array Into a Palindrome](https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome/) | [无] | [C++](2001-2500/2422-Merge-Operations-to-Turn-Array-Into-a-Palindrome/cpp-2422/) | | |
 | 2423 | [Remove Letter To Equalize Frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency/) | [无] | [C++](2001-2500/2423-Remove-Letter-To-Equalize-Frequency/cpp-2423/) | | |
 | 2424 | [Longest Uploaded Prefix](https://leetcode.com/problems/longest-uploaded-prefix/) | [无] | [C++](2001-2500/2424-Longest-Uploaded-Prefix/cpp-2424/) | | |
