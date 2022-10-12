@@ -2280,7 +2280,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2414 | [Length of the Longest Alphabetical Continuous Substring](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/) | [无] | [C++](2001-2500/2414-Length-of-the-Longest-Alphabetical-Continuous-Substring/cpp-2414/) | | |
 | 2415 | [Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/) | [无] | [C++](2001-2500/2415-Reverse-Odd-Levels-of-Binary-Tree/cpp-2415/) | | |
 | 2416 | [Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/) | [无] | [C++](2001-2500/2416-Sum-of-Prefix-Scores-of-Strings/cpp-2416/) | | |
-| | | | | | |
+| 2417 | [Closest Fair Integer](https://leetcode.com/problems/closest-fair-integer/) | [无] | [C++](2001-2500/2417-Closest-Fair-Integer/cpp-2417/) | | |
 | 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people/) | [无] | [C++](2001-2500/2418-Sort-the-People/cpp-2418/) | | |
 | 2419 | [Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) | [无] | [C++](2001-2500/2419-Longest-Subarray-With-Maximum-Bitwise-AND/cpp-2419/) | | |
 | 2420 | [Find All Good Indices](https://leetcode.com/problems/find-all-good-indices/) | [无] | [C++](2001-2500/2420-Find-All-Good-Indices/cpp-2420/) | | |
