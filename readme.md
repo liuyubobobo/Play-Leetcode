@@ -2304,6 +2304,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2438 | [Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/) | [无] | [C++](2001-2500/2438-Range-Product-Queries-of-Powers/cpp-2438/) | | |
 | 2439 | [Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/) | [无] | [C++](2001-2500/2439-Minimize-Maximum-of-Array/cpp-2439/) | | |
 | | | | | | |
+| 2441 | [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | [无] | [C++](2001-2500/2441-Largest-Positive-Integer-That-Exists-With-Its-Negative/cpp-2441/) | | |
+| 2442 | [Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/) | [无] | [C++](2001-2500/2442-Count-Number-of-Distinct-Integers-After-Reverse-Operations/cpp-2442/) | | |
+| 2443 | [Sum of Number and Its Reverse](https://leetcode.com/problems/sum-of-number-and-its-reverse/) | [无] | [C++](2001-2500/2443-Sum-of-Number-and-Its-Reverse/cpp-2443/) | | |
+| 2444 | [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | [无] | [C++](2001-2500/2444-Count-Subarrays-With-Fixed-Bounds/cpp-2444/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
