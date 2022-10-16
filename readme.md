@@ -2300,6 +2300,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2434 | [Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) | [无] | [C++](2001-2500/2434-Using-a-Robot-to-Print-the-Lexicographically-Smallest-String/cpp-2434/) | | |
 | 2435 | [Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/) | [无] | [C++](2001-2500/2435-Paths-in-Matrix-Whose-Sum-Is-Divisible-by-K/cpp-2435/) | | |
 | 2436 | [Minimum Split Into Subarrays With GCD Greater Than One](https://leetcode.com/problems/minimum-split-into-subarrays-with-gcd-greater-than-one/) | [无] | [C++](2001-2500/2436-Minimum-Split-Into-Subarrays-With-GCD-Greater-Than-One/cpp-2436/) | | |
+| 2437 | [Number of Valid Clock Times](https://leetcode.com/problems/number-of-valid-clock-times/) | [无] | [C++](2001-2500/2437-Number-of-Valid-Clock-Times/cpp-2437/) | | |
+| 2438 | [Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/) | [无] | [C++](2001-2500/2438-Range-Product-Queries-of-Powers/cpp-2438/) | | |
+| 2439 | [Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/) | [无] | [C++](2001-2500/2439-Minimize-Maximum-of-Array/cpp-2439/) | | |
+| | | | | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
