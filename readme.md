@@ -833,6 +833,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [solution](https://leetcode.com/problems/flipping-an-image/solution/) | [C++](0501-1000/0832-Flipping-an-Image/cpp-0832/) | | |
 | | | | | | |
 | 834 | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) | [solution](https://leetcode.com/problems/sum-of-distances-in-tree/solution/) | [C++](0501-1000/0834-Sum-of-Distances-in-Tree/cpp-0834/) | | |
+| 835 | [Image Overlap](https://leetcode.com/problems/image-overlap/) | [无] | [C++](0501-1000/0835-Image-Overlap/cpp-0835/) | | |
 | | | | | | |
 | 838 | [Push Dominoes](https://leetcode.com/problems/push-dominoes/) | [solution](https://leetcode.com/problems/push-dominoes/solution/) | [C++](0501-1000/0838-Push-Dominoes/cpp-0838/) | | |
 | 839 | [Similar String Groups](https://leetcode.com/problems/similar-string-groups/) | [solution](https://leetcode.com/problems/similar-string-groups/solution/) | 
