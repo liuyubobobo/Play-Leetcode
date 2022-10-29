@@ -518,6 +518,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 484 | [Find Permutation](https://leetcode.com/problems/find-permutation/) | [solution](https://leetcode.com/problems/find-permutation/solution/) | [C++](0001-0500/0484-Find-Permutation/cpp-0484/) | | |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [无] | [C++](0001-0500/0485-Max-Consecutive-Ones/cpp-0485/) | | |
 | | | | | | |
+| 487 | [Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/) | [无] | [C++](0001-0500/0487-Max-Consecutive-Ones-II/cpp-0487/) | | |
 | 488 | [Zuma Game](https://leetcode.com/problems/zuma-game/) | [无] | [C++](0001-0500/0488-Zuma-Game/cpp-0488/) | | |
 | 489 | [Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/) | [solution](https://leetcode.com/problems/robot-room-cleaner/solution/) | [C++](0001-0500/0489-Robot-Room-Cleaner/cpp-0489/) | | |
 | 490 | [The Maze](https://leetcode.com/problems/the-maze/description/) | [solution](https://leetcode.com/problems/the-maze/solution/) | [C++](0001-0500/0490-The-Maze/cpp-0490/) | | |
