@@ -2318,7 +2318,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2447 | [Number of Subarrays With GCD Equal to K](https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/) | [无] | [C++](2001-2500/2447-Number-of-Subarrays-With-GCD-Equal-to-K/cpp-2447/) | | |
 | 2448 | [Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/) | [无] | [C++](2001-2500/2448-Minimum-Cost-to-Make-Array-Equal/cpp-2448/) | | |
 | 2449 | [Minimum Number of Operations to Make Arrays Similar](https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar/) | [无] | [C++](2001-2500/2449-Minimum-Number-of-Operations-to-Make-Arrays-Similar/cpp-2449/) | | |
-| | | | | | |
+| 2450 | [Number of Distinct Binary Strings After Applying Operations](https://leetcode.com/problems/number-of-distinct-binary-strings-after-applying-operations/) | [无] | [C++](2001-2500/2450-Number-of-Distinct-Binary-Strings-After-Applying-Operations/cpp-2450/) | | |
 | 2451 | [Odd String Difference](https://leetcode.com/problems/odd-string-difference/) | [无] | [C++](2001-2500/2451-Odd-String-Difference/cpp-2451/) | | |
 | 2452 | [Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) | [无] | [C++](2001-2500/2452-Words-Within-Two-Edits-of-Dictionary/cpp-2452/) | | |
 | 2453 | [Destroy Sequential Targets](https://leetcode.com/problems/destroy-sequential-targets/) | [无] | [C++](2001-2500/2453-Destroy-Sequential-Targets/cpp-2453/) | | |
