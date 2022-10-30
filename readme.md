@@ -2319,6 +2319,11 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2448 | [Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/) | [无] | [C++](2001-2500/2448-Minimum-Cost-to-Make-Array-Equal/cpp-2448/) | | |
 | 2449 | [Minimum Number of Operations to Make Arrays Similar](https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar/) | [无] | [C++](2001-2500/2449-Minimum-Number-of-Operations-to-Make-Arrays-Similar/cpp-2449/) | | |
 | | | | | | |
+| 2455 | [Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/) | [无] | [C++](2001-2500/2455-Average-Value-of-Even-Numbers-That-Are-Divisible-by-Three/cpp-2455/) | | |
+| 2456 | [Most Popular Video Creator](https://leetcode.com/problems/most-popular-video-creator/) | [无] | [C++](2001-2500/2456-Most-Popular-Video-Creator/cpp-2456/) | | |
+| 2457 | [Minimum Addition to Make Integer Beautiful](https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/) | [无] | [C++](2001-2500/2457-Minimum-Addition-to-Make-Integer-Beautiful/cpp-2457/) | | |
+| 2458 | [Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/) | [无] | [C++](2001-2500/2458-Height-of-Binary-Tree-After-Subtree-Removal-Queries/cpp-2458/) | | |
+| | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
 
