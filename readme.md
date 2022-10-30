@@ -2321,8 +2321,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 2451 | [Odd String Difference](https://leetcode.com/problems/odd-string-difference/) | [无] | [C++](2001-2500/2451-Odd-String-Difference/cpp-2451/) | | |
 | 2452 | [Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) | [无] | [C++](2001-2500/2452-Words-Within-Two-Edits-of-Dictionary/cpp-2452/) | | |
-| | | | | | |
-| | | | | | |
+| 2453 | [Destroy Sequential Targets](https://leetcode.com/problems/destroy-sequential-targets/) | [无] | [C++](2001-2500/2453-Destroy-Sequential-Targets/cpp-2453/) | | |
+| 2454 | [Next Greater Element IV](https://leetcode.com/problems/next-greater-element-iv/) | [无]<br/>[缺：O(n) 解法] | [C++](2001-2500/2454-Next-Greater-Element-IV/cpp-2454/) | | |
 | 2455 | [Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/) | [无] | [C++](2001-2500/2455-Average-Value-of-Even-Numbers-That-Are-Divisible-by-Three/cpp-2455/) | | |
 | 2456 | [Most Popular Video Creator](https://leetcode.com/problems/most-popular-video-creator/) | [无] | [C++](2001-2500/2456-Most-Popular-Video-Creator/cpp-2456/) | | |
 | 2457 | [Minimum Addition to Make Integer Beautiful](https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/) | [无] | [C++](2001-2500/2457-Minimum-Addition-to-Make-Integer-Beautiful/cpp-2457/) | | |
