@@ -1,10 +1,15 @@
+/// Source : https://leetcode.com/problems/magical-string/
+/// Author : liuyubobobo
+/// Time   : 2022-10-30
+
 #include <iostream>
 
 using namespace std;
 
 
 /// Simulation
-/// Time Complex
+/// Time Complexity: O(n)
+/// Space Complexity: O(n)
 class Solution {
 public:
     int magicalString(int n) {
