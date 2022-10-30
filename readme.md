@@ -512,7 +512,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 478 | [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/description/) | [solution](https://leetcode.com/problems/generate-random-point-in-a-circle/solution/) | [C++](0001-0500/0478-Generate-Random-Point-in-a-Circle/cpp-0478/) | | |
 | 479 | [Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/) | [无] | [C++](0001-0500/0479-Largest-Palindrome-Product/cpp-0479/) | | |
 | 480 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | [无]<br/>[缺：双数据结构] | [C++](0001-0500/0480-Sliding-Window-Median/cpp-0480/) | | |
-| | | | | | |
+| 481 | [Magical String](https://leetcode.com/problems/magical-string/) | [无] | [C++](0001-0500/0481-Magical-String/cpp-0481/) | | |
 | 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [无] | [C++](0001-0500/0482-License-Key-Formatting/cpp-0482/) | | |
 | 483 | [Smallest Good Base](https://leetcode.com/problems/smallest-good-base/) | [无] | [C++](0001-0500/0483-Smallest-Good-Base/cpp-0483/) | | |
 | 484 | [Find Permutation](https://leetcode.com/problems/find-permutation/) | [solution](https://leetcode.com/problems/find-permutation/solution/) | [C++](0001-0500/0484-Find-Permutation/cpp-0484/) | | |
@@ -2318,6 +2318,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2447 | [Number of Subarrays With GCD Equal to K](https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/) | [无] | [C++](2001-2500/2447-Number-of-Subarrays-With-GCD-Equal-to-K/cpp-2447/) | | |
 | 2448 | [Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/) | [无] | [C++](2001-2500/2448-Minimum-Cost-to-Make-Array-Equal/cpp-2448/) | | |
 | 2449 | [Minimum Number of Operations to Make Arrays Similar](https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar/) | [无] | [C++](2001-2500/2449-Minimum-Number-of-Operations-to-Make-Arrays-Similar/cpp-2449/) | | |
+| | | | | | |
+| 2451 | [Odd String Difference](https://leetcode.com/problems/odd-string-difference/) | [无] | [C++](2001-2500/2451-Odd-String-Difference/cpp-2451/) | | |
+| 2452 | [Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) | [无] | [C++](2001-2500/2452-Words-Within-Two-Edits-of-Dictionary/cpp-2452/) | | |
+| | | | | | |
 | | | | | | |
 | 2455 | [Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/) | [无] | [C++](2001-2500/2455-Average-Value-of-Even-Numbers-That-Are-Divisible-by-Three/cpp-2455/) | | |
 | 2456 | [Most Popular Video Creator](https://leetcode.com/problems/most-popular-video-creator/) | [无] | [C++](2001-2500/2456-Most-Popular-Video-Creator/cpp-2456/) | | |
