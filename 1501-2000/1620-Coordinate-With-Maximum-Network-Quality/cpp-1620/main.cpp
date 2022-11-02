@@ -1,6 +1,7 @@
 /// Source : https://leetcode.com/problems/coordinate-with-maximum-network-quality/
 /// Author : liuyubobobo
 /// Time   : 2020-10-18
+/// Updated: 2022-11-01
 
 #include <iostream>
 #include <vector>
@@ -30,7 +31,7 @@ public:
                 int curq = getq(towers, x, y, radius);
                 if(curq > maxq) res = {x, y}, maxq = curq;
         }
-        return res;
+        return maxq == 0 ? vector<int>(2, 0) : res;
     }
 
 private:
