@@ -2334,6 +2334,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2461 | [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | [无] | [C++](2001-2500/2461-Maximum-Sum-of-Distinct-Subarrays-With-Length-K/cpp-2461/) | | |
 | 2462 | [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/) | [无] | [C++](2001-2500/2462-Total-Cost-to-Hire-K-Workers/cpp-2462/) | | |
 | 2463 | [Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/) | [无] | [C++](2001-2500/2463-Minimum-Total-Distance-Traveled/cpp-2463/) | | |
+| 2464 | [Minimum Subarrays in a Valid Split](https://leetcode.com/problems/minimum-subarrays-in-a-valid-split/description/) | [无] | [C++](2001-2500/2464-Minimum-Subarrays-in-a-Valid-Split/cpp-2464/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
