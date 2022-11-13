@@ -2,7 +2,7 @@
 /// Author : liuyubobobo
 /// Time   : 2019-09-01
 
-/// Trie
+/// Trie + Recursive DFS
 /// Time Complexity: addWord: O(len(word))
 ///                  search:  O(size(trie))
 /// Space Complexity: O(sum(len(wi))) where wi is the length of the ith word
