@@ -4,7 +4,7 @@
 
 import java.util.*;
 
-/// Trie + Recursive DFS
+/// Trie + Non-Recursive DFS
 /// Time Complexity: addWord: O(len(word))
 ///                  search:  O(size(trie))
 /// Space Complexity: O(sum(len(wi))) where wi is the length of the ith word
@@ -45,11 +45,11 @@ public class WordDictionary2 {
     /** Returns if the word is in the data structure. A word could contain the dot character '.' to represent any one letter. */
     public boolean search(String word) {
 
-        LinkedList<Node> nodeStack = new LinkedList<>();
+        Deque<Node> nodeStack = new LinkedList<>();
 
         nodeStack.push(root);
         while(!nodeStack.isEmpty()){
-            Node node = nodeStack.pollLast();
+            Node node = nodeStack.poll();
             if(node.index == word.length()){
                 if(node.isWord) return true;
                 continue;
