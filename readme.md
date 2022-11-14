@@ -2336,6 +2336,11 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2463 | [Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/) | [无] | [C++](2001-2500/2463-Minimum-Total-Distance-Traveled/cpp-2463/) | | |
 | 2464 | [Minimum Subarrays in a Valid Split](https://leetcode.com/problems/minimum-subarrays-in-a-valid-split/description/) | [无] | [C++](2001-2500/2464-Minimum-Subarrays-in-a-Valid-Split/cpp-2464/) | | |
 | | | | | | |
+| 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | [无] | [C++](2001-2500/2469-Convert-the-Temperature/cpp-2469/) | | |
+| 2470 | [Number of Subarrays With LCM Equal to K](https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/) | [无] | [C++](2001-2500/2470-Number-of-Subarrays-With-LCM-Equal-to-K/cpp-2470/) | | |
+| 2471 | [Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | [无] | [C++](2001-2500/2471-Minimum-Number-of-Operations-to-Sort-a-Binary-Tree-by-Level/cpp-2471/) | | |
+| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | [无] | [C++](2001-2500/2472-Maximum-Number-of-Non-overlapping-Palindrome-Substrings/cpp-2472/) | | |
+| | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
 
