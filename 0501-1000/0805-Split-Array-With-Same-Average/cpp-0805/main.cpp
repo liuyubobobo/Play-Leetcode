@@ -9,6 +9,7 @@
 
 using namespace std;
 
+
 /// Dynamic Programming
 ///
 /// Suppose the same average is ave, then ave = sum(A) / len(A)
@@ -57,27 +58,23 @@ private:
     }
 };
 
-void print_bool(bool res){
-    cout << (res ? "True" : "False") << endl;
-}
-
 
 int main() {
 
     vector<int> A1 = {1,2,3,4,5,6,7,8};
-    print_bool(Solution().splitArraySameAverage(A1));
+    cout << Solution().splitArraySameAverage(A1) << '\n';
     // true
 
     vector<int> A2 = {3, 1};
-    print_bool(Solution().splitArraySameAverage(A2));
+    cout << Solution().splitArraySameAverage(A2) << '\n';
     // false
 
     vector<int> A3 = {18, 10, 5, 3};
-    print_bool(Solution().splitArraySameAverage(A3));
+    cout << Solution().splitArraySameAverage(A3) << '\n';
     // false
 
     vector<int> A4 = {2,0,5,6,16,12,15,12,4};
-    print_bool(Solution().splitArraySameAverage(A4));
+    cout << Solution().splitArraySameAverage(A4) << '\n';
     // true
 
     return 0;
