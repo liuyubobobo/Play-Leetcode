@@ -780,6 +780,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 772 | [Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/description/) | [无] | [C++](0501-1000/0772-Basic-Calculator-III/cpp-0772/) | | |
 | | | | | | |
 | 774 | [Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) | [solution](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) | [C++](0501-1000/0774-Minimize-Max-Distance-to-Gas-Station/cpp-0774/) | | |
+| 775 | [Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/) | [C++](0501-1000/0775-Global-and-Local-Inversions/cpp-0775/) | | | |
 | | | | | | |
 | 779 | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) | [无] | [C++](0501-1000/0779-K-th-Symbol-in-Grammar/cpp-0779/) | | |
 | 780 | [Reaching Points](https://leetcode.com/problems/reaching-points/description/) | [solution](https://leetcode.com/problems/reaching-points/solution/) | [C++](0501-1000/0780-Reaching-Points/cpp-0780/) | | |
