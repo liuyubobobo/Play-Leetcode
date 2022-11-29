@@ -2345,6 +2345,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2470 | [Number of Subarrays With LCM Equal to K](https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/) | [无] | [C++](2001-2500/2470-Number-of-Subarrays-With-LCM-Equal-to-K/cpp-2470/) | | |
 | 2471 | [Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | [无] | [C++](2001-2500/2471-Minimum-Number-of-Operations-to-Sort-a-Binary-Tree-by-Level/cpp-2471/) | | |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | [无] | [C++](2001-2500/2472-Maximum-Number-of-Non-overlapping-Palindrome-Substrings/cpp-2472/) | | |
+| 2473 | [Minimum Cost to Buy Apples](https://leetcode.com/problems/minimum-cost-to-buy-apples/description/) | [无] | [C++](2001-2500/2473-Minimum-Cost-to-Buy-Apples/cpp-2473/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
