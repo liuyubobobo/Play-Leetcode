@@ -1,9 +1,16 @@
+/// Source : https://leetcode.com/problems/largest-sum-of-averages/
+/// Author : liuyubobobo
+/// Time   : 2022-11-27
+
 #include <iostream>
 #include <vector>
 
 using namespace std;
 
 
+/// DP
+/// Time Compleixty: O(n^2 * k)
+/// Space Complexity: O(nk)
 class Solution {
 public:
     double largestSumOfAverages(vector<int>& nums, int k) {

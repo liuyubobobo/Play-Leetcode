@@ -2337,7 +2337,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2462 | [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/) | [无] | [C++](2001-2500/2462-Total-Cost-to-Hire-K-Workers/cpp-2462/) | | |
 | 2463 | [Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/) | [无] | [C++](2001-2500/2463-Minimum-Total-Distance-Traveled/cpp-2463/) | | |
 | 2464 | [Minimum Subarrays in a Valid Split](https://leetcode.com/problems/minimum-subarrays-in-a-valid-split/description/) | [无] | [C++](2001-2500/2464-Minimum-Subarrays-in-a-Valid-Split/cpp-2464/) | | |
-| | | | | | |
+| 2465 | [Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/) | [无] | [C++](2001-2500/2465-Number-of-Distinct-Averages/cpp-2465/) | | |
+| 2466 | [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/) | [无] | [C++](2001-2500/2466-Count-Ways-To-Build-Good-Strings/cpp-2466/) | | |
+| 2467 | [Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/) | [无] | [C++](2001-2500/2467-Most-Profitable-Path-in-a-Tree/cpp-2467/) | | |
+| 2468 | [Split Message Based on Limit](https://leetcode.com/problems/split-message-based-on-limit/) | [无] | [C++](2001-2500/2468-Split-Message-Based-on-Limit/cpp-2468/) | | |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | [无] | [C++](2001-2500/2469-Convert-the-Temperature/cpp-2469/) | | |
 | 2470 | [Number of Subarrays With LCM Equal to K](https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/) | [无] | [C++](2001-2500/2470-Number-of-Subarrays-With-LCM-Equal-to-K/cpp-2470/) | | |
 | 2471 | [Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | [无] | [C++](2001-2500/2471-Minimum-Number-of-Operations-to-Sort-a-Binary-Tree-by-Level/cpp-2471/) | | |
