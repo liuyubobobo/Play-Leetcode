@@ -2346,6 +2346,13 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2471 | [Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | [无] | [C++](2001-2500/2471-Minimum-Number-of-Operations-to-Sort-a-Binary-Tree-by-Level/cpp-2471/) | | |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | [无] | [C++](2001-2500/2472-Maximum-Number-of-Non-overlapping-Palindrome-Substrings/cpp-2472/) | | |
 | 2473 | [Minimum Cost to Buy Apples](https://leetcode.com/problems/minimum-cost-to-buy-apples/description/) | [无] | [C++](2001-2500/2473-Minimum-Cost-to-Buy-Apples/cpp-2473/) | | |
+| 2474 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 2475 | [Number of Unequal Triplets in Array](https://leetcode.com/problems/number-of-unequal-triplets-in-array/) | [无] | [C++](2001-2500/2475-Number-of-Unequal-Triplets-in-Array/cpp-2475/) | | |
+| 2476 | [Closest Nodes Queries in a Binary Search Tree](https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/) | [无] | [C++](2001-2500/2476-Closest-Nodes-Queries-in-a-Binary-Search-Tree/cpp-2476/) | | |
+| 2477 | [Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/) | [无] | [C++](2001-2500/2477-Minimum-Fuel-Cost-to-Report-to-the-Capital/cpp-2477/) | | |
+| 2478 | [Number of Beautiful Partitions](https://leetcode.com/problems/number-of-beautiful-partitions/) | [无] | [C++](2001-2500/2478-Number-of-Beautiful-Partitions/cpp-2478/) | | |
+| | | | | | |
+| 2480 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
