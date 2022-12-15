@@ -2354,6 +2354,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2479 | [Maximum XOR of Two Non-Overlapping Subtrees](https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees/description/) | [无] | [C++](2001-2500/2479-Maximum-XOR-of-Two-Non-Overlapping-Subtrees/cpp-2479/) | | |
 | 2480 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
+| 2500 | [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/) | [无] | [C++](2001-2500/2500-Delete-Greatest-Value-in-Each-Row/cpp-2500/) | | |
+| | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
 
