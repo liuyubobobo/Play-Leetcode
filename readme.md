@@ -2359,6 +2359,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2502 | [Design Memory Allocator](https://leetcode.com/problems/design-memory-allocator/) | [无] | [C++](2001-2500/2502-Design-Memory-Allocator/cpp-2502/) | | |
 | 2503 | [Maximum Number of Points From Grid Queries](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/) | [无] | [C++](2001-2500/2503-Maximum-Number-of-Points-From-Grid-Queries/cpp-2503/) | | |
 | 2504 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 2505 | [Bitwise OR of All Subsequence Sums](https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums/description/) | [无] | [C++](2001-2500/2505-Bitwise-OR-of-All-Subsequence-Sums/cpp-2505/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
