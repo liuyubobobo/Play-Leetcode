@@ -2353,6 +2353,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2478 | [Number of Beautiful Partitions](https://leetcode.com/problems/number-of-beautiful-partitions/) | [无] | [C++](2001-2500/2478-Number-of-Beautiful-Partitions/cpp-2478/) | | |
 | 2479 | [Maximum XOR of Two Non-Overlapping Subtrees](https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees/description/) | [无] | [C++](2001-2500/2479-Maximum-XOR-of-Two-Non-Overlapping-Subtrees/cpp-2479/) | | |
 | 2480 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 2481 | [Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/) | [无] | [C++](2001-2500/2481-Minimum-Cuts-to-Divide-a-Circle/cpp-2481/) | | |
+| 2482 | [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | [无] | [C++](2001-2500/2482-Difference-Between-Ones-and-Zeros-in-Row-and-Column/cpp-2482/) | | |
+| 2483 | [Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/) | [无] | [C++](2001-2500/2483-Minimum-Penalty-for-a-Shop/cpp-2483/) | | |
+| 2484 | [Count Palindromic Subsequences](https://leetcode.com/problems/count-palindromic-subsequences/) | [无] | [C++](2001-2500/2484-Count-Palindromic-Subsequences/cpp-2484/) | | |
 | | | | | | |
 | 2500 | [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/) | [无] | [C++](2001-2500/2500-Delete-Greatest-Value-in-Each-Row/cpp-2500/) | | |
 | 2501 | [Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/) | [无] | [C++](2001-2500/2501-Longest-Square-Streak-in-an-Array/cpp-2501/) | | |
