@@ -2355,6 +2355,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2480 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
 | 2500 | [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/) | [无] | [C++](2001-2500/2500-Delete-Greatest-Value-in-Each-Row/cpp-2500/) | | |
+| 2501 | [Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/) | [无] | [C++](2001-2500/2501-Longest-Square-Streak-in-an-Array/cpp-2501/) | | |
+| 2502 | [Design Memory Allocator](https://leetcode.com/problems/design-memory-allocator/) | [无] | [C++](2001-2500/2502-Design-Memory-Allocator/cpp-2502/) | | |
+| 2503 | [Maximum Number of Points From Grid Queries](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/) | [无] | [C++](2001-2500/2503-Maximum-Number-of-Points-From-Grid-Queries/cpp-2503/) | | |
+| 2504 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
