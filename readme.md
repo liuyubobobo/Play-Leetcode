@@ -2366,6 +2366,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2503 | [Maximum Number of Points From Grid Queries](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/) | [无] | [C++](2001-2500/2503-Maximum-Number-of-Points-From-Grid-Queries/cpp-2503/) | | |
 | 2504 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 2505 | [Bitwise OR of All Subsequence Sums](https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums/description/) | [无] | [C++](2001-2500/2505-Bitwise-OR-of-All-Subsequence-Sums/cpp-2505/) | | |
+| 2506 | [Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings/) | [无] | [C++](2001-2500/2506-Count-Pairs-Of-Similar-Strings/cpp-2506/) | | |
+| 2507 | [Smallest Value After Replacing With Sum of Prime Factors](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/) | [无] | [C++](2001-2500/2507-Smallest-Value-After-Replacing-With-Sum-of-Prime-Factors/cpp-2507/) | | |
+| 2508 | [Add Edges to Make Degrees of All Nodes Even](https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/) | [无] | [C++](2001-2500/2508-Add-Edges-to-Make-Degrees-of-All-Nodes-Even/cpp-2508/) | | |
+| 2509 | [Cycle Length Queries in a Tree](https://leetcode.com/problems/cycle-length-queries-in-a-tree/) | [无] | [C++](2001-2500/2509-Cycle-Length-Queries-in-a-Tree/cpp-2509/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
