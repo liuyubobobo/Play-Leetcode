@@ -1,3 +1,7 @@
+/// Source : https://leetcode.com/problems/cycle-length-queries-in-a-tree/
+/// Author : liuyubobobo
+/// Time   : 2022-12-18
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -5,6 +9,9 @@
 using namespace std;
 
 
+/// Math
+/// Time Complexity: O(qlogn)
+/// Space Complexity: O(logn)
 class Solution {
 public:
     vector<int> cycleLengthQueries(int n, vector<vector<int>>& queries) {

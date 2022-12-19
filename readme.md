@@ -2359,6 +2359,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2482 | [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | [无] | [C++](2001-2500/2482-Difference-Between-Ones-and-Zeros-in-Row-and-Column/cpp-2482/) | | |
 | 2483 | [Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/) | [无] | [C++](2001-2500/2483-Minimum-Penalty-for-a-Shop/cpp-2483/) | | |
 | 2484 | [Count Palindromic Subsequences](https://leetcode.com/problems/count-palindromic-subsequences/) | [无] | [C++](2001-2500/2484-Count-Palindromic-Subsequences/cpp-2484/) | | |
+| 2485 | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/) | [无] | [C++](2001-2500/2485-Find-the-Pivot-Integer/cpp-2485/) | | |
+| 2486 | [Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/) | [无] | [C++](2001-2500/2486-Append-Characters-to-String-to-Make-Subsequence/cpp-2486/) | | |
+| 2487 | [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) | [无] | [C++](2001-2500/2487-Remove-Nodes-From-Linked-List/cpp-2487/) | | |
+| 2488 | [Count Subarrays With Median K](https://leetcode.com/problems/count-subarrays-with-median-k/) | [无] | [C++](2001-2500/2488-Count-Subarrays-With-Median-K/cpp-2488/) | | |
 | | | | | | |
 | 2500 | [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/) | [无] | [C++](2001-2500/2500-Delete-Greatest-Value-in-Each-Row/cpp-2500/) | | |
 | 2501 | [Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/) | [无] | [C++](2001-2500/2501-Longest-Square-Streak-in-an-Array/cpp-2501/) | | |
