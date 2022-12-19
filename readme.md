@@ -2363,6 +2363,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2486 | [Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/) | [无] | [C++](2001-2500/2486-Append-Characters-to-String-to-Make-Subsequence/cpp-2486/) | | |
 | 2487 | [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) | [无] | [C++](2001-2500/2487-Remove-Nodes-From-Linked-List/cpp-2487/) | | |
 | 2488 | [Count Subarrays With Median K](https://leetcode.com/problems/count-subarrays-with-median-k/) | [无] | [C++](2001-2500/2488-Count-Subarrays-With-Median-K/cpp-2488/) | | |
+| 2489 | [Number of Substrings With Fixed Ratio](https://leetcode.com/problems/number-of-substrings-with-fixed-ratio/description/) | [无] | [C++](2001-2500/2489-Number-of-Substrings-With-Fixed-Ratio/cpp-2489/) | | |
 | | | | | | |
 | 2500 | [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/) | [无] | [C++](2001-2500/2500-Delete-Greatest-Value-in-Each-Row/cpp-2500/) | | |
 | 2501 | [Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/) | [无] | [C++](2001-2500/2501-Longest-Square-Streak-in-an-Array/cpp-2501/) | | |
