@@ -2375,6 +2375,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2507 | [Smallest Value After Replacing With Sum of Prime Factors](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/) | [无] | [C++](2001-2500/2507-Smallest-Value-After-Replacing-With-Sum-of-Prime-Factors/cpp-2507/) | | |
 | 2508 | [Add Edges to Make Degrees of All Nodes Even](https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/) | [无] | [C++](2001-2500/2508-Add-Edges-to-Make-Degrees-of-All-Nodes-Even/cpp-2508/) | | |
 | 2509 | [Cycle Length Queries in a Tree](https://leetcode.com/problems/cycle-length-queries-in-a-tree/) | [无] | [C++](2001-2500/2509-Cycle-Length-Queries-in-a-Tree/cpp-2509/) | | |
+| 2510 | [Check if There is a Path With Equal Number of 0's And 1's](https://leetcode.com/problems/check-if-there-is-a-path-with-equal-number-of-0s-and-1s/description/) | [无] | [C++](2001-2500/2510-Check-if-There-is-a-Path-With-Equal-Number-of-0s-And-1s/cpp-2510/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
