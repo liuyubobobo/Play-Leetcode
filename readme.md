@@ -2364,6 +2364,11 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2487 | [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) | [无] | [C++](2001-2500/2487-Remove-Nodes-From-Linked-List/cpp-2487/) | | |
 | 2488 | [Count Subarrays With Median K](https://leetcode.com/problems/count-subarrays-with-median-k/) | [无] | [C++](2001-2500/2488-Count-Subarrays-With-Median-K/cpp-2488/) | | |
 | 2489 | [Number of Substrings With Fixed Ratio](https://leetcode.com/problems/number-of-substrings-with-fixed-ratio/description/) | [无] | [C++](2001-2500/2489-Number-of-Substrings-With-Fixed-Ratio/cpp-2489/) | | |
+| 2490 | [Circular Sentence](https://leetcode.com/problems/circular-sentence/) | [无] | [C++](2001-2500/2490-Circular-Sentence/cpp-2490/) | | |
+| 2491 | [Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | [无] | [C++](2001-2500/2491-Divide-Players-Into-Teams-of-Equal-Skill/cpp-2491/) | | |
+| 2492 | [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | [无] | [C++](2001-2500/2492-Minimum-Score-of-a-Path-Between-Two-Cities/cpp-2492/) | | |
+| 2493 | [Divide Nodes Into the Maximum Number of Groups](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/) | [无] | [C++](2001-2500/2493-Divide-Nodes-Into-the-Maximum-Number-of-Groups/cpp-2493/) | | |
+| 2494 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
 | 2500 | [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/) | [无] | [C++](2001-2500/2500-Delete-Greatest-Value-in-Each-Row/cpp-2500/) | | |
 | 2501 | [Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/) | [无] | [C++](2001-2500/2501-Longest-Square-Streak-in-an-Array/cpp-2501/) | | |
