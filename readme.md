@@ -2369,6 +2369,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2492 | [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | [无] | [C++](2001-2500/2492-Minimum-Score-of-a-Path-Between-Two-Cities/cpp-2492/) | | |
 | 2493 | [Divide Nodes Into the Maximum Number of Groups](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/) | [无] | [C++](2001-2500/2493-Divide-Nodes-Into-the-Maximum-Number-of-Groups/cpp-2493/) | | |
 | 2494 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 2495 | [Number of Subarrays Having Even Product](https://leetcode.com/problems/number-of-subarrays-having-even-product/description/) | [无] | [C++](2001-2500/2495-Number-of-Subarrays-Having-Even-Product/cpp-2495) | | |
 | | | | | | |
 | 2500 | [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/) | [无] | [C++](2001-2500/2500-Delete-Greatest-Value-in-Each-Row/cpp-2500/) | | |
 | 2501 | [Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/) | [无] | [C++](2001-2500/2501-Longest-Square-Streak-in-an-Array/cpp-2501/) | | |
