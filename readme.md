@@ -2387,6 +2387,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2516 | [Take K of Each Character From Left and Right](2001-2500/2516-Take-K-of-Each-Character-From-Left-and-Right/cpp-2516/) | [无] | [C++](2001-2500/2516-Take-K-of-Each-Character-From-Left-and-Right/cpp-2516/) | | |
 | 2517 | [Maximum Tastiness of Candy Basket](2001-2500/2517-Maximum-Tastiness-of-Candy-Basket/cpp-2517/) | [无] | [C++](2001-2500/2517-Maximum-Tastiness-of-Candy-Basket/cpp-2517/) | | |
 | 2518 | [Number of Great Partitions](https://leetcode.com/problems/number-of-great-partitions/) | [无] | [C++](2001-2500/2518-Number-of-Great-Partitions/cpp-2518/) | | |
+| 2519 | [Count the Number of K-Big Indices](https://leetcode.com/problems/count-the-number-of-k-big-indices/description/) | [无] | [C++](2001-2500/2519-Count-the-Number-of-K-Big-Indices/cpp-2519/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
