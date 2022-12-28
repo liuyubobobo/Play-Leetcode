@@ -2382,7 +2382,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2508 | [Add Edges to Make Degrees of All Nodes Even](https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/) | [无] | [C++](2001-2500/2508-Add-Edges-to-Make-Degrees-of-All-Nodes-Even/cpp-2508/) | | |
 | 2509 | [Cycle Length Queries in a Tree](https://leetcode.com/problems/cycle-length-queries-in-a-tree/) | [无] | [C++](2001-2500/2509-Cycle-Length-Queries-in-a-Tree/cpp-2509/) | | |
 | 2510 | [Check if There is a Path With Equal Number of 0's And 1's](https://leetcode.com/problems/check-if-there-is-a-path-with-equal-number-of-0s-and-1s/description/) | [无] | [C++](2001-2500/2510-Check-if-There-is-a-Path-With-Equal-Number-of-0s-And-1s/cpp-2510/) | | |
-| | | | | | |
+| 2511 | [Maximum Enemy Forts That Can Be Captured](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/) | [无] | [C++](2001-2500/2511-Maximum-Enemy-Forts-That-Can-Be-Captured/cpp-2511/) | | |
+| 2512 | [Reward Top K Students](https://leetcode.com/problems/reward-top-k-students/) | [无] | [C++](2001-2500/2512-Reward-Top-K-Students/cpp-2512/) | | |
+| 2513 | [Minimize the Maximum of Two Arrays](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/) | [无] | [C++](2001-2500/2513-Minimize-the-Maximum-of-Two-Arrays/cpp-2513/) | | |
+| 2514 | [Count Anagrams](https://leetcode.com/problems/count-anagrams/) | [无] | [C++](2001-2500/2514-Count-Anagrams/cpp-2514/) | | |
 | 2515 | [Shortest Distance to Target String in a Circular Array](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/) | [无] | [C++](2001-2500/2515-Shortest-Distance-to-Target-String-in-a-Circular-Array/cpp-2515/) | | |
 | 2516 | [Take K of Each Character From Left and Right](2001-2500/2516-Take-K-of-Each-Character-From-Left-and-Right/cpp-2516/) | [无] | [C++](2001-2500/2516-Take-K-of-Each-Character-From-Left-and-Right/cpp-2516/) | | |
 | 2517 | [Maximum Tastiness of Candy Basket](2001-2500/2517-Maximum-Tastiness-of-Candy-Basket/cpp-2517/) | [无] | [C++](2001-2500/2517-Maximum-Tastiness-of-Candy-Basket/cpp-2517/) | | |
