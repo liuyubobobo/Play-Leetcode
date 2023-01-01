@@ -2391,6 +2391,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2517 | [Maximum Tastiness of Candy Basket](2001-2500/2517-Maximum-Tastiness-of-Candy-Basket/cpp-2517/) | [无] | [C++](2001-2500/2517-Maximum-Tastiness-of-Candy-Basket/cpp-2517/) | | |
 | 2518 | [Number of Great Partitions](https://leetcode.com/problems/number-of-great-partitions/) | [无] | [C++](2001-2500/2518-Number-of-Great-Partitions/cpp-2518/) | | |
 | 2519 | [Count the Number of K-Big Indices](https://leetcode.com/problems/count-the-number-of-k-big-indices/description/) | [无] | [C++](2001-2500/2519-Count-the-Number-of-K-Big-Indices/cpp-2519/) | | |
+| 2520 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [无] | [C++](2001-2500/2520-Count-the-Digits-That-Divide-a-Number/cpp-2520/) | | |
+| 2521 | [Distinct Prime Factors of Product of Array](https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/) | [无] | [C++](2001-2500/2521-Distinct-Prime-Factors-of-Product-of-Array/cpp-2521/) | | |
+| 2522 | [Partition String Into Substrings With Values at Most K](https://leetcode.com/problems/partition-string-into-substrings-with-values-at-most-k/) | [无] | [C++](2001-2500/2522-Partition-String-Into-Substrings-With-Values-at-Most-K/cpp-2522/) | | |
+| 2523 | [Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/) | [无] | [C++](2001-2500/2523-Closest-Prime-Numbers-in-Range/cpp-2523/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
