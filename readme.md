@@ -2370,6 +2370,9 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2493 | [Divide Nodes Into the Maximum Number of Groups](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/) | [无] | [C++](2001-2500/2493-Divide-Nodes-Into-the-Maximum-Number-of-Groups/cpp-2493/) | | |
 | 2494 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 2495 | [Number of Subarrays Having Even Product](https://leetcode.com/problems/number-of-subarrays-having-even-product/description/) | [无] | [C++](2001-2500/2495-Number-of-Subarrays-Having-Even-Product/cpp-2495) | | |
+| 2496 | [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/) | [无] | [C++](2001-2500/2496-Maximum-Value-of-a-String-in-an-Array/cpp-2496) | | |
+| 2497 | [Maximum Star Sum of a Graph](https://leetcode.com/problems/maximum-star-sum-of-a-graph/) | [无] | [C++](2001-2500/2497-Maximum-Star-Sum-of-a-Graph/cpp-2497) | | |
+| 2498 | [Frog Jump II](https://leetcode.com/problems/frog-jump-ii/) | [无] | [C++](2001-2500/2498-Frog-Jump-II/cpp-2498/) | | |
 | | | | | | |
 | 2500 | [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/) | [无] | [C++](2001-2500/2500-Delete-Greatest-Value-in-Each-Row/cpp-2500/) | | |
 | 2501 | [Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/) | [无] | [C++](2001-2500/2501-Longest-Square-Streak-in-an-Array/cpp-2501/) | | |
