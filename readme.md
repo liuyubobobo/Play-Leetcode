@@ -2400,6 +2400,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2521 | [Distinct Prime Factors of Product of Array](https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/) | [无] | [C++](2001-2500/2521-Distinct-Prime-Factors-of-Product-of-Array/cpp-2521/) | | |
 | 2522 | [Partition String Into Substrings With Values at Most K](https://leetcode.com/problems/partition-string-into-substrings-with-values-at-most-k/) | [无] | [C++](2001-2500/2522-Partition-String-Into-Substrings-With-Values-at-Most-K/cpp-2522/) | | |
 | 2523 | [Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/) | [无] | [C++](2001-2500/2523-Closest-Prime-Numbers-in-Range/cpp-2523/) | | |
+| 2524 | [Maximum Frequency Score of a Subarray](https://leetcode.com/problems/maximum-frequency-score-of-a-subarray/description/) | [无] | [C++](2001-2500/2524-Maximum-Frequency-Score-of-a-Subarray/cpp-2524/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
