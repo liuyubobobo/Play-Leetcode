@@ -2401,6 +2401,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2522 | [Partition String Into Substrings With Values at Most K](https://leetcode.com/problems/partition-string-into-substrings-with-values-at-most-k/) | [无] | [C++](2001-2500/2522-Partition-String-Into-Substrings-With-Values-at-Most-K/cpp-2522/) | | |
 | 2523 | [Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/) | [无] | [C++](2001-2500/2523-Closest-Prime-Numbers-in-Range/cpp-2523/) | | |
 | 2524 | [Maximum Frequency Score of a Subarray](https://leetcode.com/problems/maximum-frequency-score-of-a-subarray/description/) | [无] | [C++](2001-2500/2524-Maximum-Frequency-Score-of-a-Subarray/cpp-2524/) | | |
+| 2525 | [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/) | [无] | [C++](2001-2500/2525-Categorize-Box-According-to-Criteria/cpp-2525/) | | |
+| 2526 | [Find Consecutive Integers from a Data Stream](https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/) | [无] | [C++](2001-2500/2526-Find-Consecutive-Integers-from-a-Data-Stream/cpp-2526/) | | |
+| 2527 | [Find Xor-Beauty of Array](https://leetcode.com/problems/find-xor-beauty-of-array/) | [无] | [C++](2001-2500/2527-Find-Xor-Beauty-of-Array/cpp-2527/) | | |
+| 2528 | [Maximize the Minimum Powered City](https://leetcode.com/problems/maximize-the-minimum-powered-city/) | [无] | [C++](2001-2500/2528-Maximize-the-Minimum-Powered-City/cpp-2528/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
