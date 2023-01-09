@@ -2335,7 +2335,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2456 | [Most Popular Video Creator](https://leetcode.com/problems/most-popular-video-creator/) | [无] | [C++](2001-2500/2456-Most-Popular-Video-Creator/cpp-2456/) | | |
 | 2457 | [Minimum Addition to Make Integer Beautiful](https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/) | [无] | [C++](2001-2500/2457-Minimum-Addition-to-Make-Integer-Beautiful/cpp-2457/) | | |
 | 2458 | [Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/) | [无] | [C++](2001-2500/2458-Height-of-Binary-Tree-After-Subtree-Removal-Queries/cpp-2458/) | | |
-| | | | | | |
+| 2459 | [Sort Array by Moving Items to Empty Space](https://leetcode.com/problems/sort-array-by-moving-items-to-empty-space/description/) | [无] | [C++](2001-2500/2459-Sort-Array-by-Moving-Items-to-Empty-Space/cpp-2459/) | | |
 | 2460 | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) | [无] | [C++](2001-2500/2460-Apply-Operations-to-an-Array/cpp-2460/) | | |
 | 2461 | [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | [无] | [C++](2001-2500/2461-Maximum-Sum-of-Distinct-Subarrays-With-Length-K/cpp-2461/) | | |
 | 2462 | [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/) | [无] | [C++](2001-2500/2462-Total-Cost-to-Hire-K-Workers/cpp-2462/) | | |
