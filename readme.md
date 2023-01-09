@@ -2288,7 +2288,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | [无] | [C++](2001-2500/2409-Count-Days-Spent-Together/cpp2409/) | | |
 | 2410 | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | [无] | [C++](2001-2500/2410-Maximum-Matching-of-Players-With-Trainers/cpp2410/) | | |
 | 2411 | [Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/) | [无][缺：O(n) 算法] | [C++](2001-2500/2411-Smallest-Subarrays-With-Maximum-Bitwise-OR/cpp2411/) | | |
-| | | | | | |
+| 2412 | [Minimum Money Required Before Transactions](https://leetcode.com/problems/minimum-money-required-before-transactions/description/) | [无] | [C++](2001-2500/2412-Minimum-Money-Required-Before-Transactions/cpp-2412/) | | |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | [无] | [C++](2001-2500/2413-Smallest-Even-Multiple/cpp-2413/) | | |
 | 2414 | [Length of the Longest Alphabetical Continuous Substring](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/) | [无] | [C++](2001-2500/2414-Length-of-the-Longest-Alphabetical-Continuous-Substring/cpp-2414/) | | |
 | 2415 | [Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/) | [无] | [C++](2001-2500/2415-Reverse-Odd-Levels-of-Binary-Tree/cpp-2415/) | | |
