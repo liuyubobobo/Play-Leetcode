@@ -2408,7 +2408,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) | [无] | [C++](2001-2500/2529-Maximum-Count-of-Positive-Integer-and-Negative-Integer/cpp-2529/) | | |
 | 2530 | [Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/) | [无] | [C++](2001-2500/2530-Maximal-Score-After-Applying-K-Operations/cpp-2530/) | | |
 | 2531 | [Make Number of Distinct Characters Equal](https://leetcode.com/problems/make-number-of-distinct-characters-equal/) | [无] | [C++](2001-2500/2531-Make-Number-of-Distinct-Characters-Equal/cpp-2531/) | | |
-| | | | | | |
+| 2532 | [Time to Cross a Bridge](https://leetcode.com/problems/time-to-cross-a-bridge/description/) | [无] | [C++](2001-2500/2532-Time-to-Cross-a-Bridge/cpp-2532/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
