@@ -1057,6 +1057,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1059 | [All Paths from Source Lead to Destination](https://leetcode.com/problems/all-paths-from-source-lead-to-destination/) | [solution](https://leetcode.com/problems/all-paths-from-source-lead-to-destination/solution/) | [C++](1001-1500/1059-All-Paths-from-Source-Lead-to-Destination/cpp-1059/) | | |
 | | | | | | |
+| 1061 | [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/description/) | [无] | [C++](1001-1500/1061-Lexicographically-Smallest-Equivalent-String/cpp-1061/) | | |
 | 1062 | [Longest Repeating Substring](https://leetcode.com/problems/longest-repeating-substring/) | [无] | [C++](1001-1500/1062-Longest-Repeating-Substring/cpp-1062/) | | |
 | | | | | | |
 | 1066 | [Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/) | [solution](https://leetcode.com/problems/campus-bikes-ii/solutions/1451959/campus-bikes-ii/) | [C++](1001-1500/1066-Campus-Bikes-II/cpp-1066/) | | |
