@@ -2415,6 +2415,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2531 | [Make Number of Distinct Characters Equal](https://leetcode.com/problems/make-number-of-distinct-characters-equal/) | [无] | [C++](2001-2500/2531-Make-Number-of-Distinct-Characters-Equal/cpp-2531/) | | |
 | 2532 | [Time to Cross a Bridge](https://leetcode.com/problems/time-to-cross-a-bridge/description/) | [无] | [C++](2001-2500/2532-Time-to-Cross-a-Bridge/cpp-2532/) | | |
 | 2533 | [Number of Good Binary Strings](https://leetcode.com/problems/number-of-good-binary-strings/) | [无] | [C++](2001-2500/2533-Number-of-Good-Binary-Strings/cpp-2533/) | | |
+| 2534 | [Time Taken to Cross the Door](https://leetcode.com/problems/time-taken-to-cross-the-door/description/) | [无] | [C++](2001-2500/2534-Time-Taken-to-Cross-the-Door/cpp-2534/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
