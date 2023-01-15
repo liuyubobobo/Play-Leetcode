@@ -1446,6 +1446,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1531 | [String Compression II](https://leetcode.com/problems/string-compression-ii/) | [无][缺：其他解法] | [C++](1501-2000/1531-String-Compression-II/cpp-1531/) | | |
 | | | | | | |
+| 1533 | [Find the Index of the Large Integer](https://leetcode.com/problems/find-the-index-of-the-large-integer/) | [solution](https://leetcode.com/problems/find-the-index-of-the-large-integer/solutions/2885830/find-the-index-of-the-large-integer/?orderBy=most_votes) | [C++](1501-2000/1533-Find-the-Index-of-the-Large-Integer/cpp-1533/) | | |
+| | | | | | |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [solution](https://leetcode.com/problems/kth-missing-positive-number/solution/) | [C++](1501-2000/1539-Kth-Missing-Positive-Number/cpp-1539/) | | |
 | | | | | | |
 | 1559 | [Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | [无] | [C++](1501-2000/1559-Detect-Cycles-in-2D-Grid/cpp-1559/) | | |
