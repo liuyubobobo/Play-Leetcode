@@ -522,7 +522,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 488 | [Zuma Game](https://leetcode.com/problems/zuma-game/) | [无] | [C++](0001-0500/0488-Zuma-Game/cpp-0488/) | | |
 | 489 | [Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/) | [solution](https://leetcode.com/problems/robot-room-cleaner/solution/) | [C++](0001-0500/0489-Robot-Room-Cleaner/cpp-0489/) | | |
 | 490 | [The Maze](https://leetcode.com/problems/the-maze/description/) | [solution](https://leetcode.com/problems/the-maze/solution/) | [C++](0001-0500/0490-The-Maze/cpp-0490/) | | |
-| | | | | | |
+| 491 | [Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/description/) | [无] | [C++](0001-0500/0491-Non-decreasing-Subsequences/cpp-0491/) | | |
 | 492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/) | [无] | [C++](0001-0500/0492-Construct-the-Rectangle/cpp-0492/) | | |
 | | | | | | |
 | 494 | [Target Sum](https://leetcode.com/problems/target-sum/description/) | [solution](https://leetcode.com/problems/target-sum/solution/) | [C++](0001-0500/0494-Target-Sum/cpp-0494/) | | |
