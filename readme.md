@@ -2416,6 +2416,9 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2532 | [Time to Cross a Bridge](https://leetcode.com/problems/time-to-cross-a-bridge/description/) | [无] | [C++](2001-2500/2532-Time-to-Cross-a-Bridge/cpp-2532/) | | |
 | 2533 | [Number of Good Binary Strings](https://leetcode.com/problems/number-of-good-binary-strings/) | [无] | [C++](2001-2500/2533-Number-of-Good-Binary-Strings/cpp-2533/) | | |
 | 2534 | [Time Taken to Cross the Door](https://leetcode.com/problems/time-taken-to-cross-the-door/description/) | [无] | [C++](2001-2500/2534-Time-Taken-to-Cross-the-Door/cpp-2534/) | | |
+| 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | [无] | [C++](2001-2500/2535-Difference-Between-Element-Sum-and-Digit-Sum-of-an-Array/cpp-2535/) | | |
+| 2536 | [Increment Submatrices by One](https://leetcode.com/problems/increment-submatrices-by-one/) | [无] | [C++](2001-2500/2536-Increment-Submatrices-by-One/cpp-2536/) | | |
+| 2537 | [Count the Number of Good Subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays/) | [无] | [C++](2001-2500/2537-Count-the-Number-of-Good-Subarrays/cpp-2537/) | | |
 | | | | | | |
 | 2539 | [Count the Number of Good Subsequences](https://leetcode.com/problems/count-the-number-of-good-subsequences/) | [无] | [C++](2001-2500/2539-Count-the-Number-of-Good-Subsequences/cpp-2539/) | | |
 | 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | [无] | [C++](2001-2500/2540-Minimum-Common-Value/cpp-2540/) | | |
