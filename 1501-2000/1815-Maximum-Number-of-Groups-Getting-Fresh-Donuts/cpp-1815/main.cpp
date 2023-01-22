@@ -1,6 +1,7 @@
 /// Source : https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/
 /// Author : liuyubobobo
 /// Time   : 2020-06-11
+/// Updaetd: 2023-01-21
 
 #include <iostream>
 #include <vector>
@@ -10,7 +11,7 @@
 using namespace std;
 
 
-/// Memory Search - vector as key
+/// Memory Search
 /// Time Complexity: O(2^n)
 /// Space Complexity: O(2^n)
 class Solution {
@@ -23,15 +24,18 @@ public:
         int res = f[0];
         f[0] = 0;
 
-        map<vector<int>, int> dp;
+        map<long long, int> dp;
         res += dfs(f, batchSize, dp);
         return res;
     }
 
 private:
-    int dfs(vector<int>& f, int k, map<vector<int>, int>& dp){
+    int dfs(vector<int>& f, int k, map<long long, int>& dp){
 
-        auto iter = dp.find(f);
+        long long h = 0;
+        for(int e: f) h = h * 10ll + e;
+
+        auto iter = dp.find(h);
         if(iter != dp.end()) return iter->second;
 
         int pre = f[0];
@@ -44,7 +48,7 @@ private:
                 f[0] = pre;
                 f[i] ++;
             }
-        return dp[f] = res;
+        return dp[h] = res;
     }
 };
 
