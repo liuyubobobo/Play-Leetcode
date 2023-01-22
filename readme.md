@@ -2418,6 +2418,9 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2534 | [Time Taken to Cross the Door](https://leetcode.com/problems/time-taken-to-cross-the-door/description/) | [无] | [C++](2001-2500/2534-Time-Taken-to-Cross-the-Door/cpp-2534/) | | |
 | | | | | | |
 | 2539 | [Count the Number of Good Subsequences](https://leetcode.com/problems/count-the-number-of-good-subsequences/) | [无] | [C++](2001-2500/2539-Count-the-Number-of-Good-Subsequences/cpp-2539/) | | |
+| 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | [无] | [C++](2001-2500/2540-Minimum-Common-Value/cpp-2540/) | | |
+| 2541 | [Minimum Operations to Make Array Equal II](https://leetcode.com/problems/minimum-operations-to-make-array-equal-ii/) | [无] | [C++](2001-2500/2541-Minimum-Operations-to-Make-Array-Equal-II/cpp-2541/) | | |
+| 2542 | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) | [无] | [C++](2001-2500/2542-Maximum-Subsequence-Score/cpp-2542/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
