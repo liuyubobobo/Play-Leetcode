@@ -1074,7 +1074,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1084 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
 | 1087 | [Brace Expansion](https://leetcode.com/problems/brace-expansion/) | [无] | [C++](1001-1500/1087-Brace-Expansion/cpp-1087/) | | |
-| | | | | | |
+| 1088 | [Confusing Number II](https://leetcode.com/problems/confusing-number-ii/description/) | [无] | [C++](1001-1500/1088-Confusing-Number-II/cpp-1088/) | | |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [无] | [C++](1001-1500/1089-Duplicate-Zeros/cpp-1089/) | | |
 | 1090 | [Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/) | [无] | [C++](1001-1500/1090-Largest-Values-From-Labels/cpp-1090/) | | |
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [无] | [C++](1001-1500/1091-Shortest-Path-in-Binary-Matrix/cpp-1091/) | | |
