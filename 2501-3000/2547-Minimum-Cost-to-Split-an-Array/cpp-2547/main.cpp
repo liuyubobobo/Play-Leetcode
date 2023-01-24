@@ -18,11 +18,12 @@ public:
     int minCost(vector<int>& nums, int k) {
 
         int n = nums.size();
+        vector<int> f(n, 0);
 
         vector<int> dp(n + 1, INT_MAX / 2);
         dp[n] = 0;
         for(int i = n - 1; i >= 0; i --){
-            map<int, int> f;
+            f.assign(n, 0);
             int trim_value = 0;
             for(int j = i; j >= 0; j --){
                 f[nums[j]] ++;
