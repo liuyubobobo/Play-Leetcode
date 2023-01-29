@@ -2431,6 +2431,9 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2546 | [Apply Bitwise Operations to Make Strings Equal](https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/) | [无] | [C++](2001-2500/2546-Apply-Bitwise-Operations-to-Make-Strings-Equal/cpp-2546/) | | |
 | 2547 | [Minimum Cost to Split an Array](https://leetcode.com/problems/minimum-cost-to-split-an-array/) | [无] | [C++](2001-2500/2547-Minimum-Cost-to-Split-an-Array/cpp-2547/) | | |
 | 2548 | [Maximum Price to Fill a Bag](https://leetcode.com/problems/maximum-price-to-fill-a-bag/) | [无] | [C++](2001-2500/2548-Maximum-Price-to-Fill-a-Bag/cpp-2548/) | | |
+| 2549 | [Count Distinct Numbers on Board](https://leetcode.com/problems/count-distinct-numbers-on-board/) | [无] | [C++](2001-2500/2549-Count-Distinct-Numbers-on-Board/cpp-2549/) | | |
+| 2550 | [Count Collisions of Monkeys on a Polygon](https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon/) | [无] | [C++](2001-2500/2550-Count-Collisions-of-Monkeys-on-a-Polygon/cpp-2550/) | | |
+| 2551 | [Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/) | [无] | [C++](2001-2500/2551-Put-Marbles-in-Bags/cpp-2551/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
