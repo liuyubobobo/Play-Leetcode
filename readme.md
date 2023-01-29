@@ -493,6 +493,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 457 | [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/) | [无] | [C++](0001-0500/0457-Circular-Array-Loop/cpp-0457/) | | |
 | 458 | [Poor Pigs](https://leetcode.com/problems/poor-pigs/) | [solution](https://leetcode.com/problems/poor-pigs/solution/) | [C++](0001-0500/0458-Poor-Pigs/) | | |
 | | | | | | |
+| 460 | [LFU Cache](https://leetcode.com/problems/lfu-cache/description/) | [solution](https://leetcode.com/problems/lfu-cache/solutions/2815229/lfu-cache/?orderBy=most_votes) | [C++](0001-0500/0460-LFU-Cache/) | | |
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [solution](https://leetcode.com/problems/hamming-distance/solution/) | [C++](0001-0500/0461-Hamming-Distance/cpp-0461/) | | |
 | 462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [solution](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/solution/) | [C++](0001-0500/0462-Minimum-Moves-to-Equal-Array-Elements-II/cpp-0462/) | | |
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [solution](https://leetcode.com/problems/island-perimeter/solution/) | [C++](0001-0500/0463-Island-Perimeter/cpp-0463/) | | |
