@@ -2435,6 +2435,11 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2550 | [Count Collisions of Monkeys on a Polygon](https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon/) | [无] | [C++](2001-2500/2550-Count-Collisions-of-Monkeys-on-a-Polygon/cpp-2550/) | | |
 | 2551 | [Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/) | [无] | [C++](2001-2500/2551-Put-Marbles-in-Bags/cpp-2551/) | | |
 | | | | | | |
+| 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/) | [无] | [C++](2001-2500/2553-Separate-the-Digits-in-an-Array/cpp-2553/) | | |
+| 2554 | [Maximum Number of Integers to Choose From a Range I](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/) | [无] | [C++](2001-2500/2554-Maximum-Number-of-Integers-to-Choose-From-a-Range-I/cpp-2554/) | | |
+| 2555 | [Maximize Win From Two Segments](https://leetcode.com/problems/maximize-win-from-two-segments/) | [无] | [C++](2001-2500/2555-Maximize-Win-From-Two-Segments/cpp-2555/) | | |
+| 2556 | [Disconnect Path in a Binary Matrix by at Most One Flip](https://leetcode.com/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip/) | [无] | [C++](2001-2500/2556-Disconnect-Path-in-a-Binary-Matrix-by-at-Most-One-Flip/cpp-2556/) | | |
+| | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
 
