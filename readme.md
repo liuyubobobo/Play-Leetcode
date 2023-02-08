@@ -317,6 +317,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 277 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | [solution](https://leetcode.com/problems/find-the-celebrity/solution/) <br/> [缺：O(n) 解法] | [C++](0001-0500/0277-Find-the-Celebrity/cpp-0277/) | | |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [solution](https://leetcode.com/problems/first-bad-version/solution/) | [C++](0001-0500/0278-First-Bad-Version/cpp-0278/) | | |
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) | [无]<br/>四平方和数学解 | [C++](0001-0500/0279-Perfect-Squares/cpp-0279/) | [Java](0001-0500/0279-Perfect-Squares/java-0279/src/) | |
+| 280 | [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/description/) | [solution](https://leetcode.com/problems/wiggle-sort/solutions/2961467/wiggle-sort/?orderBy=most_votes) | [C++](0001-0500/0280-Wiggle-Sort/cpp-0280/) | | |
 | | | | | | |
 | 282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/description/) | [solution](https://leetcode.com/problems/expression-add-operators/solution/) | [C++](0001-0500/0282-Expression-Add-Operators/cpp-0282/) | | |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [solution](https://leetcode.com/problems/move-zeroes/solution/) | [C++](0001-0500/0283-Move-Zeroes/cpp-0283/) | [Java](0001-0500/0283-Move-Zeroes/java-0283/src/) | |
