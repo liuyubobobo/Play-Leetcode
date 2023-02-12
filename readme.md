@@ -2445,6 +2445,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2559 | [Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/) | [无] | [C++](2001-2500/2559-Count-Vowel-Strings-in-Ranges/cpp-2559/) | | |
 | 2560 | [House Robber IV](https://leetcode.com/problems/house-robber-iv/) | [无] | [C++](2001-2500/2560-House-Robber-IV/cpp-2560/) | | |
 | 2561 | [Rearranging Fruits](https://leetcode.com/problems/rearranging-fruits/) | [无] | [C++](2001-2500/2561-Rearranging-Fruits/cpp-2561/) | | |
+| 2562 | [Find the Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value/) | [无] | [C++](2001-2500/2562-Find-the-Array-Concatenation-Value/cpp-2562/) | | |
+| 2563 | [Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/) | [无] | [C++](2001-2500/2563-Count-the-Number-of-Fair-Pairs/cpp-2563/) | | |
+| 2564 | [Substring XOR Queries](https://leetcode.com/problems/substring-xor-queries/) | [无] | [C++](2001-2500/2564-Substring-XOR-Queries/cpp-2564/) | | |
+| 2565 | [Subsequence With the Minimum Score](https://leetcode.com/problems/subsequence-with-the-minimum-score/) | [无] | [C++](2001-2500/2565-Subsequence-With-the-Minimum-Score/cpp-2565/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
