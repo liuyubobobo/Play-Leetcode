@@ -1443,6 +1443,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1519 | [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/description/) | [solution](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/solutions/2864718/number-of-nodes-in-the-sub-tree-with-the-same-label/?orderBy=most_votes) | [C++](1501-2000/1519-Number-of-Nodes-in-the-Sub-Tree-With-the-Same-Label/cpp-1519/) | | |
 | | | | | | |
 | 1522 | [Diameter of N-Ary Tree](https://leetcode.com/problems/diameter-of-n-ary-tree/) | [无] | [C++](1501-2000/1522-Diameter-of-N-Ary-Tree/cpp-1522/) | | |
+| 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/) | [无] | [C++](1501-2000/1523-Count-Odd-Numbers-in-an-Interval-Range/cpp-1523/) | | |
 | | | | | | |
 | 1527 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
