@@ -1270,6 +1270,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/description/) | [无] | [C++](1001-1500/1323-Maximum-69-Number/cpp-1323/) | | |
 | | | | | | |
+| 1326 | [Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/description/) | [无] | [C++](1001-1500/1326-Minimum-Number-of-Taps-to-Open-to-Water-a-Garden/cpp-1326/) | | |
+| | | | | | |
 | 1328 | [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) | [solution](https://leetcode.com/problems/break-a-palindrome/solution/) | [C++](1001-1500/1328-Break-a-Palindrome/cpp-1328/) | | |
 | 1329 | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [solution](https://leetcode.com/problems/sort-the-matrix-diagonally/solution/) | [C++](1001-1500/1329-Sort-the-Matrix-Diagonally/cpp-1329/) | | |
 | | | | | | |
