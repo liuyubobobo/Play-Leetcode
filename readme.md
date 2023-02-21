@@ -2452,6 +2452,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2563 | [Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/) | [无] | [C++](2001-2500/2563-Count-the-Number-of-Fair-Pairs/cpp-2563/) | | |
 | 2564 | [Substring XOR Queries](https://leetcode.com/problems/substring-xor-queries/) | [无] | [C++](2001-2500/2564-Substring-XOR-Queries/cpp-2564/) | | |
 | 2565 | [Subsequence With the Minimum Score](https://leetcode.com/problems/subsequence-with-the-minimum-score/) | [无] | [C++](2001-2500/2565-Subsequence-With-the-Minimum-Score/cpp-2565/) | | |
+| 2566 | [Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/) | [无] | [C++](2001-2500/2566-Maximum-Difference-by-Remapping-a-Digit/cpp-2566/) | | |
+| 2567 | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | [无] | [C++](2001-2500/2567-Minimum-Score-by-Changing-Two-Elements/cpp-2567/) | | |
+| 2568 | [Minimum Impossible OR](https://leetcode.com/problems/minimum-impossible-or/) | [无] | [C++](2001-2500/2568-Minimum-Impossible-OR/cpp-2568/) | | |
+| 2569 | [Handling Sum Queries After Update](https://leetcode.com/problems/handling-sum-queries-after-update/) | [无] | [C++](2001-2500/2569-Handling-Sum-Queries-After-Update/cpp-2569/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
