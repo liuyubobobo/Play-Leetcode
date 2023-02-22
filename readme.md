@@ -2457,6 +2457,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2567 | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | [无] | [C++](2001-2500/2567-Minimum-Score-by-Changing-Two-Elements/cpp-2567/) | | |
 | 2568 | [Minimum Impossible OR](https://leetcode.com/problems/minimum-impossible-or/) | [无] | [C++](2001-2500/2568-Minimum-Impossible-OR/cpp-2568/) | | |
 | 2569 | [Handling Sum Queries After Update](https://leetcode.com/problems/handling-sum-queries-after-update/) | [无] | [C++](2001-2500/2569-Handling-Sum-Queries-After-Update/cpp-2569/) | | |
+| 2570 | [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/) | [无] | [C++](2001-2500/2570-Merge-Two-2D-Arrays-by-Summing-Values/cpp-2570/) | | |
+| 2571 | [Minimum Operations to Reduce an Integer to 0](https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/) | [无] | [C++](2001-2500/2571-Minimum-Operations-to-Reduce-an-Integer-to-0/cpp-2571/) | | |
+| 2572 | [Count the Number of Square-Free Subsets](https://leetcode.com/problems/count-the-number-of-square-free-subsets/) | [无] | [C++](2001-2500/2572-Count-the-Number-of-Square-Free-Subsets/cpp-2572/) | | |
+| 2573 | [Find the String with LCP](https://leetcode.com/problems/find-the-string-with-lcp/) | [无] | [C++](2001-2500/2573-Find-the-String-with-LCP/cpp-2573/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
