@@ -1220,6 +1220,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1244 | [Design A Leaderboard](https://leetcode.com/problems/design-a-leaderboard/) | [无] | [C++](1001-1500/1244-Design-A-Leaderboard/cpp-1244/) | | |
 | 1245 | [Tree Diameter](https://leetcode.com/problems/tree-diameter/) | [无] | [C++](1001-1500/1245-Tree-Diameter/cpp-1245/) | | |
 | | | | | | |
+| 1247 | [Minimum Swaps to Make Strings Equal](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/) | [无] | [C++](1001-1500/1247-Minimum-Swaps-to-Make-Strings-Equal/cpp-1247/) | | |
 | 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | [无] | [C++](1001-1500/1248-Count-Number-of-Nice-Subarrays/cpp-1248/) | [Java](1001-1500/1248-Count-Number-of-Nice-Subarrays/java-1248/) | |
 | 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [solution](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/solution/) | [C++](1001-1500/1249-Minimum-Remove-to-Make-Valid-Parentheses/cpp-1249/) | | |
 | 1250 | [Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/description/) | [无] | [C++](1001-1500/1250-Check-If-It-Is-a-Good-Array/cpp-1250/) | | |
