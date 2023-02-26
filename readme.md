@@ -1227,6 +1227,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1251 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1252 | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | [无] | [C++](1001-1500/1252-Cells-with-Odd-Values-in-a-Matrix/cpp-1252/) | | |
 | | | | | | |
+| 1255 | [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/) | [无] | [C++](1001-1500/1255-Maximum-Score-Words-Formed-by-Letters/cpp-1255/) | | |
+| | | | | | |
 | 1259 | [Handshakes That Don't Cross](https://leetcode.com/problems/handshakes-that-dont-cross/description/) | [无] | [C++](1001-1500/1259-Handshakes-That-Dont-Cross/cpp-1259/) | | |
 | 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | [solution](https://leetcode.com/problems/shift-2d-grid/solution/) | [C++](1001-1500/1260-Shift-2D-Grid/cpp-1260/) | | |
 | 1261 | [Find Elements in a Contaminated Binary Tree](https://leetcode.com/contest/weekly-contest-163/problems/find-elements-in-a-contaminated-binary-tree/) | [C++](1001-1500/1261-Find-Elements-in-a-Contaminated-Binary-Tree/cpp-1261/) | | | |
