@@ -1,9 +1,16 @@
+/// Source : https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/
+/// Author : liuyubobobo
+/// Time   : 2023-02-25
+
 #include <iostream>
 #include <vector>
 
 using namespace std;
 
 
+/// State Compression DP
+/// Time Complexity: O(2^n * max_word_len)
+/// Space Complexity: O(1)
 class Solution {
 public:
     int maxScoreWords(vector<string>& words, vector<char>& letters, vector<int>& score) {
