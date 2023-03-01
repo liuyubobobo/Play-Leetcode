@@ -456,7 +456,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 419 | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | [无] | [C++](0001-0500/0419-Battleships-in-a-Board/cpp-0419/) | | |
 | 420 | [Strong Password Checker](https://leetcode.com/problems/strong-password-checker/) | [无] | [C++](0001-0500/0420-Strong-Password-Checker/cpp-0420/) | | |
 | 421 | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [solution](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/solution/) | [C++](0001-0500/0421-Maximum-XOR-of-Two-Numbers-in-an-Array/cpp-0421/) | | |
-| | | | | | |
+| 422 | [Valid Word Square](https://leetcode.com/problems/valid-word-square/description/) | [无] | [C++](0001-0500/0422-Valid-Word-Square/cpp-0422/) | | |
 | 423 | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | [solution](https://leetcode.com/problems/reconstruct-original-digits-from-english/solution/) | [C++](0001-0500/0423-Reconstruct-Original-Digits-from-English/cpp-0423/) | | |
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [无] | [C++](0001-0500/0424-Longest-Repeating-Character-Replacement/cpp-0424/) | | |
 | | | | | | |
