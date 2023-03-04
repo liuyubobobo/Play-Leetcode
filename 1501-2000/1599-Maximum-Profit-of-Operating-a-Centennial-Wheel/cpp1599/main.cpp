@@ -15,7 +15,7 @@ class Solution {
 public:
     int minOperationsMaxProfit(vector<int>& customers, int boardingCost, int runningCost) {
 
-        int k = 0, kres = -1, cp = 0, maxres = -1, curres = 0, waiting = 0;
+        int k = 0, kres = -1, cp = 0, maxres = 0, curres = 0, waiting = 0;
         while(cp < customers.size() || waiting){
             if(cp < customers.size()) waiting += customers[cp];
             cp ++;
