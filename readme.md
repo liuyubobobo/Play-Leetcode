@@ -2465,6 +2465,11 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2572 | [Count the Number of Square-Free Subsets](https://leetcode.com/problems/count-the-number-of-square-free-subsets/) | [无] | [C++](2001-2500/2572-Count-the-Number-of-Square-Free-Subsets/cpp-2572/) | | |
 | 2573 | [Find the String with LCP](https://leetcode.com/problems/find-the-string-with-lcp/) | [无] | [C++](2001-2500/2573-Find-the-String-with-LCP/cpp-2573/) | | |
 | | | | | | |
+| 2578 | [Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/) | [无] | [C++](2001-2500/2578-Split-With-Minimum-Sum/cpp-2578/) | | |
+| 2579 | [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/) | [无] | [C++](2001-2500/2579-Count-Total-Number-of-Colored-Cells/cpp-2579/) | | |
+| 2580 | [Count Ways to Group Overlapping Ranges](https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/) | [无] | [C++](2001-2500/2580-Count-Ways-to-Group-Overlapping-Ranges/cpp-2580/) | | |
+| 2581 | [Count Number of Possible Root Nodes](https://leetcode.com/problems/count-number-of-possible-root-nodes/) | [无] | [C++](2001-2500/2581-Count-Number-of-Possible-Root-Nodes/cpp-2581/) | | |
+| | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
 
