@@ -2470,7 +2470,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2579 | [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/) | [无] | [C++](2001-2500/2579-Count-Total-Number-of-Colored-Cells/cpp-2579/) | | |
 | 2580 | [Count Ways to Group Overlapping Ranges](https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/) | [无] | [C++](2001-2500/2580-Count-Ways-to-Group-Overlapping-Ranges/cpp-2580/) | | |
 | 2581 | [Count Number of Possible Root Nodes](https://leetcode.com/problems/count-number-of-possible-root-nodes/) | [无] | [C++](2001-2500/2581-Count-Number-of-Possible-Root-Nodes/cpp-2581/) | | |
-| | | | | | |
+| 2582 | [Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/) | [无] | [C++](2001-2500/2582-Pass-the-Pillow/cpp-2582/) | | |
+| 2583 | [Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) | [无] | [C++](2001-2500/2583-Kth-Largest-Sum-in-a-Binary-Tree/cpp-2583/) | | |
+| 2584 | [Split the Array to Make Coprime Products](https://leetcode.com/problems/split-the-array-to-make-coprime-products/) | [无] | [C++](2001-2500/2584-Split-the-Array-to-Make-Coprime-Products/cpp-2584/) | | |
+| 2585 | [Number of Ways to Earn Points](https://leetcode.com/problems/number-of-ways-to-earn-points/) | [无] | [C++](2001-2500/2585-Number-of-Ways-to-Earn-Points/cpp-2585/) | | |
 | 2586 | [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/) | [无] | [C++](2001-2500/2586-Count-the-Number-of-Vowel-Strings-in-Range/cpp-2586/) | | |
 | 2587 | [Rearrange Array to Maximize Prefix Score](https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score/) | [无] | [C++](2001-2500/2587-Rearrange-Array-to-Maximize-Prefix-Score/cpp-2587/) | | |
 | 2588 | [Count the Number of Beautiful Subarrays](https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/) | [无] | [C++](2001-2500/2588-Count-the-Number-of-Beautiful-Subarrays/cpp-2588/) | | |
