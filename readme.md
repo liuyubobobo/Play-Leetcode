@@ -2471,6 +2471,11 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2580 | [Count Ways to Group Overlapping Ranges](https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/) | [无] | [C++](2001-2500/2580-Count-Ways-to-Group-Overlapping-Ranges/cpp-2580/) | | |
 | 2581 | [Count Number of Possible Root Nodes](https://leetcode.com/problems/count-number-of-possible-root-nodes/) | [无] | [C++](2001-2500/2581-Count-Number-of-Possible-Root-Nodes/cpp-2581/) | | |
 | | | | | | |
+| 2586 | [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/) | [无] | [C++](2001-2500/2586-Count-the-Number-of-Vowel-Strings-in-Range/cpp-2586/) | | |
+| 2587 | [Rearrange Array to Maximize Prefix Score](https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score/) | [无] | [C++](2001-2500/2587-Rearrange-Array-to-Maximize-Prefix-Score/cpp-2587/) | | |
+| 2588 | [Count the Number of Beautiful Subarrays](https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/) | [无] | [C++](2001-2500/2588-Count-the-Number-of-Beautiful-Subarrays/cpp-2588/) | | |
+| 2589 | [Minimum Time to Complete All Tasks](https://leetcode.com/problems/minimum-time-to-complete-all-tasks/) | [无] | [C++](2001-2500/2589-Minimum-Time-to-Complete-All-Tasks/cpp-2589/) | | |
+| | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
 
