@@ -2480,6 +2480,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2587 | [Rearrange Array to Maximize Prefix Score](https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score/) | [无] | [C++](2001-2500/2587-Rearrange-Array-to-Maximize-Prefix-Score/cpp-2587/) | | |
 | 2588 | [Count the Number of Beautiful Subarrays](https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/) | [无] | [C++](2001-2500/2588-Count-the-Number-of-Beautiful-Subarrays/cpp-2588/) | | |
 | 2589 | [Minimum Time to Complete All Tasks](https://leetcode.com/problems/minimum-time-to-complete-all-tasks/) | [无] | [C++](2001-2500/2589-Minimum-Time-to-Complete-All-Tasks/cpp-2589/) | | |
+| 2590 | [Design a Todo List](https://leetcode.com/problems/design-a-todo-list/description/) | [无] | [C++](2001-2500/2590-Design-a-Todo-List/cpp-2590/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
