@@ -1211,7 +1211,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1233 | [Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) | [无] | [C++](1001-1500/1233-Remove-Sub-Folders-from-the-Filesystem/cpp-1233/) | | |
 | 1234 | [Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) | [无] | [C++](1001-1500/1234-Replace-the-Substring-for-Balanced-String/cpp-1234/) | | |
 | 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [无] | [C++](1001-1500/1235-Maximum-Profit-in-Job-Scheduling/cpp-1235/) | | |
-| | | | | | |
+| 1236 | [Web Crawler](https://leetcode.com/problems/web-crawler/description/) | [无] | [C++](1001-1500/1236-Web-Crawler/cpp-1236/) | | |
 | 1237 | [Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/) | [无] | [C++](1001-1500/1237-Find-Positive-Integer-Solution-for-a-Given-Equation/cpp-1237/) | | |
 | 1238 | [Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation/) | [无] | [C++](1001-1500/1238-Circular-Permutation-in-Binary-Representation/cpp-1238/) | | |
 | 1239 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [无] | [C++](1001-1500/1239-Maximum-Length-of-a-Concatenated-String-with-Unique-Characters/cpp-1239/) | | |
