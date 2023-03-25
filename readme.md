@@ -2482,6 +2482,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2589 | [Minimum Time to Complete All Tasks](https://leetcode.com/problems/minimum-time-to-complete-all-tasks/) | [无] | [C++](2001-2500/2589-Minimum-Time-to-Complete-All-Tasks/cpp-2589/) | | |
 | 2590 | [Design a Todo List](https://leetcode.com/problems/design-a-todo-list/description/) | [无] | [C++](2001-2500/2590-Design-a-Todo-List/cpp-2590/) | | |
 | | | | | | |
+| 2599 | [Make the Prefix Sum Non-negative](https://leetcode.com/problems/make-the-prefix-sum-non-negative/description/) | [无] | [C++](2001-2500/2599-Make-the-Prefix-Sum-Non-negative/cpp-2599/) | | |
+| | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
 
