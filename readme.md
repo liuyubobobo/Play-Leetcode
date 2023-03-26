@@ -2481,6 +2481,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2588 | [Count the Number of Beautiful Subarrays](https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/) | [无] | [C++](2001-2500/2588-Count-the-Number-of-Beautiful-Subarrays/cpp-2588/) | | |
 | 2589 | [Minimum Time to Complete All Tasks](https://leetcode.com/problems/minimum-time-to-complete-all-tasks/) | [无] | [C++](2001-2500/2589-Minimum-Time-to-Complete-All-Tasks/cpp-2589/) | | |
 | 2590 | [Design a Todo List](https://leetcode.com/problems/design-a-todo-list/description/) | [无] | [C++](2001-2500/2590-Design-a-Todo-List/cpp-2590/) | | |
+| 2591 | [Distribute Money to Maximum Children](https://leetcode.com/problems/distribute-money-to-maximum-children/) | [无] | [C++](2001-2500/2591-Distribute-Money-to-Maximum-Children/cpp-2591/) | | |
+| 2592 | [Maximize Greatness of an Array](https://leetcode.com/problems/maximize-greatness-of-an-array/) | [无] | [C++](2001-2500/2592-Maximize-Greatness-of-an-Array/cpp-2592/) | | |
+| 2593 | [Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/) | [无] | [C++](2001-2500/2593-Find-Score-of-an-Array-After-Marking-All-Elements/cpp-2593/) | | |
+| 2594 | [Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/) | [无] | [C++](2001-2500/2594-Minimum-Time-to-Repair-Cars/cpp-2594/) | | |
 | | | | | | |
 | 2599 | [Make the Prefix Sum Non-negative](https://leetcode.com/problems/make-the-prefix-sum-non-negative/description/) | [无] | [C++](2001-2500/2599-Make-the-Prefix-Sum-Non-negative/cpp-2599/) | | |
 | | | | | | |
