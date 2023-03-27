@@ -2487,6 +2487,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2594 | [Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/) | [无] | [C++](2001-2500/2594-Minimum-Time-to-Repair-Cars/cpp-2594/) | | |
 | | | | | | |
 | 2599 | [Make the Prefix Sum Non-negative](https://leetcode.com/problems/make-the-prefix-sum-non-negative/description/) | [无] | [C++](2001-2500/2599-Make-the-Prefix-Sum-Non-negative/cpp-2599/) | | |
+| 2600 | [K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum/) | [无] | [C++](2001-2500/2600-K-Items-With-the-Maximum-Sum/cpp-2600/) | | |
+| 2601 | [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/) | [无] | [C++](2001-2500/2601-Prime-Subtraction-Operation/cpp-2601/) | | |
+| 2602 | [Minimum Operations to Make All Array Elements Equal](https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/description/) | [无] | [C++](2001-2500/2602-Minimum-Operations-to-Make-All-Array-Elements-Equal/cpp-2602/) | | |
+| 2603 | [Collect Coins in a Tree](https://leetcode.com/problems/collect-coins-in-a-tree/description/) | [无] | [C++](2001-2500/2603-Collect-Coins-in-a-Tree/cpp-2603/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
