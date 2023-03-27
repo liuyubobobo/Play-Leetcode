@@ -2485,7 +2485,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2592 | [Maximize Greatness of an Array](https://leetcode.com/problems/maximize-greatness-of-an-array/) | [无] | [C++](2001-2500/2592-Maximize-Greatness-of-an-Array/cpp-2592/) | | |
 | 2593 | [Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/) | [无] | [C++](2001-2500/2593-Find-Score-of-an-Array-After-Marking-All-Elements/cpp-2593/) | | |
 | 2594 | [Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/) | [无] | [C++](2001-2500/2594-Minimum-Time-to-Repair-Cars/cpp-2594/) | | |
-| | | | | | |
+| 2595 | [Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits/) | [无] | [C++](2001-2500/2595-Number-of-Even-and-Odd-Bits/cpp-2595/) | | |
+| 2596 | [Check Knight Tour Configuration](https://leetcode.com/problems/check-knight-tour-configuration/) | [无] | [C++](2001-2500/2596-Check-Knight-Tour-Configuration/cpp-2596/) | | |
+| 2597 | [The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets/) | [无] | [C++](2001-2500/2597-The-Number-of-Beautiful-Subsets/cpp-2597/) | | |
+| 2598 | [Smallest Missing Non-negative Integer After Operations](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/) | [无] | [C++](2001-2500/2598-Smallest-Missing-Non-negative-Integer-After-Operations/cpp-2598/) | | |
 | 2599 | [Make the Prefix Sum Non-negative](https://leetcode.com/problems/make-the-prefix-sum-non-negative/description/) | [无] | [C++](2001-2500/2599-Make-the-Prefix-Sum-Non-negative/cpp-2599/) | | |
 | 2600 | [K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum/) | [无] | [C++](2001-2500/2600-K-Items-With-the-Maximum-Sum/cpp-2600/) | | |
 | 2601 | [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/) | [无] | [C++](2001-2500/2601-Prime-Subtraction-Operation/cpp-2601/) | | |
