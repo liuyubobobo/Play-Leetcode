@@ -834,7 +834,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 828 | [Count Unique Characters of All Substrings of a Given String](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/) | [无] | [C++](0501-1000/0828-Count-Unique-Characters-of-All-Substrings-of-a-Given-String/cpp-0828/) | | |
 | 829 | [Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/) | [无] | [C++](0501-1000/0829-Consecutive-Numbers-Sum/cpp-0829/) | | |
 | 830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/) | [solution](https://leetcode.com/problems/positions-of-large-groups/solution/) | [C++](0501-1000/0830-Positions-of-Large-Groups/cpp-0830/) | | |
-| | | | | | |
+| 831 | [Masking Personal Information](https://leetcode.com/problems/masking-personal-information/) | [无] | [C++](0501-1000/0831-Masking-Personal-Information/cpp-0831/) | | |
 | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [solution](https://leetcode.com/problems/flipping-an-image/solution/) | [C++](0501-1000/0832-Flipping-an-Image/cpp-0832/) | | |
 | | | | | | |
 | 834 | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) | [solution](https://leetcode.com/problems/sum-of-distances-in-tree/solution/) | [C++](0501-1000/0834-Sum-of-Distances-in-Tree/cpp-0834/) | | |
