@@ -2495,7 +2495,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2601 | [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/) | [无] | [C++](2001-2500/2601-Prime-Subtraction-Operation/cpp-2601/) | | |
 | 2602 | [Minimum Operations to Make All Array Elements Equal](https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/description/) | [无] | [C++](2001-2500/2602-Minimum-Operations-to-Make-All-Array-Elements-Equal/cpp-2602/) | | |
 | 2603 | [Collect Coins in a Tree](https://leetcode.com/problems/collect-coins-in-a-tree/description/) | [无] | [C++](2001-2500/2603-Collect-Coins-in-a-Tree/cpp-2603/) | | |
-| | | | | | |
+| 2604 | [Minimum Time to Eat All Grains](https://leetcode.com/problems/minimum-time-to-eat-all-grains/description/) | [无] | [C++](2001-2500/2604-Minimum-Time-to-Eat-All-Grains/cpp-2604/) | | |
 | 2605 | [Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/) | [无] | [C++](2001-2500/2605-Form-Smallest-Number-From-Two-Digit-Arrays/cpp-2605/) | | |
 | 2606 | [Find the Substring With Maximum Cost](https://leetcode.com/problems/find-the-substring-with-maximum-cost/) | [无] | [C++](2001-2500/2606-Find-the-Substring-With-Maximum-Cost/cpp-2606/) | | |
 | 2607 | [Make K-Subarray Sums Equal](https://leetcode.com/problems/make-k-subarray-sums-equal/) | [无] | [C++](2001-2500/2607-Make-K-Subarray-Sums-Equal/cpp-2607/) | | |
