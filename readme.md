@@ -2468,7 +2468,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2571 | [Minimum Operations to Reduce an Integer to 0](https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/) | [无] | [C++](2001-2500/2571-Minimum-Operations-to-Reduce-an-Integer-to-0/cpp-2571/) | | |
 | 2572 | [Count the Number of Square-Free Subsets](https://leetcode.com/problems/count-the-number-of-square-free-subsets/) | [无] | [C++](2001-2500/2572-Count-the-Number-of-Square-Free-Subsets/cpp-2572/) | | |
 | 2573 | [Find the String with LCP](https://leetcode.com/problems/find-the-string-with-lcp/) | [无] | [C++](2001-2500/2573-Find-the-String-with-LCP/cpp-2573/) | | |
-| | | | | | |
+| 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | [无] | [C++](2001-2500/2574-Left-and-Right-Sum-Differences/cpp-2574/) | | |
+| 2575 | [Find the Divisibility Array of a String](https://leetcode.com/problems/find-the-divisibility-array-of-a-string/) | [无] | [C++](2001-2500/2575-Find-the-Divisibility-Array-of-a-String/cpp-2575/) | | |
+| 2576 | [Find the Maximum Number of Marked Indices](https://leetcode.com/problems/find-the-maximum-number-of-marked-indices/) | [无] | [C++](2001-2500/2576-Find-the-Maximum-Number-of-Marked-Indices/cpp-2576/) | | |
+| 2577 | [Minimum Time to Visit a Cell In a Grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/) | [无] | [C++](2001-2500/2577-Minimum-Time-to-Visit-a-Cell-In-a-Grid/cpp-2577/) | | |
 | 2578 | [Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/) | [无] | [C++](2001-2500/2578-Split-With-Minimum-Sum/cpp-2578/) | | |
 | 2579 | [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/) | [无] | [C++](2001-2500/2579-Count-Total-Number-of-Colored-Cells/cpp-2579/) | | |
 | 2580 | [Count Ways to Group Overlapping Ranges](https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/) | [无] | [C++](2001-2500/2580-Count-Ways-to-Group-Overlapping-Ranges/cpp-2580/) | | |
