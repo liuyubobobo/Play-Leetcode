@@ -2496,6 +2496,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2602 | [Minimum Operations to Make All Array Elements Equal](https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/description/) | [无] | [C++](2001-2500/2602-Minimum-Operations-to-Make-All-Array-Elements-Equal/cpp-2602/) | | |
 | 2603 | [Collect Coins in a Tree](https://leetcode.com/problems/collect-coins-in-a-tree/description/) | [无] | [C++](2001-2500/2603-Collect-Coins-in-a-Tree/cpp-2603/) | | |
 | | | | | | |
+| 2605 | [Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/) | [无] | [C++](2001-2500/2605-Form-Smallest-Number-From-Two-Digit-Arrays/cpp-2605/) | | |
+| 2606 | [Find the Substring With Maximum Cost](https://leetcode.com/problems/find-the-substring-with-maximum-cost/) | [无] | [C++](2001-2500/2606-Find-the-Substring-With-Maximum-Cost/cpp-2606/) | | |
+| 2607 | [Make K-Subarray Sums Equal](https://leetcode.com/problems/make-k-subarray-sums-equal/) | [无] | [C++](2001-2500/2607-Make-K-Subarray-Sums-Equal/cpp-2607/) | | |
+| 2608 | [Shortest Cycle in a Graph](https://leetcode.com/problems/shortest-cycle-in-a-graph/) | [无] | [C++](2001-2500/2608-Shortest-Cycle-in-a-Graph/cpp-2608/) | | |
 | 2609 | [Find the Longest Balanced Substring of a Binary String](https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/) | [无] | [C++](2001-2500/2609-Find-the-Longest-Balanced-Substring-of-a-Binary-String/cpp-2609/) | | |
 | 2610 | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | [无] | [C++](2001-2500/2610-Convert-an-Array-Into-a-2D-Array-With-Conditions/cpp-2610/) | | |
 | 2611 | [Mice and Cheese](https://leetcode.com/problems/mice-and-cheese/) | [无] | [C++](2001-2500/2611-Mice-and-Cheese/cpp-2611/) | | |
