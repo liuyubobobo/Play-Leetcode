@@ -1,10 +1,18 @@
+/// Source : https://leetcode.com/problems/shortest-cycle-in-a-graph/description/
+/// Author : liuyubobobo
+/// Time   : 2023-04-02
+
 #include <iostream>
 #include <vector>
 #include <list>
+#include <queue>
 
 using namespace std;
 
 
+/// BFS
+/// Time Complexity: O(n^2)
+/// Space Complexity: O(n)
 class Solution {
 public:
     int findShortestCycle(int n, vector<vector<int>>& edges) {
@@ -16,41 +24,32 @@ public:
         }
 
         int res = INT_MAX;
-        vector<bool> in_cycle(n, false);
-        for(int i = 0; i < n; i ++){
-            if(in_cycle[i]) continue;
+        for(const vector<int>& e: edges){
+            int u = e[0], v = e[1];
+            g[u].remove(v), g[v].remove(u);
 
-            vector<int> path;
-            vector<bool> visited(n, false);
-            res = min(res, dfs(g, i, -1, path, visited, in_cycle));
+            vector<int> dis = bfs(n, g, u);
+            if(dis[v] != INT_MAX) res = min(res, dis[v] + 1);
         }
         return res == INT_MAX ? -1 : res;
     }
 
 private:
-    int dfs(const vector<list<int>>& g, int u, int p,
-            vector<int>& path, vector<bool>& visited, vector<bool>& in_cycle){
+    vector<int> bfs(int n, const vector<list<int>>& g, int s){
 
-        visited[u] = true;
-        path.push_back(u);
+        vector<int> dis(n, INT_MAX);
+        queue<int> q;
+        q.push(s), dis[s] = 0;
 
-        int res = INT_MAX;
-        for(int v : g[u]){
-            if(!visited[v])
-                res = min(res, dfs(g, v, u, path, visited, in_cycle));
-            else if(v != p){
-                int len = 0;
-                for(int i = path.size() - 1; i >= 0; i --){
-                    len ++;
-                    in_cycle[path[i]] = true;
-                    if(path[i] == v) break;
-                }
-                res = min(res, len);
+        while(!q.empty()){
+            int u = q.front(), d = dis[u]; q.pop();
+            for(int v: g[u]){
+                if(dis[v] != INT_MAX) continue;
+                dis[v] = dis[u] + 1;
+                q.push(v);
             }
         }
-        visited[u] = false;
-        path.pop_back();
-        return res;
+        return dis;
     }
 };
 
