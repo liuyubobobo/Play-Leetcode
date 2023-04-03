@@ -30,6 +30,8 @@ public:
 
             vector<int> dis = bfs(n, g, u);
             if(dis[v] != INT_MAX) res = min(res, dis[v] + 1);
+
+            g[u].push_back(v), g[v].push_back(u);
         }
         return res == INT_MAX ? -1 : res;
     }
