@@ -2496,6 +2496,11 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2602 | [Minimum Operations to Make All Array Elements Equal](https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/description/) | [无] | [C++](2001-2500/2602-Minimum-Operations-to-Make-All-Array-Elements-Equal/cpp-2602/) | | |
 | 2603 | [Collect Coins in a Tree](https://leetcode.com/problems/collect-coins-in-a-tree/description/) | [无] | [C++](2001-2500/2603-Collect-Coins-in-a-Tree/cpp-2603/) | | |
 | | | | | | |
+| 2609 | [Find the Longest Balanced Substring of a Binary String](https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/) | [无] | [C++](2001-2500/2609-Find-the-Longest-Balanced-Substring-of-a-Binary-String/cpp-2609/) | | |
+| 2610 | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | [无] | [C++](2001-2500/2610-Convert-an-Array-Into-a-2D-Array-With-Conditions/cpp-2610/) | | |
+| 2611 | [Mice and Cheese](https://leetcode.com/problems/mice-and-cheese/) | [无] | [C++](2001-2500/2611-Mice-and-Cheese/cpp-2611/) | | |
+| 2612 | [Minimum Reverse Operations](https://leetcode.com/problems/minimum-reverse-operations/) | [无] | [C++](2001-2500/2612-Minimum-Reverse-Operations/cpp-2612/) | | |
+| | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
 
