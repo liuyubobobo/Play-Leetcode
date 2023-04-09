@@ -2509,6 +2509,11 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2611 | [Mice and Cheese](https://leetcode.com/problems/mice-and-cheese/) | [无] | [C++](2001-2500/2611-Mice-and-Cheese/cpp-2611/) | | |
 | 2612 | [Minimum Reverse Operations](https://leetcode.com/problems/minimum-reverse-operations/) | [无] | [C++](2001-2500/2612-Minimum-Reverse-Operations/cpp-2612/) | | |
 | | | | | | |
+| 2614 | [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/) | [无] | [C++](2001-2500/2614-Prime-In-Diagonal/cpp-2614/) | | |
+| 2615 | [Sum of Distances](https://leetcode.com/problems/sum-of-distances/) | [无] | [C++](2001-2500/2615-Sum-of-Distances/cpp-2615/) | | |
+| 2616 | [Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/) | [无] | [C++](2001-2500/2616-Minimize-the-Maximum-Difference-of-Pairs/cpp-2616/) | | |
+| 2617 | [Minimum Number of Visited Cells in a Grid](https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid/) | [无] | [C++](2001-2500/2617-Minimum-Number-of-Visited-Cells-in-a-Grid/cpp-2617/) | | |
+| | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
 
