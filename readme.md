@@ -2519,6 +2519,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2640 | [Find the Score of All Prefixes of an Array](https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array/) | [无] | [C++](2001-2500/2640-Find-the-Score-of-All-Prefixes-of-an-Array/cpp-2640/) | | |
 | 2641 | [Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/) | [无] | [C++](2001-2500/2641-Cousins-in-Binary-Tree-II/cpp-2641/) | | |
 | 2642 | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [无] | [C++](2001-2500/2642-Design-Graph-With-Shortest-Path-Calculator/cpp-2642/) | | |
+| 2643 | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/) | [无] | [C++](2001-2500/2643-Row-With-Maximum-Ones/cpp-2643/) | | |
+| 2644 | [Find the Maximum Divisibility Score](https://leetcode.com/problems/find-the-maximum-divisibility-score/) | [无] | [C++](2001-2500/2644-Find-the-Maximum-Divisibility-Score/cpp-2644/) | | |
+| 2645 | [Minimum Additions to Make Valid String](https://leetcode.com/problems/minimum-additions-to-make-valid-string/) | [无] | [C++](2001-2500/2645-Minimum-Additions-to-Make-Valid-String/cpp-2645/) | | |
+| 2646 | [Minimize the Total Price of the Trips](https://leetcode.com/problems/minimize-the-total-price-of-the-trips/) | [无] | [C++](2001-2500/2646-Minimize-the-Total-Price-of-the-Trips/cpp-2646/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
