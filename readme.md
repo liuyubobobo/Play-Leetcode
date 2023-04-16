@@ -2514,6 +2514,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2616 | [Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/) | [无] | [C++](2001-2500/2616-Minimize-the-Maximum-Difference-of-Pairs/cpp-2616/) | | |
 | 2617 | [Minimum Number of Visited Cells in a Grid](https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid/) | [无] | [C++](2001-2500/2617-Minimum-Number-of-Visited-Cells-in-a-Grid/cpp-2617/) | | |
 | | | | | | |
+| 2638 | [Count the Number of K-Free Subsets](https://leetcode.com/problems/count-the-number-of-k-free-subsets/description/) | [无] | [C++](2001-2500/2638-Count-the-Number-of-K-Free-Subsets/cpp-2638/) | | |
 | 2639 | [Find the Width of Columns of a Grid](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/) | [无] | [C++](2001-2500/2639-Find-the-Width-of-Columns-of-a-Grid/cpp-2639/) | | |
 | 2640 | [Find the Score of All Prefixes of an Array](https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array/) | [无] | [C++](2001-2500/2640-Find-the-Score-of-All-Prefixes-of-an-Array/cpp-2640/) | | |
 | 2641 | [Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/) | [无] | [C++](2001-2500/2641-Cousins-in-Binary-Tree-II/cpp-2641/) | | |
