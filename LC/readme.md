@@ -3,6 +3,12 @@
 | ID | Problem | Official<br/>Solution | C++ | Java | Python |
 | --- | --- | :---: | :---: | :---: | :---: |
 | | | | | | |
+| LCP076 | [魔法棋盘](https://leetcode.cn/problems/1ybDKD/) | [无] | [C++](LCP0076/cpp-LCP076/) | | |
+| LCP075 | [传送卷轴](https://leetcode.cn/problems/rdmXM7/) | [无] | [C++](LCP0075/cpp-LCP075/) | | |
+| LCP074 | [最强祝福力场](https://leetcode.cn/problems/xepqZ5/) | [无] | [C++](LCP0074/cpp-LCP074/) | | |
+| LCP073 | [探险营地](https://leetcode.cn/problems/0Zeoeg/) | [无] | [C++](LCP0073/cpp-LCP073/) | | |
+| LCP072 | [补给马车](https://leetcode.cn/problems/hqCnmP/) | [无] | [C++](LCP0072/cpp-LCP072/) | | |
+| | | | | | |
 | LCP070 | [沙地治理](https://leetcode.cn/problems/XxZZjK/) | [无] | [C++](LCP0070/cpp-LCP070/) | | |
 | LCP069 | [Hello LeetCode!](https://leetcode.cn/problems/rMeRt2/) | [无] | [C++](LCP0069/cpp-LCP069/) | | |
 | LCP068 | [美观的花束](https://leetcode.cn/problems/1GxJYY/) | [无] | [C++](LCP0068/cpp-LCP068/) | | |
