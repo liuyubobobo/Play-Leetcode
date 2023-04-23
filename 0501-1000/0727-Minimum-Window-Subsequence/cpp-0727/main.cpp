@@ -1,6 +1,7 @@
 /// Source : https://leetcode.com/contest/weekly-contest-58/problems/minimum-window-subsequence/
 /// Author : liuyubobobo
-/// Time   : 2017-11-11
+/// Time   : 2017-11-12
+/// Updated: 2023-04-22
 
 #include <iostream>
 #include <string>
@@ -9,13 +10,13 @@
 
 using namespace std;
 
-/// Memory Search
-///
-/// !!! Memory Limit Exceed !!!
+
+/// Dynamic Programming with Rolling 1-D Array
+/// dp[i][j] - the minimum length W for subsequence in S[i...end) to satify T[j...end)
+/// the result is the minimum value for all dp[i][0] where len(S[i...end)) > len(T)
 ///
 /// Time Complexity: O(len(S)*len(T))
-/// Space Complexity: O(len(S)*len(T))
-
+/// Space Complexity: O(len(T))
 class Solution {
 
 private:
@@ -24,55 +25,69 @@ private:
 public:
     string minWindow(string S, string T) {
 
-        vector<vector<int>> mem(20001, vector<int>(101, -1));
+        vector<vector<int>> dp(2, vector<int>(T.size(), MY_MAX_INT));
 
         int min_length = MY_MAX_INT;
         int start = -1;
-        for(int i = 0 ; i < S.size() ; i ++){
-            search(mem, S, i, T, 0);
-            assert(mem[i][0] != -1);
-            //cout << mem[i][0] << endl;
-            if(mem[i][0] < min_length){
-                min_length = mem[i][0];
+
+        dp[(S.size()-1)%2][T.size()-1] = (S.back() == T.back() ? 1 : MY_MAX_INT);
+        if(dp[(S.size()-1)%2][0] == 1 && T.size() == 1){
+            min_length = 1;
+            start = S.size()-1;
+        }
+        else
+            for(int j = T.size()-2 ; j >= 0 ; j --)
+                dp[(S.size()-1)%2][j] = MY_MAX_INT;
+
+        for(int i = S.size()-2 ; i >= 0 ; i --){
+            dp[i%2][T.size()-1] = dp[(i+1)%2][T.size()-1] + 1;
+            if(S[i] == T.back())
+                dp[i%2][T.size()-1] = 1;
+
+            for(int j = T.size() - 2 ; j >= 0 ; j --){
+                dp[i%2][j] = min(MY_MAX_INT, 1 + dp[(i+1)%2][j]);
+                if(S[i] == T[j])
+                    dp[i%2][j] = min(dp[i%2][j], 1 + dp[(i+1)%2][j+1]);
+            }
+
+            if(i + T.size() <= S.size() && dp[i%2][0] <= min_length){
+                min_length = dp[i%2][0];
                 start = i;
             }
         }
 
-        for(int i = 0 ; i < S.size() ; i ++){
-            for(int j = 0 ; j < T.size() ; j ++)
-                cout << mem[i][j] << "\t";
-            cout << endl;
-        }
-        //cout << start << " " << min_length << endl;
-        return start == -1 ? "" : S.substr(start, min_length);
-        return "";
-    }
-
-private:
-    int search(vector<vector<int>>& mem,
-               const string& S, int i1, const string& T, int i2){
-
-        if(i2 == T.size())
-            return 0;
-
-        if(i1 == S.size())
-            return MY_MAX_INT;
-
-        if(mem[i1][i2] != -1)
-            return mem[i1][i2];
-
-        int res = 1 + search(mem, S, i1+1, T, i2);
-        if(S[i1] == T[i2])
-            res = min(res, 1 + search(mem, S, i1+1, T, i2+1));
-        return mem[i1][i2] = res;
+        return (start != -1 && min_length < MY_MAX_INT) ?
+               S.substr(start, min_length) : "";
     }
 };
+
 
 int main() {
 
     string S1 = "abcdebdde";
     string T1 = "bde";
     cout << Solution().minWindow(S1, T1) << endl;
+    // bcde
+
+    string S2 = "ab";
+    string T2 = "b";
+    cout << Solution().minWindow(S2, T2) << endl;
+    // b
+
+    string S3 = "cnhczmccqouqadqtmjjzl";
+    string T3 = "mm";
+    cout << Solution().minWindow(S3, T3) << endl;
+    // mccqouqadqtm
+
+    string S4 = "clgkckxqhqojiroohcudeyhlylicvafvpbubcjictifyoshucybzswblioaflxaoxdjbjejvzgqiuedmzgmqbhpkjlwxvobrcgqhzzelxppwdkwqlplflnldxpkwobqyqhqbfcxolrmrllmzpgjemzhscagqxhyuqquopquyyxwcuetxnxebbrgsbiwtkqdpqmvsprrnyficfxagfsssvppwqdsqesz";
+    string T4 = "cihfrleqav";
+    cout << Solution().minWindow(S4, T4) << endl;
+    // cybzswblioaflxaoxdjbjejvzgqiuedmzgmqbhpkjlwxvobrcgqhzzelxppwdkwqlplflnldxpkwobqyqhqbfcxolrmrllmzpgjemzhscagqxhyuqquopquyyxwcuetxnxebbrgsbiwtkqdpqmvsprrnyficfxagfsssv
+
+    string S5 = "aaa";
+    string T5 = "aaaaaaaa";
+    cout << Solution().minWindow(S5, T5) << endl;
+    // mccqouqadqtm
 
     return 0;
 }
