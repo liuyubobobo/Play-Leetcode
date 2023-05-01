@@ -1064,6 +1064,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1061 | [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/description/) | [无] | [C++](1001-1500/1061-Lexicographically-Smallest-Equivalent-String/cpp-1061/) | | |
 | 1062 | [Longest Repeating Substring](https://leetcode.com/problems/longest-repeating-substring/) | [无] | [C++](1001-1500/1062-Longest-Repeating-Substring/cpp-1062/) | | |
 | | | | | | |
+| 1065 | [Index Pairs of a String](https://leetcode.com/problems/index-pairs-of-a-string/description/) | [无] | [C++](1001-1500/1065-Index-Pairs-of-a-String/cpp-1065/) | | |
 | 1066 | [Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/) | [solution](https://leetcode.com/problems/campus-bikes-ii/solutions/1451959/campus-bikes-ii/) | [C++](1001-1500/1066-Campus-Bikes-II/cpp-1066/) | | |
 | | | | | | |
 | 1072 | [Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/) | [无] | [C++](1001-1500/1072-Flip-Columns-For-Maximum-Number-of-Equal-Rows/cpp-1072/) | | |
