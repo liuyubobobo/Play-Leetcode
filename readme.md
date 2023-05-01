@@ -2524,6 +2524,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2645 | [Minimum Additions to Make Valid String](https://leetcode.com/problems/minimum-additions-to-make-valid-string/) | [无] | [C++](2001-2500/2645-Minimum-Additions-to-Make-Valid-String/cpp-2645/) | | |
 | 2646 | [Minimize the Total Price of the Trips](https://leetcode.com/problems/minimize-the-total-price-of-the-trips/) | [无] | [C++](2001-2500/2646-Minimize-the-Total-Price-of-the-Trips/cpp-2646/) | | |
 | | | | | | |
+| 2655 | [Find Maximal Uncovered Ranges](https://leetcode.com/problems/find-maximal-uncovered-ranges/description/) | [无] | [C++](2001-2500/2655-Find-Maximal-Uncovered-Ranges/cpp-2655/) | | |
 | 2656 | [Maximum Sum With Exactly K Elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/) | [无] | [C++](2001-2500/2656-Maximum-Sum-With-Exactly-K-Elements/cpp-2656/) | | |
 | 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | [无] | [C++](2001-2500/2657-Find-the-Prefix-Common-Array-of-Two-Arrays/cpp-2657/) | | |
 | 2658 | [Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/) | [无] | [C++](2001-2500/2658-Maximum-Number-of-Fish-in-a-Grid/cpp-2658/) | | |
