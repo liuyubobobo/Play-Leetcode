@@ -2528,6 +2528,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | [无] | [C++](2001-2500/2657-Find-the-Prefix-Common-Array-of-Two-Arrays/cpp-2657/) | | |
 | 2658 | [Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/) | [无] | [C++](2001-2500/2658-Maximum-Number-of-Fish-in-a-Grid/cpp-2658/) | | |
 | 2659 | [Make Array Empty](https://leetcode.com/problems/make-array-empty/) | [无] | [C++](2001-2500/2659-Make-Array-Empty/cpp-2659/) | | |
+| 2660 | [Determine the Winner of a Bowling Game](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/) | [无] | [C++](2001-2500/2660-Determine-the-Winner-of-a-Bowling-Game/cpp-2660/) | | |
+| 2661 | [First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/) | [无] | [C++](2001-2500/2661-First-Completely-Painted-Row-or-Column/cpp-2661/) | | |
+| 2662 | [Minimum Cost of a Path With Special Roads](https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/) | [无] | [C++](2001-2500/2662-Minimum-Cost-of-a-Path-With-Special-Roads/cpp-2662/) | | |
+| 2663 | [Lexicographically Smallest Beautiful String](https://leetcode.com/problems/lexicographically-smallest-beautiful-string/) | [无] | [C++](2001-2500/2663-Lexicographically-Smallest-Beautiful-String/cpp-2663/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
