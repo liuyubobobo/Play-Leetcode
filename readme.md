@@ -2524,6 +2524,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2645 | [Minimum Additions to Make Valid String](https://leetcode.com/problems/minimum-additions-to-make-valid-string/) | [无] | [C++](2001-2500/2645-Minimum-Additions-to-Make-Valid-String/cpp-2645/) | | |
 | 2646 | [Minimize the Total Price of the Trips](https://leetcode.com/problems/minimize-the-total-price-of-the-trips/) | [无] | [C++](2001-2500/2646-Minimize-the-Total-Price-of-the-Trips/cpp-2646/) | | |
 | | | | | | |
+| 2651 | [Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time/) | [无] | [C++](2001-2500/2651-Calculate-Delayed-Arrival-Time/cpp-2651/) | | |
+| 2652 | [Sum Multiples](https://leetcode.com/problems/sum-multiples/) | [无] | [C++](2001-2500/2652-Sum-Multiples/cpp-2652/) | | |
+| 2653 | [Sliding Subarray Beauty](https://leetcode.com/problems/sliding-subarray-beauty/) | [无] | [C++](2001-2500/2653-Sliding-Subarray-Beauty/cpp-2653/) | | |
+| 2654 | [Minimum Number of Operations to Make All Array Elements Equal to 1](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | [无] | [C++](2001-2500/2654-Minimum-Number-of-Operations-to-Make-All-Array-Elements-Equal-to-1/cpp-2654/) | | |
 | 2655 | [Find Maximal Uncovered Ranges](https://leetcode.com/problems/find-maximal-uncovered-ranges/description/) | [无] | [C++](2001-2500/2655-Find-Maximal-Uncovered-Ranges/cpp-2655/) | | |
 | 2656 | [Maximum Sum With Exactly K Elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/) | [无] | [C++](2001-2500/2656-Maximum-Sum-With-Exactly-K-Elements/cpp-2656/) | | |
 | 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | [无] | [C++](2001-2500/2657-Find-the-Prefix-Common-Array-of-Two-Arrays/cpp-2657/) | | |
