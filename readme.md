@@ -2514,7 +2514,26 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2615 | [Sum of Distances](https://leetcode.com/problems/sum-of-distances/) | [无] | [C++](2001-2500/2615-Sum-of-Distances/cpp-2615/) | | |
 | 2616 | [Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/) | [无] | [C++](2001-2500/2616-Minimize-the-Maximum-Difference-of-Pairs/cpp-2616/) | | |
 | 2617 | [Minimum Number of Visited Cells in a Grid](https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid/) | [无] | [C++](2001-2500/2617-Minimum-Number-of-Visited-Cells-in-a-Grid/cpp-2617/) | | |
-| | | | | | |
+| 2618 | JavaScript Problem | - | - | - | - |
+| 2619 | JavaScript Problem | - | - | - | - |
+| 2620 | JavaScript Problem | - | - | - | - |
+| 2621 | JavaScript Problem | - | - | - | - |
+| 2622 | JavaScript Problem | - | - | - | - |
+| 2623 | JavaScript Problem | - | - | - | - |
+| 2624 | JavaScript Problem | - | - | - | - |
+| 2625 | JavaScript Problem | - | - | - | - |
+| 2626 | JavaScript Problem | - | - | - | - |
+| 2627 | JavaScript Problem | - | - | - | - |
+| 2628 | JavaScript Problem | - | - | - | - |
+| 2629 | JavaScript Problem | - | - | - | - |
+| 2630 | JavaScript Problem | - | - | - | - |
+| 2631 | JavaScript Problem | - | - | - | - |
+| 2632 | JavaScript Problem | - | - | - | - |
+| 2633 | JavaScript Problem | - | - | - | - |
+| 2634 | JavaScript Problem | - | - | - | - |
+| 2635 | JavaScript Problem | - | - | - | - |
+| 2636 | JavaScript Problem | - | - | - | - |
+| 2637 | JavaScript Problem | - | - | - | - |
 | 2638 | [Count the Number of K-Free Subsets](https://leetcode.com/problems/count-the-number-of-k-free-subsets/description/) | [无] | [C++](2001-2500/2638-Count-the-Number-of-K-Free-Subsets/cpp-2638/) | | |
 | 2639 | [Find the Width of Columns of a Grid](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/) | [无] | [C++](2001-2500/2639-Find-the-Width-of-Columns-of-a-Grid/cpp-2639/) | | |
 | 2640 | [Find the Score of All Prefixes of an Array](https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array/) | [无] | [C++](2001-2500/2640-Find-the-Score-of-All-Prefixes-of-an-Array/cpp-2640/) | | |
@@ -2524,7 +2543,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2644 | [Find the Maximum Divisibility Score](https://leetcode.com/problems/find-the-maximum-divisibility-score/) | [无] | [C++](2001-2500/2644-Find-the-Maximum-Divisibility-Score/cpp-2644/) | | |
 | 2645 | [Minimum Additions to Make Valid String](https://leetcode.com/problems/minimum-additions-to-make-valid-string/) | [无] | [C++](2001-2500/2645-Minimum-Additions-to-Make-Valid-String/cpp-2645/) | | |
 | 2646 | [Minimize the Total Price of the Trips](https://leetcode.com/problems/minimize-the-total-price-of-the-trips/) | [无] | [C++](2001-2500/2646-Minimize-the-Total-Price-of-the-Trips/cpp-2646/) | | |
-| | | | | | |
+| 2647 | [Color the Triangle Red](https://leetcode.com/problems/color-the-triangle-red/description/) | [无] | [C++](2001-2500/2647-Color-the-Triangle-Red/cpp-2647/) | | |
+| 2648 | JavaScript Problem | - | - | - | - |
+| 2649 | JavaScript Problem | - | - | - | - |
+| 2650 | JavaScript Problem | - | - | - | - |
 | 2651 | [Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time/) | [无] | [C++](2001-2500/2651-Calculate-Delayed-Arrival-Time/cpp-2651/) | | |
 | 2652 | [Sum Multiples](https://leetcode.com/problems/sum-multiples/) | [无] | [C++](2001-2500/2652-Sum-Multiples/cpp-2652/) | | |
 | 2653 | [Sliding Subarray Beauty](https://leetcode.com/problems/sliding-subarray-beauty/) | [无] | [C++](2001-2500/2653-Sliding-Subarray-Beauty/cpp-2653/) | | |
