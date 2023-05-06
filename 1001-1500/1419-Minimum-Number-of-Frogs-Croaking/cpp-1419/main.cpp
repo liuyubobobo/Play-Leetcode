@@ -1,6 +1,7 @@
 /// Source : https://leetcode.com/problems/minimum-number-of-frogs-croaking/
 /// Author : liuyubobobo
 /// Time   : 2020-04-18
+/// Updated: 2023-05-05
 
 #include <iostream>
 #include <vector>
@@ -25,19 +26,19 @@ public:
             else if(c == 'k') c = 'e';
             else return -1;
 
-        vector<int> record(5, 0);
+        vector<int> waitfor(5, 0);
         int res = 0;
         for(char c: s){
 
-            for(char x = 'a'; x < c; x ++)
-                if(record[x - 'a'] <= record[c - 'a']) return -1;
-
-            record[c -'a'] ++;
-            res = max(res, record[c -'a']);
-            if(c == 'e')
-                for(int& e: record) e --;
+            int v = c - 'a';
+            if(v == 0 && waitfor[0] == 0) res ++, waitfor[1] ++;
+            else{
+                if(waitfor[v] == 0) return -1;
+                waitfor[v] --;
+                waitfor[(v + 1) % 5] ++;
+            }
         }
-        return res;
+        return waitfor[0] == res ? res : -1;
     }
 };
 
