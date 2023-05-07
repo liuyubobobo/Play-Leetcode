@@ -2560,6 +2560,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2661 | [First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/) | [无] | [C++](2001-2500/2661-First-Completely-Painted-Row-or-Column/cpp-2661/) | | |
 | 2662 | [Minimum Cost of a Path With Special Roads](https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/) | [无] | [C++](2001-2500/2662-Minimum-Cost-of-a-Path-With-Special-Roads/cpp-2662/) | | |
 | 2663 | [Lexicographically Smallest Beautiful String](https://leetcode.com/problems/lexicographically-smallest-beautiful-string/) | [无] | [C++](2001-2500/2663-Lexicographically-Smallest-Beautiful-String/cpp-2663/) | | |
+| 2664 | [The Knight’s Tour](https://leetcode.com/problems/the-knights-tour/) | [无] | [C++](2001-2500/2664-The-Knights-Tour/cpp-2664/) | | |
 | | | | | | |
 | 2670 | [Find the Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array/) | [无] | [C++](2001-2500/2670-Find-the-Distinct-Difference-Array/cpp-2670/) | | |
 | 2671 | [Frequency Tracker](https://leetcode.com/problems/frequency-tracker/) | [无] | [C++](2001-2500/2671-Frequency-Tracker/cpp-2671/) | | |
