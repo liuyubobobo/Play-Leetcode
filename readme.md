@@ -1469,6 +1469,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1570 | [Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/) | [solution](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/) | [C++](1501-2000/1570-Dot-Product-of-Two-Sparse-Vectors/cpp-1570/) | | |
 | 1571 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [无] | [C++](1501-2000/1572-Matrix-Diagonal-Sum/cpp-1572/) | | |
 | | | | | | |
 | 1574 | [Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/description/) | [无] | [C++](1501-2000/1574-Shortest-Subarray-to-be-Removed-to-Make-Array-Sorted/cpp-1574/) | | |
 | | | | | | |
