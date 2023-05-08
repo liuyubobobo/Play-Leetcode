@@ -3,17 +3,22 @@
 | ID | Problem | Official<br/>Solution | C++ | Java | Python |
 | --- | --- | :---: | :---: | :---: | :---: |
 | | | | | | |
-| LCP076 | [魔法棋盘](https://leetcode.cn/problems/1ybDKD/) | [无] | [C++](LCP0076/cpp-LCP076/) | | |
-| LCP075 | [传送卷轴](https://leetcode.cn/problems/rdmXM7/) | [无] | [C++](LCP0075/cpp-LCP075/) | | |
-| LCP074 | [最强祝福力场](https://leetcode.cn/problems/xepqZ5/) | [无] | [C++](LCP0074/cpp-LCP074/) | | |
-| LCP073 | [探险营地](https://leetcode.cn/problems/0Zeoeg/) | [无] | [C++](LCP0073/cpp-LCP073/) | | |
-| LCP072 | [补给马车](https://leetcode.cn/problems/hqCnmP/) | [无] | [C++](LCP0072/cpp-LCP072/) | | |
+| LCP081 | [与非的谜题](https://leetcode.cn/problems/ryfUiz/) | [无] | [C++](LCP081/cpp-LCP081/) | | |
+| LCP080 | [生物进化录](https://leetcode.cn/problems/qoQAMX/) | [无] | [C++](LCP080/cpp-LCP080/) | | |
+| LCP079 | [提取咒文](https://leetcode.cn/problems/kjpLFZ/) | [无] | [C++](LCP079/cpp-LCP079/) | | |
+| LCP078 | [城墙防线](https://leetcode.cn/problems/Nsibyl/) | [无] | [C++](LCP078/cpp-LCP078/) | | |
+| LCP077 | [符文储备](https://leetcode.cn/problems/W2ZX4X/) | [无] | [C++](LCP077/cpp-LCP077/) | | |
+| LCP076 | [魔法棋盘](https://leetcode.cn/problems/1ybDKD/) | [无] | [C++](LCP076/cpp-LCP076/) | | |
+| LCP075 | [传送卷轴](https://leetcode.cn/problems/rdmXM7/) | [无] | [C++](LCP075/cpp-LCP075/) | | |
+| LCP074 | [最强祝福力场](https://leetcode.cn/problems/xepqZ5/) | [无] | [C++](LCP074/cpp-LCP074/) | | |
+| LCP073 | [探险营地](https://leetcode.cn/problems/0Zeoeg/) | [无] | [C++](LCP073/cpp-LCP073/) | | |
+| LCP072 | [补给马车](https://leetcode.cn/problems/hqCnmP/) | [无] | [C++](LCP072/cpp-LCP072/) | | |
 | | | | | | |
-| LCP070 | [沙地治理](https://leetcode.cn/problems/XxZZjK/) | [无] | [C++](LCP0070/cpp-LCP070/) | | |
-| LCP069 | [Hello LeetCode!](https://leetcode.cn/problems/rMeRt2/) | [无] | [C++](LCP0069/cpp-LCP069/) | | |
-| LCP068 | [美观的花束](https://leetcode.cn/problems/1GxJYY/) | [无] | [C++](LCP0068/cpp-LCP068/) | | |
-| LCP067 | [装饰树](https://leetcode.cn/problems/KnLfVT/) | [无] | [C++](LCP0067/cpp-LCP067/) | | |
-| LCP066 | [最小展台数量](https://leetcode.cn/problems/600YaG/) | [无] | [C++](LCP0066/cpp-LCP066/) | | |
+| LCP070 | [沙地治理](https://leetcode.cn/problems/XxZZjK/) | [无] | [C++](LCP070/cpp-LCP070/) | | |
+| LCP069 | [Hello LeetCode!](https://leetcode.cn/problems/rMeRt2/) | [无] | [C++](LCP069/cpp-LCP069/) | | |
+| LCP068 | [美观的花束](https://leetcode.cn/problems/1GxJYY/) | [无] | [C++](LCP068/cpp-LCP068/) | | |
+| LCP067 | [装饰树](https://leetcode.cn/problems/KnLfVT/) | [无] | [C++](LCP067/cpp-LCP067/) | | |
+| LCP066 | [最小展台数量](https://leetcode.cn/problems/600YaG/) | [无] | [C++](LCP066/cpp-LCP066/) | | |
 | | | | | | |
 | LCP057 | [打地鼠](https://leetcode-cn.com/problems/ZbAuEH/) | [无] | [C++](LCP057/cpp-LCP057/) | | |
 | LCP056 | [信物传送](https://leetcode-cn.com/problems/6UEx57/) | [无] | [C++](LCP056/cpp-LCP056/) | | |
