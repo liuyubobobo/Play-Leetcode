@@ -2571,6 +2571,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2671 | [Frequency Tracker](https://leetcode.com/problems/frequency-tracker/) | [无] | [C++](2001-2500/2671-Frequency-Tracker/cpp-2671/) | | |
 | 2672 | [Number of Adjacent Elements With the Same Color](https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color/) | [无] | [C++](2001-2500/2672-Number-of-Adjacent-Elements-With-the-Same-Color/cpp-2672/) | | |
 | 2673 | [Make Costs of Paths Equal in a Binary Tree](https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree/) | [无] | [C++](2001-2500/2673-Make-Costs-of-Paths-Equal-in-a-Binary-Tree/cpp-2673/) | | |
+| 2674 | [Split a Circular Linked List](https://leetcode.com/problems/split-a-circular-linked-list/description/) | [无] | [C++](2001-2500/2674-Split-a-Circular-Linked-List/cpp-2674/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
