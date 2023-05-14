@@ -1055,7 +1055,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | [无] | [C++](1001-1500/1051-Height-Checker/cpp-1051/) | | |
 | 1052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/) | [无] | [C++](1001-1500/1052-Grumpy-Bookstore-Owner/cpp-1052/) | | |
 | 1053 | [Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/description/) | [无] | [C++](1001-1500/1053-Previous-Permutation-With-One-Swap/cpp-1053/) | | |
-| | | | | | |
+| 1054 | [Distant Barcodes](https://leetcode.com/problems/distant-barcodes/description/) | [无] | [C++](1001-1500/1054-Distant-Barcodes/cpp-1054/) | | |
 | 1055 | [Shortest Way to Form String](https://leetcode.com/problems/shortest-way-to-form-string/description/) | [无] | [C++](1001-1500/1055-Shortest-Way-to-Form-String/cpp-1055/) | | |
 | 1056 | [Confusing Number](https://leetcode.com/problems/confusing-number/description/) | [无] | [C++](1001-1500/1056-Confusing-Number/cpp-1056/) | | |
 | | | | | | |
