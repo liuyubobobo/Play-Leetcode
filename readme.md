@@ -2579,6 +2579,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2679 | [Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/) | [无] | [C++](2001-2500/2679-Sum-in-a-Matrix/cpp-2679/) | | |
 | 2680 | [Maximum OR](https://leetcode.com/problems/maximum-or/) | [无] | [C++](2001-2500/2680-Maximum-OR/cpp-2680/) | | |
 | 2681 | [Power of Heroes](https://leetcode.com/problems/power-of-heroes/) | [无] | [C++](2001-2500/2681-Power-of-Heroes/cpp-2681/) | | |
+| 2682 | [Find the Losers of the Circular Game](https://leetcode.com/problems/find-the-losers-of-the-circular-game/) | [无] | [C++](2001-2500/2682-Find-the-Losers-of-the-Circular-Game/cpp-2682/) | | |
+| 2683 | [Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/) | [无] | [C++](2001-2500/2683-Neighboring-Bitwise-XOR/cpp-2683/) | | |
+| 2684 | [Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/) | [无] | [C++](2001-2500/2684-Maximum-Number-of-Moves-in-a-Grid/cpp-2684/) | | |
+| 2685 | [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/) | [无] | [C++](2001-2500/2685-Count-the-Number-of-Complete-Components/cpp-2685/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
