@@ -2589,7 +2589,12 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2687 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 2688 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 2689 | [Extract Kth Character From The Rope Tree](https://leetcode.com/problems/extract-kth-character-from-the-rope-tree/) | [无] | [C++](2001-2500/2689-Extract-Kth-Character-From-The-Rope-Tree/cpp-2689/) | | |
-| | | | | | |
+| 2690 | JavaScript Problem | - | - | - | - |
+| 2691 | JavaScript Problem | - | - | - | - |
+| 2692 | JavaScript Problem | - | - | - | - |
+| 2693 | JavaScript Problem | - | - | - | - |
+| 2694 | JavaScript Problem | - | - | - | - |
+| 2695 | JavaScript Problem | - | - | - | - |
 | 2696 | [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | [无] | [C++](2001-2500/2696-Minimum-String-Length-After-Removing-Substrings/cpp-2696/) | | |
 | 2697 | [Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/) | [无] | [C++](2001-2500/2697-Lexicographically-Smallest-Palindrome/cpp-2697/) | | |
 | 2698 | [Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/) | [无] | [C++](2001-2500/2698-Find-the-Punishment-Number-of-an-Integer/cpp-2698/) | | |
