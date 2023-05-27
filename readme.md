@@ -2600,6 +2600,12 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2697 | [Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/) | [无] | [C++](2001-2500/2697-Lexicographically-Smallest-Palindrome/cpp-2697/) | | |
 | 2698 | [Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/) | [无] | [C++](2001-2500/2698-Find-the-Punishment-Number-of-an-Integer/cpp-2698/) | | |
 | 2699 | [Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights/) | [无] | [C++](2001-2500/2699-Modify-Graph-Edge-Weights/cpp-2699/) | | |
+| 2700 | JavaScript Problem | - | - | - | - |
+| 2701 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 2702 | [Minimum Operations to Make Numbers Non-positive](https://leetcode.com/problems/minimum-operations-to-make-numbers-non-positive/description/) | [无] | [C++](2001-2500/2702-Minimum-Operations-to-Make-Numbers-Non-positive/cpp-2702/) | | |
+| 2703 | JavaScript Problem | - | - | - | - |
+| 2704 | JavaScript Problem | - | - | - | - |
+| 2705 | JavaScript Problem | - | - | - | - |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
