@@ -2610,6 +2610,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2707 | [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/) | [无] | [C++](2001-2500/2707-Extra-Characters-in-a-String/cpp-2707/) | | |
 | 2708 | [Maximum Strength of a Group](https://leetcode.com/problems/maximum-strength-of-a-group/) | [无] | [C++](2001-2500/2708-Maximum-Strength-of-a-Group/cpp-2708/) | | |
 | 2709 | [Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal/) | [无] | [C++](2001-2500/2709-Greatest-Common-Divisor-Traversal/cpp-2709/) | | |
+| 2710 | [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/) | [无] | [C++](2001-2500/2710-Remove-Trailing-Zeros-From-a-String/cpp-2710/) | | |
+| 2711 | [Difference of Number of Distinct Values on Diagonals](https://leetcode.com/problems/difference-of-number-of-distinct-values-on-diagonals/) | [无] | [C++](2001-2500/2711-Difference-of-Number-of-Distinct-Values-on-Diagonals/cpp-2711/) | | |
+| 2712 | [Minimum Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/) | [无] | [C++](2001-2500/2712-Minimum-Cost-to-Make-All-Characters-Equal/cpp-2712/) | | |
+| 2713 | [Maximum Strictly Increasing Cells in a Matrix](https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix/) | [无] | [C++](2001-2500/2713-Maximum-Strictly-Increasing-Cells-in-a-Matrix/cpp-2713/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
