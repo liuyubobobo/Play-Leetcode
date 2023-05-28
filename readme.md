@@ -2606,6 +2606,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2703 | JavaScript Problem | - | - | - | - |
 | 2704 | JavaScript Problem | - | - | - | - |
 | 2705 | JavaScript Problem | - | - | - | - |
+| 2706 | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) | [无] | [C++](2001-2500/2706-Buy-Two-Chocolates/cpp-2706/) | | |
+| 2707 | [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/) | [无] | [C++](2001-2500/2707-Extra-Characters-in-a-String/cpp-2707/) | | |
+| 2708 | [Maximum Strength of a Group](https://leetcode.com/problems/maximum-strength-of-a-group/) | [无] | [C++](2001-2500/2708-Maximum-Strength-of-a-Group/cpp-2708/) | | |
+| 2709 | [Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal/) | [无] | [C++](2001-2500/2709-Greatest-Common-Divisor-Traversal/cpp-2709/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
