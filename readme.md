@@ -2614,6 +2614,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2711 | [Difference of Number of Distinct Values on Diagonals](https://leetcode.com/problems/difference-of-number-of-distinct-values-on-diagonals/) | [无] | [C++](2001-2500/2711-Difference-of-Number-of-Distinct-Values-on-Diagonals/cpp-2711/) | | |
 | 2712 | [Minimum Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/) | [无] | [C++](2001-2500/2712-Minimum-Cost-to-Make-All-Characters-Equal/cpp-2712/) | | |
 | 2713 | [Maximum Strictly Increasing Cells in a Matrix](https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix/) | [无] | [C++](2001-2500/2713-Maximum-Strictly-Increasing-Cells-in-a-Matrix/cpp-2713/) | | |
+| 2714 | [Find Shortest Path with K Hops](https://leetcode.com/problems/find-shortest-path-with-k-hops/description/) | [无] | [C++](2001-2500/2714-Find-Shortest-Path-with-K-Hops/cpp-2714/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
