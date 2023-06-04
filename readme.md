@@ -2615,6 +2615,11 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2712 | [Minimum Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/) | [无] | [C++](2001-2500/2712-Minimum-Cost-to-Make-All-Characters-Equal/cpp-2712/) | | |
 | 2713 | [Maximum Strictly Increasing Cells in a Matrix](https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix/) | [无] | [C++](2001-2500/2713-Maximum-Strictly-Increasing-Cells-in-a-Matrix/cpp-2713/) | | |
 | 2714 | [Find Shortest Path with K Hops](https://leetcode.com/problems/find-shortest-path-with-k-hops/description/) | [无] | [C++](2001-2500/2714-Find-Shortest-Path-with-K-Hops/cpp-2714/) | | |
+| 2715 | JavaScript Problem | - | - | - | - |
+| 2716 | [Minimize String Length](https://leetcode.com/problems/minimize-string-length/) | [无] | [C++](2001-2500/2716-Minimize-String-Length/cpp-2716/) | | |
+| 2717 | [Semi-Ordered Permutation](https://leetcode.com/problems/semi-ordered-permutation/) | [无] | [C++](2001-2500/2717-Semi-Ordered-Permutation/cpp-2717/) | | |
+| 2718 | [Sum of Matrix After Queries](https://leetcode.com/problems/sum-of-matrix-after-queries/) | [无] | [C++](2001-2500/2718-Sum-of-Matrix-After-Queries/cpp-2718/) | | |
+| 2719 | [Count of Integers](https://leetcode.com/problems/count-of-integers/) | [无] | [C++](2001-2500/2719-Count-of-Integers/cpp-2719/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
