@@ -2620,6 +2620,15 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2717 | [Semi-Ordered Permutation](https://leetcode.com/problems/semi-ordered-permutation/) | [无] | [C++](2001-2500/2717-Semi-Ordered-Permutation/cpp-2717/) | | |
 | 2718 | [Sum of Matrix After Queries](https://leetcode.com/problems/sum-of-matrix-after-queries/) | [无] | [C++](2001-2500/2718-Sum-of-Matrix-After-Queries/cpp-2718/) | | |
 | 2719 | [Count of Integers](https://leetcode.com/problems/count-of-integers/) | [无] | [C++](2001-2500/2719-Count-of-Integers/cpp-2719/) | | |
+| 2720 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 2721 | JavaScript Problem | - | - | - | - |
+| 2722 | JavaScript Problem | - | - | - | - |
+| 2723 | JavaScript Problem | - | - | - | - |
+| 2724 | JavaScript Problem | - | - | - | - |
+| 2725 | JavaScript Problem | - | - | - | - |
+| 2726 | JavaScript Problem | - | - | - | - |
+| 2727 | JavaScript Problem | - | - | - | - |
+| 2728 | [Count Houses in a Circular Street](https://leetcode.com/problems/count-houses-in-a-circular-street/description/) | [无] | [C++](2001-2500/2728-Count-Houses-in-a-Circular-Street/cpp-2728/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
