@@ -1,9 +1,12 @@
 /// Source : https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
 /// Author : liuyubobobo
 /// Time   : 2019-08-18
+/// Updated: 2022-06-16
 
 #include <iostream>
 #include <queue>
+#include <climits>
+#include <cassert>
 
 using namespace std;
 
@@ -27,25 +30,27 @@ public:
 
         if(!root) return 0;
 
-        queue<pair<TreeNode*, int>> q;
-        q.push(make_pair(root, 1));
-        int sum = INT_MIN, record_level = 0, best = INT_MIN, res = 0;
+        queue<TreeNode*> q;
+        int best = INT_MIN, res = 0, cur_level = 0;
+        q.push(root);
         while(!q.empty()){
-            TreeNode* curNode = q.front().first;
-            int cur_level = q.front().second;
-            q.pop();
 
-            if(cur_level != record_level){
-                if(sum > best)
-                    best = sum, res = record_level;
-                sum = 0, record_level = cur_level;
+            cur_level ++;
+            queue<TreeNode*> q2;
+            int sum = 0;
+            while(!q.empty()){
+                TreeNode* cur = q.front(); q.pop(); assert(cur);
+                sum += cur->val;
+                if(cur->left) q2.push(cur->left);
+                if(cur->right) q2.push(cur->right);
             }
 
-            sum += curNode->val;
-            if(curNode->left) q.push(make_pair(curNode->left, cur_level + 1));
-            if(curNode->right) q.push(make_pair(curNode->right, cur_level + 1));
+            // cout << cur_level << ' ' << sum << '\n';
+            if(sum > best) best = sum, res = cur_level;
+
+            q = q2;
         }
-        return sum > best ? record_level : res;
+        return res;
     }
 };
 
