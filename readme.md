@@ -2629,6 +2629,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2726 | JavaScript Problem | - | - | - | - |
 | 2727 | JavaScript Problem | - | - | - | - |
 | 2728 | [Count Houses in a Circular Street](https://leetcode.com/problems/count-houses-in-a-circular-street/description/) | [无] | [C++](2001-2500/2728-Count-Houses-in-a-Circular-Street/cpp-2728/) | | |
+| 2729 | [Check if The Number is Fascinating](https://leetcode.com/problems/check-if-the-number-is-fascinating/) | [无] | [C++](2001-2500/2729-Check-if-The-Number-is-Fascinating/cpp-2729/) | | |
+| 2730 | [Find the Longest Semi-Repetitive Substring](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/) | [无] | [C++](2001-2500/2730-Find-the-Longest-Semi-Repetitive-Substring/cpp-2730/) | | |
+| 2731 | [Movement of Robots](https://leetcode.com/problems/movement-of-robots/) | [无] | [C++](2001-2500/2731-Movement-of-Robots/cpp-2731/) | | |
+| 2732 | [Find a Good Subset of the Matrix](https://leetcode.com/problems/find-a-good-subset-of-the-matrix/) | [无] | [C++](2001-2500/2732-Find-a-Good-Subset-of-the-Matrix/cpp-2732/) | | |
 | | | | | | |
 | 2737 | [Find the Closest Marked Node](https://leetcode.com/problems/find-the-closest-marked-node/) | [无] | [C++](2001-2500/2737-Find-the-Closest-Marked-Node/cpp-2737/) | | |
 | 2738 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
