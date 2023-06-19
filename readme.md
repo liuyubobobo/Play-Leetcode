@@ -2631,6 +2631,11 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2728 | [Count Houses in a Circular Street](https://leetcode.com/problems/count-houses-in-a-circular-street/description/) | [无] | [C++](2001-2500/2728-Count-Houses-in-a-Circular-Street/cpp-2728/) | | |
 | | | | | | |
 | 2737 | [Find the Closest Marked Node](https://leetcode.com/problems/find-the-closest-marked-node/) | [无] | [C++](2001-2500/2737-Find-the-Closest-Marked-Node/cpp-2737/) | | |
+| 2738 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 2739 | [Total Distance Traveled](https://leetcode.com/problems/total-distance-traveled/) | [无] | [C++](2001-2500/2739-Total-Distance-Traveled/cpp-2739/) | | |
+| 2740 | [Find the Value of the Partition](https://leetcode.com/problems/find-the-value-of-the-partition/) | [无] | [C++](2001-2500/2740-Find-the-Value-of-the-Partition/cpp-2740/) | | |
+| 2741 | [Special Permutations](https://leetcode.com/problems/special-permutations/) | [无] | [C++](2001-2500/2741-Special-Permutations/cpp-2741/) | | |
+| 2742 | [Painting the Walls](https://leetcode.com/problems/painting-the-walls/) | [无] | [C++](2001-2500/2742-Painting-the-Walls/cpp-2742/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
