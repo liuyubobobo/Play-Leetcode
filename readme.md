@@ -2633,7 +2633,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2730 | [Find the Longest Semi-Repetitive Substring](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/) | [无] | [C++](2001-2500/2730-Find-the-Longest-Semi-Repetitive-Substring/cpp-2730/) | | |
 | 2731 | [Movement of Robots](https://leetcode.com/problems/movement-of-robots/) | [无] | [C++](2001-2500/2731-Movement-of-Robots/cpp-2731/) | | |
 | 2732 | [Find a Good Subset of the Matrix](https://leetcode.com/problems/find-a-good-subset-of-the-matrix/) | [无] | [C++](2001-2500/2732-Find-a-Good-Subset-of-the-Matrix/cpp-2732/) | | |
-| | | | | | |
+| 2733 | [Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/) | [无] | [C++](2001-2500/2733-Neither-Minimum-nor-Maximum/cpp-2733/) | | |
+| 2734 | [Lexicographically Smallest String After Substring Operation](https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation/) | [无] | [C++](2001-2500/2734-Lexicographically-Smallest-String-After-Substring-Operation/cpp-2734/) | | |
+| 2735 | [Collecting Chocolates](https://leetcode.com/problems/collecting-chocolates/) | [无] | [C++](2001-2500/2735-Collecting-Chocolates/cpp-2735/) | | |
+| 2736 | [Maximum Sum Queries](https://leetcode.com/problems/maximum-sum-queries/) | [无] | [C++](2001-2500/2736-Maximum-Sum-Queries/cpp-2736/) | | |
 | 2737 | [Find the Closest Marked Node](https://leetcode.com/problems/find-the-closest-marked-node/) | [无] | [C++](2001-2500/2737-Find-the-Closest-Marked-Node/cpp-2737/) | | |
 | 2738 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 2739 | [Total Distance Traveled](https://leetcode.com/problems/total-distance-traveled/) | [无] | [C++](2001-2500/2739-Total-Distance-Traveled/cpp-2739/) | | |
