@@ -2643,6 +2643,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2740 | [Find the Value of the Partition](https://leetcode.com/problems/find-the-value-of-the-partition/) | [无] | [C++](2001-2500/2740-Find-the-Value-of-the-Partition/cpp-2740/) | | |
 | 2741 | [Special Permutations](https://leetcode.com/problems/special-permutations/) | [无] | [C++](2001-2500/2741-Special-Permutations/cpp-2741/) | | |
 | 2742 | [Painting the Walls](https://leetcode.com/problems/painting-the-walls/) | [无] | [C++](2001-2500/2742-Painting-the-Walls/cpp-2742/) | | |
+| 2743 | [Count Substrings Without Repeating Character](https://leetcode.com/problems/count-substrings-without-repeating-character/description/) | [无] | [C++](2001-2500/2743-Count-Substrings-Without-Repeating-Character/cpp-2743/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
