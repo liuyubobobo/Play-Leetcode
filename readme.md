@@ -2648,6 +2648,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2745 | [Construct the Longest New String](https://leetcode.com/problems/construct-the-longest-new-string/) | [无] | [C++](2001-2500/2745-Construct-the-Longest-New-String/cpp-2745/) | | |
 | 2746 | [Decremental String Concatenation](https://leetcode.com/problems/decremental-string-concatenation/) | [无] | [C++](2001-2500/2746-Decremental-String-Concatenation/cpp-2746/) | | |
 | 2747 | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | [无] | [C++](2001-2500/2747-Count-Zero-Request-Servers/cpp-2747/) | | |
+| 2748 | [Number of Beautiful Pairs](https://leetcode.com/problems/number-of-beautiful-pairs/) | [无] | [C++](2001-2500/2748-Number-of-Beautiful-Pairs/cpp-2748/) | | |
+| 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [无] | [C++](2001-2500/2749-Minimum-Operations-to-Make-the-Integer-Zero/cpp-2749/) | | |
+| 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [无] | [C++](2001-2500/2750-Ways-to-Split-Array-Into-Good-Subarrays/cpp-2750/) | | |
+| 2751 | [Robot Collisions](https://leetcode.com/problems/robot-collisions/) | [无] | [C++](2001-2500/2751-Robot-Collisions/cpp-2751/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
