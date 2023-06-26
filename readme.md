@@ -2644,6 +2644,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2741 | [Special Permutations](https://leetcode.com/problems/special-permutations/) | [无] | [C++](2001-2500/2741-Special-Permutations/cpp-2741/) | | |
 | 2742 | [Painting the Walls](https://leetcode.com/problems/painting-the-walls/) | [无] | [C++](2001-2500/2742-Painting-the-Walls/cpp-2742/) | | |
 | 2743 | [Count Substrings Without Repeating Character](https://leetcode.com/problems/count-substrings-without-repeating-character/description/) | [无] | [C++](2001-2500/2743-Count-Substrings-Without-Repeating-Character/cpp-2743/) | | |
+| 2744 | [Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs/) | [无] | [C++](2001-2500/2744-Find-Maximum-Number-of-String-Pairs/cpp-2744/) | | |
+| 2745 | [Construct the Longest New String](https://leetcode.com/problems/construct-the-longest-new-string/) | [无] | [C++](2001-2500/2745-Construct-the-Longest-New-String/cpp-2745/) | | |
+| 2746 | [Decremental String Concatenation](https://leetcode.com/problems/decremental-string-concatenation/) | [无] | [C++](2001-2500/2746-Decremental-String-Concatenation/cpp-2746/) | | |
+| 2747 | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | [无] | [C++](2001-2500/2747-Count-Zero-Request-Servers/cpp-2747/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
