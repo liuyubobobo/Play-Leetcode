@@ -1230,7 +1230,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1250 | [Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/description/) | [无] | [C++](1001-1500/1250-Check-If-It-Is-a-Good-Array/cpp-1250/) | | |
 | 1251 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1252 | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | [无] | [C++](1001-1500/1252-Cells-with-Odd-Values-in-a-Matrix/cpp-1252/) | | |
-| | | | | | |
+| 1253 | [Reconstruct a 2-Row Binary Matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/description/) | [无] | [C++](1001-1500/1253-Reconstruct-a-2-Row-Binary-Matrix/cpp-1253/) | | |
 | 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/) | [无] | [C++](1001-1500/1254-Number-of-Closed-Islands/cpp-1254/) | | |
 | 1255 | [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/) | [无] | [C++](1001-1500/1255-Maximum-Score-Words-Formed-by-Letters/cpp-1255/) | | |
 | | | | | | |
