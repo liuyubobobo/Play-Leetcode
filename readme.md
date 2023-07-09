@@ -2172,7 +2172,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2269 | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/) | [无] | [C++](2001-2500/2269-Find-the-K-Beauty-of-a-Number/cpp-2269/) | | |
 | 2270 | [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/) | [无] | [C++](2001-2500/2270-Number-of-Ways-to-Split-Array/cpp-2270/) | | |
 | 2271 | [Maximum White Tiles Covered by a Carpet](https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/) | [无] | [C++](2001-2500/2271-Maximum-White-Tiles-Covered-by-a-Carpet/cpp-2271/) | | |
-| | | | | | |
+| 2272 | | [Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/description/) | [无] | [C++](2001-2500/2272-Substring-With-Largest-Variance/cpp-2272/) | |
 | 2273 | [Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/) | [无] | [C++](2001-2500/2273-Find-Resultant-Array-After-Removing-Anagrams/cpp-2273/) | | |
 | 2274 | [Maximum Consecutive Floors Without Special Floors](https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/) | [无] | [C++](2001-2500/2274-Maximum-Consecutive-Floors-Without-Special-Floors/cpp-2274/) | | |
 | 2275 | [Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/) | [无] | [C++](2001-2500/2275-Largest-Combination-With-Bitwise-AND-Greater-Than-Zero/cpp-2275/) | | |
