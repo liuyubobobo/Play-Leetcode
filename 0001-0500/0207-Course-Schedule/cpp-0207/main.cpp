@@ -1,59 +1,47 @@
 /// Source : https://leetcode.com/problems/course-schedule-ii/
 /// Author : liuyubobobo
 /// Time   : 2018-12-16
-/// Updated: 2021-05-03
+/// Updated: 2023-07-13
 
 #include <iostream>
 #include <vector>
+#include <queue>
 
 using namespace std;
 
 
-/// Check Directed Graph has circle
+/// T
 /// Time Complexity: O(m + n)
 /// Space Complexity: O(m + n)
 class Solution {
 
 public:
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+    bool canFinish(int n, vector<vector<int>>& prerequisites) {
 
-        vector<vector<int>> g(numCourses);
+        vector<vector<int>> g(n);
         for(const vector<int>& p: prerequisites){
             int from = p[1];
             int to = p[0];
             g[from].push_back(to);
         }
 
-        return hasCircle(g);
-    }
+        vector<int> indegrees(n, 0);
+        for(int u = 0; u < n; u ++)
+            for(int v: g[u]) indegrees[v] ++;
 
-private:
-    bool hasCircle(const vector<vector<int>>& g){
+        queue<int> q;
+        int left = n;
+        for(int u = 0; u < n; u ++)
+            if(indegrees[u] == 0) q.push(u), left --;
 
-        vector<bool> visited(g.size(), false);
-        vector<bool> onPath(g.size(), false);
-        for(int i = 0; i < g.size(); i ++)
-            if(!visited[i])
-                if(circleDFS(g, i, visited, onPath))
-                    return true;
-        return false;
-    }
-
-    bool circleDFS(const vector<vector<int>>& g, int v,
-                   vector<bool>& visited, vector<bool>& onPath){
-
-        visited[v] = true;
-        onPath[v] = true;
-        for(int next: g[v])
-            if(!visited[next]){
-                if(circleDFS(g, next, visited, onPath))
-                    return true;
+        while(!q.empty()){
+            int u = q.front(); q.pop();
+            for(int v: g[u]){
+                indegrees[v] --;
+                if(indegrees[v] == 0) q.push(v), left --;
             }
-            else if(onPath[next])
-                return true;
-
-        onPath[v] = false;
-        return false;
+        }
+        return left == 0;
     }
 };
 
