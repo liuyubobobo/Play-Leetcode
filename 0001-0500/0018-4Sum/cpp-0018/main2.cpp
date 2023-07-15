@@ -1,6 +1,8 @@
 /// Source : https://leetcode.com/problems/4sum/
 /// Author : liuyubobobo
 /// Time   : 2017-09-27
+/// Updated: 2023-07-14
+
 #include <iostream>
 #include <vector>
 #include <cassert>
@@ -38,7 +40,7 @@ public:
         for( int i = 0 ; i <= n - 4 ; i = nextNumberIndex(nums, i) )
             for (int j = i + 1; j <= n - 3; j = nextNumberIndex(nums, j)) {
 
-                int t = target - nums[i] - nums[j];
+                long long t = 0ll + target - nums[i] - nums[j];
                 if( nums[j+1] + nums[j+2] > t || nums[n-1] + nums[n-2] < t)
                     continue;
 
