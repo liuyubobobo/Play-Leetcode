@@ -2652,6 +2652,18 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [无] | [C++](2001-2500/2749-Minimum-Operations-to-Make-the-Integer-Zero/cpp-2749/) | | |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [无] | [C++](2001-2500/2750-Ways-to-Split-Array-Into-Good-Subarrays/cpp-2750/) | | |
 | 2751 | [Robot Collisions](https://leetcode.com/problems/robot-collisions/) | [无] | [C++](2001-2500/2751-Robot-Collisions/cpp-2751/) | | |
+| 2752 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| | | | | | |
+| 2754 | JavaScript Problem | - | - | - | - |
+| 2755 | JavaScript Problem | - | - | - | - |
+| 2756 | JavaScript Problem | - | - | - | - |
+| 2757 | JavaScript Problem | - | - | - | - |
+| 2758 | JavaScript Problem | - | - | - | - |
+| 2759 | JavaScript Problem | - | - | - | - |
+| 2760 | [Longest Even Odd Subarray With Threshold](https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/) | [无] | [C++](2001-2500/2760-Longest-Even-Odd-Subarray-With-Threshold/cpp-2760/) | | |
+| 2761 | [Prime Pairs With Target Sum](https://leetcode.com/problems/prime-pairs-with-target-sum/) | [无] | [C++](2001-2500/2761-Prime-Pairs-With-Target-Sum/cpp-2761/) | | |
+| 2762 | [Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays/) | [无] | [C++](2001-2500/2762-Continuous-Subarrays/cpp-2762/) | | |
+| 2763 | [Sum of Imbalance Numbers of All Subarrays](https://leetcode.com/problems/sum-of-imbalance-numbers-of-all-subarrays/) | [无] | [C++](2001-2500/2763-Sum-of-Imbalance-Numbers-of-All-Subarrays/cpp-2763/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
