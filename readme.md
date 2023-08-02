@@ -826,6 +826,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/description/) | [solution](https://leetcode.com/problems/most-common-word/solution/) | [C++](0501-1000/0819-Most-Common-Word/cpp-0819/) | | |
 | | | | | | |
+| 822 | [Card Flipping Game](https://leetcode.com/problems/card-flipping-game/description/) | [无] | [C++](0501-1000/0822-Card-Flipping-Game/cpp-0822/) | | |
 | 823 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | [solution](https://leetcode.com/problems/binary-trees-with-factors/solution/) | [C++](0501-1000/0823-Binary-Trees-With-Factors/cpp-0823/) | | |
 | 824 | [Goat Latin](https://leetcode.com/problems/goat-latin/) | [无] | [C++](0501-1000/0824-Goat-Latin/cpp-0824/) | | |
 | 825 | [Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/) | [无] | [C++](0501-1000/0825-Friends-Of-Appropriate-Ages/cpp-0825/) | | |
